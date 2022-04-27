@@ -1,0 +1,34 @@
+{
+  "unversionedId": "B-Glossar/Besucher",
+  "id": "B-Glossar/Besucher",
+  "title": "Besucher",
+  "description": "Visitors nennt man die Besucher einer Website. Das sind Diejenigen, die eine Website aufrufen und innerhalb einer solchen Website mehrere Webseiten betrachten. Man unterscheidet dabei zwischen normalen und einmaligen Besuchern, den Unique Visitors, sowie den nichtregistrierten und den registrierten Besuchern, den registered Users.",
+  "source": "@site/docs/B-Glossar/Besucher.md",
+  "sourceDirName": "B-Glossar",
+  "slug": "/B-Glossar/Besucher",
+  "permalink": "/docs/B-Glossar/Besucher",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/B-Glossar/Besucher.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Besucher",
+    "titel": "Besucher",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Benutzer",
+    "permalink": "/docs/B-Glossar/Benutzer"
+  },
+  "next": {
+    "title": "Betriebszeit",
+    "permalink": "/docs/B-Glossar/Betriebszeit"
+  }
+}

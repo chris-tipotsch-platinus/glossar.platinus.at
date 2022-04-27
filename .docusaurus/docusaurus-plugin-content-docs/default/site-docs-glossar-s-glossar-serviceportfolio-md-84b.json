@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Serviceportfolio",
+  "id": "Glossar/S-Glossar/Serviceportfolio",
+  "title": "IT-Serviceportfolio",
+  "description": "Das IT-Serviceportfolio ist die vollständige Liste aller IT-Services, die von einem IT-Service Provider verwaltet werden. Einige dieser IT-Services sind für den Kunden sichtbar (Business Services, deren zu erreichende Service Levels in SLAs vereinbart werden), wohingegen die anderen nicht sieht (IT-Infrastruktur-Services, deren zu erreichende Service Levels durch OLAs oder  UCs festgelegt werden).",
+  "source": "@site/docs/Glossar/S-Glossar/Serviceportfolio.md",
+  "sourceDirName": "Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Serviceportfolio",
+  "permalink": "/docs/Glossar/S-Glossar/Serviceportfolio",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/S-Glossar/Serviceportfolio.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Serviceportfolio",
+    "sidebar_position": 1,
+    "titel": "Serviceportfolio",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Servicekatalog",
+    "permalink": "/docs/Glossar/S-Glossar/Servicekatalog"
+  },
+  "next": {
+    "title": "Stakeholder",
+    "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
+  }
+}

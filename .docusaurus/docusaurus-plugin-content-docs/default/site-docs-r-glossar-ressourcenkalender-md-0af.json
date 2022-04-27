@@ -1,0 +1,23 @@
+{
+  "unversionedId": "R-Glossar/Ressourcenkalender",
+  "id": "R-Glossar/Ressourcenkalender",
+  "title": "Ressourcenkalender",
+  "description": "",
+  "source": "@site/docs/R-Glossar/Ressourcenkalender.md",
+  "sourceDirName": "R-Glossar",
+  "slug": "/R-Glossar/Ressourcenkalender",
+  "permalink": "/docs/R-Glossar/Ressourcenkalender",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/R-Glossar/Ressourcenkalender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektrollen Home",
+    "permalink": "/docs/R-Glossar/Projektrollen Home"
+  },
+  "next": {
+    "title": "Projektrisiko",
+    "permalink": "/docs/R-Glossar/Risiko-Projektrisiko"
+  }
+}

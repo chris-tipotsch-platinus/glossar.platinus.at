@@ -1,0 +1,41 @@
+{
+  "unversionedId": "I-Glossar/Informationsqualitaet",
+  "id": "I-Glossar/Informationsqualitaet",
+  "title": "Informationsqualität",
+  "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
+  "source": "@site/docs/I-Glossar/Informationsqualitaet.md",
+  "sourceDirName": "I-Glossar",
+  "slug": "/I-Glossar/Informationsqualitaet",
+  "permalink": "/docs/I-Glossar/Informationsqualitaet",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/I-Glossar/Informationsqualitaet.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Informationsqualitaet",
+    "title": "Informationsqualität",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IaaS",
+    "permalink": "/docs/I-Glossar/IaaS"
+  },
+  "next": {
+    "title": "Informationsicherheit",
+    "permalink": "/docs/I-Glossar/Informationsicherheit"
+  }
+}

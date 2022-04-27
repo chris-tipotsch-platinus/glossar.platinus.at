@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/I-Glossar/IT-Service",
+  "id": "Glossar/I-Glossar/IT-Service",
+  "title": "IT-Service",
+  "description": "An IT-Service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
+  "source": "@site/docs/10-Glossar/I-Glossar/IT-Service.md",
+  "sourceDirName": "10-Glossar/I-Glossar",
+  "slug": "/Glossar/I-Glossar/IT-Service",
+  "permalink": "/docs/Glossar/I-Glossar/IT-Service",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IT-Service.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "IT-Service",
+    "title": "IT-Service",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "IPS",
+    "permalink": "/docs/Glossar/I-Glossar/IPS"
+  },
+  "next": {
+    "title": "IT-Sicherheit",
+    "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit"
+  }
+}

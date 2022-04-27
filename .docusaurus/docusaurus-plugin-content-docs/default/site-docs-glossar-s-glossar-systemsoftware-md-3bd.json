@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Systemsoftware",
+  "id": "Glossar/S-Glossar/Systemsoftware",
+  "title": "Systemsoftware",
+  "description": "SW",
+  "source": "@site/docs/Glossar/S-Glossar/Systemsoftware.md",
+  "sourceDirName": "Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Systemsoftware",
+  "permalink": "/docs/Glossar/S-Glossar/Systemsoftware",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/S-Glossar/Systemsoftware.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Systemsoftware",
+      "permalink": "/docs/tags/systemsoftware"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Systemsoftware",
+    "titel": "Systemsoftware",
+    "tags": [
+      "Begriff",
+      "Systemsoftware"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Standardsoftware",
+    "permalink": "/docs/Glossar/S-Glossar/Standardsoftware"
+  },
+  "next": {
+    "title": "UC - Underpinning Contract",
+    "permalink": "/docs/Glossar/U-Glossar/UC"
+  }
+}

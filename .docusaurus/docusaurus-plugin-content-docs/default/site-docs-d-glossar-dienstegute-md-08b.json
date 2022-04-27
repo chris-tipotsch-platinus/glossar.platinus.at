@@ -1,0 +1,34 @@
+{
+  "unversionedId": "D-Glossar/Dienstguete",
+  "id": "D-Glossar/Dienstguete",
+  "title": "Dienstgüte - Quality of Service (QoS)",
+  "description": "QoS",
+  "source": "@site/docs/D-Glossar/Dienstegüte.md",
+  "sourceDirName": "D-Glossar",
+  "slug": "/D-Glossar/Dienstguete",
+  "permalink": "/docs/D-Glossar/Dienstguete",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/D-Glossar/Dienstegüte.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dienstguete",
+    "titel": "Dienstgüte",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Diataxis Framework",
+    "permalink": "/docs/D-Glossar/Diataxis-framework"
+  },
+  "next": {
+    "title": "Dienstgütevereinbarung",
+    "permalink": "/docs/D-Glossar/Dienstguetevereinbarung"
+  }
+}

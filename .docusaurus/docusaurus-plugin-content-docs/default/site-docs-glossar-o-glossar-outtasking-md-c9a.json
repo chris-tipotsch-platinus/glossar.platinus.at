@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/O-Glossar/Outtasking",
+  "id": "Glossar/O-Glossar/Outtasking",
+  "title": "Outtasking",
+  "description": "Das Outtasking ist eine besondere Form des Outsourcings. Beim klassischen Outsourcing geben Unternehmen komplette Aufgabenkomplexe und Strukturen an interne oder externe Dienstleister ab. Dagegen geben die  Auftraggeber beim Outtasking lediglich einzelne Aufgabenbereiche  (Englisch „tasks“) an Dienstleister ab. Diese Form der Arbeitsvergabe  wird immer beliebter und hat zahlreiche Vorteile gegenüber dem  Outsourcing.",
+  "source": "@site/docs/Glossar/O-Glossar/Outtasking.md",
+  "sourceDirName": "Glossar/O-Glossar",
+  "slug": "/Glossar/O-Glossar/Outtasking",
+  "permalink": "/docs/Glossar/O-Glossar/Outtasking",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/O-Glossar/Outtasking.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Outtasking",
+    "title": "Outtasking",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Netzwerksicherheit",
+    "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+  },
+  "next": {
+    "title": "Open Source Software",
+    "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+  }
+}

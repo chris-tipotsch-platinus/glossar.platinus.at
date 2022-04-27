@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/A-Glossar/Ausfallzeit",
+  "id": "Glossar/A-Glossar/Ausfallzeit",
+  "title": "Ausfallzeit",
+  "description": "Mit der Ausfallzeit, Downtime, ist die Zeit gemeint, während der ein System, Computer oder Netzwerk für den Benutzer nicht zur Verfügung steht.",
+  "source": "@site/docs/10-Glossar/A-Glossar/Ausfallzeit.md",
+  "sourceDirName": "10-Glossar/A-Glossar",
+  "slug": "/Glossar/A-Glossar/Ausfallzeit",
+  "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Ausfallzeit.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Ausfallzeit",
+    "titel": "Ausfallzeit",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Aufzeichnungspflicht",
+    "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungspflicht"
+  },
+  "next": {
+    "title": "BPM Competency Model von ABPMP",
+    "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+  }
+}

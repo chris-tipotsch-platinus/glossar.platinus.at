@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentationsmanagement",
+  "id": "Glossar/D-Glossar/Dokumentationsmanagement",
+  "title": "Dokumentationsmanagement",
+  "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentationsmanagement",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentationsmanagement",
+    "titel": "Dokumentationsmanagement",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentationslebenzyklus",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+  },
+  "next": {
+    "title": "Dokumentenmanagement",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "link.title.Ressourcen": {
+    "message": "Ressourcen",
+    "description": "The title of the footer links column with title=Ressourcen in the footer"
+  },
+  "link.title.Links": {
+    "message": "Links",
+    "description": "The title of the footer links column with title=Links in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.IT-Service-Catalog": {
+    "message": "IT-Service-Catalog",
+    "description": "The label of footer link with label=IT-Service-Catalog linking to /docs/intro"
+  },
+  "link.item.label.Website": {
+    "message": "Website",
+    "description": "The label of footer link with label=Website linking to https://www.platinus.at"
+  },
+  "link.item.label.HUB": {
+    "message": "HUB",
+    "description": "The label of footer link with label=HUB linking to https://HUB.platinus.at"
+  },
+  "link.item.label.CHAT": {
+    "message": "CHAT",
+    "description": "The label of footer link with label=CHAT linking to https://CHAT.platinus.at"
+  },
+  "link.item.label.Blog zu IT-Services": {
+    "message": "Blog zu IT-Services",
+    "description": "The label of footer link with label=Blog zu IT-Services linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/chris-tipotsch-platinus/it-services.platinus.at"
+  },
+  "copyright": {
+    "message": "Copyright © 2022 by Salzburg AG & platinus Consulting.",
+    "description": "The footer copyright"
+  }
+}

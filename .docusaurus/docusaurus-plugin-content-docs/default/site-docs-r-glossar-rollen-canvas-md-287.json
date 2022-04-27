@@ -1,0 +1,28 @@
+{
+  "unversionedId": "R-Glossar/Projektrollen Home",
+  "id": "R-Glossar/Projektrollen Home",
+  "title": "Projektrollen Home",
+  "description": "------",
+  "source": "@site/docs/R-Glossar/Rollen-Canvas.md",
+  "sourceDirName": "R-Glossar",
+  "slug": "/R-Glossar/Projektrollen Home",
+  "permalink": "/docs/R-Glossar/Projektrollen Home",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/R-Glossar/Rollen-Canvas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Projektrollen Home",
+    "title": "Projektrollen Home",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Richtlinie",
+    "permalink": "/docs/R-Glossar/Richtlinie"
+  },
+  "next": {
+    "title": "Ressourcenkalender",
+    "permalink": "/docs/R-Glossar/Ressourcenkalender"
+  }
+}

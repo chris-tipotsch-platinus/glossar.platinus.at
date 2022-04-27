@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/L-Glossar/Lean-Management",
+  "id": "Glossar/L-Glossar/Lean-Management",
+  "title": "Lean Management",
+  "description": "Grundlagen des Lean Managements",
+  "source": "@site/docs/10-Glossar/L-Glossar/Lean-Management.md",
+  "sourceDirName": "10-Glossar/L-Glossar",
+  "slug": "/Glossar/L-Glossar/Lean-Management",
+  "permalink": "/docs/Glossar/L-Glossar/Lean-Management",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Lean-Management.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Lean-Management",
+    "title": "Lean Management",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Laufzeit",
+    "permalink": "/docs/Glossar/L-Glossar/Laufzeit"
+  },
+  "next": {
+    "title": "Leitlinie",
+    "permalink": "/docs/Glossar/L-Glossar/Leitlinie"
+  }
+}

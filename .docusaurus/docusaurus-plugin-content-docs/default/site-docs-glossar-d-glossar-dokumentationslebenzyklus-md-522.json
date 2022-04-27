@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/D-Glossar/IT-Dokumentationslebenzyklus",
+  "id": "Glossar/D-Glossar/IT-Dokumentationslebenzyklus",
+  "title": "IT-Dokumentationslebenzyklus",
+  "description": "Technische Dokumentation im Produktlebenszyklus",
+  "source": "@site/docs/Glossar/D-Glossar/Dokumentationslebenzyklus.md",
+  "sourceDirName": "Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/IT-Dokumentationslebenzyklus",
+  "permalink": "/docs/Glossar/D-Glossar/IT-Dokumentationslebenzyklus",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/D-Glossar/Dokumentationslebenzyklus.md",
+  "tags": [
+    {
+      "label": "Begriffe IT-Dokumentation",
+      "permalink": "/docs/tags/begriffe-it-dokumentation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "IT-Dokumentationslebenzyklus",
+    "titel": "IT-Dokumentationslebenzyklus",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe IT-Dokumentation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compliance",
+    "permalink": "/docs/Glossar/C-Glossar/Compliance"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/docs/Glossar/D-Glossar/Dashboard"
+  }
+}

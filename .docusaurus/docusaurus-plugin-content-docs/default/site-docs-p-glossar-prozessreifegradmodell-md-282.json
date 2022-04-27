@@ -1,0 +1,34 @@
+{
+  "unversionedId": "P-Glossar/Prozessreifegradmodelle",
+  "id": "P-Glossar/Prozessreifegradmodelle",
+  "title": "Prozessreifegradmodelle",
+  "description": "Ein Prozessreifegradmodell – auch Process Assessment Model (PAM) genannt – beschreibt die Methodik und Praktiken die für Bewertungen von Geschäftsprozesse herangezogen werden.",
+  "source": "@site/docs/P-Glossar/Prozessreifegradmodell.md",
+  "sourceDirName": "P-Glossar",
+  "slug": "/P-Glossar/Prozessreifegradmodelle",
+  "permalink": "/docs/P-Glossar/Prozessreifegradmodelle",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/P-Glossar/Prozessreifegradmodell.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Prozessreifegradmodelle",
+    "titel": "Prozessreifegradmodelle",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prozessreifegrad",
+    "permalink": "/docs/P-Glossar/Prozessreifegrad"
+  },
+  "next": {
+    "title": "Rechenzentrum",
+    "permalink": "/docs/R-Glossar/Rechenzentrum"
+  }
+}

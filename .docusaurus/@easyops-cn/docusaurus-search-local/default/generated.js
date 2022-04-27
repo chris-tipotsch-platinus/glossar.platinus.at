@@ -1,0 +1,12 @@
+import lunr from "/home/chris/GitHub/chris-tipotsch-platinus/glossar.platinus.at/node_modules/lunr/lunr.js";
+require("/home/chris/GitHub/chris-tipotsch-platinus/glossar.platinus.at/node_modules/lunr-languages/lunr.stemmer.support.js")(lunr);
+require("/home/chris/GitHub/chris-tipotsch-platinus/glossar.platinus.at/node_modules/lunr-languages/lunr.de.js")(lunr);
+require("/home/chris/GitHub/chris-tipotsch-platinus/glossar.platinus.at/node_modules/lunr-languages/lunr.multi.js")(lunr);
+export const language = ["de","en"];
+export const removeDefaultStopWordFilter = false;
+export const Mark = null;
+export const indexHash = "61a0ff6f";
+export const searchResultLimits = 8;
+export const searchResultContextMaxLength = 50;
+export const explicitSearchResultPath = false;
+export const translations = {"search_placeholder":"Search","see_all_results":"See all results","no_results":"No results.","search_results_for":"Search results for \"{{ keyword }}\"","search_the_documentation":"Search the documentation","count_documents_found_plural":"{{ count }} documents found","count_documents_found":"{{ count }} document found","no_documents_were_found":"No documents were found"};

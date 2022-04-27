@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/F-Glossar/Feature",
+  "id": "Glossar/F-Glossar/Feature",
+  "title": "Feature",
+  "description": "Die Eigenschaft eines Produktes oder eine Anforderung an ein Produkt. Features sind kleiner geschnitten als Themes, aber noch gröber als User Stories.",
+  "source": "@site/docs/10-Glossar/F-Glossar/Feature.md",
+  "sourceDirName": "10-Glossar/F-Glossar",
+  "slug": "/Glossar/F-Glossar/Feature",
+  "permalink": "/docs/Glossar/F-Glossar/Feature",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Feature.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Feature",
+    "titel": "Feature",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Faehigkeiten",
+    "permalink": "/docs/Glossar/F-Glossar/Faehigkeiten"
+  },
+  "next": {
+    "title": "Fehler",
+    "permalink": "/docs/Glossar/F-Glossar/Fehler"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/L-Glossar/Leitlinie",
+  "id": "Glossar/L-Glossar/Leitlinie",
+  "title": "Leitlinie",
+  "description": "Eine Leitlinie ist ein übergeordnetes Regelwerk für Richtlinien, Konzepte und Prozesse.",
+  "source": "@site/docs/10-Glossar/L-Glossar/Leitlinien.md",
+  "sourceDirName": "10-Glossar/L-Glossar",
+  "slug": "/Glossar/L-Glossar/Leitlinie",
+  "permalink": "/docs/Glossar/L-Glossar/Leitlinie",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Leitlinien.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Leitlinie",
+    "title": "Leitlinie",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Lean Management",
+    "permalink": "/docs/Glossar/L-Glossar/Lean-Management"
+  },
+  "next": {
+    "title": "Linux",
+    "permalink": "/docs/Glossar/L-Glossar/Linux"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "I-Glossar/Interoperabilitaet",
+  "id": "I-Glossar/Interoperabilitaet",
+  "title": "Interoperabilität",
+  "description": "Als Interoperabilität bezeichnet man die Fähigkeit zum Zusammenspiel verschiedener Systeme, Techniken oder Organisationen. Dazu ist in der Regel die Einhaltung gemeinsamer technischer Normen notwendig. Wenn zwei Systeme miteinander vereinbar sind, nennt man sie auch interoperabel.",
+  "source": "@site/docs/I-Glossar/Interoperabilitaet.md",
+  "sourceDirName": "I-Glossar",
+  "slug": "/I-Glossar/Interoperabilitaet",
+  "permalink": "/docs/I-Glossar/Interoperabilitaet",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/I-Glossar/Interoperabilitaet.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Interoperabilitaet",
+    "title": "Interoperabilität",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Informationsicherheit",
+    "permalink": "/docs/I-Glossar/Informationsicherheit"
+  },
+  "next": {
+    "title": "Intranet",
+    "permalink": "/docs/I-Glossar/Intranet"
+  }
+}

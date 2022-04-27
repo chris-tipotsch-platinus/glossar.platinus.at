@@ -1,0 +1,34 @@
+{
+  "unversionedId": "A-Glossar/Anweisung",
+  "id": "A-Glossar/Anweisung",
+  "title": "Anweisung - Arbeitsanweisungen",
+  "description": "Arbeitsanweisungen stellen Vorgaben für die ordnungsgemäße Ausführung einer bestimmten Arbeit dar. Sie beschreiben detailliert und für den Ausführenden verständlich, verbindlich und verpflichtend auf welche Art die Aufgaben durchzuführen sind.",
+  "source": "@site/docs/A-Glossar/Anweisungen.md",
+  "sourceDirName": "A-Glossar",
+  "slug": "/A-Glossar/Anweisung",
+  "permalink": "/docs/A-Glossar/Anweisung",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/A-Glossar/Anweisungen.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Anweisung",
+    "titel": "Anweisung",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Anleitung",
+    "permalink": "/docs/A-Glossar/Anleitung"
+  },
+  "next": {
+    "title": "Artefakte",
+    "permalink": "/docs/A-Glossar/Artefakte"
+  }
+}

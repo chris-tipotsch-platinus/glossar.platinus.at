@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/F-Glossar/Funktionalität",
+  "id": "Glossar/F-Glossar/Funktionalität",
+  "title": "Funktionalität - Utility",
+  "description": "Funktionalität ist die Menge der Fähigkeiten, die mit einem Produkt oder einer Dienstleistung verbunden sind. In einem IT-Kontext ist es die Fähigkeit eines Programms oder Anwendungssystems, eine Funktion zur Ausführung einer Reihe von Benutzeraufgaben bereitzustellen. Funktionalität ist der besondere Gebrauch oder die Menge an Verwendungen, für die etwas konzipiert ist.",
+  "source": "@site/docs/10-Glossar/F-Glossar/Funktionalitaet.md",
+  "sourceDirName": "10-Glossar/F-Glossar",
+  "slug": "/Glossar/F-Glossar/Funktionalität",
+  "permalink": "/docs/Glossar/F-Glossar/Funktionalität",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Funktionalitaet.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Funktionalität",
+    "titel": "Funktionalität",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Full-Time-Equivalent",
+    "permalink": "/docs/Glossar/F-Glossar/FTE"
+  },
+  "next": {
+    "title": "HTTPS",
+    "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+  }
+}

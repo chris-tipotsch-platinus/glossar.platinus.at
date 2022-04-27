@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dienstguete",
+  "id": "Glossar/D-Glossar/Dienstguete",
+  "title": "Dienstgüte - Quality of Service (QoS)",
+  "description": "QoS",
+  "source": "@site/docs/10-Glossar/D-Glossar/Diensteguete.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dienstguete",
+  "permalink": "/docs/Glossar/D-Glossar/Dienstguete",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Diensteguete.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dienstguete",
+    "titel": "Dienstgüte",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Diataxis Framework",
+    "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
+  },
+  "next": {
+    "title": "Dienstgütevereinbarung - Service Level Agreement",
+    "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "unversionedId": "C-Glossar/CoP",
+  "id": "C-Glossar/CoP",
+  "title": "Community of Practice",
+  "description": "Eine Community of Practice CoP) ist eine praxisbezogene Gemeinschaft von Personen, die ähnlichen Aufgaben gegenüberstehen und voneinander lernen wollen. Er hat nicht die gleiche Bedeutung wie der Begriff Arbeitsgemeinschaft Im Interesse an Lösungen agiert ein CoP weitgehend selbstorganisiert.",
+  "source": "@site/docs/C-Glossar/Community-of-Practice.md",
+  "sourceDirName": "C-Glossar",
+  "slug": "/C-Glossar/CoP",
+  "permalink": "/docs/C-Glossar/CoP",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/C-Glossar/Community-of-Practice.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "CoP",
+    "titel": "Community of Practice",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Change - Veränderung",
+    "permalink": "/docs/C-Glossar/Change"
+  },
+  "next": {
+    "title": "Compliance",
+    "permalink": "/docs/C-Glossar/Compliance"
+  }
+}

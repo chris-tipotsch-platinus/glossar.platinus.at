@@ -1,0 +1,34 @@
+{
+  "unversionedId": "A-Glossar/Anforderungen",
+  "id": "A-Glossar/Anforderungen",
+  "title": "Anforderungen - Requirements",
+  "description": "Der zentrale Begriff im Requirements Engineering sind die Anforderungen – auch als Requirements bezeichnet. Diese können folgendermaßen definiert werden:",
+  "source": "@site/docs/A-Glossar/Anforderungen.md",
+  "sourceDirName": "A-Glossar",
+  "slug": "/A-Glossar/Anforderungen",
+  "permalink": "/docs/A-Glossar/Anforderungen",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/A-Glossar/Anforderungen.md",
+  "tags": [
+    {
+      "label": "IT-Begriff",
+      "permalink": "/docs/tags/it-begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Anforderungen",
+    "titel": "Anforderungen",
+    "tags": [
+      "IT-Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BPM - Business Prozess Management",
+    "permalink": "/docs/A-Glossar/BPM"
+  },
+  "next": {
+    "title": "Anleitung",
+    "permalink": "/docs/A-Glossar/Anleitung"
+  }
+}

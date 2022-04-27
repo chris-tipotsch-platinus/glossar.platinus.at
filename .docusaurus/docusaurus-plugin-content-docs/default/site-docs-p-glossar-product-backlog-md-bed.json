@@ -1,0 +1,28 @@
+{
+  "unversionedId": "P-Glossar/Product-Backlog",
+  "id": "P-Glossar/Product-Backlog",
+  "title": "Product Backlog",
+  "description": "Product Backlog ist bei Scrum die Liste aller Anforderungen für ein zu erstellendes Produkt.",
+  "source": "@site/docs/P-Glossar/Product-Backlog.md",
+  "sourceDirName": "P-Glossar",
+  "slug": "/P-Glossar/Product-Backlog",
+  "permalink": "/docs/P-Glossar/Product-Backlog",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/P-Glossar/Product-Backlog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "Product-Backlog",
+    "title": "Product Backlog",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Provider",
+    "permalink": "/docs/P-Glossar/Provider"
+  },
+  "next": {
+    "title": "Projektinformationen",
+    "permalink": "/docs/P-Glossar/Projektinformationeng"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dienstguetevereinbarung",
+  "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
+  "title": "Dienstgütevereinbarung",
+  "description": "MIPS",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dienstgütevereinbarung.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dienstguetevereinbarung",
+  "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dienstgütevereinbarung.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dienstguetevereinbarung",
+    "titel": "Dienstgütevereinbarung",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dienstgüte - Quality of Service (QoS)",
+    "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
+  },
+  "next": {
+    "title": "Documentation-as-Code",
+    "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+  }
+}

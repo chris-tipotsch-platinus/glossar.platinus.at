@@ -1,0 +1,41 @@
+{
+  "unversionedId": "C-Glossar/CaaS",
+  "id": "C-Glossar/CaaS",
+  "title": "CaaS - IT Container-as-a-Service",
+  "description": "Einleitung",
+  "source": "@site/docs/C-Glossar/CaaS.md",
+  "sourceDirName": "C-Glossar",
+  "slug": "/C-Glossar/CaaS",
+  "permalink": "/docs/C-Glossar/CaaS",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/C-Glossar/CaaS.md",
+  "tags": [
+    {
+      "label": "Datacenter",
+      "permalink": "/docs/tags/datacenter"
+    },
+    {
+      "label": "CaaS",
+      "permalink": "/docs/tags/caa-s"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "CaaS",
+    "sidebar_position": 2,
+    "titel": "CaaS - IT Container-as-a-Service",
+    "tags": [
+      "Datacenter",
+      "CaaS"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Betriebszeit",
+    "permalink": "/docs/B-Glossar/Betriebszeit"
+  },
+  "next": {
+    "title": "Change - Veränderung",
+    "permalink": "/docs/C-Glossar/Change"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Systemsoftware",
+  "id": "Glossar/S-Glossar/Systemsoftware",
+  "title": "Systemsoftware",
+  "description": "SW",
+  "source": "@site/docs/10-Glossar/S-Glossar/Systemsoftware.md",
+  "sourceDirName": "10-Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Systemsoftware",
+  "permalink": "/docs/Glossar/S-Glossar/Systemsoftware",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Systemsoftware.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "SW",
+      "permalink": "/docs/tags/sw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Systemsoftware",
+    "titel": "Systemsoftware",
+    "tags": [
+      "Begriff",
+      "IM",
+      "SW"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Standardsoftware",
+    "permalink": "/docs/Glossar/S-Glossar/Standardsoftware"
+  },
+  "next": {
+    "title": "UC - Underpinning Contract",
+    "permalink": "/docs/Glossar/U-Glossar/UC"
+  }
+}

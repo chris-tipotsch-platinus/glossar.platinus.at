@@ -1,0 +1,37 @@
+{
+  "unversionedId": "BPM-Begriffe-Home",
+  "id": "BPM-Begriffe-Home",
+  "title": "BPM-Begriffe Home",
+  "description": "------",
+  "source": "@site/docs/00-BPM-Begriffe.md",
+  "sourceDirName": ".",
+  "slug": "/BPM-Begriffe-Home",
+  "permalink": "/docs/BPM-Begriffe-Home",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/00-BPM-Begriffe.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "BPM-Begriffe-Home",
+    "title": "BPM-Begriffe Home",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "ABPMPI",
+    "permalink": "/docs/Glossar/A-Glossar/ABPMPI"
+  }
+}

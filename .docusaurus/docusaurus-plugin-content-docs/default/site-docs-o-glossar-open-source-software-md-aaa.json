@@ -1,0 +1,39 @@
+{
+  "unversionedId": "O-Glossar/Open-Source-Software",
+  "id": "O-Glossar/Open-Source-Software",
+  "title": "Open Source Software",
+  "description": "SW",
+  "source": "@site/docs/O-Glossar/Open-Source-Software.md",
+  "sourceDirName": "O-Glossar",
+  "slug": "/O-Glossar/Open-Source-Software",
+  "permalink": "/docs/O-Glossar/Open-Source-Software",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/O-Glossar/Open-Source-Software.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Open-Source",
+      "permalink": "/docs/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Open-Source-Software",
+    "titel": "Open Source Software",
+    "tags": [
+      "Begriff",
+      "Open-Source"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Outtasking",
+    "permalink": "/docs/O-Glossar/Outtasking"
+  },
+  "next": {
+    "title": "PM-Paradigmen",
+    "permalink": "/docs/P-Glossar/PM-Paradigmen"
+  }
+}

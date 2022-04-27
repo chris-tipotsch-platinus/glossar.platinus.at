@@ -1,0 +1,28 @@
+{
+  "unversionedId": "P-Glossar/Projektinformationeng",
+  "id": "P-Glossar/Projektinformationeng",
+  "title": "Projektinformationen",
+  "description": "Unter Projektinformation verstehen wir alle „Daten für die Definition, Planung, Überwachung , Durchführung und Abschluss eines Projektes“.",
+  "source": "@site/docs/P-Glossar/Projektinformationen.md",
+  "sourceDirName": "P-Glossar",
+  "slug": "/P-Glossar/Projektinformationeng",
+  "permalink": "/docs/P-Glossar/Projektinformationeng",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/P-Glossar/Projektinformationen.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "Projektinformationeng",
+    "title": "Projektinformationen",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Backlog",
+    "permalink": "/docs/P-Glossar/Product-Backlog"
+  },
+  "next": {
+    "title": "Performance",
+    "permalink": "/docs/P-Glossar/Performance"
+  }
+}

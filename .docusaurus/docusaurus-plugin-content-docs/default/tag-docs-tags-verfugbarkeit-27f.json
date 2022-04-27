@@ -1,0 +1,31 @@
+{
+  "name": "Verfügbarkeit",
+  "permalink": "/docs/tags/verfugbarkeit",
+  "docs": [
+    {
+      "id": "Glossar/B-Glossar/Betriebszeit",
+      "title": "Betriebszeit",
+      "description": "Bei der Betriebszeit, Uptime handelt es sich um die Zeit, die ein Computer oder IT- System verfügbar und betriebsbereit ist.",
+      "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
+    },
+    {
+      "id": "Glossar/H-Glossar/Hochverfuegbarkeit",
+      "title": "Hochverfügbarkeit - High Availability",
+      "description": "Hochverfügbarkeit",
+      "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+    },
+    {
+      "id": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
+      "title": "Verfügbarkeitsklassen",
+      "description": "Klassifizierung von hochverfügbaren Systemen",
+      "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+    },
+    {
+      "id": "Glossar/W-Glossar/Webserver",
+      "title": "Webserver",
+      "description": "Webserver sind von Providern betriebene Server für das Webhosting. Sie sind mit dem Internet oder Intranets verbunden und stellen Websites und andere Online-Informationen bereit, die beispielsweise auf Anforderung eines Browsers, das ist der Web-Client, über das Hypertext Transfer Protocol ( HTTP) oder über HTTPS angefordert werden können.",
+      "permalink": "/docs/Glossar/W-Glossar/Webserver"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

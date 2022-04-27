@@ -1,0 +1,34 @@
+{
+  "unversionedId": "A-Glossar/ABPMPI",
+  "id": "A-Glossar/ABPMPI",
+  "title": "ABPMPI",
+  "description": "Abkürzung Association of [Business Process Management Professionals] (https://www.abpmp.org/) International",
+  "source": "@site/docs/A-Glossar/ABPMPI.md",
+  "sourceDirName": "A-Glossar",
+  "slug": "/A-Glossar/ABPMPI",
+  "permalink": "/docs/A-Glossar/ABPMPI",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/A-Glossar/ABPMPI.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "ABPMPI",
+    "titel": "ABPMPI",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "BPM - Business Prozess Management",
+    "permalink": "/docs/A-Glossar/BPM"
+  }
+}

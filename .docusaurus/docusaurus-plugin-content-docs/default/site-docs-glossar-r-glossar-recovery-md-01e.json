@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Recovery",
+  "id": "Glossar/R-Glossar/Recovery",
+  "title": "Recovery",
+  "description": "Mit dem Begriff Datenwiederherstellung (englisch: data recovery) wird im weitesten Sinne die Erkennung und Wiederherstellung fehlerhaft übertragener Daten bezeichnet. Im engeren Sinne bedeutet dies nach einem Datenverlust die Wiederherstellung der Originaldaten eines Datenträgers mithilfe von Backup-Systemen oder Continuous Data Protection (CDP).  Nach einer Störung der Datenübertragung wird ein genauer zuvor definierter Zustand bei der Recovery wiederhergestellt. Insbesondere nach dem Ausfall einer physikalischen Übertragungsleitung nutzt der  Anwender Wiederaufsetzpunkte, um seine Anwendung ohne Verlust  fortzusetzen.",
+  "source": "@site/docs/Glossar/R-Glossar/Recovery.md",
+  "sourceDirName": "Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Recovery",
+  "permalink": "/docs/Glossar/R-Glossar/Recovery",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/R-Glossar/Recovery.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Recovery",
+    "title": "Recovery",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rechenzentrum",
+    "permalink": "/docs/Glossar/R-Glossar/Rechenzentrum"
+  },
+  "next": {
+    "title": "Richtlinie",
+    "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Rollen-Canvas",
+  "id": "Glossar/R-Glossar/Rollen-Canvas",
+  "title": "Rollen-Canvas",
+  "description": "------",
+  "source": "@site/docs/10-Glossar/R-Glossar/Rollen-Canvas.md",
+  "sourceDirName": "10-Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Rollen-Canvas",
+  "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollen-Canvas.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Rollen-Canvas",
+    "title": "Rollen-Canvas",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Projektrisiko",
+    "permalink": "/docs/Glossar/R-Glossar/Projektrisiko"
+  },
+  "next": {
+    "title": "Stakeholder",
+    "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
+  }
+}

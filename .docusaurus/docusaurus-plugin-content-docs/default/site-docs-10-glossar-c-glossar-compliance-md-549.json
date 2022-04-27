@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Glossar/C-Glossar/Compliance",
+  "id": "Glossar/C-Glossar/Compliance",
+  "title": "Compliance",
+  "description": "Compliance",
+  "source": "@site/docs/10-Glossar/C-Glossar/Compliance.md",
+  "sourceDirName": "10-Glossar/C-Glossar",
+  "slug": "/Glossar/C-Glossar/Compliance",
+  "permalink": "/docs/Glossar/C-Glossar/Compliance",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/Compliance.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Compliance",
+      "permalink": "/docs/tags/compliance"
+    },
+    {
+      "label": "Unternehmensexternen Regelwerken",
+      "permalink": "/docs/tags/unternehmensexternen-regelwerken"
+    },
+    {
+      "label": "Unternehmensinternen Regelwerke",
+      "permalink": "/docs/tags/unternehmensinternen-regelwerke"
+    },
+    {
+      "label": "Rechtlichen Regelwerke",
+      "permalink": "/docs/tags/rechtlichen-regelwerke"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Compliance",
+    "titel": "Compliance",
+    "tags": [
+      "Begriffe",
+      "Compliance",
+      "Unternehmensexternen Regelwerken",
+      "Unternehmensinternen Regelwerke",
+      "Rechtlichen Regelwerke"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Community of Practice",
+    "permalink": "/docs/Glossar/C-Glossar/CoP"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/docs/Glossar/D-Glossar/Dashboard"
+  }
+}

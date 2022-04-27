@@ -1,0 +1,43 @@
+{
+  "unversionedId": "V-Glossar/Verfuegbarkeitsklassen",
+  "id": "V-Glossar/Verfuegbarkeitsklassen",
+  "title": "Verfügbarkeitsklassen",
+  "description": "Klassifizierung von hochverfügbaren Systemen",
+  "source": "@site/docs/V-Glossar/Verfuegbarkeitsklassen.md",
+  "sourceDirName": "V-Glossar",
+  "slug": "/V-Glossar/Verfuegbarkeitsklassen",
+  "permalink": "/docs/V-Glossar/Verfuegbarkeitsklassen",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/V-Glossar/Verfuegbarkeitsklassen.md",
+  "tags": [
+    {
+      "label": "Availability",
+      "permalink": "/docs/tags/availability"
+    },
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "titel": "Verfügbarkeitsklassen",
+    "tags": [
+      "Availability",
+      "Begriff",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VPN - Virtual Private Network",
+    "permalink": "/docs/V-Glossar/VPN"
+  },
+  "next": {
+    "title": "Verfügbarkeit",
+    "permalink": "/docs/V-Glossar/Verfuegbarkeit"
+  }
+}

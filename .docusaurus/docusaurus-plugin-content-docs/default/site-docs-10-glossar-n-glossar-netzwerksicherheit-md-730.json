@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/N-Glossar/Netzwerksicherheit",
+  "id": "Glossar/N-Glossar/Netzwerksicherheit",
+  "title": "Netzwerksicherheit",
+  "description": "Netzwerksicherheit ist kein einzelner feststehender Begriff, sondern umfasst alle Maßnahmen zur Planung, Ausführung und Überwachung der Sicherheit in Rechnernetzen.",
+  "source": "@site/docs/10-Glossar/N-Glossar/Netzwerksicherheit.md",
+  "sourceDirName": "10-Glossar/N-Glossar",
+  "slug": "/Glossar/N-Glossar/Netzwerksicherheit",
+  "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Netzwerksicherheit.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Netzwerksicherheit",
+    "titel": "Netzwerksicherheit",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Markdown",
+    "permalink": "/docs/Glossar/M-Glossar/Markdown"
+  },
+  "next": {
+    "title": "Open Source Software",
+    "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "D-Glossar/Diataxis-framework",
+  "id": "D-Glossar/Diataxis-framework",
+  "title": "Diataxis Framework",
+  "description": "A systematic framework for technical documentation authoring.",
+  "source": "@site/docs/D-Glossar/Diataxis-framework.md",
+  "sourceDirName": "D-Glossar",
+  "slug": "/D-Glossar/Diataxis-framework",
+  "permalink": "/docs/D-Glossar/Diataxis-framework",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/D-Glossar/Diataxis-framework.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/D-Glossar/Dashboard"
+  },
+  "next": {
+    "title": "Dienstgüte - Quality of Service (QoS)",
+    "permalink": "/docs/D-Glossar/Dienstguete"
+  }
+}

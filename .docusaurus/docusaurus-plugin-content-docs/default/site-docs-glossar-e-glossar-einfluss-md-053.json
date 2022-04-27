@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/E-Glossar/Einfluss",
+  "id": "Glossar/E-Glossar/Einfluss",
+  "title": "Einfluss",
+  "description": "Einfluss (Degree of Power) ist die potenzielle oder effektive Wirkung eines Subjekts oder einer Interessengruppe auf eine Zielperson oder -gruppe. Zu unterscheiden ist  zwischen Einfluss haben (passiv, evtl. unbewusst) und Einfluss ausüben  (aktiv, bewusst).",
+  "source": "@site/docs/Glossar/E-Glossar/Einfluss.md",
+  "sourceDirName": "Glossar/E-Glossar",
+  "slug": "/Glossar/E-Glossar/Einfluss",
+  "permalink": "/docs/Glossar/E-Glossar/Einfluss",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/E-Glossar/Einfluss.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Einfluss",
+    "titel": "Einfluss",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dokumentenmanagement",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+  },
+  "next": {
+    "title": "Empowerment - Ermächtigung",
+    "permalink": "/docs/Glossar/E-Glossar/Empowerment"
+  }
+}

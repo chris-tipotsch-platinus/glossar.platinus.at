@@ -1,0 +1,13 @@
+{
+  "name": "VM",
+  "permalink": "/docs/tags/vm",
+  "docs": [
+    {
+      "id": "Glossar/V-Glossar/VM",
+      "title": "virtuelle Maschine",
+      "description": "Eine virtuelle Maschine ist eine virtuelle Darstellung oder Emulation eines physischen Computers. Sie wird manchmal auch als „Gast“  bezeichnet, im Gegensatz zur physischen Maschine, auf der sie ausgeführt wird, dem „Host“ (dt.: Wirt).",
+      "permalink": "/docs/Glossar/V-Glossar/VM"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

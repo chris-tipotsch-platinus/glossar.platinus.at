@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/B-Glossar/Bedarf",
+  "id": "Glossar/B-Glossar/Bedarf",
+  "title": "Bedarf - Demand",
+  "description": "Ein Bedarf ist eine Problem, das zu lösen ist, oder eine Chance, die wahrzunehmen ist. Der Bedarf kann Changes auslösen, wenn Stakeholder zum Handeln motiviert werden. Changes können auch einen Bedarf auslösen, wenn durch sie der Nutzen bestehender Lösungen vermindert oder erhöht wird.",
+  "source": "@site/docs/10-Glossar/B-Glossar/Bedarf.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/Bedarf",
+  "permalink": "/docs/Glossar/B-Glossar/Bedarf",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Bedarf.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Bedarf",
+    "titel": "Bedarf",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "BPM - Business Process Management",
+    "permalink": "/docs/Glossar/B-Glossar/BPM"
+  },
+  "next": {
+    "title": "Benutzer - User",
+    "permalink": "/docs/Glossar/B-Glossar/Benutzer"
+  }
+}

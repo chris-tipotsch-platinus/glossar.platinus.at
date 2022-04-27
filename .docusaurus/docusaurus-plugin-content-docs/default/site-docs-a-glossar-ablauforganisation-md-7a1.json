@@ -1,0 +1,34 @@
+{
+  "unversionedId": "A-Glossar/BPM",
+  "id": "A-Glossar/BPM",
+  "title": "BPM - Business Prozess Management",
+  "description": "BPM ist die Abkürzung für Business Prozess Management.",
+  "source": "@site/docs/A-Glossar/Ablauforganisation.md",
+  "sourceDirName": "A-Glossar",
+  "slug": "/A-Glossar/BPM",
+  "permalink": "/docs/A-Glossar/BPM",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/A-Glossar/Ablauforganisation.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPM",
+    "titel": "BPM",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ABPMPI",
+    "permalink": "/docs/A-Glossar/ABPMPI"
+  },
+  "next": {
+    "title": "Anforderungen - Requirements",
+    "permalink": "/docs/A-Glossar/Anforderungen"
+  }
+}

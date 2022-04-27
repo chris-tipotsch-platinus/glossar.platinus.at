@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Glossar/P-Glossar/Projektinformationeng",
+  "id": "Glossar/P-Glossar/Projektinformationeng",
+  "title": "Projektinformationen",
+  "description": "Unter Projektinformation verstehen wir alle „Daten für die Definition, Planung, Überwachung , Durchführung und Abschluss eines Projektes“.",
+  "source": "@site/docs/Glossar/P-Glossar/Projektinformationen.md",
+  "sourceDirName": "Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/Projektinformationeng",
+  "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/P-Glossar/Projektinformationen.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "Projektinformationeng",
+    "title": "Projektinformationen",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Backlog",
+    "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
+  },
+  "next": {
+    "title": "Performance",
+    "permalink": "/docs/Glossar/P-Glossar/Performance"
+  }
+}

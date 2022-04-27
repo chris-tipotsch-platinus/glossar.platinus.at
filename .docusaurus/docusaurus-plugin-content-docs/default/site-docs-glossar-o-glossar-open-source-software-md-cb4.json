@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/O-Glossar/Open-Source-Software",
+  "id": "Glossar/O-Glossar/Open-Source-Software",
+  "title": "Open Source Software",
+  "description": "SW",
+  "source": "@site/docs/Glossar/O-Glossar/Open-Source-Software.md",
+  "sourceDirName": "Glossar/O-Glossar",
+  "slug": "/Glossar/O-Glossar/Open-Source-Software",
+  "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/O-Glossar/Open-Source-Software.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Open-Source",
+      "permalink": "/docs/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Open-Source-Software",
+    "titel": "Open Source Software",
+    "tags": [
+      "Begriff",
+      "Open-Source"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Outtasking",
+    "permalink": "/docs/Glossar/O-Glossar/Outtasking"
+  },
+  "next": {
+    "title": "PM-Paradigmen",
+    "permalink": "/docs/Glossar/P-Glossar/PM-Paradigmen"
+  }
+}

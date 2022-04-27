@@ -1,0 +1,34 @@
+{
+  "unversionedId": "P-Glossar/Performance",
+  "id": "P-Glossar/Performance",
+  "title": "Performance",
+  "description": "Performance ist gleichzusetzen mit Leistungsfähigkeit. Sie kann für  ganze Übertragungssysteme oder für einzelne Übertragungskomponenten, für Rechnersysteme oder einzelne Peripheriegeräte oder auch für Module und Chips angegeben werden.",
+  "source": "@site/docs/P-Glossar/Performance.md",
+  "sourceDirName": "P-Glossar",
+  "slug": "/P-Glossar/Performance",
+  "permalink": "/docs/P-Glossar/Performance",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/P-Glossar/Performance.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Performance",
+    "titel": "Performance",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektinformationen",
+    "permalink": "/docs/P-Glossar/Projektinformationeng"
+  },
+  "next": {
+    "title": "Prozessreifegrad",
+    "permalink": "/docs/P-Glossar/Prozessreifegrad"
+  }
+}

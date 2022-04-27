@@ -1,0 +1,13 @@
+{
+  "name": "Dokumentation",
+  "permalink": "/docs/tags/dokumentation",
+  "docs": [
+    {
+      "id": "Glossar/D-Glossar/Doc-as-Code",
+      "title": "Documentation-as-Code",
+      "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
+      "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "R-Glossar/Richtlinie",
+  "id": "R-Glossar/Richtlinie",
+  "title": "Richtlinie",
+  "description": "Der Begriff Richtlinie (policy) wird sowohl im technischen, als auch im rechtlichen Umfeld verwendet.",
+  "source": "@site/docs/R-Glossar/Richtlinie.md",
+  "sourceDirName": "R-Glossar",
+  "slug": "/R-Glossar/Richtlinie",
+  "permalink": "/docs/R-Glossar/Richtlinie",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/R-Glossar/Richtlinie.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Richtlinie",
+    "title": "Richtlinie",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recovery",
+    "permalink": "/docs/R-Glossar/Recovery"
+  },
+  "next": {
+    "title": "Projektrollen Home",
+    "permalink": "/docs/R-Glossar/Projektrollen Home"
+  }
+}

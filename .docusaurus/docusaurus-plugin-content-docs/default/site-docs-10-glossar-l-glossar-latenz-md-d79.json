@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/L-Glossar/Latenz",
+  "id": "Glossar/L-Glossar/Latenz",
+  "title": "Latenz",
+  "description": "Der Begriff Latenz, Latency, wird synonym für Verzögerungszeit verwendet. Im Allgemeinen handelt es sich um das Zeitintervall vom Ende eines Ereignisses oder Befehls bis zum Beginn der Reaktion auf dieses Ereignis oder wie bei der Computational Latency um das Ergebnis der Aufgabe.",
+  "source": "@site/docs/10-Glossar/L-Glossar/Latenz.md",
+  "sourceDirName": "10-Glossar/L-Glossar",
+  "slug": "/Glossar/L-Glossar/Latenz",
+  "permalink": "/docs/Glossar/L-Glossar/Latenz",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Latenz.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Latenz",
+    "titel": "Latenz",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Kanban",
+    "permalink": "/docs/Glossar/K-Glossar/Kanban"
+  },
+  "next": {
+    "title": "Laufzeit",
+    "permalink": "/docs/Glossar/L-Glossar/Laufzeit"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "BPM",
+  "permalink": "/docs/tags/bpm",
+  "docs": [
+    {
+      "id": "Glossar/B-Glossar/Bedarf",
+      "title": "Bedarf - Demand",
+      "description": "Ein Bedarf ist eine Problem, das zu lösen ist, oder eine Chance, die wahrzunehmen ist. Der Bedarf kann Changes auslösen, wenn Stakeholder zum Handeln motiviert werden. Changes können auch einen Bedarf auslösen, wenn durch sie der Nutzen bestehender Lösungen vermindert oder erhöht wird.",
+      "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+    },
+    {
+      "id": "Glossar/B-Glossar/BPM-Competency-Model",
+      "title": "BPM Competency Model von ABPMP",
+      "description": "Die Organisation ABPMP – Association of Business Process Management Professional International – hat zur Orientierung ein BPM Competency Model entwickelt.",
+      "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+    },
+    {
+      "id": "Glossar/B-Glossar/BPM-KB",
+      "title": "BPM-KB",
+      "description": "BPM-KB ist die Abkürzung für Business Prozess Management Knowledge Base.",
+      "permalink": "/docs/Glossar/B-Glossar/BPM-KB"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dashboard",
+      "title": "Dashboard",
+      "description": "Ein Dashboard bietet einen Überblick über die wichtigsten Leistungsindikatoren (KPIs), die für ein bestimmtes Ziel relevant sind.",
+      "permalink": "/docs/Glossar/D-Glossar/Dashboard"
+    },
+    {
+      "id": "Glossar/D-Glossar/Doc-as-Code",
+      "title": "Documentation-as-Code",
+      "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
+      "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationsmanagement",
+      "title": "Dokumentationsmanagement",
+      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentenmanagement",
+      "title": "Dokumentenmanagement",
+      "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um elektronische Dokumente handeln. Im Fokus stehen die operativen Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    },
+    {
+      "id": "Glossar/I-Glossar/Informationsqualitaet",
+      "title": "Informationsqualität",
+      "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
+      "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
+    },
+    {
+      "id": "Glossar/L-Glossar/Leitlinie",
+      "title": "Leitlinie",
+      "description": "Eine Leitlinie ist ein übergeordnetes Regelwerk für Richtlinien, Konzepte und Prozesse.",
+      "permalink": "/docs/Glossar/L-Glossar/Leitlinie"
+    },
+    {
+      "id": "Glossar/R-Glossar/Rollen-Canvas",
+      "title": "Rollen-Canvas",
+      "description": "------",
+      "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

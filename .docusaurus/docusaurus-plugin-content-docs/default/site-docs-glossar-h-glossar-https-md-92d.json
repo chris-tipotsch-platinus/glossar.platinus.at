@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/H-Glossar/HTTPS",
+  "id": "Glossar/H-Glossar/HTTPS",
+  "title": "HTTPS",
+  "description": "HTTPS steht für Hypertext Transfer Protocol Secure und ist eine verschlüsselte Form des HTTP. Dieses dient der Übertragung von Daten in einem Netzwerk und stellt in gewisser Weise die Sprache von Servern und  Clients in einem Netzwerk dar. Genutzt werden HTTP und HTTPS vor allem im Internet zur Kommunikation zwischen Webserver und Computer. Nötig sind beide, damit die in einem Netzwerk verbundenen Rechner über eine  einheitliche Sprache verfügen und Befehle eindeutig interpretiert werden können. Im Gegensatz zu HTTP ist die Sprache in Hypertext Transfer  Protocol Secure verschlüsselt.",
+  "source": "@site/docs/Glossar/H-Glossar/HTTPS.md",
+  "sourceDirName": "Glossar/H-Glossar",
+  "slug": "/Glossar/H-Glossar/HTTPS",
+  "permalink": "/docs/Glossar/H-Glossar/HTTPS",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/H-Glossar/HTTPS.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "HTTPS",
+    "title": "HTTPS",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fehlertoleranz",
+    "permalink": "/docs/Glossar/F-Glossar/Fehlertoleranz"
+  },
+  "next": {
+    "title": "Hosting",
+    "permalink": "/docs/Glossar/H-Glossar/Hosting"
+  }
+}

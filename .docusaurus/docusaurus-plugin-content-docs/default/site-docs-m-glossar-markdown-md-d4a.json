@@ -1,0 +1,39 @@
+{
+  "unversionedId": "M-Glossar/Markdown",
+  "id": "M-Glossar/Markdown",
+  "title": "Markdown",
+  "description": "Markdown is a way to style text on the web.",
+  "source": "@site/docs/M-Glossar/Markdown.md",
+  "sourceDirName": "M-Glossar",
+  "slug": "/M-Glossar/Markdown",
+  "permalink": "/docs/M-Glossar/Markdown",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/M-Glossar/Markdown.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Web",
+      "permalink": "/docs/tags/web"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Markdown",
+    "titel": "Markdown",
+    "tags": [
+      "Begriffe",
+      "Web"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Major-Risk",
+    "permalink": "/docs/M-Glossar/Major-Risk"
+  },
+  "next": {
+    "title": "Netzwerksicherheit",
+    "permalink": "/docs/N-Glossar/Netzwerksicherheit"
+  }
+}

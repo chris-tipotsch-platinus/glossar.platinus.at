@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/A-Glossar/Artefakte",
+  "id": "Glossar/A-Glossar/Artefakte",
+  "title": "Artefakte",
+  "description": "Ein Artefakt repräsentiert ein Ergebnis / Liefergegenstand aus einem Arbeitsprozess. Ein Artefakt ist damit ein Gegenstand, der von Menschen im Zuge von Prozessen erzeugt wird.",
+  "source": "@site/docs/10-Glossar/A-Glossar/Artefakte.md",
+  "sourceDirName": "10-Glossar/A-Glossar",
+  "slug": "/Glossar/A-Glossar/Artefakte",
+  "permalink": "/docs/Glossar/A-Glossar/Artefakte",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Artefakte.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Artefakte",
+    "titel": "Artefakte",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Anweisung - Arbeitsanweisungen",
+    "permalink": "/docs/Glossar/A-Glossar/Anweisung"
+  },
+  "next": {
+    "title": "IT-Asset-Repository",
+    "permalink": "/docs/Glossar/A-Glossar/Asset-Repository"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "R-Glossar/Risiko-Projektrisiko",
+  "id": "R-Glossar/Risiko-Projektrisiko",
+  "title": "Projektrisiko",
+  "description": "Als \"Risiko\" wird die Auswirkung von Ungewissheit auf die angestrebten Ziele definiert (ISO 31000). Hierbei wird unter \"Auswirkung\" eine Abweichung von der ursprünglichen Erwartung , sei es positiv oder negativ, verstanden. Ein Risiko wird in der Regel durch ein oder mehrere Ereignisse, ihrer Eintrittswahrscheinlichkeit und deren Konsequenzen beschrieben.",
+  "source": "@site/docs/R-Glossar/Risiko-Projektrisiko.md",
+  "sourceDirName": "R-Glossar",
+  "slug": "/R-Glossar/Risiko-Projektrisiko",
+  "permalink": "/docs/R-Glossar/Risiko-Projektrisiko",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/R-Glossar/Risiko-Projektrisiko.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ressourcenkalender",
+    "permalink": "/docs/R-Glossar/Ressourcenkalender"
+  },
+  "next": {
+    "title": "SLA",
+    "permalink": "/docs/S-Glossar/SLA"
+  }
+}

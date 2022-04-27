@@ -1,0 +1,34 @@
+{
+  "unversionedId": "M-Glossar/MTBF",
+  "id": "M-Glossar/MTBF",
+  "title": "MTBF - Mittlere Betriebszeit",
+  "description": "Bei der mittleren Betriebszeit zwischen Ausfällen, Mean Time Between Failures (MTBF), handelt es sich um die Zeit, die im normalen Betrieb eines Systems, einer Einrichtung oder einer Systemkomponente wahrscheinlich vergeht, bevor es ausfällt.",
+  "source": "@site/docs/M-Glossar/MTTR.md",
+  "sourceDirName": "M-Glossar",
+  "slug": "/M-Glossar/MTBF",
+  "permalink": "/docs/M-Glossar/MTBF",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/M-Glossar/MTTR.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "MTBF",
+    "titel": "MTBF",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MTTR - Mittlere Reparaturzeit",
+    "permalink": "/docs/M-Glossar/MTTR"
+  },
+  "next": {
+    "title": "Major-Risk",
+    "permalink": "/docs/M-Glossar/Major-Risk"
+  }
+}

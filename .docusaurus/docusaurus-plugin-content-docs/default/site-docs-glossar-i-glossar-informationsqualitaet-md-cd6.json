@@ -1,0 +1,41 @@
+{
+  "unversionedId": "Glossar/I-Glossar/Informationsqualitaet",
+  "id": "Glossar/I-Glossar/Informationsqualitaet",
+  "title": "Informationsqualität",
+  "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
+  "source": "@site/docs/Glossar/I-Glossar/Informationsqualitaet.md",
+  "sourceDirName": "Glossar/I-Glossar",
+  "slug": "/Glossar/I-Glossar/Informationsqualitaet",
+  "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/I-Glossar/Informationsqualitaet.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Informationsqualitaet",
+    "title": "Informationsqualität",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IaaS",
+    "permalink": "/docs/Glossar/I-Glossar/IaaS"
+  },
+  "next": {
+    "title": "Informationsicherheit",
+    "permalink": "/docs/Glossar/I-Glossar/Informationsicherheit"
+  }
+}

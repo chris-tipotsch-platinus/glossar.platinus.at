@@ -1,0 +1,59 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Doc-as-Code",
+  "id": "Glossar/D-Glossar/Doc-as-Code",
+  "title": "Documentation-as-Code",
+  "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Documentation-as-Code.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Doc-as-Code",
+  "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Documentation-as-Code.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "Dokumentation",
+      "permalink": "/docs/tags/dokumentation"
+    },
+    {
+      "label": "Web",
+      "permalink": "/docs/tags/web"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Doc-as-Code",
+    "titel": "Documentation-as-Code",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM",
+      "Dokumentation",
+      "Web"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dienstgütevereinbarung - Service Level Agreement",
+    "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
+  },
+  "next": {
+    "title": "Dokumentationslebenzyklus",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+  }
+}

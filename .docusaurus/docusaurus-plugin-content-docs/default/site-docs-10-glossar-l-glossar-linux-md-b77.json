@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/L-Glossar/Linux",
+  "id": "Glossar/L-Glossar/Linux",
+  "title": "Linux",
+  "description": "Linux ist ein Betriebssystem, das auf dem Linux-Kernel basiert. Die angegliederte Software stammt zum Großteil von GNU. Entwickelt wurde die Distribution erstmals in den frühen neunziger Jahren von Linus Torvald. Er vertreibt Linux unter eigener Lizenz. Eine kommerzielle Nutzung ist ausgeschlossen. Das ändert sich als Torvald Linux unter die GNU, die  General Public License, stellt. Mit diesem Schritt entsteht das erste freie Betriebssystem mit kommerzieller Nutzungsmöglichkeit. Es  entwickelt sich schnell zum etablierten Betriebssystem auf Servern,  Embedded Systemen und Smartphones. Im Bereich des Desktop-PCs verläuft die Einführung zögerlich. Dies bessert sich mit der Einführung der grafischen Benutzeroberfläche, die ähnlich bedienbar ist wie Windows von Microsoft.",
+  "source": "@site/docs/10-Glossar/L-Glossar/Linux.md",
+  "sourceDirName": "10-Glossar/L-Glossar",
+  "slug": "/Glossar/L-Glossar/Linux",
+  "permalink": "/docs/Glossar/L-Glossar/Linux",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Linux.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Linux",
+    "title": "Linux",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Leitlinie",
+    "permalink": "/docs/Glossar/L-Glossar/Leitlinie"
+  },
+  "next": {
+    "title": "MTTR - Mittlere Reparaturzeit",
+    "permalink": "/docs/Glossar/M-Glossar/MTTR"
+  }
+}

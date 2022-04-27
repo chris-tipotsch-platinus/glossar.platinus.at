@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/A-Glossar/Asset-Repository",
+  "id": "Glossar/A-Glossar/Asset-Repository",
+  "title": "IT-Asset-Repository",
+  "description": "Die IT-Asset Datenbank dient zur Planung, Verwaltung und der Berichterstattung aller IT-Asset-Daten. Das IT-Asset Repository ist ein Teil des Enterprise Asset Repository.",
+  "source": "@site/docs/10-Glossar/A-Glossar/Asset-Repository.md",
+  "sourceDirName": "10-Glossar/A-Glossar",
+  "slug": "/Glossar/A-Glossar/Asset-Repository",
+  "permalink": "/docs/Glossar/A-Glossar/Asset-Repository",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Asset-Repository.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Asset-Repository",
+    "titel": "Asset-Repository",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Artefakte",
+    "permalink": "/docs/Glossar/A-Glossar/Artefakte"
+  },
+  "next": {
+    "title": "IT-Asset",
+    "permalink": "/docs/Glossar/A-Glossar/Asset"
+  }
+}

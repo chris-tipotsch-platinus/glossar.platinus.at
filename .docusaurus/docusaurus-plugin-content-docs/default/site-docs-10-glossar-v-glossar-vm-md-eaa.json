@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/V-Glossar/VM",
+  "id": "Glossar/V-Glossar/VM",
+  "title": "Virtuelle Maschine",
+  "description": "Eine virtuelle Maschine ist eine virtuelle Darstellung oder Emulation eines physischen Computers. Sie wird manchmal auch als „Gast“  bezeichnet, im Gegensatz zur physischen Maschine, auf der sie ausgeführt wird, dem „Host“ (dt.: Wirt).",
+  "source": "@site/docs/10-Glossar/V-Glossar/VM.md",
+  "sourceDirName": "10-Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/VM",
+  "permalink": "/docs/Glossar/V-Glossar/VM",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/VM.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "VM",
+    "titel": "Virtuelle Maschine",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "USV",
+    "permalink": "/docs/Glossar/U-Glossar/USV"
+  },
+  "next": {
+    "title": "VPN - Virtual Private Network",
+    "permalink": "/docs/Glossar/V-Glossar/VPN"
+  }
+}

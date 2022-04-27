@@ -1,0 +1,34 @@
+{
+  "unversionedId": "A-Glossar/Aufzeichnungspflicht",
+  "id": "A-Glossar/Aufzeichnungspflicht",
+  "title": "Aufzeichnungspflicht",
+  "description": "Gesetzliche Vorschriften für Archivierung: Aufzeichnungspflichten",
+  "source": "@site/docs/A-Glossar/Aufzeichnungspflicht.md",
+  "sourceDirName": "A-Glossar",
+  "slug": "/A-Glossar/Aufzeichnungspflicht",
+  "permalink": "/docs/A-Glossar/Aufzeichnungspflicht",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/A-Glossar/Aufzeichnungspflicht.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Aufzeichnungspflicht",
+    "titel": "Aufzeichnungspflicht",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aufzeichnungen",
+    "permalink": "/docs/A-Glossar/Aufzeichnungen"
+  },
+  "next": {
+    "title": "Ausfallzeit",
+    "permalink": "/docs/A-Glossar/Ausfallzeit"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/V-Glossar/VPN",
+  "id": "Glossar/V-Glossar/VPN",
+  "title": "VPN - Virtual Private Network",
+  "description": "VPN steht für „Virtual Private Network“, auf Deutsch das virtuelle private Netzwerk. Das konventionelle VPN ist ein eigenständiges Netz, das eingekapselt in einem anderen Netz liegt. ISDN ist ein Beispiel für einen derart gestalteten Aufbau. Das ISDN-Netzwerk liegt innerhalb des allgemeinen Wählnetzes. Das aktuelle VPN ist das IP-Netz, das zumeist innerhalb des öffentlichen Internets ein in sich geschlossenes Teilnetz  bildet. Dieses bettet sich ein und nutzt die dortigen Adressierungsmethoden. Es werden jedoch eigene Netzwerkpakete  transportiert, die die Client Software in Protokolle packt, welche  unabhängig vom Inhalt separat adressierbar sind. Das Gateway entpackt  die Pakete wieder. Zusätzlich bietet das VPN die Option der  Verschlüsselung. Eine geschützte Verbindung entsteht in einem unsicheren Netz.",
+  "source": "@site/docs/Glossar/V-Glossar/VPN.md",
+  "sourceDirName": "Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/VPN",
+  "permalink": "/docs/Glossar/V-Glossar/VPN",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/V-Glossar/VPN.md",
+  "tags": [
+    {
+      "label": "Availability",
+      "permalink": "/docs/tags/availability"
+    },
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "VPN",
+    "titel": "Virtual Private Network",
+    "tags": [
+      "Availability",
+      "Begriff",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "virtuelle Maschine",
+    "permalink": "/docs/Glossar/V-Glossar/VM"
+  },
+  "next": {
+    "title": "Verfügbarkeitsklassen",
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+  }
+}

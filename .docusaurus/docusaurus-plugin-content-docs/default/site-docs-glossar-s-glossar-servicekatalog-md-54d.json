@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Servicekatalog",
+  "id": "Glossar/S-Glossar/Servicekatalog",
+  "title": "Servicekatalog",
+  "description": "Ein Servicekatalog ist eine vollständige Liste von Sachleistungen (Gütern, Diensten) und von Dienstleistungen, die ein Unternehmen für seine Kunden oder Mitarbeiter erbringt. Es hilft bei der Definition der Produkte / Leistungen und der Standardisierung der Qualität des Kundenservice. Es fungiert als gemeinsame Schnittstelle, über die Kunden auf die Dienste zugreifen können.",
+  "source": "@site/docs/Glossar/S-Glossar/Servicekatalog.md",
+  "sourceDirName": "Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Servicekatalog",
+  "permalink": "/docs/Glossar/S-Glossar/Servicekatalog",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/S-Glossar/Servicekatalog.md",
+  "tags": [
+    {
+      "label": "IT-Glossar",
+      "permalink": "/docs/tags/it-glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Servicekatalog",
+    "sidebar_position": 1,
+    "titel": "Servicekatalog",
+    "tags": [
+      "IT-Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SaaS - Software-as-a-Service",
+    "permalink": "/docs/Glossar/S-Glossar/SaaS"
+  },
+  "next": {
+    "title": "IT-Serviceportfolio",
+    "permalink": "/docs/Glossar/S-Glossar/Serviceportfolio"
+  }
+}

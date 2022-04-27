@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/O-Glossar/Open-Source-Software",
+  "id": "Glossar/O-Glossar/Open-Source-Software",
+  "title": "Open Source Software",
+  "description": "SW",
+  "source": "@site/docs/10-Glossar/O-Glossar/Open-Source-Software.md",
+  "sourceDirName": "10-Glossar/O-Glossar",
+  "slug": "/Glossar/O-Glossar/Open-Source-Software",
+  "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Open-Source-Software.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "Open-Source",
+      "permalink": "/docs/tags/open-source"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Open-Source-Software",
+    "titel": "Open Source Software",
+    "tags": [
+      "Begriffe",
+      "IM",
+      "Open-Source"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Netzwerksicherheit",
+    "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+  },
+  "next": {
+    "title": "Outtasking",
+    "permalink": "/docs/Glossar/O-Glossar/Outtasking"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "unversionedId": "H-Glossar/Hochverfuegbarkeit",
+  "id": "H-Glossar/Hochverfuegbarkeit",
+  "title": "Hochverfügbarkeit",
+  "description": "MIPS",
+  "source": "@site/docs/H-Glossar/Hochverfügbarkeit.md",
+  "sourceDirName": "H-Glossar",
+  "slug": "/H-Glossar/Hochverfuegbarkeit",
+  "permalink": "/docs/H-Glossar/Hochverfuegbarkeit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/H-Glossar/Hochverfügbarkeit.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Hochverfuegbarkeit",
+    "titel": "Hochverfügbarkeit",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hosting",
+    "permalink": "/docs/H-Glossar/Hosting"
+  },
+  "next": {
+    "title": "IPS",
+    "permalink": "/docs/I-Glossar/IPS"
+  }
+}

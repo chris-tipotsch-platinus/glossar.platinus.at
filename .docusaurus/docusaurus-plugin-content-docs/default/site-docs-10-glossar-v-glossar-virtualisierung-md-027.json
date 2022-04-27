@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/V-Glossar/Virtualisierung",
+  "id": "Glossar/V-Glossar/Virtualisierung",
+  "title": "Virtualisierung",
+  "description": "Was ist Virtualisierung?",
+  "source": "@site/docs/10-Glossar/V-Glossar/Virtualisierung.md",
+  "sourceDirName": "10-Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/Virtualisierung",
+  "permalink": "/docs/Glossar/V-Glossar/Virtualisierung",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Virtualisierung.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Virtualisierung",
+    "titel": "Virtualisierung",
+    "tags": [
+      "Begriff",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Verfügbarkeitsklassen",
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+  },
+  "next": {
+    "title": "Web-Browser",
+    "permalink": "/docs/Glossar/W-Glossar/Web-Browser"
+  }
+}

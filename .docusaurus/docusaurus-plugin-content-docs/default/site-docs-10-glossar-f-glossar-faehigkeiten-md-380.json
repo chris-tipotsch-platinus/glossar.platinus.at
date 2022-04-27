@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Glossar/F-Glossar/Faehigkeiten",
+  "id": "Glossar/F-Glossar/Faehigkeiten",
+  "title": "Faehigkeiten",
+  "description": "",
+  "source": "@site/docs/10-Glossar/F-Glossar/Faehigkeiten.md",
+  "sourceDirName": "10-Glossar/F-Glossar",
+  "slug": "/Glossar/F-Glossar/Faehigkeiten",
+  "permalink": "/docs/Glossar/F-Glossar/Faehigkeiten",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Faehigkeiten.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Empowerment - Ermächtigung",
+    "permalink": "/docs/Glossar/E-Glossar/Empowerment"
+  },
+  "next": {
+    "title": "Feature",
+    "permalink": "/docs/Glossar/F-Glossar/Feature"
+  }
+}

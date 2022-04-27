@@ -1,0 +1,34 @@
+{
+  "unversionedId": "C-Glossar/Compliance",
+  "id": "C-Glossar/Compliance",
+  "title": "Compliance",
+  "description": "Compliance",
+  "source": "@site/docs/C-Glossar/Compliance.md",
+  "sourceDirName": "C-Glossar",
+  "slug": "/C-Glossar/Compliance",
+  "permalink": "/docs/C-Glossar/Compliance",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/C-Glossar/Compliance.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Compliance",
+    "titel": "Compliance",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community of Practice",
+    "permalink": "/docs/C-Glossar/CoP"
+  },
+  "next": {
+    "title": "IT-Dokumentationslebenzyklus",
+    "permalink": "/docs/D-Glossar/IT-Dokumentationslebenzyklus"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/W-Glossar/Webserver",
+  "id": "Glossar/W-Glossar/Webserver",
+  "title": "Webserver",
+  "description": "Webserver sind von Providern betriebene Server für das Webhosting. Sie sind mit dem Internet oder Intranets verbunden und stellen Websites und andere Online-Informationen bereit, die beispielsweise auf Anforderung eines Browsers, das ist der Web-Client, über das Hypertext Transfer Protocol ( HTTP) oder über HTTPS angefordert werden können.",
+  "source": "@site/docs/Glossar/W-Glossar/Webserver.md",
+  "sourceDirName": "Glossar/W-Glossar",
+  "slug": "/Glossar/W-Glossar/Webserver",
+  "permalink": "/docs/Glossar/W-Glossar/Webserver",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/W-Glossar/Webserver.md",
+  "tags": [
+    {
+      "label": "Availability",
+      "permalink": "/docs/tags/availability"
+    },
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Webserver",
+    "titel": "Webserver",
+    "tags": [
+      "Availability",
+      "Begriff",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Webseite",
+    "permalink": "/docs/Glossar/W-Glossar/Webseite"
+  },
+  "next": {
+    "title": "Website",
+    "permalink": "/docs/Glossar/W-Glossar/Website"
+  }
+}

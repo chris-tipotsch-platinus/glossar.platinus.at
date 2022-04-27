@@ -4,17 +4,48 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+module.exports = {
+ // Plausible Analytics snippet
+ // Source = https://plausible.io/docs/docusaurus-integration
+  scripts: [{src: 'https://glossar.platinus.at/js/plausible.js', defer: true, 'data-domain': 'glossar.platinus.at'}],
+
+themes: [
+  [
+    require.resolve("@easyops-cn/docusaurus-search-local"),
+    {
+  // `hashed` is recommended as long-term-cache of index file is possible.
+      hashed: true,
+      // For Docs using Chinese, The `language` is recommended to set to:
+      language: ["de", "en"],
+    },  ],  ],
+// Mehrsprachigkeit
+    i18n: {
+   defaultLocale: 'de',
+   locales: ['de', 'en'],
+   localeConfigs: {
+     de: {
+       htmlLang: 'de-DE',
+       direction: 'ltr',
+     },
+     // You can omit a locale (e.g. fr) if you don't need to override the defaults
+     en: {
+       htmlLang: 'en-GB',
+       direction: 'ltr',
+     },
+   },
+ },
+
 /** @type {import('@docusaurus/types').Config} */
-const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+// const config = {
+  title: 'Glossar',
+  tagline: 'platinus-Glossar - Die Grundlage für eine gemeinsame Begriffswelt',
+  url: 'https://glossar.platinus.at',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'platinus', // Usually your GitHub org/user name.
+  projectName: 'platinus-Glossar', // Usually your repo name.
 
   presets: [
     [
@@ -22,16 +53,20 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+    //      path: 'docs',
+    //      sidebarPath: 'sidebars.js',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+           editUrl: 'https://github.com/chris-tipotsch-platinus/glossar.platinus.at/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/chris-tipotsch-platinus/glossar.platinus.at/',
         },
+        pages: {},
+        sitemap: {},
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -39,56 +74,61 @@ const config = {
     ],
   ],
 
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'platinus-GLOSSAR',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'platinus-Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+                    type: 'docSidebar',
+                    position: 'left',
+                    sidebarId: 'Sidebar10',
+                    label: 'Begriffe',
           },
+
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/chris-tipotsch-platinus/glossar.platinus.at',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
+
+
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Ressourcen',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'platinus.GLOSSAR',
+                to: '/docs/Begriffe-Home',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website',
+                href: 'https://www.platinus.at',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'HUB',
+                href: 'https://HUB.platinus.at',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'CHAT',
+                href: 'https://CHAT.platinus.at',
               },
             ],
           },
@@ -96,17 +136,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Blog zu Glossar',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/chris-tipotsch-platinus/glossar.platinus.at',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} by platinus Consulting.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -114,5 +154,3 @@ const config = {
       },
     }),
 };
-
-module.exports = config;

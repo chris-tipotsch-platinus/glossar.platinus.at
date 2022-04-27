@@ -1,0 +1,67 @@
+{
+  "name": "PM",
+  "permalink": "/docs/tags/pm",
+  "docs": [
+    {
+      "id": "Glossar/B-Glossar/Bedarf",
+      "title": "Bedarf - Demand",
+      "description": "Ein Bedarf ist eine Problem, das zu lösen ist, oder eine Chance, die wahrzunehmen ist. Der Bedarf kann Changes auslösen, wenn Stakeholder zum Handeln motiviert werden. Changes können auch einen Bedarf auslösen, wenn durch sie der Nutzen bestehender Lösungen vermindert oder erhöht wird.",
+      "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dashboard",
+      "title": "Dashboard",
+      "description": "Ein Dashboard bietet einen Überblick über die wichtigsten Leistungsindikatoren (KPIs), die für ein bestimmtes Ziel relevant sind.",
+      "permalink": "/docs/Glossar/D-Glossar/Dashboard"
+    },
+    {
+      "id": "Glossar/D-Glossar/Doc-as-Code",
+      "title": "Documentation-as-Code",
+      "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
+      "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationsmanagement",
+      "title": "Dokumentationsmanagement",
+      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentenmanagement",
+      "title": "Dokumentenmanagement",
+      "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um elektronische Dokumente handeln. Im Fokus stehen die operativen Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    },
+    {
+      "id": "Glossar/F-Glossar/FTE",
+      "title": "Full-Time-Equivalent",
+      "description": "Ein Vollzeitäquivalent (Full-Time-Equivalent, FTE) entspricht der Arbeit einer Vollzeitkraft am Projekt (in Personalwochen, Personalmonaten oder Personaljahren). Ein halbes FTE entspricht der Arbeit einer Halbtagskraft usw.",
+      "permalink": "/docs/Glossar/F-Glossar/FTE"
+    },
+    {
+      "id": "Glossar/I-Glossar/Informationsqualitaet",
+      "title": "Informationsqualität",
+      "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
+      "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
+    },
+    {
+      "id": "Glossar/R-Glossar/Projektrisiko",
+      "title": "Projektrisiko",
+      "description": "Als \"Risiko\" wird die Auswirkung von Ungewissheit auf die angestrebten Ziele definiert (ISO 31000). Hierbei wird unter \"Auswirkung\" eine Abweichung von der ursprünglichen Erwartung , sei es positiv oder negativ, verstanden. Ein Risiko wird in der Regel durch ein oder mehrere Ereignisse, ihrer Eintrittswahrscheinlichkeit und deren Konsequenzen beschrieben.",
+      "permalink": "/docs/Glossar/R-Glossar/Projektrisiko"
+    },
+    {
+      "id": "Glossar/R-Glossar/Rollen-Canvas",
+      "title": "Rollen-Canvas",
+      "description": "------",
+      "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+    },
+    {
+      "id": "Glossar/S-Glossar/Stakeholder",
+      "title": "Stakeholder",
+      "description": "------",
+      "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/I-Glossar/IPS",
+  "id": "Glossar/I-Glossar/IPS",
+  "title": "IPS",
+  "description": "IPS steht für Intrusion Prevention System und ist ein wichtiger Bestandteil der Sicherheit in einem Computernetzwerk. Es dient der  Verhinderung von Angriffen durch zu hohen Traffic oder Schadsoftware.  Hierfür überwacht ein Algorithmus den Datenverkehr im Netzwerk und  untersucht ihn hinsichtlich Anomalien. Werden Anomalien festgestellt,  wird der entsprechende Datenverkehr blockiert.",
+  "source": "@site/docs/Glossar/I-Glossar/IPS.md",
+  "sourceDirName": "Glossar/I-Glossar",
+  "slug": "/Glossar/I-Glossar/IPS",
+  "permalink": "/docs/Glossar/I-Glossar/IPS",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/I-Glossar/IPS.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "IPS",
+    "title": "IPS",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hochverfügbarkeit",
+    "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+  },
+  "next": {
+    "title": "IT-Service",
+    "permalink": "/docs/Glossar/I-Glossar/IT-Service"
+  }
+}

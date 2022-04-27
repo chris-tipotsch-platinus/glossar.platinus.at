@@ -1,0 +1,28 @@
+{
+  "unversionedId": "S-Glossar/Stakeholder",
+  "id": "S-Glossar/Stakeholder",
+  "title": "Stakeholder",
+  "description": "------",
+  "source": "@site/docs/S-Glossar/Stakeholder.md",
+  "sourceDirName": "S-Glossar",
+  "slug": "/S-Glossar/Stakeholder",
+  "permalink": "/docs/S-Glossar/Stakeholder",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/S-Glossar/Stakeholder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Stakeholder",
+    "title": "Stakeholder",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT-Serviceportfolio",
+    "permalink": "/docs/S-Glossar/Serviceportfolio"
+  },
+  "next": {
+    "title": "Stakeholder",
+    "permalink": "/docs/S-Glossar/Stakeholder"
+  }
+}

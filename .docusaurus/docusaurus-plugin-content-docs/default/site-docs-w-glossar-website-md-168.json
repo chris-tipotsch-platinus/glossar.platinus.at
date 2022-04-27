@@ -1,0 +1,39 @@
+{
+  "unversionedId": "W-Glossar/Website",
+  "id": "W-Glossar/Website",
+  "title": "Website",
+  "description": "Die Website ist die Standort-Präsenz innerhalb des World Wide Web ( WWW). Auf einer Website können Unternehmen, Behörden, Organisationen und Verwaltungen, Universitäten oder Forschungseinrichtungen, Standardisierungsgremien, Vereine und Privatpersonen Informationen, Produkte, Dienste, Werbung und vieles andere in verschiedensten Dateiformaten darstellen und anbieten, auf ihnen können soziale Kontakte, der Meinungsaustausch mit Andersdenkenden zu speziellen Themenbereichen oder Online-Tagebücher, die Weblogs, geführt werden.",
+  "source": "@site/docs/W-Glossar/Website.md",
+  "sourceDirName": "W-Glossar",
+  "slug": "/W-Glossar/Website",
+  "permalink": "/docs/W-Glossar/Website",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/W-Glossar/Website.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Website",
+      "permalink": "/docs/tags/website"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Website",
+    "titel": "Website",
+    "tags": [
+      "Begriff",
+      "Website"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Webserver",
+    "permalink": "/docs/W-Glossar/Webserver"
+  },
+  "next": {
+    "title": "Zugriffszeiten",
+    "permalink": "/docs/Z-Glossar/Zugriffszeiten"
+  }
+}

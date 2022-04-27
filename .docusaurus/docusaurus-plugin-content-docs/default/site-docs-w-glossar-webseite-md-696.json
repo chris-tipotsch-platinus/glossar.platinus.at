@@ -1,0 +1,39 @@
+{
+  "unversionedId": "W-Glossar/Webseite",
+  "id": "W-Glossar/Webseite",
+  "title": "Webseite",
+  "description": "Webseiten sind einzelne HTML-Seiten einer Website. Solche HTML-Dokumente bestehten aus Dateien für Texte, Grafiken, Video, Audio und Skripte, die im Webserver im Quelltext abgelegt sind. Die Webseiten einer Website sind, ausgehend von der Homepage, hierarchisch strukturiert. Man unterscheidet zwischen statischen und dynamischen Webseiten.",
+  "source": "@site/docs/W-Glossar/Webseite.md",
+  "sourceDirName": "W-Glossar",
+  "slug": "/W-Glossar/Webseite",
+  "permalink": "/docs/W-Glossar/Webseite",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/W-Glossar/Webseite.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Webseite",
+      "permalink": "/docs/tags/webseite"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Webseite",
+    "titel": "Webseite",
+    "tags": [
+      "Begriff",
+      "Webseite"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web-Client",
+    "permalink": "/docs/W-Glossar/Web-Client"
+  },
+  "next": {
+    "title": "Webserver",
+    "permalink": "/docs/W-Glossar/Webserver"
+  }
+}

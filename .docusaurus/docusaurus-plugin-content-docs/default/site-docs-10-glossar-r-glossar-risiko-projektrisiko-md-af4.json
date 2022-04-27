@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Projektrisiko",
+  "id": "Glossar/R-Glossar/Projektrisiko",
+  "title": "Projektrisiko",
+  "description": "Als \"Risiko\" wird die Auswirkung von Ungewissheit auf die angestrebten Ziele definiert (ISO 31000). Hierbei wird unter \"Auswirkung\" eine Abweichung von der ursprünglichen Erwartung , sei es positiv oder negativ, verstanden. Ein Risiko wird in der Regel durch ein oder mehrere Ereignisse, ihrer Eintrittswahrscheinlichkeit und deren Konsequenzen beschrieben.",
+  "source": "@site/docs/10-Glossar/R-Glossar/Risiko-Projektrisiko.md",
+  "sourceDirName": "10-Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Projektrisiko",
+  "permalink": "/docs/Glossar/R-Glossar/Projektrisiko",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Risiko-Projektrisiko.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Projektrisiko",
+    "title": "Projektrisiko",
+    "tags": [
+      "Begriffe",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Richtlinie",
+    "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
+  },
+  "next": {
+    "title": "Rollen-Canvas",
+    "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+  }
+}

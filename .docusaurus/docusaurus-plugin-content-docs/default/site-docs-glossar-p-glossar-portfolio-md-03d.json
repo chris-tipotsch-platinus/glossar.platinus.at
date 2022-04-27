@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/P-Glossar/Portfolio",
+  "id": "Glossar/P-Glossar/Portfolio",
+  "title": "Portfolio",
+  "description": "Nach ITILv4 ist eine Portfolio: \"A collection of assets into which an organization chooses to invest its resources in order to receive the best return.\"",
+  "source": "@site/docs/Glossar/P-Glossar/Portfolio.md",
+  "sourceDirName": "Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/Portfolio",
+  "permalink": "/docs/Glossar/P-Glossar/Portfolio",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/P-Glossar/Portfolio.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Portfolio",
+    "title": "Portfolio",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PaaS",
+    "permalink": "/docs/Glossar/P-Glossar/PaaS"
+  },
+  "next": {
+    "title": "Preismodell",
+    "permalink": "/docs/Glossar/P-Glossar/Preismodell"
+  }
+}

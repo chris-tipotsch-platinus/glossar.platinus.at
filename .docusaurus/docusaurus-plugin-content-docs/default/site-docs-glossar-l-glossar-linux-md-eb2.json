@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/L-Glossar/Linux",
+  "id": "Glossar/L-Glossar/Linux",
+  "title": "Linux",
+  "description": "Linux ist ein Betriebssystem, das auf dem Linux-Kernel basiert. Die angegliederte Software stammt zum Großteil von GNU. Entwickelt wurde die Distribution erstmals in den frühen neunziger Jahren von Linus Torvald. Er vertreibt Linux unter eigener Lizenz. Eine kommerzielle Nutzung ist ausgeschlossen. Das ändert sich als Torvald Linux unter die GNU, die  General Public License, stellt. Mit diesem Schritt entsteht das erste freie Betriebssystem mit kommerzieller Nutzungsmöglichkeit. Es  entwickelt sich schnell zum etablierten Betriebssystem auf Servern,  Embedded Systemen und Smartphones. Im Bereich des Desktop-PCs verläuft die Einführung zögerlich. Dies bessert sich mit der Einführung der grafischen Benutzeroberfläche, die ähnlich bedienbar ist wie Windows von Microsoft.",
+  "source": "@site/docs/Glossar/L-Glossar/Linux.md",
+  "sourceDirName": "Glossar/L-Glossar",
+  "slug": "/Glossar/L-Glossar/Linux",
+  "permalink": "/docs/Glossar/L-Glossar/Linux",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/L-Glossar/Linux.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Linux",
+    "title": "Linux",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Leitlinie",
+    "permalink": "/docs/Glossar/L-Glossar/Leitlinie"
+  },
+  "next": {
+    "title": "Latenz",
+    "permalink": "/docs/Glossar/L-Glossar/Latenz"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/V-Glossar/Verfuegbarkeit",
+  "id": "Glossar/V-Glossar/Verfuegbarkeit",
+  "title": "Verfügbarkeit - Availability",
+  "description": "Verfügbarkeit",
+  "source": "@site/docs/10-Glossar/V-Glossar/Verfuegbarkeit.md",
+  "sourceDirName": "10-Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/Verfuegbarkeit",
+  "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Verfuegbarkeit.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Verfuegbarkeit",
+    "titel": "Verfügbarkeit",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "VPN - Virtual Private Network",
+    "permalink": "/docs/Glossar/V-Glossar/VPN"
+  },
+  "next": {
+    "title": "Verfügbarkeitsklassen",
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+  }
+}

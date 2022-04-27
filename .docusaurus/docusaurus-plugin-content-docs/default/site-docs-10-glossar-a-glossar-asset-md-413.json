@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/A-Glossar/Asset",
+  "id": "Glossar/A-Glossar/Asset",
+  "title": "IT-Asset",
+  "description": "An IT Asset is a piece of software or hardware within an  information technology environment. IT assets are integral components of the organization’s systems and network infrastructure. Tracking of IT assets within an IT Asset Management System can be crucial to the operational or financial success of an enterprise.",
+  "source": "@site/docs/10-Glossar/A-Glossar/Asset.md",
+  "sourceDirName": "10-Glossar/A-Glossar",
+  "slug": "/Glossar/A-Glossar/Asset",
+  "permalink": "/docs/Glossar/A-Glossar/Asset",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Asset.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Asset",
+    "titel": "Asset",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "IT-Asset-Repository",
+    "permalink": "/docs/Glossar/A-Glossar/Asset-Repository"
+  },
+  "next": {
+    "title": "Aufbewahrungsfristen",
+    "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+  }
+}

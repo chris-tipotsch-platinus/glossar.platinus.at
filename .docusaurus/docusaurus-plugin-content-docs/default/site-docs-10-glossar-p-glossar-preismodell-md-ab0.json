@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/P-Glossar/Preismodell",
+  "id": "Glossar/P-Glossar/Preismodell",
+  "title": "Preismodell",
+  "description": "Das Peismodell beschreibt wie Preise für ein Produkt bzw. Services gebildet werden.",
+  "source": "@site/docs/10-Glossar/P-Glossar/Preismodell.md",
+  "sourceDirName": "10-Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/Preismodell",
+  "permalink": "/docs/Glossar/P-Glossar/Preismodell",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Preismodell.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Preismodell",
+    "title": "Preismodell",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Portfolio",
+    "permalink": "/docs/Glossar/P-Glossar/Portfolio"
+  },
+  "next": {
+    "title": "Provider",
+    "permalink": "/docs/Glossar/P-Glossar/Provider"
+  }
+}

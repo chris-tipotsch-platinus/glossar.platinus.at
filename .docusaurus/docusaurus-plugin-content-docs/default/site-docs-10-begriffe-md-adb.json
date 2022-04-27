@@ -1,0 +1,37 @@
+{
+  "unversionedId": "Begriffe-Home",
+  "id": "Begriffe-Home",
+  "title": "Begriffe Home",
+  "description": "------",
+  "source": "@site/docs/10-Begriffe.md",
+  "sourceDirName": ".",
+  "slug": "/Begriffe-Home",
+  "permalink": "/docs/Begriffe-Home",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Begriffe.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Begriffe-Home",
+    "title": "Begriffe Home",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "Glossar"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "next": {
+    "title": "ABPMP",
+    "permalink": "/docs/Glossar/A-Glossar/ABPMP"
+  }
+}

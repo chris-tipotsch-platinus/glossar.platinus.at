@@ -1,0 +1,19 @@
+{
+  "name": "Web",
+  "permalink": "/docs/tags/web",
+  "docs": [
+    {
+      "id": "Glossar/D-Glossar/Doc-as-Code",
+      "title": "Documentation-as-Code",
+      "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
+      "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+    },
+    {
+      "id": "Glossar/M-Glossar/Markdown",
+      "title": "Markdown",
+      "description": "Markdown is a way to style text on the web.",
+      "permalink": "/docs/Glossar/M-Glossar/Markdown"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

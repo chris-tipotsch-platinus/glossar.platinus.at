@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "id": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "title": "Verfügbarkeitsklassen",
+  "description": "Klassifizierung von hochverfügbaren Systemen",
+  "source": "@site/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen.md",
+  "sourceDirName": "Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen.md",
+  "tags": [
+    {
+      "label": "Availability",
+      "permalink": "/docs/tags/availability"
+    },
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "titel": "Verfügbarkeitsklassen",
+    "tags": [
+      "Availability",
+      "Begriff",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VPN - Virtual Private Network",
+    "permalink": "/docs/Glossar/V-Glossar/VPN"
+  },
+  "next": {
+    "title": "Verfügbarkeit",
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit"
+  }
+}

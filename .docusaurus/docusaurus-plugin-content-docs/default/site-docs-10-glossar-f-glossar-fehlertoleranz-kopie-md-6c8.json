@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/F-Glossar/Fehlertoleranz",
+  "id": "Glossar/F-Glossar/Fehlertoleranz",
+  "title": "Fehlertoleranz",
+  "description": "Felhertoleranz",
+  "source": "@site/docs/10-Glossar/F-Glossar/Fehlertoleranz (Kopie).md",
+  "sourceDirName": "10-Glossar/F-Glossar",
+  "slug": "/Glossar/F-Glossar/Fehlertoleranz",
+  "permalink": "/docs/Glossar/F-Glossar/Fehlertoleranz",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Fehlertoleranz (Kopie).md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Fehlertoleranz",
+    "titel": "Fehlertoleranz",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Fehler",
+    "permalink": "/docs/Glossar/F-Glossar/Fehler"
+  },
+  "next": {
+    "title": "Fehlertoleranz",
+    "permalink": "/docs/Glossar/F-Glossar/Fehlertoleranz"
+  }
+}

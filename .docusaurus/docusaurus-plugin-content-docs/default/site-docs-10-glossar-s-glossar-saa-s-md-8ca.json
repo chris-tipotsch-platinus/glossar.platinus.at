@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/S-Glossar/SaaS",
+  "id": "Glossar/S-Glossar/SaaS",
+  "title": "SaaS - Software-as-a-Service",
+  "description": "SaaS ist die Abkürzung für „Software-as-a-Service“. Der Begriff  beschreibt eine Dienstleistung, die es Nutzern ermöglicht, benötigte Software aus dem Internet herunterzuladen. Damit steht SaaS in einem  engen Zusammenhang mit Software on Demand und wird im Rahmen des Cloud Computing von Cloud-Providern angeboten. Das Konzept, Software nur bei  Bedarf aus dem Internet zu laden, erspart Unternehmen und Privatpersonen hohe Speicherkapazitäten. Noch größer ist die Ersparnis an  Speicherplatz, wenn die Software direkt im Internet und somit auf dem  Server des bereitstellenden Unternehmens genutzt wird. Anbieter von SaaS sind Application-Service-Providern sehr nahe und die Übergänge zwischen den verschiedenen Serviceleistungen verlaufen meist übergangslos.",
+  "source": "@site/docs/10-Glossar/S-Glossar/SaaS.md",
+  "sourceDirName": "10-Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/SaaS",
+  "permalink": "/docs/Glossar/S-Glossar/SaaS",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/SaaS.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "SaaS",
+    "titel": "SaaS",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "SLA - Dienstgütevertrag",
+    "permalink": "/docs/Glossar/S-Glossar/SLA"
+  },
+  "next": {
+    "title": "Servicekatalog",
+    "permalink": "/docs/Glossar/S-Glossar/Servicekatalog"
+  }
+}

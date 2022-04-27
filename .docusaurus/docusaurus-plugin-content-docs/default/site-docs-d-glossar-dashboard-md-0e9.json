@@ -1,0 +1,23 @@
+{
+  "unversionedId": "D-Glossar/Dashboard",
+  "id": "D-Glossar/Dashboard",
+  "title": "Dashboard",
+  "description": "Das Dashboard bietet einen Überblick über die wichtigsten Leistungsindikatoren (KPIs), die für ein bestimmtes Ziel relevant sind.",
+  "source": "@site/docs/D-Glossar/Dashboard.md",
+  "sourceDirName": "D-Glossar",
+  "slug": "/D-Glossar/Dashboard",
+  "permalink": "/docs/D-Glossar/Dashboard",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/D-Glossar/Dashboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT-Dokumentationslebenzyklus",
+    "permalink": "/docs/D-Glossar/IT-Dokumentationslebenzyklus"
+  },
+  "next": {
+    "title": "Diataxis Framework",
+    "permalink": "/docs/D-Glossar/Diataxis-framework"
+  }
+}

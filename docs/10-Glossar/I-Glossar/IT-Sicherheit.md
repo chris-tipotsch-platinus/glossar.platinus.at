@@ -1,0 +1,13 @@
+---
+id: IT-Sicherheit
+titel: IT-Sicherheit
+tags: [Begriffe, IM]
+---
+
+# IT-Sicherheit
+
+Die IT-Sicherheit beschäftigt sich mit den technischen Maßnahmen, die für einen sicheren (Cloud-)-IT-Betrieb vorgenommen werden müssen. Schutzziele sind beispielsweise Vertraulichkeit, Integrität oder Authentizität. Eine sichere Nutzung lässt sich dabei nur gewährleisten, wenn Konsument, Anbieter und die zwischen ihnen herrschende Verbindung ganzheitlich geschützt sind.
+
+- **Sicherheit beim Anbieter:** Der Anbieter von IT-Diensten steht in der Verantwortung, seine Rechenzentren gegenüber Missbrauch zu schützen. Er verfügt in vielen Fällen über die  sensiblen Daten diverser Organisationen bzw. Individuen und muss dafür  Sorge tragen, diese vor Dritten geheim zu halten. Dabei kann er auf eine Vielzahl von Techniken zurückgreifen, die im Allgemeinen dem Schutz von Rechenzentren dienen und nicht spezifisch auf die IT-Architektur ausgelegt sind. Beispielhaft sei hierfür eine sichere Authentifizierung  der Konsumenten nach dem Zwei-Faktor-Prinzip. Weiterhin muss er  Vorkehrungen treffen, welche im Detail an das Cloud-Szenario angepasst  sind. Beispielsweise ist die logische Trennung von mehreren Konsumenten  (Resource Pooling) abzusichern, sodass keine Zugriffe auf fremde Ressourcen möglich sind. Auch die Anwendung von speziellen Cloud-Patterns kann die Sicherheit verbessern.
+- **Sicherheit beim Konsumenten:** Obwohl oft davon ausgegangen wird, dass die Verantwortung für einen sicheren  Cloud-Betrieb allein beim Anbieter liegt, steht auch der Konsument in  der Pflicht. Wie groß sein Beitrag zur Sicherheit dabei ausfallen kann,  hängt vom Dienstmodell ab. IaaS erlaubt dem Konsumenten die ausführliche Absicherung seiner genutzten Rechenknoten. Bei SaaS fallen die  Möglichkeiten deutlich geringer aus, da in der Regel keine detaillierten Konfigurationsmöglichkeiten tieferliegender Hard- bzw Softwareschichten vollzogen werden können. Unabhängig vom Dienstmodell sollte der  Konsument jedoch darauf achten, seine für den Zugriff genutzten  Endgeräte frei von Schadsoftware zu halten und nur ausgewählten  Benutzern zur Verfügung zu stellen.
+- **Sicherheit bei der Übertragung:** Ein Schlüsselmerkmal der Cloud ist die Erreichbarkeit von Diensten über das Internet. Sensible Daten werden vom Konsumenten an den Anbieter  verschickt bzw. vom Konsumenten angefragt. Dies impliziert, dass die Daten für eine bestimmte Zeitspanne auf einem öffentlichen und ggf.  unsicheren Verbindungskanal befindlich sind. Zur Wahrung von Integrität  und Vertraulichkeit müssen daher Mechanismen im Hinblick auf die Ver- und Entschlüsselung von Daten angewendet werden.

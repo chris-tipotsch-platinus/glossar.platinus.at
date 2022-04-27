@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Ressourcenkalender",
+  "id": "Glossar/R-Glossar/Ressourcenkalender",
+  "title": "Ressourcenkalender",
+  "description": "",
+  "source": "@site/docs/Glossar/R-Glossar/Ressourcenkalender.md",
+  "sourceDirName": "Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Ressourcenkalender",
+  "permalink": "/docs/Glossar/R-Glossar/Ressourcenkalender",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/R-Glossar/Ressourcenkalender.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektrollen Home",
+    "permalink": "/docs/Glossar/R-Glossar/Projektrollen Home"
+  },
+  "next": {
+    "title": "Projektrisiko",
+    "permalink": "/docs/Glossar/R-Glossar/Risiko-Projektrisiko"
+  }
+}

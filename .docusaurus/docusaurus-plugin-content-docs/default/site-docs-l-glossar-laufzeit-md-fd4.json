@@ -1,0 +1,34 @@
+{
+  "unversionedId": "L-Glossar/Laufzeit",
+  "id": "L-Glossar/Laufzeit",
+  "title": "Laufzeit",
+  "description": "MIPS",
+  "source": "@site/docs/L-Glossar/Laufzeit.md",
+  "sourceDirName": "L-Glossar",
+  "slug": "/L-Glossar/Laufzeit",
+  "permalink": "/docs/L-Glossar/Laufzeit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/L-Glossar/Laufzeit.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Laufzeit",
+    "titel": "Laufzeit",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Latenz",
+    "permalink": "/docs/L-Glossar/Latenz"
+  },
+  "next": {
+    "title": "MTTR - Mittlere Reparaturzeit",
+    "permalink": "/docs/M-Glossar/MTTR"
+  }
+}

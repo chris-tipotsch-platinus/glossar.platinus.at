@@ -1,0 +1,28 @@
+{
+  "unversionedId": "P-Glossar/PM-Paradigmen",
+  "id": "P-Glossar/PM-Paradigmen",
+  "title": "PM-Paradigmen",
+  "description": "Ein Paradigma (Plural: Paradigmen ) ist eine grundsätzliche Denkweise.",
+  "source": "@site/docs/P-Glossar/PM-Paradigma.md",
+  "sourceDirName": "P-Glossar",
+  "slug": "/P-Glossar/PM-Paradigmen",
+  "permalink": "/docs/P-Glossar/PM-Paradigmen",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/P-Glossar/PM-Paradigma.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "PM-Paradigmen",
+    "title": "PM-Paradigmen",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Source Software",
+    "permalink": "/docs/O-Glossar/Open-Source-Software"
+  },
+  "next": {
+    "title": "PaaS",
+    "permalink": "/docs/P-Glossar/PaaS"
+  }
+}

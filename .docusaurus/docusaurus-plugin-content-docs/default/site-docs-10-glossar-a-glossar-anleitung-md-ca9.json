@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/A-Glossar/Anleitung",
+  "id": "Glossar/A-Glossar/Anleitung",
+  "title": "Anleitung",
+  "description": "Anleitungen haben im Gegensatz zu Arbeitsanweisungen* keinen anweisenden Charakter, sondern stellen unverbindliche Arbeitshilfen dar, die nicht zwingend einzuhalten sind.",
+  "source": "@site/docs/10-Glossar/A-Glossar/Anleitung.md",
+  "sourceDirName": "10-Glossar/A-Glossar",
+  "slug": "/Glossar/A-Glossar/Anleitung",
+  "permalink": "/docs/Glossar/A-Glossar/Anleitung",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anleitung.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Anleitung",
+    "titel": "Anleitung",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Anforderungen - Requirements",
+    "permalink": "/docs/Glossar/A-Glossar/Anforderungen"
+  },
+  "next": {
+    "title": "Anweisung - Arbeitsanweisungen",
+    "permalink": "/docs/Glossar/A-Glossar/Anweisung"
+  }
+}

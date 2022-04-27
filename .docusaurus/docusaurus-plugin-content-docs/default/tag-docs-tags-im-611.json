@@ -1,0 +1,223 @@
+{
+  "name": "IM",
+  "permalink": "/docs/tags/im",
+  "docs": [
+    {
+      "id": "Glossar/B-Glossar/Bedarf",
+      "title": "Bedarf - Demand",
+      "description": "Ein Bedarf ist eine Problem, das zu lösen ist, oder eine Chance, die wahrzunehmen ist. Der Bedarf kann Changes auslösen, wenn Stakeholder zum Handeln motiviert werden. Changes können auch einen Bedarf auslösen, wenn durch sie der Nutzen bestehender Lösungen vermindert oder erhöht wird.",
+      "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+    },
+    {
+      "id": "Glossar/B-Glossar/Benutzer",
+      "title": "Benutzer - User",
+      "description": "Ein User ist ein Benutzer, Anwender oder Endanwender, der einen Computer, ein Smartphone oder ein anderes elektronisches oder telekommunikationstechnisches Gerät und seine Anwendungsprogramme benutzt.",
+      "permalink": "/docs/Glossar/B-Glossar/Benutzer"
+    },
+    {
+      "id": "Glossar/B-Glossar/Besucher",
+      "title": "Besucher - Visitor",
+      "description": "Visitors nennt man die Besucher einer Website. Man unterscheidet dabei zwischen normalen und einmaligen Besuchern, den Unique Visitors, sowie den nichtregistrierten und den registrierten Besuchern.",
+      "permalink": "/docs/Glossar/B-Glossar/Besucher"
+    },
+    {
+      "id": "Glossar/B-Glossar/Betriebszeit",
+      "title": "Betriebszeit",
+      "description": "Bei der Betriebszeit, Uptime handelt es sich um die Zeit, die ein Computer oder IT- System verfügbar und betriebsbereit ist.",
+      "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
+    },
+    {
+      "id": "Glossar/C-Glossar/CaaS",
+      "title": "CaaS - Container-as-a-Service",
+      "description": "Mit Container-as-a-Service, einem Service-Modell auf dem Cloud-Computing-Markt, stehen  Container-Plattformen als gehostete Komplettlösungen über die Cloud zur Verfügung.",
+      "permalink": "/docs/Glossar/C-Glossar/CaaS"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dashboard",
+      "title": "Dashboard",
+      "description": "Ein Dashboard bietet einen Überblick über die wichtigsten Leistungsindikatoren (KPIs), die für ein bestimmtes Ziel relevant sind.",
+      "permalink": "/docs/Glossar/D-Glossar/Dashboard"
+    },
+    {
+      "id": "Glossar/D-Glossar/Diataxis-Framework",
+      "title": "Diataxis Framework",
+      "description": "A systematic framework for technical documentation authoring.",
+      "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dienstguete",
+      "title": "Dienstgüte - Quality of Service (QoS)",
+      "description": "QoS",
+      "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
+      "title": "Dienstgütevereinbarung - Service Level Agreement",
+      "description": "SLA",
+      "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
+    },
+    {
+      "id": "Glossar/D-Glossar/Doc-as-Code",
+      "title": "Documentation-as-Code",
+      "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
+      "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
+      "title": "Dokumentationslebenzyklus",
+      "description": "Technische Dokumentation im Produktlebenszyklus",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationsmanagement",
+      "title": "Dokumentationsmanagement",
+      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentenmanagement",
+      "title": "Dokumentenmanagement",
+      "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um elektronische Dokumente handeln. Im Fokus stehen die operativen Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    },
+    {
+      "id": "Glossar/F-Glossar/Funktionalität",
+      "title": "Funktionalität - Utility",
+      "description": "Funktionalität ist die Menge der Fähigkeiten, die mit einem Produkt oder einer Dienstleistung verbunden sind. In einem IT-Kontext ist es die Fähigkeit eines Programms oder Anwendungssystems, eine Funktion zur Ausführung einer Reihe von Benutzeraufgaben bereitzustellen. Funktionalität ist der besondere Gebrauch oder die Menge an Verwendungen, für die etwas konzipiert ist.",
+      "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+    },
+    {
+      "id": "Glossar/H-Glossar/Hochverfuegbarkeit",
+      "title": "Hochverfügbarkeit - High Availability",
+      "description": "Hochverfügbarkeit",
+      "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+    },
+    {
+      "id": "Glossar/H-Glossar/Hosting",
+      "title": "Hosting",
+      "description": "Host-Discovery bezeichnet Maßnahmen und Methoden, um alle erreichbaren Systeme in einem Netzwerk zu identifizieren.",
+      "permalink": "/docs/Glossar/H-Glossar/Hosting"
+    },
+    {
+      "id": "Glossar/H-Glossar/HTTPS",
+      "title": "HTTPS",
+      "description": "HTTPS steht für Hypertext Transfer Protocol Secure und ist eine verschlüsselte Form des HTTP. Dieses dient der Übertragung von Daten in einem Netzwerk und stellt in gewisser Weise die Sprache von Servern und  Clients in einem Netzwerk dar. Genutzt werden HTTP und HTTPS vor allem im Internet zur Kommunikation zwischen Webserver und Computer. Nötig sind beide, damit die in einem Netzwerk verbundenen Rechner über eine  einheitliche Sprache verfügen und Befehle eindeutig interpretiert werden können. Im Gegensatz zu HTTP ist die Sprache in Hypertext Transfer  Protocol Secure verschlüsselt.",
+      "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+    },
+    {
+      "id": "Glossar/I-Glossar/IaaS",
+      "title": "IaaS",
+      "description": "Die Abkürzung IaaS steht für „Infrastructure as a Service“. Als Teil  des Cloud-Computing haben Kunden bei diesem Angebot die Möglichkeit jegliche benötigte Rechnerinfrastruktur bedarfsgerecht zu mieten. Statt  Rechenleistung, Speicherplatz oder Software klassisch zu erwerben, werden nur die Leistungen und Kapazitäten bezahlt, die auch tatsächlich genutzt werden. Anbieter dieser Dienstleistung sind große Rechenzentren. Daher bietet IaaS dem Kunden zahlreiche Vorteile. Unterhalt und Wartung übernimmt der Anbieter. Im Rechenzentrum stehen dazu rund um die Uhr  hochqualifizierte Techniker zur Verfügung. Das Risiko von  Systemausfällen wird minimiert. Glasfaserleitungen sorgen für schnelle  Verbindungen und die hohen Sicherheitsstandards minimieren das Risiko, sensible Daten zu verlieren. Jede einzelne Cloud ist durch eine separate Firewall geschützt.",
+      "permalink": "/docs/Glossar/I-Glossar/IaaS"
+    },
+    {
+      "id": "Glossar/I-Glossar/Informationsqualitaet",
+      "title": "Informationsqualität",
+      "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
+      "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
+    },
+    {
+      "id": "Glossar/I-Glossar/Intranet",
+      "title": "Intranet",
+      "description": "Ein nicht-öffentliches Rechnernetz, das nur einem begrenzten Nutzerkreis zugänglich ist, trägt die Bezeichnung Intranet. Der Begriff setzt sich aus dem lateinischen Wort „intra“ mit der Bedeutung  „innerhalb“ und dem englischen „net“ für „Netz“ zusammen. Anders als  lokal begrenzte Netze wie ein Global Area Network oder ein Local Area  Network sagt der Begriff Intranet nichts über den Standort des  Netzwerkes aus. Globale Unternehmen betreiben ein internes Rechnernetz,  das den gesamten Globus umspannt.",
+      "permalink": "/docs/Glossar/I-Glossar/Intranet"
+    },
+    {
+      "id": "Glossar/I-Glossar/IPS",
+      "title": "IPS",
+      "description": "IPS steht für Intrusion Prevention System und ist ein wichtiger Bestandteil der Sicherheit in einem Computernetzwerk. Es dient der  Verhinderung von Angriffen durch zu hohen Traffic oder Schadsoftware.  Hierfür überwacht ein Algorithmus den Datenverkehr im Netzwerk und  untersucht ihn hinsichtlich Anomalien. Werden Anomalien festgestellt,  wird der entsprechende Datenverkehr blockiert.",
+      "permalink": "/docs/Glossar/I-Glossar/IPS"
+    },
+    {
+      "id": "Glossar/I-Glossar/IT-Service",
+      "title": "IT-Service",
+      "description": "An IT-Service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
+      "permalink": "/docs/Glossar/I-Glossar/IT-Service"
+    },
+    {
+      "id": "Glossar/I-Glossar/IT-Sicherheit",
+      "title": "IT-Sicherheit",
+      "description": "Die IT-Sicherheit beschäftigt sich mit den technischen Maßnahmen, die für einen sicheren (Cloud-)-IT-Betrieb vorgenommen werden müssen. Schutzziele sind beispielsweise Vertraulichkeit, Integrität oder Authentizität. Eine sichere Nutzung lässt sich dabei nur gewährleisten, wenn Konsument, Anbieter und die zwischen ihnen herrschende Verbindung ganzheitlich geschützt sind.",
+      "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit"
+    },
+    {
+      "id": "Glossar/L-Glossar/Latenz",
+      "title": "Latenz",
+      "description": "Der Begriff Latenz, Latency, wird synonym für Verzögerungszeit verwendet. Im Allgemeinen handelt es sich um das Zeitintervall vom Ende eines Ereignisses oder Befehls bis zum Beginn der Reaktion auf dieses Ereignis oder wie bei der Computational Latency um das Ergebnis der Aufgabe.",
+      "permalink": "/docs/Glossar/L-Glossar/Latenz"
+    },
+    {
+      "id": "Glossar/L-Glossar/Laufzeit",
+      "title": "Laufzeit",
+      "description": "MIPS",
+      "permalink": "/docs/Glossar/L-Glossar/Laufzeit"
+    },
+    {
+      "id": "Glossar/O-Glossar/Open-Source-Software",
+      "title": "Open Source Software",
+      "description": "SW",
+      "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+    },
+    {
+      "id": "Glossar/O-Glossar/Outtasking",
+      "title": "Outtasking",
+      "description": "Das Outtasking ist eine besondere Form des Outsourcings. Beim klassischen Outsourcing geben Unternehmen komplette Aufgabenkomplexe und Strukturen an interne oder externe Dienstleister ab. Dagegen geben die  Auftraggeber beim Outtasking lediglich einzelne Aufgabenbereiche  (Englisch „tasks“) an Dienstleister ab. Diese Form der Arbeitsvergabe  wird immer beliebter und hat zahlreiche Vorteile gegenüber dem  Outsourcing.",
+      "permalink": "/docs/Glossar/O-Glossar/Outtasking"
+    },
+    {
+      "id": "Glossar/S-Glossar/SaaS",
+      "title": "SaaS - Software-as-a-Service",
+      "description": "SaaS ist die Abkürzung für „Software-as-a-Service“. Der Begriff  beschreibt eine Dienstleistung, die es Nutzern ermöglicht, benötigte Software aus dem Internet herunterzuladen. Damit steht SaaS in einem  engen Zusammenhang mit Software on Demand und wird im Rahmen des Cloud Computing von Cloud-Providern angeboten. Das Konzept, Software nur bei  Bedarf aus dem Internet zu laden, erspart Unternehmen und Privatpersonen hohe Speicherkapazitäten. Noch größer ist die Ersparnis an  Speicherplatz, wenn die Software direkt im Internet und somit auf dem  Server des bereitstellenden Unternehmens genutzt wird. Anbieter von SaaS sind Application-Service-Providern sehr nahe und die Übergänge zwischen den verschiedenen Serviceleistungen verlaufen meist übergangslos.",
+      "permalink": "/docs/Glossar/S-Glossar/SaaS"
+    },
+    {
+      "id": "Glossar/S-Glossar/Software",
+      "title": "Software",
+      "description": "SW",
+      "permalink": "/docs/Glossar/S-Glossar/Software"
+    },
+    {
+      "id": "Glossar/S-Glossar/Stakeholder",
+      "title": "Stakeholder",
+      "description": "------",
+      "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
+    },
+    {
+      "id": "Glossar/S-Glossar/Standardsoftware",
+      "title": "Standardsoftware",
+      "description": "SW",
+      "permalink": "/docs/Glossar/S-Glossar/Standardsoftware"
+    },
+    {
+      "id": "Glossar/S-Glossar/Systemsoftware",
+      "title": "Systemsoftware",
+      "description": "SW",
+      "permalink": "/docs/Glossar/S-Glossar/Systemsoftware"
+    },
+    {
+      "id": "Glossar/V-Glossar/Verfuegbarkeit",
+      "title": "Verfügbarkeit - Availability",
+      "description": "Verfügbarkeit",
+      "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit"
+    },
+    {
+      "id": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
+      "title": "Verfügbarkeitsklassen",
+      "description": "Klassifizierung von hochverfügbaren Systemen",
+      "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+    },
+    {
+      "id": "Glossar/V-Glossar/Virtualisierung",
+      "title": "Virtualisierung",
+      "description": "Was ist Virtualisierung?",
+      "permalink": "/docs/Glossar/V-Glossar/Virtualisierung"
+    },
+    {
+      "id": "Glossar/V-Glossar/VPN",
+      "title": "VPN - Virtual Private Network",
+      "description": "VPN steht für „Virtual Private Network“, auf Deutsch das virtuelle private Netzwerk. Das konventionelle VPN ist ein eigenständiges Netz, das eingekapselt in einem anderen Netz liegt. ISDN ist ein Beispiel für einen derart gestalteten Aufbau. Das ISDN-Netzwerk liegt innerhalb des allgemeinen Wählnetzes. Das aktuelle VPN ist das IP-Netz, das zumeist innerhalb des öffentlichen Internets ein in sich geschlossenes Teilnetz  bildet. Dieses bettet sich ein und nutzt die dortigen Adressierungsmethoden. Es werden jedoch eigene Netzwerkpakete  transportiert, die die Client Software in Protokolle packt, welche  unabhängig vom Inhalt separat adressierbar sind. Das Gateway entpackt  die Pakete wieder. Zusätzlich bietet das VPN die Option der  Verschlüsselung. Eine geschützte Verbindung entsteht in einem unsicheren Netz.",
+      "permalink": "/docs/Glossar/V-Glossar/VPN"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

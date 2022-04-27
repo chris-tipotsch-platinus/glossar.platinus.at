@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Glossar/K-Glossar/Kanban",
+  "id": "Glossar/K-Glossar/Kanban",
+  "title": "Kanban",
+  "description": "",
+  "source": "@site/docs/Glossar/K-Glossar/Kanban.md",
+  "sourceDirName": "Glossar/K-Glossar",
+  "slug": "/Glossar/K-Glossar/Kanban",
+  "permalink": "/docs/Glossar/K-Glossar/Kanban",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/K-Glossar/Kanban.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intranet",
+    "permalink": "/docs/Glossar/I-Glossar/Intranet"
+  },
+  "next": {
+    "title": "Lean Management",
+    "permalink": "/docs/Glossar/L-Glossar/Lean-Management"
+  }
+}

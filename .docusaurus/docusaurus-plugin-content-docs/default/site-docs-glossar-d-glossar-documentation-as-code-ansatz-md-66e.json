@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Documentation-as-Code Ansatz",
+  "id": "Glossar/D-Glossar/Documentation-as-Code Ansatz",
+  "title": "Documentation-as-Code Ansatz",
+  "description": "Mit dem Ansatz Im selben Texteditor oder einer IDE (integrated  development environment), als reiner Text, versioniert im  Software-Repository (meist GIT oder Github). Mergen und branchen Sie Dokumentation genau wie  Quellcode. Statt binäre Dokumente per E-Mail zu versenden und  Versionsnummern und Namenskürzel an die Dateinamen zu hängen, checken  Sie Ihre Dokumentation per Commit und Push in GIT ein, mit derselben  Branching-Strategie, mit der auch die Software entwickelt wird. Dann  verschwindet für das Entwicklungsteams das erste der oben genannten  Probleme (nämlich die ungeeigneten Werkzeuge), und die Motivation zur  Erstellung und Pflege von Dokumentation wird durch eine klar definierte  Dokumentationsstruktur auch gleich besser. Mit diesem Ansatz kann ein  breites Spektrum technischer Dokumentation von Software abdecken,  beispielsweise Architekturdokumentation, Entwicklerdokumentation bei der Lösungsentwicklung oder auch zahlreiche Betriebsdokumentation. Für  diesen Ansatz hat sich im Netz der Begriff Docs-as-Code etabliert – also Dokumentation genauso wie Quellcode behandeln.",
+  "source": "@site/docs/Glossar/D-Glossar/Documentation-as-Code Ansatz.md",
+  "sourceDirName": "Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Documentation-as-Code Ansatz",
+  "permalink": "/docs/Glossar/D-Glossar/Documentation-as-Code Ansatz",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/D-Glossar/Documentation-as-Code Ansatz.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Documentation-as-Code Ansatz",
+    "titel": "Documentation-as-Code Ansatz",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dienstgütevereinbarung",
+    "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
+  },
+  "next": {
+    "title": "Dokumentationsmanagement",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+  }
+}

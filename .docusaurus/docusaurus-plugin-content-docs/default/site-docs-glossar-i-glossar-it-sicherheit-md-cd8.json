@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/I-Glossar/IT-Sicherheit",
+  "id": "Glossar/I-Glossar/IT-Sicherheit",
+  "title": "IT-Sicherheit",
+  "description": "Die IT-Sicherheit beschäftigt sich mit den technischen Maßnahmen, die für einen sicheren (Cloud-)-IT-Betrieb vorgenommen werden müssen. Schutzziele sind beispielsweise Vertraulichkeit, Integrität oder Authentizität. Eine sichere Nutzung lässt sich dabei nur gewährleisten, wenn Konsument, Anbieter und die zwischen ihnen herrschende Verbindung ganzheitlich geschützt sind.",
+  "source": "@site/docs/Glossar/I-Glossar/IT-Sicherheit.md",
+  "sourceDirName": "Glossar/I-Glossar",
+  "slug": "/Glossar/I-Glossar/IT-Sicherheit",
+  "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/I-Glossar/IT-Sicherheit.md",
+  "tags": [
+    {
+      "label": "IT-Glossar",
+      "permalink": "/docs/tags/it-glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "IT-Sicherheit",
+    "sidebar_position": 1,
+    "titel": "IT-Sicherheit",
+    "tags": [
+      "IT-Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT-Service",
+    "permalink": "/docs/Glossar/I-Glossar/IT-Service"
+  },
+  "next": {
+    "title": "IaaS",
+    "permalink": "/docs/Glossar/I-Glossar/IaaS"
+  }
+}

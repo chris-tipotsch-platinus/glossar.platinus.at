@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/I-Glossar/IPS",
+  "id": "Glossar/I-Glossar/IPS",
+  "title": "IPS",
+  "description": "IPS steht für Intrusion Prevention System und ist ein wichtiger Bestandteil der Sicherheit in einem Computernetzwerk. Es dient der  Verhinderung von Angriffen durch zu hohen Traffic oder Schadsoftware.  Hierfür überwacht ein Algorithmus den Datenverkehr im Netzwerk und  untersucht ihn hinsichtlich Anomalien. Werden Anomalien festgestellt,  wird der entsprechende Datenverkehr blockiert.",
+  "source": "@site/docs/10-Glossar/I-Glossar/IPS.md",
+  "sourceDirName": "10-Glossar/I-Glossar",
+  "slug": "/Glossar/I-Glossar/IPS",
+  "permalink": "/docs/Glossar/I-Glossar/IPS",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IPS.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "IPS",
+    "title": "IPS",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Hosting",
+    "permalink": "/docs/Glossar/H-Glossar/Hosting"
+  },
+  "next": {
+    "title": "IT-Service",
+    "permalink": "/docs/Glossar/I-Glossar/IT-Service"
+  }
+}

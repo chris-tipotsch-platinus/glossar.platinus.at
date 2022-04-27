@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Rechenzentrum",
+  "id": "Glossar/R-Glossar/Rechenzentrum",
+  "title": "Rechenzentrum",
+  "description": "Mit Rechenzentrum (kurz: RZ; oder auch Datacenter) bezeichnet man sowohl das Gebäude als auch die Räumlichkeiten, in denen die zentrale Rechentechnik (z. B. Rechner, aber auch die zum Betrieb notwendige Infrastruktur) einer oder mehrerer Unternehmen bzw. Organisationen untergebracht ist, als auch die Organisation selbst, die sich um diese Computer kümmert. Ihr kommt damit eine zentrale Bedeutung in der Nutzung von IT in Unternehmen, Verwaltungen oder anderen Institutionen zu. Regeln für technisch-organisatorische Maßnahmen, den Aufbau und Betrieb von Rechenzentren sind in der DIN EN 50600 beschrieben.",
+  "source": "@site/docs/Glossar/R-Glossar/Rechenzentrum.md",
+  "sourceDirName": "Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Rechenzentrum",
+  "permalink": "/docs/Glossar/R-Glossar/Rechenzentrum",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/R-Glossar/Rechenzentrum.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Rechenzentrum",
+    "title": "Rechenzentrum",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prozessreifegradmodelle",
+    "permalink": "/docs/Glossar/P-Glossar/Prozessreifegradmodelle"
+  },
+  "next": {
+    "title": "Recovery",
+    "permalink": "/docs/Glossar/R-Glossar/Recovery"
+  }
+}

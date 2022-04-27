@@ -1,0 +1,41 @@
+{
+  "unversionedId": "Glossar/BPM-Begriffe",
+  "id": "Glossar/BPM-Begriffe",
+  "title": "BPM-Begriffe",
+  "description": "------",
+  "source": "@site/docs/Glossar/00-BPM-Begriffe.md",
+  "sourceDirName": "Glossar",
+  "slug": "/Glossar/BPM-Begriffe",
+  "permalink": "/docs/Glossar/BPM-Begriffe",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/00-BPM-Begriffe.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "BPM-Begriffe",
+    "title": "BPM-Begriffe",
+    "sidebar_position": 10,
+    "tags": [
+      "Begriffe",
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fehlertoleranz",
+    "permalink": "/docs/F-Glossar/Fehlertoleranz"
+  },
+  "next": {
+    "title": "ABPMPI",
+    "permalink": "/docs/Glossar/A-Glossar/ABPMPI"
+  }
+}

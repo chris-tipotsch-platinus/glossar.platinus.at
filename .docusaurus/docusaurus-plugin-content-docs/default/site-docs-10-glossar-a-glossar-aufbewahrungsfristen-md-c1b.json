@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/A-Glossar/Aufbewahrungsfristen",
+  "id": "Glossar/A-Glossar/Aufbewahrungsfristen",
+  "title": "Aufbewahrungsfristen",
+  "description": "Gesetzliche Vorschriften für Aufbewahrungsfristen",
+  "source": "@site/docs/10-Glossar/A-Glossar/Aufbewahrungsfristen.md",
+  "sourceDirName": "10-Glossar/A-Glossar",
+  "slug": "/Glossar/A-Glossar/Aufbewahrungsfristen",
+  "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufbewahrungsfristen.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Aufbewahrungsfristen",
+    "titel": "Aufbewahrungsfristen",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "IT-Asset",
+    "permalink": "/docs/Glossar/A-Glossar/Asset"
+  },
+  "next": {
+    "title": "Aufzeichnungen",
+    "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungen"
+  }
+}

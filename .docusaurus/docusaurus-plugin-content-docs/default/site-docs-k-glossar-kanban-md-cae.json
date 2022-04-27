@@ -1,0 +1,23 @@
+{
+  "unversionedId": "K-Glossar/Kanban",
+  "id": "K-Glossar/Kanban",
+  "title": "Kanban",
+  "description": "",
+  "source": "@site/docs/K-Glossar/Kanban.md",
+  "sourceDirName": "K-Glossar",
+  "slug": "/K-Glossar/Kanban",
+  "permalink": "/docs/K-Glossar/Kanban",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/K-Glossar/Kanban.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intranet",
+    "permalink": "/docs/I-Glossar/Intranet"
+  },
+  "next": {
+    "title": "Lean Management",
+    "permalink": "/docs/L-Glossar/Lean-Management"
+  }
+}

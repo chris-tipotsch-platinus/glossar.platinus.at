@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.A-Glossar": {
+    "message": "A-Glossar",
+    "description": "The label for category A-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.B-Glossar": {
+    "message": "B-Glossar",
+    "description": "The label for category B-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.C-Glossar": {
+    "message": "C-Glossar",
+    "description": "The label for category C-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.D-Glossar": {
+    "message": "D-Glossar",
+    "description": "The label for category D-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.E-Glossar": {
+    "message": "E-Glossar",
+    "description": "The label for category E-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.F-Glossar": {
+    "message": "F-Glossar",
+    "description": "The label for category F-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.H-Glossar": {
+    "message": "H-Glossar",
+    "description": "The label for category H-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I-Glossar": {
+    "message": "I-Glossar",
+    "description": "The label for category I-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.K-Glossar": {
+    "message": "K-Glossar",
+    "description": "The label for category K-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.L-Glossar": {
+    "message": "L-Glossar",
+    "description": "The label for category L-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.M-Glossar": {
+    "message": "M-Glossar",
+    "description": "The label for category M-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.N-Glossar": {
+    "message": "N-Glossar",
+    "description": "The label for category N-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.O-Glossar": {
+    "message": "O-Glossar",
+    "description": "The label for category O-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.P-Glossar": {
+    "message": "P-Glossar",
+    "description": "The label for category P-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.R-Glossar": {
+    "message": "R-Glossar",
+    "description": "The label for category R-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.S-Glossar": {
+    "message": "S-Glossar",
+    "description": "The label for category S-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.U-Glossar": {
+    "message": "U-Glossar",
+    "description": "The label for category U-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.V-Glossar": {
+    "message": "V-Glossar",
+    "description": "The label for category V-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.W-Glossar": {
+    "message": "W-Glossar",
+    "description": "The label for category W-Glossar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Z-Glossar": {
+    "message": "Z-Glossar",
+    "description": "The label for category Z-Glossar in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "I-Glossar/Informationsicherheit",
+  "id": "I-Glossar/Informationsicherheit",
+  "title": "Informationsicherheit",
+  "description": "Als Informationssicherheit bezeichnet man Eigenschaften von technischen oder nicht-technischen Systemen zur Informationsverarbeitung, -speicherung und -lagerung, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität) sicherstellen. Informationssicherheit dient dem Schutz vor Gefahren bzw. Bedrohungen, der Vermeidung von wirtschaftlichen Schäden und der Minimierung von Risiken.",
+  "source": "@site/docs/I-Glossar/Informationssicherheit.md",
+  "sourceDirName": "I-Glossar",
+  "slug": "/I-Glossar/Informationsicherheit",
+  "permalink": "/docs/I-Glossar/Informationsicherheit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/I-Glossar/Informationssicherheit.md",
+  "tags": [
+    {
+      "label": "IT-Glossar",
+      "permalink": "/docs/tags/it-glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Informationsicherheit",
+    "sidebar_position": 1,
+    "titel": "Informationsicherheit",
+    "tags": [
+      "IT-Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Informationsqualität",
+    "permalink": "/docs/I-Glossar/Informationsqualitaet"
+  },
+  "next": {
+    "title": "Interoperabilität",
+    "permalink": "/docs/I-Glossar/Interoperabilitaet"
+  }
+}

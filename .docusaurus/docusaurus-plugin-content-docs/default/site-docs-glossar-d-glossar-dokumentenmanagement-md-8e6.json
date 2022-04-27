@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentenmanagement",
+  "id": "Glossar/D-Glossar/Dokumentenmanagement",
+  "title": "Dokumentenmanagement",
+  "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um  elektronische Dokumente handeln. Im Fokus stehen die operativen  Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
+  "source": "@site/docs/Glossar/D-Glossar/Dokumentenmanagement.md",
+  "sourceDirName": "Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentenmanagement",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/D-Glossar/Dokumentenmanagement.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentenmanagement",
+    "titel": "Dokumentenmanagement",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dokumentationsmanagement",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+  },
+  "next": {
+    "title": "Einfluss",
+    "permalink": "/docs/Glossar/E-Glossar/Einfluss"
+  }
+}

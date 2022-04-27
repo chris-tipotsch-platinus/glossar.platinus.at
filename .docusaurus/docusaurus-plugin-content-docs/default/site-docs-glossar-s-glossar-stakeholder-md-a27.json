@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Stakeholder",
+  "id": "Glossar/S-Glossar/Stakeholder",
+  "title": "Stakeholder",
+  "description": "------",
+  "source": "@site/docs/Glossar/S-Glossar/Stakeholder.md",
+  "sourceDirName": "Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Stakeholder",
+  "permalink": "/docs/Glossar/S-Glossar/Stakeholder",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/S-Glossar/Stakeholder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Stakeholder",
+    "title": "Stakeholder",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT-Serviceportfolio",
+    "permalink": "/docs/Glossar/S-Glossar/Serviceportfolio"
+  },
+  "next": {
+    "title": "Stakeholder",
+    "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
+  }
+}

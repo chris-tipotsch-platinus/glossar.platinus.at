@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "id": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "title": "Verfügbarkeitsklassen",
+  "description": "Klassifizierung von hochverfügbaren Systemen",
+  "source": "@site/docs/10-Glossar/V-Glossar/Verfuegbarkeitsklassen.md",
+  "sourceDirName": "10-Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Verfuegbarkeitsklassen.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Verfuegbarkeitsklassen",
+    "titel": "Verfügbarkeitsklassen",
+    "tags": [
+      "Begriff",
+      "IM",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Verfügbarkeit - Availability",
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit"
+  },
+  "next": {
+    "title": "Virtualisierung",
+    "permalink": "/docs/Glossar/V-Glossar/Virtualisierung"
+  }
+}

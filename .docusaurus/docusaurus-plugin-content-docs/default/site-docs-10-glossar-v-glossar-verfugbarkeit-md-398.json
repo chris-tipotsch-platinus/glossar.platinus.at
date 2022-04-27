@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/V-Glossar/Verfuegbarkeit",
+  "id": "Glossar/V-Glossar/Verfuegbarkeit",
+  "title": "Verfügbarkeit",
+  "description": "MIPS",
+  "source": "@site/docs/10-Glossar/V-Glossar/Verfügbarkeit.md",
+  "sourceDirName": "10-Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/Verfuegbarkeit",
+  "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Verfügbarkeit.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Verfuegbarkeit",
+    "titel": "Verfügbarkeit",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Verfügbarkeitsklassen",
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+  },
+  "next": {
+    "title": "Virtualisierung",
+    "permalink": "/docs/Glossar/V-Glossar/Virtualisierung"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/M-Glossar/Markdown",
+  "id": "Glossar/M-Glossar/Markdown",
+  "title": "Markdown",
+  "description": "Markdown is a way to style text on the web.",
+  "source": "@site/docs/Glossar/M-Glossar/Markdown.md",
+  "sourceDirName": "Glossar/M-Glossar",
+  "slug": "/Glossar/M-Glossar/Markdown",
+  "permalink": "/docs/Glossar/M-Glossar/Markdown",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/M-Glossar/Markdown.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Web",
+      "permalink": "/docs/tags/web"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Markdown",
+    "titel": "Markdown",
+    "tags": [
+      "Begriffe",
+      "Web"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Major-Risk",
+    "permalink": "/docs/Glossar/M-Glossar/Major-Risk"
+  },
+  "next": {
+    "title": "Netzwerksicherheit",
+    "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+  }
+}

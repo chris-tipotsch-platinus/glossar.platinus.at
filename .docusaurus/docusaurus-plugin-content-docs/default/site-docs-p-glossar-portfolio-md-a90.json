@@ -1,0 +1,36 @@
+{
+  "unversionedId": "P-Glossar/Portfolio",
+  "id": "P-Glossar/Portfolio",
+  "title": "Portfolio",
+  "description": "Nach ITILv4 ist eine Portfolio: \"A collection of assets into which an organization chooses to invest its resources in order to receive the best return.\"",
+  "source": "@site/docs/P-Glossar/Portfolio.md",
+  "sourceDirName": "P-Glossar",
+  "slug": "/P-Glossar/Portfolio",
+  "permalink": "/docs/P-Glossar/Portfolio",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/P-Glossar/Portfolio.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Portfolio",
+    "title": "Portfolio",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PaaS",
+    "permalink": "/docs/P-Glossar/PaaS"
+  },
+  "next": {
+    "title": "Preismodell",
+    "permalink": "/docs/P-Glossar/Preismodell"
+  }
+}

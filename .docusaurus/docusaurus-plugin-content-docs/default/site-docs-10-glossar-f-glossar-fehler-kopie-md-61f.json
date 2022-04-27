@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/F-Glossar/Fehler",
+  "id": "Glossar/F-Glossar/Fehler",
+  "title": "Fehler",
+  "description": "Fehler sind Abweichungen eines Ist-Zustands von einer vorgegebenen Norm oder einem Soll-Zustand.",
+  "source": "@site/docs/10-Glossar/F-Glossar/Fehler (Kopie).md",
+  "sourceDirName": "10-Glossar/F-Glossar",
+  "slug": "/Glossar/F-Glossar/Fehler",
+  "permalink": "/docs/Glossar/F-Glossar/Fehler",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Fehler (Kopie).md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Fehler",
+    "titel": "Fehler",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Empowerment - Ermächtigung",
+    "permalink": "/docs/Glossar/E-Glossar/Empowerment"
+  },
+  "next": {
+    "title": "Fehler",
+    "permalink": "/docs/Glossar/F-Glossar/Fehler"
+  }
+}

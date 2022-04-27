@@ -1,0 +1,23 @@
+{
+  "unversionedId": "M-Glossar/Major-Risk",
+  "id": "M-Glossar/Major-Risk",
+  "title": "Major-Risk",
+  "description": "",
+  "source": "@site/docs/M-Glossar/Major-Risk.md",
+  "sourceDirName": "M-Glossar",
+  "slug": "/M-Glossar/Major-Risk",
+  "permalink": "/docs/M-Glossar/Major-Risk",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/M-Glossar/Major-Risk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MTBF - Mittlere Betriebszeit",
+    "permalink": "/docs/M-Glossar/MTBF"
+  },
+  "next": {
+    "title": "Markdown",
+    "permalink": "/docs/M-Glossar/Markdown"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "unversionedId": "P-Glossar/Prozessreifegrad",
+  "id": "P-Glossar/Prozessreifegrad",
+  "title": "Prozessreifegrad",
+  "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist. Je nach Reifegradmodell werden hierzu unterschiedliche Kriterien bzw. Geschäftsprozess-Reifegrad-Checklisten zur zeitpunktbezogenen Beurteilung herangezogen. Je nachdem, wie gut die einzelnen Kriterien erfüllt sind, wird für das betrachtete Unternehmen (organisationsweiter Reifegrad als Mittel aller Prozesse)  bzw. den untersuchten Prozess (Einzelprozessreifegrad) ein bestimmter Reifegrad festgelegt. Je besser die einzelnen Kriterien erfüllt sind,  desto höher der Reifegrad.",
+  "source": "@site/docs/P-Glossar/Prozessreifegrad.md",
+  "sourceDirName": "P-Glossar",
+  "slug": "/P-Glossar/Prozessreifegrad",
+  "permalink": "/docs/P-Glossar/Prozessreifegrad",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/P-Glossar/Prozessreifegrad.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Prozessreifegrad",
+    "titel": "Prozessreifegrad",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Performance",
+    "permalink": "/docs/P-Glossar/Performance"
+  },
+  "next": {
+    "title": "Prozessreifegradmodelle",
+    "permalink": "/docs/P-Glossar/Prozessreifegradmodelle"
+  }
+}

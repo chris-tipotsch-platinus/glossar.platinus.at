@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Glossar/M-Glossar/Major-Risk",
+  "id": "Glossar/M-Glossar/Major-Risk",
+  "title": "Major-Risk",
+  "description": "",
+  "source": "@site/docs/Glossar/M-Glossar/Major-Risk.md",
+  "sourceDirName": "Glossar/M-Glossar",
+  "slug": "/Glossar/M-Glossar/Major-Risk",
+  "permalink": "/docs/Glossar/M-Glossar/Major-Risk",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/M-Glossar/Major-Risk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MTBF - Mittlere Betriebszeit",
+    "permalink": "/docs/Glossar/M-Glossar/MTBF"
+  },
+  "next": {
+    "title": "Markdown",
+    "permalink": "/docs/Glossar/M-Glossar/Markdown"
+  }
+}

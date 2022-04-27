@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/M-Glossar/MTTR",
+  "id": "Glossar/M-Glossar/MTTR",
+  "title": "MTTR - Mittlere Reparaturzeit",
+  "description": "Die Mean Time to Repair (MTTR) oder Mean Time to Recover (MTTR) ist die mittlere Reparaturzeit oder Wiederherstellzeit.",
+  "source": "@site/docs/10-Glossar/M-Glossar/MTBF.md",
+  "sourceDirName": "10-Glossar/M-Glossar",
+  "slug": "/Glossar/M-Glossar/MTTR",
+  "permalink": "/docs/Glossar/M-Glossar/MTTR",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/MTBF.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "MTTR",
+    "titel": "MTTR",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/docs/Glossar/L-Glossar/Linux"
+  },
+  "next": {
+    "title": "MTBF - Mittlere Betriebszeit",
+    "permalink": "/docs/Glossar/M-Glossar/MTBF"
+  }
+}

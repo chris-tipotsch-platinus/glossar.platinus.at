@@ -1,0 +1,34 @@
+{
+  "unversionedId": "N-Glossar/Netzwerksicherheit",
+  "id": "N-Glossar/Netzwerksicherheit",
+  "title": "Netzwerksicherheit",
+  "description": "Netzwerksicherheit ist kein einzelner feststehender Begriff, sondern umfasst alle Maßnahmen zur Planung, Ausführung und Überwachung der Sicherheit in Rechnernetzen.",
+  "source": "@site/docs/N-Glossar/Netzwerksicherheit.md",
+  "sourceDirName": "N-Glossar",
+  "slug": "/N-Glossar/Netzwerksicherheit",
+  "permalink": "/docs/N-Glossar/Netzwerksicherheit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/N-Glossar/Netzwerksicherheit.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Netzwerksicherheit",
+    "titel": "Netzwerksicherheit",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown",
+    "permalink": "/docs/M-Glossar/Markdown"
+  },
+  "next": {
+    "title": "Outtasking",
+    "permalink": "/docs/O-Glossar/Outtasking"
+  }
+}

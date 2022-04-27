@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/I-Glossar/Intranet",
+  "id": "Glossar/I-Glossar/Intranet",
+  "title": "Intranet",
+  "description": "Ein nicht-öffentliches Rechnernetz, das nur einem begrenzten Nutzerkreis zugänglich ist, trägt die Bezeichnung Intranet. Der Begriff setzt sich aus dem lateinischen Wort „intra“ mit der Bedeutung  „innerhalb“ und dem englischen „net“ für „Netz“ zusammen. Anders als  lokal begrenzte Netze wie ein Global Area Network oder ein Local Area  Network sagt der Begriff Intranet nichts über den Standort des  Netzwerkes aus. Globale Unternehmen betreiben ein internes Rechnernetz,  das den gesamten Globus umspannt.",
+  "source": "@site/docs/10-Glossar/I-Glossar/Intranet.md",
+  "sourceDirName": "10-Glossar/I-Glossar",
+  "slug": "/Glossar/I-Glossar/Intranet",
+  "permalink": "/docs/Glossar/I-Glossar/Intranet",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Intranet.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Intranet",
+    "title": "Intranet",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Interoperabilität",
+    "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet"
+  },
+  "next": {
+    "title": "Kanban",
+    "permalink": "/docs/Glossar/K-Glossar/Kanban"
+  }
+}

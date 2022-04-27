@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/O-Glossar/Outtasking",
+  "id": "Glossar/O-Glossar/Outtasking",
+  "title": "Outtasking",
+  "description": "Das Outtasking ist eine besondere Form des Outsourcings. Beim klassischen Outsourcing geben Unternehmen komplette Aufgabenkomplexe und Strukturen an interne oder externe Dienstleister ab. Dagegen geben die  Auftraggeber beim Outtasking lediglich einzelne Aufgabenbereiche  (Englisch „tasks“) an Dienstleister ab. Diese Form der Arbeitsvergabe  wird immer beliebter und hat zahlreiche Vorteile gegenüber dem  Outsourcing.",
+  "source": "@site/docs/10-Glossar/O-Glossar/Outtasking.md",
+  "sourceDirName": "10-Glossar/O-Glossar",
+  "slug": "/Glossar/O-Glossar/Outtasking",
+  "permalink": "/docs/Glossar/O-Glossar/Outtasking",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Outtasking.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Outtasking",
+    "title": "Outtasking",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Open Source Software",
+    "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+  },
+  "next": {
+    "title": "PM-Paradigmen",
+    "permalink": "/docs/Glossar/P-Glossar/PM-Paradigmen"
+  }
+}

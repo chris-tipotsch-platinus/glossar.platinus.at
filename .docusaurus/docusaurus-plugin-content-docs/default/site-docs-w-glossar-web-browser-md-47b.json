@@ -1,0 +1,39 @@
+{
+  "unversionedId": "W-Glossar/Web-Browser",
+  "id": "W-Glossar/Web-Browser",
+  "title": "Web-Browser",
+  "description": "Das englische Wort Browse bedeutet so viel wie \"in einem Buch schmökern\". Auf den technischen Begriff adaptiert, der als Web-Browser bekannt ist, bedeutet das im Internet Surfen. Es handelt sich um ein Navigationsprogramm, das im Internet HTML-Dokumente ( Hypertext Markup Language) interpretiert und darstellt.",
+  "source": "@site/docs/W-Glossar/Web-Browser.md",
+  "sourceDirName": "W-Glossar",
+  "slug": "/W-Glossar/Web-Browser",
+  "permalink": "/docs/W-Glossar/Web-Browser",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/W-Glossar/Web-Browser.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Web-Browser",
+      "permalink": "/docs/tags/web-browser"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Web-Browser",
+    "titel": "Web-Browser",
+    "tags": [
+      "Begriff",
+      "Web-Browser"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Virtualisierung",
+    "permalink": "/docs/V-Glossar/Virtualisierung"
+  },
+  "next": {
+    "title": "Web-Client",
+    "permalink": "/docs/W-Glossar/Web-Client"
+  }
+}

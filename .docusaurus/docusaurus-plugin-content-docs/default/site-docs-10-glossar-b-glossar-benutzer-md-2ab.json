@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/B-Glossar/Benutzer",
+  "id": "Glossar/B-Glossar/Benutzer",
+  "title": "Benutzer - User",
+  "description": "Ein User ist ein Benutzer, Anwender oder Endanwender, der einen Computer, ein Smartphone oder ein anderes elektronisches oder telekommunikationstechnisches Gerät und seine Anwendungsprogramme benutzt.",
+  "source": "@site/docs/10-Glossar/B-Glossar/Benutzer.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/Benutzer",
+  "permalink": "/docs/Glossar/B-Glossar/Benutzer",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Benutzer.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Benutzer",
+    "titel": "Benutzer",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Bedarf - Demand",
+    "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+  },
+  "next": {
+    "title": "Besucher - Visitor",
+    "permalink": "/docs/Glossar/B-Glossar/Besucher"
+  }
+}

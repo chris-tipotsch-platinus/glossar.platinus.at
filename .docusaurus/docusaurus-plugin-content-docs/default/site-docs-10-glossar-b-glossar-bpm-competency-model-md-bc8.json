@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/B-Glossar/BPM-Competency-Model",
+  "id": "Glossar/B-Glossar/BPM-Competency-Model",
+  "title": "BPM Competency Model von ABPMP",
+  "description": "Die Organisation ABPMP – Association of Business Process Management Professional International – hat zur Orientierung ein BPM Competency Model entwickelt.",
+  "source": "@site/docs/10-Glossar/B-Glossar/BPM-Competency-Model .md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/BPM-Competency-Model",
+  "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Competency-Model .md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPM-Competency-Model",
+    "titel": "BPM Competency Model von ABPMP",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Ausfallzeit",
+    "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
+  },
+  "next": {
+    "title": "BPM-KB",
+    "permalink": "/docs/Glossar/B-Glossar/BPM-KB"
+  }
+}

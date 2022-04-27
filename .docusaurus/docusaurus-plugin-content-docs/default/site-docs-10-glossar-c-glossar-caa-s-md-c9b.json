@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/C-Glossar/CaaS",
+  "id": "Glossar/C-Glossar/CaaS",
+  "title": "CaaS - Container-as-a-Service",
+  "description": "Mit Container-as-a-Service, einem Service-Modell auf dem Cloud-Computing-Markt, stehen  Container-Plattformen als gehostete Komplettlösungen über die Cloud zur Verfügung.",
+  "source": "@site/docs/10-Glossar/C-Glossar/CaaS.md",
+  "sourceDirName": "10-Glossar/C-Glossar",
+  "slug": "/Glossar/C-Glossar/CaaS",
+  "permalink": "/docs/Glossar/C-Glossar/CaaS",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/CaaS.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "CaaS",
+    "titel": "CaaS - Container-as-a-Service",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Betriebszeit",
+    "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
+  },
+  "next": {
+    "title": "Change - Veränderung",
+    "permalink": "/docs/Glossar/C-Glossar/Change"
+  }
+}

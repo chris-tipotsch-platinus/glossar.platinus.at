@@ -1,0 +1,36 @@
+{
+  "unversionedId": "H-Glossar/Hosting",
+  "id": "H-Glossar/Hosting",
+  "title": "Hosting",
+  "description": "Host-Discovery bezeichnet Maßnahmen und Methoden, um alle erreichbaren Systeme in einem Netzwerk zu identifizieren.",
+  "source": "@site/docs/H-Glossar/Host-Discovery.md",
+  "sourceDirName": "H-Glossar",
+  "slug": "/H-Glossar/Hosting",
+  "permalink": "/docs/H-Glossar/Hosting",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/H-Glossar/Host-Discovery.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Hosting",
+    "title": "Hosting",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTTPS",
+    "permalink": "/docs/H-Glossar/HTTPS"
+  },
+  "next": {
+    "title": "Hochverfügbarkeit",
+    "permalink": "/docs/H-Glossar/Hochverfuegbarkeit"
+  }
+}

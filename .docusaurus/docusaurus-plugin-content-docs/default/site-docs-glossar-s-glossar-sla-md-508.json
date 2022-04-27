@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/S-Glossar/SLA",
+  "id": "Glossar/S-Glossar/SLA",
+  "title": "SLA",
+  "description": "Das Service Level Agreement (SLA) ist eine Vereinbarung zwischen einem IT Service Provider und einem Kunden. Das Operational Level Agreement (OLA) ist eine Vereinbarung zwischen einem IT Service Provider und einem anderen Teil derselben Organisation über die Lieferung von IT-Services.",
+  "source": "@site/docs/Glossar/S-Glossar/SLA.md",
+  "sourceDirName": "Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/SLA",
+  "permalink": "/docs/Glossar/S-Glossar/SLA",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/S-Glossar/SLA.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "SLA",
+    "sidebar_position": 1,
+    "titel": "SLS",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektrisiko",
+    "permalink": "/docs/Glossar/R-Glossar/Risiko-Projektrisiko"
+  },
+  "next": {
+    "title": "SaaS - Software-as-a-Service",
+    "permalink": "/docs/Glossar/S-Glossar/SaaS"
+  }
+}

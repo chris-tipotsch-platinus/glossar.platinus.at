@@ -1,0 +1,30 @@
+{
+  "unversionedId": "Z-Glossar/Zugriffszeiten",
+  "id": "Z-Glossar/Zugriffszeiten",
+  "title": "Zugriffszeiten",
+  "description": "Die Zugriffszeit ist die Zeitspanne, die zur Auslösung, Durchführung und Bestätigung eines Befehls für einen Zugriff auf ein Speichermedium vergeht. Sie gilt gleichermaßen für Magnetspeicher, optische Speichermedien, Halbleiterspeicher und Flash-Speicher und ist je nach Art des angesprochenen Speichermediums äußerst unterschiedlich.",
+  "source": "@site/docs/Z-Glossar/Zugriffszeiten.md",
+  "sourceDirName": "Z-Glossar",
+  "slug": "/Z-Glossar/Zugriffszeiten",
+  "permalink": "/docs/Z-Glossar/Zugriffszeiten",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/Z-Glossar/Zugriffszeiten.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Zugriffszeiten",
+    "titel": "Zugriffszeiten",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Website",
+    "permalink": "/docs/W-Glossar/Website"
+  }
+}

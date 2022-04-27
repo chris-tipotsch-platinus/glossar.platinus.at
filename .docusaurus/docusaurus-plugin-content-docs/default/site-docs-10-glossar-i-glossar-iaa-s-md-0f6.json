@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/I-Glossar/IaaS",
+  "id": "Glossar/I-Glossar/IaaS",
+  "title": "IaaS",
+  "description": "Die Abkürzung IaaS steht für „Infrastructure as a Service“. Als Teil  des Cloud-Computing haben Kunden bei diesem Angebot die Möglichkeit jegliche benötigte Rechnerinfrastruktur bedarfsgerecht zu mieten. Statt  Rechenleistung, Speicherplatz oder Software klassisch zu erwerben, werden nur die Leistungen und Kapazitäten bezahlt, die auch tatsächlich genutzt werden. Anbieter dieser Dienstleistung sind große Rechenzentren. Daher bietet IaaS dem Kunden zahlreiche Vorteile. Unterhalt und Wartung übernimmt der Anbieter. Im Rechenzentrum stehen dazu rund um die Uhr  hochqualifizierte Techniker zur Verfügung. Das Risiko von  Systemausfällen wird minimiert. Glasfaserleitungen sorgen für schnelle  Verbindungen und die hohen Sicherheitsstandards minimieren das Risiko, sensible Daten zu verlieren. Jede einzelne Cloud ist durch eine separate Firewall geschützt.",
+  "source": "@site/docs/10-Glossar/I-Glossar/IaaS.md",
+  "sourceDirName": "10-Glossar/I-Glossar",
+  "slug": "/Glossar/I-Glossar/IaaS",
+  "permalink": "/docs/Glossar/I-Glossar/IaaS",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IaaS.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "IaaS",
+    "title": "IaaS",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "IT-Sicherheit",
+    "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit"
+  },
+  "next": {
+    "title": "Informationsqualität",
+    "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
+  }
+}

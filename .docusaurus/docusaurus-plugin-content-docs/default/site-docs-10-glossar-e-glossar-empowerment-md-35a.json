@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/E-Glossar/Empowerment",
+  "id": "Glossar/E-Glossar/Empowerment",
+  "title": "Empowerment - Ermächtigung",
+  "description": "Mit Empowerment (von englisch empowerment „Ermächtigung, Übertragung von Verantwortung“) bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder)  eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten.",
+  "source": "@site/docs/10-Glossar/E-Glossar/Empowerment.md",
+  "sourceDirName": "10-Glossar/E-Glossar",
+  "slug": "/Glossar/E-Glossar/Empowerment",
+  "permalink": "/docs/Glossar/E-Glossar/Empowerment",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/E-Glossar/Empowerment.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Empowerment",
+    "titel": "Empowerment",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Einfluss",
+    "permalink": "/docs/Glossar/E-Glossar/Einfluss"
+  },
+  "next": {
+    "title": "Faehigkeiten",
+    "permalink": "/docs/Glossar/F-Glossar/Faehigkeiten"
+  }
+}

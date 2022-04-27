@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/B-Glossar/Betriebszeit",
+  "id": "Glossar/B-Glossar/Betriebszeit",
+  "title": "Betriebszeit",
+  "description": "Bei der Betriebszeit, Uptime handelt es sich um die Zeit, die ein Computer oder IT- System verfügbar und betriebsbereit ist.",
+  "source": "@site/docs/Glossar/B-Glossar/Betriebszeit.md",
+  "sourceDirName": "Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/Betriebszeit",
+  "permalink": "/docs/Glossar/B-Glossar/Betriebszeit",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/B-Glossar/Betriebszeit.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Betriebszeit",
+    "titel": "Betriebszeit",
+    "tags": [
+      "Begriff",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Besucher",
+    "permalink": "/docs/Glossar/B-Glossar/Besucher"
+  },
+  "next": {
+    "title": "CaaS - IT Container-as-a-Service",
+    "permalink": "/docs/Glossar/C-Glossar/CaaS"
+  }
+}

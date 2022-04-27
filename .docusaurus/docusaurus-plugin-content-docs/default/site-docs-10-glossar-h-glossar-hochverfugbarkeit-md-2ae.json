@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/H-Glossar/Hochverfuegbarkeit",
+  "id": "Glossar/H-Glossar/Hochverfuegbarkeit",
+  "title": "Hochverfügbarkeit - High Availability",
+  "description": "Hochverfügbarkeit",
+  "source": "@site/docs/10-Glossar/H-Glossar/Hochverfügbarkeit.md",
+  "sourceDirName": "10-Glossar/H-Glossar",
+  "slug": "/Glossar/H-Glossar/Hochverfuegbarkeit",
+  "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Hochverfügbarkeit.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Hochverfuegbarkeit",
+    "titel": "Hochverfügbarkeit",
+    "tags": [
+      "Begriffe",
+      "IM",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "HTTPS",
+    "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+  },
+  "next": {
+    "title": "Hosting",
+    "permalink": "/docs/Glossar/H-Glossar/Hosting"
+  }
+}

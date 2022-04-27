@@ -1,0 +1,44 @@
+{
+  "unversionedId": "D-Glossar/Doc-as-Code",
+  "id": "D-Glossar/Doc-as-Code",
+  "title": "Documentation-as-Code",
+  "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
+  "source": "@site/docs/D-Glossar/Documentation-as-Code.md",
+  "sourceDirName": "D-Glossar",
+  "slug": "/D-Glossar/Doc-as-Code",
+  "permalink": "/docs/D-Glossar/Doc-as-Code",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/D-Glossar/Documentation-as-Code.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Dokumentation",
+      "permalink": "/docs/tags/dokumentation"
+    },
+    {
+      "label": "Web",
+      "permalink": "/docs/tags/web"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Doc-as-Code",
+    "titel": "Documentation-as-Code",
+    "tags": [
+      "Begriffe",
+      "Dokumentation",
+      "Web"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dienstgütevereinbarung",
+    "permalink": "/docs/D-Glossar/Dienstguetevereinbarung"
+  },
+  "next": {
+    "title": "Dokumentationsmanagement",
+    "permalink": "/docs/D-Glossar/Dokumentationsmanagement"
+  }
+}

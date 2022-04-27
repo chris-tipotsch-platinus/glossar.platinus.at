@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/P-Glossar/PaaS",
+  "id": "Glossar/P-Glossar/PaaS",
+  "title": "PaaS",
+  "description": "Platform as a Service  (PaaS)  ist neben Infrastructure as a Service (IaaS) und Software as a Service (SaaS) eines der drei Servicemodelle  des Cloud-Computings.",
+  "source": "@site/docs/10-Glossar/P-Glossar/PaaS.md",
+  "sourceDirName": "10-Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/PaaS",
+  "permalink": "/docs/Glossar/P-Glossar/PaaS",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/PaaS.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "PaaS",
+    "title": "PaaS",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "PM-Paradigmen",
+    "permalink": "/docs/Glossar/P-Glossar/PM-Paradigmen"
+  },
+  "next": {
+    "title": "Portfolio",
+    "permalink": "/docs/Glossar/P-Glossar/Portfolio"
+  }
+}

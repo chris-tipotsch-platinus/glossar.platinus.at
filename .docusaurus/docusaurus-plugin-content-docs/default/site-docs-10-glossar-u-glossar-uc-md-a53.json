@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/U-Glossar/UC",
+  "id": "Glossar/U-Glossar/UC",
+  "title": "UC - Underpinning Contract",
+  "description": "Ein Underpinning Contract (Vertrag mit Drittparteien, UC) ist ein Vertrag zwischen einem Service Provider und einem externen Dienstleister über die Erbringung eines unterstützenden Service, mit dessen Hilfe der Service Provider einen Kundenservice anbieten kann. Underpinning Contracts müssen deshalb mit den auf die Kunden ausgerichteten Service Level Agreements in Übereinstimmung stehen.",
+  "source": "@site/docs/10-Glossar/U-Glossar/UC.md",
+  "sourceDirName": "10-Glossar/U-Glossar",
+  "slug": "/Glossar/U-Glossar/UC",
+  "permalink": "/docs/Glossar/U-Glossar/UC",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/U-Glossar/UC.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "UC",
+    "sidebar_position": 1,
+    "titel": "UC",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Systemsoftware",
+    "permalink": "/docs/Glossar/S-Glossar/Systemsoftware"
+  },
+  "next": {
+    "title": "USV",
+    "permalink": "/docs/Glossar/U-Glossar/USV"
+  }
+}

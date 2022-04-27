@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/V-Glossar/Virtualisierung",
+  "id": "Glossar/V-Glossar/Virtualisierung",
+  "title": "Virtualisierung",
+  "description": "Was ist Virtualisierung?",
+  "source": "@site/docs/Glossar/V-Glossar/Virtualisierung.md",
+  "sourceDirName": "Glossar/V-Glossar",
+  "slug": "/Glossar/V-Glossar/Virtualisierung",
+  "permalink": "/docs/Glossar/V-Glossar/Virtualisierung",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/V-Glossar/Virtualisierung.md",
+  "tags": [
+    {
+      "label": "Availability",
+      "permalink": "/docs/tags/availability"
+    },
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Verfügbarkeit",
+      "permalink": "/docs/tags/verfugbarkeit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Virtualisierung",
+    "titel": "Virtualisierung",
+    "tags": [
+      "Availability",
+      "Begriff",
+      "Verfügbarkeit"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Verfügbarkeit",
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit"
+  },
+  "next": {
+    "title": "Web-Browser",
+    "permalink": "/docs/Glossar/W-Glossar/Web-Browser"
+  }
+}

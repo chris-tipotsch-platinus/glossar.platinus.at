@@ -1,0 +1,34 @@
+{
+  "unversionedId": "S-Glossar/Software",
+  "id": "S-Glossar/Software",
+  "title": "Software",
+  "description": "SW",
+  "source": "@site/docs/S-Glossar/Software.md",
+  "sourceDirName": "S-Glossar",
+  "slug": "/S-Glossar/Software",
+  "permalink": "/docs/S-Glossar/Software",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/S-Glossar/Software.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Software",
+    "titel": "Software",
+    "tags": [
+      "Begriff"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stakeholder",
+    "permalink": "/docs/S-Glossar/Stakeholder"
+  },
+  "next": {
+    "title": "Standardsoftware",
+    "permalink": "/docs/S-Glossar/Standardsoftware"
+  }
+}

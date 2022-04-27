@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/C-Glossar/Change",
+  "id": "Glossar/C-Glossar/Change",
+  "title": "Change - Veränderung",
+  "description": "Ein (Business) Change ist ein Akt der Veränderung als Reaktion auf einen Bedarf. Changes werden durchgeführt, um die Leistung einer Organisation zu verbessern. Die Verbesserungen sind bewusst und werden durch Aktivitäten der Business Analyse kontrolliert.",
+  "source": "@site/docs/10-Glossar/C-Glossar/Change.md",
+  "sourceDirName": "10-Glossar/C-Glossar",
+  "slug": "/Glossar/C-Glossar/Change",
+  "permalink": "/docs/Glossar/C-Glossar/Change",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/Change.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Change",
+    "titel": "Change",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "CaaS - Container-as-a-Service",
+    "permalink": "/docs/Glossar/C-Glossar/CaaS"
+  },
+  "next": {
+    "title": "Community of Practice",
+    "permalink": "/docs/Glossar/C-Glossar/CoP"
+  }
+}

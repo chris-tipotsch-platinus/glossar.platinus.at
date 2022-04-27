@@ -1,0 +1,39 @@
+{
+  "unversionedId": "B-Glossar/BPM-KB",
+  "id": "B-Glossar/BPM-KB",
+  "title": "BPM-KB",
+  "description": "BPM-KB ist die Abkürzung für Business Prozess Management Knowledge Base.",
+  "source": "@site/docs/B-Glossar/BPM-KB.md",
+  "sourceDirName": "B-Glossar",
+  "slug": "/B-Glossar/BPM-KB",
+  "permalink": "/docs/B-Glossar/BPM-KB",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/B-Glossar/BPM-KB.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "KB",
+      "permalink": "/docs/tags/kb"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPM-KB",
+    "titel": "Business Prozess Management Knowledge Base",
+    "tags": [
+      "Begriffe",
+      "KB"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BPM Competency Model",
+    "permalink": "/docs/B-Glossar/BPM-Competency-Model"
+  },
+  "next": {
+    "title": "BPM - Business Prozess Management",
+    "permalink": "/docs/B-Glossar/BPM"
+  }
+}

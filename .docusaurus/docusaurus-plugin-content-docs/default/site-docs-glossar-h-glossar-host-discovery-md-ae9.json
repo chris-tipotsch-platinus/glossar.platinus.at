@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/H-Glossar/Hosting",
+  "id": "Glossar/H-Glossar/Hosting",
+  "title": "Hosting",
+  "description": "Host-Discovery bezeichnet Maßnahmen und Methoden, um alle erreichbaren Systeme in einem Netzwerk zu identifizieren.",
+  "source": "@site/docs/Glossar/H-Glossar/Host-Discovery.md",
+  "sourceDirName": "Glossar/H-Glossar",
+  "slug": "/Glossar/H-Glossar/Hosting",
+  "permalink": "/docs/Glossar/H-Glossar/Hosting",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/H-Glossar/Host-Discovery.md",
+  "tags": [
+    {
+      "label": "Glossar",
+      "permalink": "/docs/tags/glossar"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Hosting",
+    "title": "Hosting",
+    "sidebar_position": 1,
+    "tags": [
+      "Glossar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTTPS",
+    "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+  },
+  "next": {
+    "title": "Hochverfügbarkeit",
+    "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+  }
+}

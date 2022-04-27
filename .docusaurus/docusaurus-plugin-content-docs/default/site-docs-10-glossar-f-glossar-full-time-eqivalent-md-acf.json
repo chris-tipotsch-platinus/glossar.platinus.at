@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/F-Glossar/FTE",
+  "id": "Glossar/F-Glossar/FTE",
+  "title": "Full-Time-Equivalent",
+  "description": "Ein Vollzeitäquivalent (Full-Time-Equivalent, FTE) entspricht der Arbeit einer Vollzeitkraft am Projekt (in Personalwochen, Personalmonaten oder Personaljahren). Ein halbes FTE entspricht der Arbeit einer Halbtagskraft usw.",
+  "source": "@site/docs/10-Glossar/F-Glossar/Full-Time-Eqivalent.md",
+  "sourceDirName": "10-Glossar/F-Glossar",
+  "slug": "/Glossar/F-Glossar/FTE",
+  "permalink": "/docs/Glossar/F-Glossar/FTE",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Full-Time-Eqivalent.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "FTE",
+    "titel": "FTE",
+    "tags": [
+      "Begriffe",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Fehlertoleranz",
+    "permalink": "/docs/Glossar/F-Glossar/Fehlertoleranz"
+  },
+  "next": {
+    "title": "Funktionalität - Utility",
+    "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+  }
+}

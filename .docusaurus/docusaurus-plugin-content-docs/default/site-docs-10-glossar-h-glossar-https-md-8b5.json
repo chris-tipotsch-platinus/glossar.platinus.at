@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/H-Glossar/HTTPS",
+  "id": "Glossar/H-Glossar/HTTPS",
+  "title": "HTTPS",
+  "description": "HTTPS steht für Hypertext Transfer Protocol Secure und ist eine verschlüsselte Form des HTTP. Dieses dient der Übertragung von Daten in einem Netzwerk und stellt in gewisser Weise die Sprache von Servern und  Clients in einem Netzwerk dar. Genutzt werden HTTP und HTTPS vor allem im Internet zur Kommunikation zwischen Webserver und Computer. Nötig sind beide, damit die in einem Netzwerk verbundenen Rechner über eine  einheitliche Sprache verfügen und Befehle eindeutig interpretiert werden können. Im Gegensatz zu HTTP ist die Sprache in Hypertext Transfer  Protocol Secure verschlüsselt.",
+  "source": "@site/docs/10-Glossar/H-Glossar/HTTPS.md",
+  "sourceDirName": "10-Glossar/H-Glossar",
+  "slug": "/Glossar/H-Glossar/HTTPS",
+  "permalink": "/docs/Glossar/H-Glossar/HTTPS",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/HTTPS.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "HTTPS",
+    "title": "HTTPS",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Funktionalität - Utility",
+    "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+  },
+  "next": {
+    "title": "Hochverfügbarkeit - High Availability",
+    "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/L-Glossar/Laufzeit",
+  "id": "Glossar/L-Glossar/Laufzeit",
+  "title": "Laufzeit",
+  "description": "MIPS",
+  "source": "@site/docs/10-Glossar/L-Glossar/Laufzeit.md",
+  "sourceDirName": "10-Glossar/L-Glossar",
+  "slug": "/Glossar/L-Glossar/Laufzeit",
+  "permalink": "/docs/Glossar/L-Glossar/Laufzeit",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Laufzeit.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Laufzeit",
+    "titel": "Laufzeit",
+    "tags": [
+      "Begriffe",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Latenz",
+    "permalink": "/docs/Glossar/L-Glossar/Latenz"
+  },
+  "next": {
+    "title": "Lean Management",
+    "permalink": "/docs/Glossar/L-Glossar/Lean-Management"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/W-Glossar/Web-Client",
+  "id": "Glossar/W-Glossar/Web-Client",
+  "title": "Web-Client",
+  "description": "Ein Web- Client steht für die Anwenderseite des Webs; die Anbieterseite bildet der Webserver auf den der Web-Client zugreifen kann. Der Web-Client, das ist der Web-Browser, und Webserver kommunizieren miteinander über die von der Open Systems Interconnection (OSI) definierten Dienstprimitive.",
+  "source": "@site/docs/Glossar/W-Glossar/Web-Client.md",
+  "sourceDirName": "Glossar/W-Glossar",
+  "slug": "/Glossar/W-Glossar/Web-Client",
+  "permalink": "/docs/Glossar/W-Glossar/Web-Client",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Glossar/W-Glossar/Web-Client.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "Web-Client",
+      "permalink": "/docs/tags/web-client"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Web-Client",
+    "titel": "Web-Client",
+    "tags": [
+      "Begriff",
+      "Web-Client"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web-Browser",
+    "permalink": "/docs/Glossar/W-Glossar/Web-Browser"
+  },
+  "next": {
+    "title": "Webseite",
+    "permalink": "/docs/Glossar/W-Glossar/Webseite"
+  }
+}
