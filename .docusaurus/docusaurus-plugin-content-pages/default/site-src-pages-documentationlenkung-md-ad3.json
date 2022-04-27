@@ -1,0 +1,15 @@
+{
+  "type": "mdx",
+  "permalink": "/Documentationlenkung",
+  "source": "@site/src/pages/Documentationlenkung.md",
+  "title": "Dokumentenlenkung zum Fachglossar",
+  "description": "Erstellen, prüfen, freigeben, publizieren, verteilen, zurückziehen des IT-Servicekatalog",
+  "frontMatter": {
+    "id": "Dokumentenlenkung",
+    "titel": "Dokumentenlenkung zum Fachglossar",
+    "tags": [
+      "Dokumentation",
+      "Dokumentenlenkung"
+    ]
+  }
+}

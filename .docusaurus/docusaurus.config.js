@@ -40,8 +40,8 @@ export default {
       }
     }
   },
-  "title": "Glossar",
-  "tagline": "platinus-Glossar - Die Grundlage für eine gemeinsame Begriffswelt",
+  "title": "Fachglossar",
+  "tagline": "platinus-Fachglossar - Die Grundlage für eine gemeinsame Begriffswelt",
   "url": "https://glossar.platinus.at",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -71,7 +71,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "platinus-GLOSSAR",
+      "title": "GLOSSAR",
       "logo": {
         "alt": "platinus-Logo",
         "src": "img/logo.svg"
@@ -81,7 +81,7 @@ export default {
           "type": "docSidebar",
           "position": "left",
           "sidebarId": "Sidebar10",
-          "label": "Begriffe"
+          "label": "Fachbegriffe"
         },
         {
           "to": "/blog",

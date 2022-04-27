@@ -209,8 +209,8 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','cb1'),
+    path: '/Dokumentenlenkung',
+    component: ComponentCreator('/Dokumentenlenkung','f56'),
     exact: true
   },
   {

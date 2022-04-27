@@ -4,32 +4,33 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Suche',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Mit der integrierten Suchfunktion gelangen Sie schnell zu Ihren Begriffen.
+        Der Navigationsbaum unterstützt Sie beim stöbern zu den Glossareinträgen. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Feeback',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Beiträge und Rückmeldungen zum Fachglossar sind herzlich willkommen.
+        Einmeldung für registrierte Benutzer über den CHAT-Serice oder als Backup
+        über email an glossar@platinus.at
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Dokumentenlenkung',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Erstellen, prüfen, freigeben, publizieren, verteilen, zurückziehen des Glossareinträgen
+         werden in der Dokumentenlenkung beschrieben.
       </>
     ),
   },

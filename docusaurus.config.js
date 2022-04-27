@@ -37,8 +37,8 @@ themes: [
 
 /** @type {import('@docusaurus/types').Config} */
 // const config = {
-  title: 'Glossar',
-  tagline: 'platinus-Glossar - Die Grundlage für eine gemeinsame Begriffswelt',
+  title: 'Fachglossar',
+  tagline: 'platinus-Fachglossar - Die Grundlage für eine gemeinsame Begriffswelt',
   url: 'https://glossar.platinus.at',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -80,7 +80,7 @@ themes: [
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'platinus-GLOSSAR',
+        title: 'GLOSSAR',
         logo: {
           alt: 'platinus-Logo',
           src: 'img/logo.svg',
@@ -90,7 +90,7 @@ themes: [
                     type: 'docSidebar',
                     position: 'left',
                     sidebarId: 'Sidebar10',
-                    label: 'Begriffe',
+                    label: 'Fachbegriffe',
           },
 
           {to: '/blog', label: 'Blog', position: 'left'},

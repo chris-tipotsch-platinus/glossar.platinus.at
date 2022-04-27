@@ -220,10 +220,10 @@
     "tag": "tag---docs-tags-website-823-95a",
     "__routeContextModule": "__routeContextModule---docs-tags-925-e13"
   },
-  "/markdown-page-cb1": {
+  "/Dokumentenlenkung-f56": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028",
-    "__routeContextModule": "__routeContextModule---markdown-page-054-57c"
+    "content": "content---dokumentenlenkungc-81-53f",
+    "__routeContextModule": "__routeContextModule---dokumentationlenkung-054-f3e"
   },
   "/search-5ef": {
     "component": "component---theme-search-page-1-a-4-d6f",
@@ -336,7 +336,7 @@
   },
   "/docs/Glossar/D-Glossar/Diataxis-Framework-4b4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-glossar-d-glossar-diataxis-frameworkbf-2-4ac"
+    "content": "content---docs-glossar-d-glossar-diataxis-frameworkbf-2-85b"
   },
   "/docs/Glossar/D-Glossar/Dienstguete-6d5": {
     "component": "component---theme-doc-item-178-a40",
@@ -352,7 +352,7 @@
   },
   "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus-922": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-glossar-d-glossar-it-dokumentationslebenzyklus-084-19c"
+    "content": "content---docs-glossar-d-glossar-dokumentationslebenzyklus-084-09c"
   },
   "/docs/Glossar/D-Glossar/Dokumentationsmanagement-1bf": {
     "component": "component---theme-doc-item-178-a40",
@@ -388,11 +388,11 @@
   },
   "/docs/Glossar/F-Glossar/FTE-e2b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-glossar-f-glossar-full-time-eqivalentacf-f42"
+    "content": "content---docs-glossar-f-glossar-ft-eacf-a36"
   },
   "/docs/Glossar/F-Glossar/Funktionalität-d81": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-glossar-f-glossar-funktionalitaet-2-f-4-c5d"
+    "content": "content---docs-glossar-f-glossar-funktionalitat-2-f-4-340"
   },
   "/docs/Glossar/H-Glossar/Hochverfuegbarkeit-e98": {
     "component": "component---theme-doc-item-178-a40",
@@ -532,7 +532,7 @@
   },
   "/docs/Glossar/R-Glossar/Projektrisiko-7df": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-glossar-r-glossar-risiko-projektrisikoaf-4-e31"
+    "content": "content---docs-glossar-r-glossar-projektrisikoaf-4-837"
   },
   "/docs/Glossar/R-Glossar/Rechenzentrum-eb1": {
     "component": "component---theme-doc-item-178-a40",
@@ -552,7 +552,7 @@
   },
   "/docs/Glossar/R-Glossar/Rollen-Canvas-7e5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-glossar-r-glossar-projektrollen-homedb-2-cce"
+    "content": "content---docs-glossar-r-glossar-rollen-canvasdb-2-beb"
   },
   "/docs/Glossar/S-Glossar/SaaS-449": {
     "component": "component---theme-doc-item-178-a40",
@@ -645,6 +645,6 @@
   "/-3f5": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
     "config": "config---5-e-9-4f3",
-    "__routeContextModule": "__routeContextModule---markdown-page-054-57c"
+    "__routeContextModule": "__routeContextModule---dokumentationlenkung-054-f3e"
   }
 }

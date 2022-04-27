@@ -4534,19 +4534,24 @@
   "docusaurus-plugin-content-pages": {
     "default": [
       {
+        "type": "mdx",
+        "permalink": "/Dokumentenlenkung",
+        "source": "@site/src/pages/Dokumentenlenkung.md",
+        "title": "Dokumentenlenkung zum Fachglossar",
+        "description": "Erstellen, prüfen, freigeben, publizieren, verteilen, zurückziehen des IT-Servicekatalog",
+        "frontMatter": {
+          "id": "Dokumentenlenkung",
+          "titel": "Dokumentenlenkung zum Fachglossar",
+          "tags": [
+            "Dokumentation",
+            "Dokumentenlenkung"
+          ]
+        }
+      },
+      {
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
-      },
-      {
-        "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
-        "frontMatter": {
-          "title": "Markdown page example"
-        }
       }
     ]
   },

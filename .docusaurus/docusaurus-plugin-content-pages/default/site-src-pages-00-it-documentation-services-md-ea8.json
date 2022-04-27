@@ -1,0 +1,16 @@
+{
+  "type": "mdx",
+  "permalink": "/00-IT-Documentation-Services",
+  "source": "@site/src/pages/00-IT-Documentation-Services.md",
+  "title": "Dokumentenlenkung zum IT-Servicekatalog",
+  "description": "Erstellen, prüfen, freigeben, publizieren, verteilen, zurückziehen des IT-Servicekatalog",
+  "frontMatter": {
+    "id": "IT-Documentation-Service",
+    "titel": "IT-Documentation Service",
+    "sidebar_position": 1,
+    "tags": [
+      "IT-Kernprozesse",
+      "IT-Dokumentation"
+    ]
+  }
+}
