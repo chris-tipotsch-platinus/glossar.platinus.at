@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/C-Glossar/CaaS.md",
   "sourceDirName": "10-Glossar/C-Glossar",
   "slug": "/Glossar/C-Glossar/CaaS",
-  "permalink": "/en/docs/Glossar/C-Glossar/CaaS",
+  "permalink": "/docs/Glossar/C-Glossar/CaaS",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/CaaS.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Betriebszeit",
-    "permalink": "/en/docs/Glossar/B-Glossar/Betriebszeit"
+    "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
   },
   "next": {
     "title": "Change - Veränderung",
-    "permalink": "/en/docs/Glossar/C-Glossar/Change"
+    "permalink": "/docs/Glossar/C-Glossar/Change"
   }
 }

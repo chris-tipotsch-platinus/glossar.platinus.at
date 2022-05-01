@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/R-Glossar/Risiko-Projektrisiko.md",
   "sourceDirName": "10-Glossar/R-Glossar",
   "slug": "/Glossar/R-Glossar/Projektrisiko",
-  "permalink": "/en/docs/Glossar/R-Glossar/Projektrisiko",
+  "permalink": "/docs/Glossar/R-Glossar/Projektrisiko",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Risiko-Projektrisiko.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Richtlinie",
-    "permalink": "/en/docs/Glossar/R-Glossar/Richtlinie"
+    "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
   },
   "next": {
     "title": "Rollen-Canvas",
-    "permalink": "/en/docs/Glossar/R-Glossar/Rollen-Canvas"
+    "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
   }
 }

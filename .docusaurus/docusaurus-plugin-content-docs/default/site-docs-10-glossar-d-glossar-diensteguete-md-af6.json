@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Diensteguete.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dienstguete",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dienstguete",
+  "permalink": "/docs/Glossar/D-Glossar/Dienstguete",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Diensteguete.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Diataxis Framework",
-    "permalink": "/en/docs/Glossar/D-Glossar/Diataxis-Framework"
+    "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
   },
   "next": {
     "title": "Dienstgütevereinbarung - Service Level Agreement",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
+    "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
   }
 }

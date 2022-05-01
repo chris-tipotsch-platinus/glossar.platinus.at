@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/I-Glossar/Interoperabilitaet.md",
   "sourceDirName": "10-Glossar/I-Glossar",
   "slug": "/Glossar/I-Glossar/Interoperabilitaet",
-  "permalink": "/en/docs/Glossar/I-Glossar/Interoperabilitaet",
+  "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Interoperabilitaet.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Informationsicherheit",
-    "permalink": "/en/docs/Glossar/I-Glossar/Informationsicherheit"
+    "permalink": "/docs/Glossar/I-Glossar/Informationsicherheit"
   },
   "next": {
     "title": "Intranet",
-    "permalink": "/en/docs/Glossar/I-Glossar/Intranet"
+    "permalink": "/docs/Glossar/I-Glossar/Intranet"
   }
 }

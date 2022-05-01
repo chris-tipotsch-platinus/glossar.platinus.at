@@ -6,7 +6,7 @@
   "source": "@site/docs/10-Glossar/R-Glossar/Ressourcenkalender.md",
   "sourceDirName": "10-Glossar/R-Glossar",
   "slug": "/Glossar/R-Glossar/Ressourcenkalender",
-  "permalink": "/en/docs/Glossar/R-Glossar/Ressourcenkalender",
+  "permalink": "/docs/Glossar/R-Glossar/Ressourcenkalender",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Ressourcenkalender.md",
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Recovery",
-    "permalink": "/en/docs/Glossar/R-Glossar/Recovery"
+    "permalink": "/docs/Glossar/R-Glossar/Recovery"
   },
   "next": {
     "title": "Richtlinie",
-    "permalink": "/en/docs/Glossar/R-Glossar/Richtlinie"
+    "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
   }
 }

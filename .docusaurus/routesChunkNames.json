@@ -1,5 +1,5 @@
 {
-  "/en/blog-363": {
+  "/blog-c91": {
     "component": "a6aa9e1f",
     "sidebar": "814f3328",
     "items": [
@@ -7,21 +7,21 @@
         "content": "d434ece8"
       }
     ],
-    "metadata": "fba6c282",
+    "metadata": "b2b675dd",
     "__routeContextModule": "c48d669f"
   },
-  "/en/blog/archive-b09": {
+  "/blog/archive-7ab": {
     "component": "9e4087bc",
-    "archive": "f6cbeee1",
+    "archive": "b2f554cd",
     "__routeContextModule": "c48d669f"
   },
-  "/en/blog/tags-482": {
+  "/blog/tags-64a": {
     "component": "01a85c17",
     "sidebar": "814f3328",
-    "tags": "9bdd22eb",
+    "tags": "a7023ddc",
     "__routeContextModule": "c48d669f"
   },
-  "/en/blog/tags/blog-296": {
+  "/blog/tags/blog-d88": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -29,11 +29,11 @@
         "content": "d434ece8"
       }
     ],
-    "metadata": "0d27c331",
-    "listMetadata": "278376e3",
+    "metadata": "631037e5",
+    "listMetadata": "3f3a03c1",
     "__routeContextModule": "c48d669f"
   },
-  "/en/blog/tags/welcome-8d5": {
+  "/blog/tags/welcome-829": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -41,583 +41,583 @@
         "content": "d434ece8"
       }
     ],
-    "metadata": "cf96a82b",
-    "listMetadata": "cca74335",
+    "metadata": "f6ba3702",
+    "listMetadata": "a24beb83",
     "__routeContextModule": "c48d669f"
   },
-  "/en/blog/welcome-e64": {
+  "/blog/welcome-46f": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "04b0f995",
     "__routeContextModule": "c48d669f"
   },
-  "/en/docs/tags-61c": {
+  "/docs/tags-97f": {
     "component": "3720c009",
     "tags": "55960ee5",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/availability-e16": {
+  "/docs/tags/availability-048": {
     "component": "df203c0f",
-    "tag": "93cf995a",
+    "tag": "0cf4343d",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/begriff-f95": {
+  "/docs/tags/begriff-9ea": {
     "component": "df203c0f",
-    "tag": "952d4d1e",
+    "tag": "06470177",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/begriffe-da7": {
+  "/docs/tags/begriffe-1f6": {
     "component": "df203c0f",
-    "tag": "84182c2a",
+    "tag": "2cd6493e",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/begriffe-bpm-6dc": {
+  "/docs/tags/begriffe-bpm-228": {
     "component": "df203c0f",
-    "tag": "1a63265c",
+    "tag": "b4528598",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/bom-030": {
+  "/docs/tags/bom-0d8": {
     "component": "df203c0f",
-    "tag": "f395f892",
+    "tag": "3356f8d4",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/bpm-613": {
+  "/docs/tags/bpm-6d8": {
     "component": "df203c0f",
-    "tag": "49c01508",
+    "tag": "cf0aecfd",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/compliance-d57": {
+  "/docs/tags/compliance-1eb": {
     "component": "df203c0f",
-    "tag": "fad47141",
+    "tag": "2ca47b99",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/dokumentation-7da": {
+  "/docs/tags/dokumentation-0ac": {
     "component": "df203c0f",
-    "tag": "fa98b6e4",
+    "tag": "90f632e4",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/glossar-63c": {
+  "/docs/tags/glossar-dda": {
     "component": "df203c0f",
-    "tag": "570a8cfb",
+    "tag": "cce3fc76",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/im-435": {
+  "/docs/tags/im-446": {
     "component": "df203c0f",
-    "tag": "534f45cb",
+    "tag": "4f11c2de",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/it-begriff-d14": {
+  "/docs/tags/it-begriff-be9": {
     "component": "df203c0f",
-    "tag": "bebf9069",
+    "tag": "04849b40",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/it-dokumentation-b69": {
+  "/docs/tags/it-dokumentation-0dc": {
     "component": "df203c0f",
-    "tag": "6da7087e",
+    "tag": "73d75032",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/it-glossar-3a5": {
+  "/docs/tags/it-glossar-a11": {
     "component": "df203c0f",
-    "tag": "e95aa072",
+    "tag": "5f793823",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/kb-f15": {
+  "/docs/tags/kb-4fc": {
     "component": "df203c0f",
-    "tag": "d164bb40",
+    "tag": "fffc2127",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/open-source-58f": {
+  "/docs/tags/open-source-406": {
     "component": "df203c0f",
-    "tag": "2be8295f",
+    "tag": "48857ff6",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/pm-f87": {
+  "/docs/tags/pm-68b": {
     "component": "df203c0f",
-    "tag": "db5202a4",
+    "tag": "74047380",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/prozessmanagement-d62": {
+  "/docs/tags/prozessmanagement-376": {
     "component": "df203c0f",
-    "tag": "cab598e5",
+    "tag": "b4f83ede",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/rechtlichen-regelwerke-9bf": {
+  "/docs/tags/rechtlichen-regelwerke-3eb": {
     "component": "df203c0f",
-    "tag": "b6a3c1bd",
+    "tag": "039f1bea",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/sw-edf": {
+  "/docs/tags/sw-7f6": {
     "component": "df203c0f",
-    "tag": "f11e454b",
+    "tag": "7ca96852",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/unternehmensexternen-regelwerken-efa": {
+  "/docs/tags/unternehmensexternen-regelwerken-2a4": {
     "component": "df203c0f",
-    "tag": "ecc17317",
+    "tag": "a0c545a8",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/unternehmensinternen-regelwerke-5c6": {
+  "/docs/tags/unternehmensinternen-regelwerke-73b": {
     "component": "df203c0f",
-    "tag": "529c2462",
+    "tag": "1763c59c",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/verfugbarkeit-e2e": {
+  "/docs/tags/verfugbarkeit-8d7": {
     "component": "df203c0f",
-    "tag": "5a5a5fb5",
+    "tag": "f05c9479",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/web-1d1": {
+  "/docs/tags/web-0f5": {
     "component": "df203c0f",
-    "tag": "5a4b8bff",
+    "tag": "e8911fb6",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/web-browser-011": {
+  "/docs/tags/web-browser-bbf": {
     "component": "df203c0f",
-    "tag": "89ea1d11",
+    "tag": "dd436ec2",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/web-client-06e": {
+  "/docs/tags/web-client-ad9": {
     "component": "df203c0f",
-    "tag": "52de5875",
+    "tag": "6354d1e1",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/webseite-7ad": {
+  "/docs/tags/webseite-3b7": {
     "component": "df203c0f",
-    "tag": "0b2837cc",
+    "tag": "1c5ac7f2",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/tags/website-165": {
+  "/docs/tags/website-d94": {
     "component": "df203c0f",
-    "tag": "1c79ff34",
+    "tag": "823128eb",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/Dokumentenlenkung-547": {
+  "/Dokumentenlenkung-f56": {
     "component": "1f391b9e",
     "content": "c8192fcc",
     "__routeContextModule": "0545ef6b"
   },
-  "/en/search-8db": {
+  "/search-5ef": {
     "component": "1a4e3797",
     "__routeContextModule": "c8cb72f0"
   },
-  "/en/docs-a5f": {
+  "/docs-877": {
     "component": "1be78505",
     "versionMetadata": "935f2afb",
     "__routeContextModule": "925cc2e1"
   },
-  "/en/docs/Begriffe-Home-faf": {
+  "/docs/Begriffe-Home-bc5": {
     "component": "17896441",
     "content": "adb4e30c"
   },
-  "/en/docs/Glossar/A-Glossar/ABPMP-205": {
+  "/docs/Glossar/A-Glossar/ABPMP-ffa": {
     "component": "17896441",
     "content": "dca7d77f"
   },
-  "/en/docs/Glossar/A-Glossar/Anforderungen-c79": {
+  "/docs/Glossar/A-Glossar/Anforderungen-ca1": {
     "component": "17896441",
     "content": "1a6b3044"
   },
-  "/en/docs/Glossar/A-Glossar/Anleitung-ff1": {
+  "/docs/Glossar/A-Glossar/Anleitung-7a0": {
     "component": "17896441",
     "content": "ca991fae"
   },
-  "/en/docs/Glossar/A-Glossar/Anweisung-215": {
+  "/docs/Glossar/A-Glossar/Anweisung-798": {
     "component": "17896441",
     "content": "c0efc716"
   },
-  "/en/docs/Glossar/A-Glossar/Artefakte-6b2": {
+  "/docs/Glossar/A-Glossar/Artefakte-ad9": {
     "component": "17896441",
     "content": "5f6f2ad7"
   },
-  "/en/docs/Glossar/A-Glossar/Asset-c31": {
+  "/docs/Glossar/A-Glossar/Asset-679": {
     "component": "17896441",
     "content": "4139dfd6"
   },
-  "/en/docs/Glossar/A-Glossar/Asset-Repository-a86": {
+  "/docs/Glossar/A-Glossar/Asset-Repository-20d": {
     "component": "17896441",
     "content": "7797842d"
   },
-  "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen-0b8": {
+  "/docs/Glossar/A-Glossar/Aufbewahrungsfristen-215": {
     "component": "17896441",
     "content": "c1ba3ed0"
   },
-  "/en/docs/Glossar/A-Glossar/Aufzeichnungen-09a": {
+  "/docs/Glossar/A-Glossar/Aufzeichnungen-c91": {
     "component": "17896441",
     "content": "634ee055"
   },
-  "/en/docs/Glossar/A-Glossar/Aufzeichnungspflicht-63f": {
+  "/docs/Glossar/A-Glossar/Aufzeichnungspflicht-bd8": {
     "component": "17896441",
     "content": "40512fc6"
   },
-  "/en/docs/Glossar/A-Glossar/Ausfallzeit-691": {
+  "/docs/Glossar/A-Glossar/Ausfallzeit-320": {
     "component": "17896441",
     "content": "1f70bc7c"
   },
-  "/en/docs/Glossar/A-Glossar/BPM-848": {
+  "/docs/Glossar/A-Glossar/BPM-6df": {
     "component": "17896441",
     "content": "97648dfc"
   },
-  "/en/docs/Glossar/B-Glossar/Bedarf-7d0": {
+  "/docs/Glossar/B-Glossar/Bedarf-3c2": {
     "component": "17896441",
     "content": "7cce7188"
   },
-  "/en/docs/Glossar/B-Glossar/Benutzer-f4d": {
+  "/docs/Glossar/B-Glossar/Benutzer-a8e": {
     "component": "17896441",
     "content": "2abcd501"
   },
-  "/en/docs/Glossar/B-Glossar/Besucher-ed8": {
+  "/docs/Glossar/B-Glossar/Besucher-9e1": {
     "component": "17896441",
     "content": "77dd6e97"
   },
-  "/en/docs/Glossar/B-Glossar/Betriebszeit-f18": {
+  "/docs/Glossar/B-Glossar/Betriebszeit-0a3": {
     "component": "17896441",
     "content": "2fd58ed6"
   },
-  "/en/docs/Glossar/B-Glossar/BPM-ec0": {
+  "/docs/Glossar/B-Glossar/BPM-cfa": {
     "component": "17896441",
     "content": "5a12f80d"
   },
-  "/en/docs/Glossar/B-Glossar/BPM-Competency-Model-d56": {
+  "/docs/Glossar/B-Glossar/BPM-Competency-Model-c1e": {
     "component": "17896441",
     "content": "bc869bd6"
   },
-  "/en/docs/Glossar/B-Glossar/BPM-KB-264": {
+  "/docs/Glossar/B-Glossar/BPM-KB-8c6": {
     "component": "17896441",
     "content": "5d76677f"
   },
-  "/en/docs/Glossar/C-Glossar/CaaS-9f0": {
+  "/docs/Glossar/C-Glossar/CaaS-ef0": {
     "component": "17896441",
     "content": "c9b94e0a"
   },
-  "/en/docs/Glossar/C-Glossar/Change-ba5": {
+  "/docs/Glossar/C-Glossar/Change-056": {
     "component": "17896441",
     "content": "8aac534a"
   },
-  "/en/docs/Glossar/C-Glossar/Compliance-7d8": {
+  "/docs/Glossar/C-Glossar/Compliance-234": {
     "component": "17896441",
     "content": "549a5c7b"
   },
-  "/en/docs/Glossar/C-Glossar/CoP-fd7": {
+  "/docs/Glossar/C-Glossar/CoP-963": {
     "component": "17896441",
     "content": "b407eccd"
   },
-  "/en/docs/Glossar/D-Glossar/Dashboard-9be": {
+  "/docs/Glossar/D-Glossar/Dashboard-138": {
     "component": "17896441",
     "content": "d88fda96"
   },
-  "/en/docs/Glossar/D-Glossar/Diataxis-Framework-178": {
+  "/docs/Glossar/D-Glossar/Diataxis-Framework-4b4": {
     "component": "17896441",
     "content": "bf269286"
   },
-  "/en/docs/Glossar/D-Glossar/Dienstguete-f39": {
+  "/docs/Glossar/D-Glossar/Dienstguete-6d5": {
     "component": "17896441",
     "content": "af673c5e"
   },
-  "/en/docs/Glossar/D-Glossar/Dienstguetevereinbarung-4ed": {
+  "/docs/Glossar/D-Glossar/Dienstguetevereinbarung-a91": {
     "component": "17896441",
     "content": "18f88fe2"
   },
-  "/en/docs/Glossar/D-Glossar/Doc-as-Code-adb": {
+  "/docs/Glossar/D-Glossar/Doc-as-Code-5a7": {
     "component": "17896441",
     "content": "b74fa0c8"
   },
-  "/en/docs/Glossar/D-Glossar/Dokumentationslebenzyklus-ded": {
+  "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus-922": {
     "component": "17896441",
     "content": "0845ae5d"
   },
-  "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement-abe": {
+  "/docs/Glossar/D-Glossar/Dokumentationsmanagement-1bf": {
     "component": "17896441",
     "content": "df1f0cd8"
   },
-  "/en/docs/Glossar/D-Glossar/Dokumentenmanagement-e33": {
+  "/docs/Glossar/D-Glossar/Dokumentenmanagement-3a8": {
     "component": "17896441",
     "content": "fc0863ed"
   },
-  "/en/docs/Glossar/E-Glossar/Einfluss-bb1": {
+  "/docs/Glossar/E-Glossar/Einfluss-5c5": {
     "component": "17896441",
     "content": "f1dcb86e"
   },
-  "/en/docs/Glossar/E-Glossar/Empowerment-625": {
+  "/docs/Glossar/E-Glossar/Empowerment-e0e": {
     "component": "17896441",
     "content": "35a0a492"
   },
-  "/en/docs/Glossar/F-Glossar/Faehigkeiten-5e5": {
+  "/docs/Glossar/F-Glossar/Faehigkeiten-406": {
     "component": "17896441",
     "content": "38061ef7"
   },
-  "/en/docs/Glossar/F-Glossar/Feature-2ef": {
+  "/docs/Glossar/F-Glossar/Feature-07d": {
     "component": "17896441",
     "content": "edbf9bd1"
   },
-  "/en/docs/Glossar/F-Glossar/Fehler-001": {
+  "/docs/Glossar/F-Glossar/Fehler-da8": {
     "component": "17896441",
     "content": "d3fecc36"
   },
-  "/en/docs/Glossar/F-Glossar/Fehlertoleranz-0b7": {
+  "/docs/Glossar/F-Glossar/Fehlertoleranz-d65": {
     "component": "17896441",
     "content": "d92efb5f"
   },
-  "/en/docs/Glossar/F-Glossar/FTE-8fe": {
+  "/docs/Glossar/F-Glossar/FTE-e2b": {
     "component": "17896441",
     "content": "acf4974a"
   },
-  "/en/docs/Glossar/F-Glossar/Funktionalität-4a0": {
+  "/docs/Glossar/F-Glossar/Funktionalität-d81": {
     "component": "17896441",
     "content": "2f41b33f"
   },
-  "/en/docs/Glossar/H-Glossar/Hochverfuegbarkeit-b21": {
+  "/docs/Glossar/H-Glossar/Hochverfuegbarkeit-e98": {
     "component": "17896441",
     "content": "12bf1292"
   },
-  "/en/docs/Glossar/H-Glossar/Hosting-36b": {
+  "/docs/Glossar/H-Glossar/Hosting-5cc": {
     "component": "17896441",
     "content": "1ada82fd"
   },
-  "/en/docs/Glossar/H-Glossar/HTTPS-c11": {
+  "/docs/Glossar/H-Glossar/HTTPS-04d": {
     "component": "17896441",
     "content": "8b520e4a"
   },
-  "/en/docs/Glossar/I-Glossar/IaaS-01a": {
+  "/docs/Glossar/I-Glossar/IaaS-601": {
     "component": "17896441",
     "content": "0f653514"
   },
-  "/en/docs/Glossar/I-Glossar/Informationsicherheit-911": {
+  "/docs/Glossar/I-Glossar/Informationsicherheit-99f": {
     "component": "17896441",
     "content": "761f02e4"
   },
-  "/en/docs/Glossar/I-Glossar/Informationsqualitaet-085": {
+  "/docs/Glossar/I-Glossar/Informationsqualitaet-b13": {
     "component": "17896441",
     "content": "1120af6e"
   },
-  "/en/docs/Glossar/I-Glossar/Interoperabilitaet-edb": {
+  "/docs/Glossar/I-Glossar/Interoperabilitaet-038": {
     "component": "17896441",
     "content": "20bf7ebf"
   },
-  "/en/docs/Glossar/I-Glossar/Intranet-297": {
+  "/docs/Glossar/I-Glossar/Intranet-69e": {
     "component": "17896441",
     "content": "59279d3a"
   },
-  "/en/docs/Glossar/I-Glossar/IPS-f5e": {
+  "/docs/Glossar/I-Glossar/IPS-748": {
     "component": "17896441",
     "content": "2bdd67b8"
   },
-  "/en/docs/Glossar/I-Glossar/IT-Service-2ce": {
+  "/docs/Glossar/I-Glossar/IT-Service-0e2": {
     "component": "17896441",
     "content": "840ac145"
   },
-  "/en/docs/Glossar/I-Glossar/IT-Sicherheit-8a8": {
+  "/docs/Glossar/I-Glossar/IT-Sicherheit-c51": {
     "component": "17896441",
     "content": "e6a32068"
   },
-  "/en/docs/Glossar/K-Glossar/Kanban-4fd": {
+  "/docs/Glossar/K-Glossar/Kanban-c25": {
     "component": "17896441",
     "content": "060702d3"
   },
-  "/en/docs/Glossar/L-Glossar/Latenz-193": {
+  "/docs/Glossar/L-Glossar/Latenz-186": {
     "component": "17896441",
     "content": "d7916845"
   },
-  "/en/docs/Glossar/L-Glossar/Laufzeit-8dc": {
+  "/docs/Glossar/L-Glossar/Laufzeit-e17": {
     "component": "17896441",
     "content": "b4c6b9a0"
   },
-  "/en/docs/Glossar/L-Glossar/Lean-Management-67b": {
+  "/docs/Glossar/L-Glossar/Lean-Management-78a": {
     "component": "17896441",
     "content": "48652a2f"
   },
-  "/en/docs/Glossar/L-Glossar/Leitlinie-683": {
+  "/docs/Glossar/L-Glossar/Leitlinie-8a1": {
     "component": "17896441",
     "content": "f729e337"
   },
-  "/en/docs/Glossar/L-Glossar/Linux-966": {
+  "/docs/Glossar/L-Glossar/Linux-667": {
     "component": "17896441",
     "content": "b774d2f0"
   },
-  "/en/docs/Glossar/M-Glossar/Major-Risk-235": {
+  "/docs/Glossar/M-Glossar/Major-Risk-cfb": {
     "component": "17896441",
     "content": "f758f982"
   },
-  "/en/docs/Glossar/M-Glossar/Markdown-451": {
+  "/docs/Glossar/M-Glossar/Markdown-ec4": {
     "component": "17896441",
     "content": "3e7c0ec1"
   },
-  "/en/docs/Glossar/M-Glossar/MTBF-504": {
+  "/docs/Glossar/M-Glossar/MTBF-a52": {
     "component": "17896441",
     "content": "d37d1bb1"
   },
-  "/en/docs/Glossar/M-Glossar/MTTR-f01": {
+  "/docs/Glossar/M-Glossar/MTTR-565": {
     "component": "17896441",
     "content": "58291d41"
   },
-  "/en/docs/Glossar/N-Glossar/Netzwerksicherheit-934": {
+  "/docs/Glossar/N-Glossar/Netzwerksicherheit-f97": {
     "component": "17896441",
     "content": "730a2fc7"
   },
-  "/en/docs/Glossar/O-Glossar/Open-Source-Software-957": {
+  "/docs/Glossar/O-Glossar/Open-Source-Software-dd7": {
     "component": "17896441",
     "content": "8e8c0c34"
   },
-  "/en/docs/Glossar/O-Glossar/Outtasking-376": {
+  "/docs/Glossar/O-Glossar/Outtasking-ffc": {
     "component": "17896441",
     "content": "3a238e5f"
   },
-  "/en/docs/Glossar/P-Glossar/PaaS-b69": {
+  "/docs/Glossar/P-Glossar/PaaS-e54": {
     "component": "17896441",
     "content": "6ab1898e"
   },
-  "/en/docs/Glossar/P-Glossar/Performance-783": {
+  "/docs/Glossar/P-Glossar/Performance-d79": {
     "component": "17896441",
     "content": "8722e34f"
   },
-  "/en/docs/Glossar/P-Glossar/PM-Paradigmen-a15": {
+  "/docs/Glossar/P-Glossar/PM-Paradigmen-648": {
     "component": "17896441",
     "content": "c05e8a58"
   },
-  "/en/docs/Glossar/P-Glossar/Portfolio-90e": {
+  "/docs/Glossar/P-Glossar/Portfolio-b4a": {
     "component": "17896441",
     "content": "a81353db"
   },
-  "/en/docs/Glossar/P-Glossar/Preismodell-72e": {
+  "/docs/Glossar/P-Glossar/Preismodell-0e3": {
     "component": "17896441",
     "content": "ab095dbe"
   },
-  "/en/docs/Glossar/P-Glossar/Product-Backlog-7bd": {
+  "/docs/Glossar/P-Glossar/Product-Backlog-ae4": {
     "component": "17896441",
     "content": "b6c02be3"
   },
-  "/en/docs/Glossar/P-Glossar/Projektinformationeng-16b": {
+  "/docs/Glossar/P-Glossar/Projektinformationeng-41a": {
     "component": "17896441",
     "content": "69023106"
   },
-  "/en/docs/Glossar/P-Glossar/Provider-73b": {
+  "/docs/Glossar/P-Glossar/Provider-612": {
     "component": "17896441",
     "content": "eb416c3a"
   },
-  "/en/docs/Glossar/P-Glossar/Prozessreifegrad-653": {
+  "/docs/Glossar/P-Glossar/Prozessreifegrad-0c5": {
     "component": "17896441",
     "content": "778a446a"
   },
-  "/en/docs/Glossar/P-Glossar/Prozessreifegradmodelle-241": {
+  "/docs/Glossar/P-Glossar/Prozessreifegradmodelle-423": {
     "component": "17896441",
     "content": "97d650fc"
   },
-  "/en/docs/Glossar/R-Glossar/Projektrisiko-22d": {
+  "/docs/Glossar/R-Glossar/Projektrisiko-7df": {
     "component": "17896441",
     "content": "af457038"
   },
-  "/en/docs/Glossar/R-Glossar/Rechenzentrum-c84": {
+  "/docs/Glossar/R-Glossar/Rechenzentrum-eb1": {
     "component": "17896441",
     "content": "e1f75cd7"
   },
-  "/en/docs/Glossar/R-Glossar/Recovery-4eb": {
+  "/docs/Glossar/R-Glossar/Recovery-46a": {
     "component": "17896441",
     "content": "284fd1a0"
   },
-  "/en/docs/Glossar/R-Glossar/Ressourcenkalender-0ba": {
+  "/docs/Glossar/R-Glossar/Ressourcenkalender-628": {
     "component": "17896441",
     "content": "a9621573"
   },
-  "/en/docs/Glossar/R-Glossar/Richtlinie-071": {
+  "/docs/Glossar/R-Glossar/Richtlinie-cf2": {
     "component": "17896441",
     "content": "9185cfaa"
   },
-  "/en/docs/Glossar/R-Glossar/Rollen-Canvas-14c": {
+  "/docs/Glossar/R-Glossar/Rollen-Canvas-7e5": {
     "component": "17896441",
     "content": "db22bbee"
   },
-  "/en/docs/Glossar/S-Glossar/SaaS-b0a": {
+  "/docs/Glossar/S-Glossar/SaaS-449": {
     "component": "17896441",
     "content": "8cad3f45"
   },
-  "/en/docs/Glossar/S-Glossar/Servicekatalog-544": {
+  "/docs/Glossar/S-Glossar/Servicekatalog-ccb": {
     "component": "17896441",
     "content": "b0d76f84"
   },
-  "/en/docs/Glossar/S-Glossar/Serviceportfolio-5fd": {
+  "/docs/Glossar/S-Glossar/Serviceportfolio-68a": {
     "component": "17896441",
     "content": "62b8d954"
   },
-  "/en/docs/Glossar/S-Glossar/Sicherheitskette-b67": {
+  "/docs/Glossar/S-Glossar/Sicherheitskette-e94": {
     "component": "17896441",
     "content": "a931d514"
   },
-  "/en/docs/Glossar/S-Glossar/SLA-45f": {
+  "/docs/Glossar/S-Glossar/SLA-f74": {
     "component": "17896441",
     "content": "89b355f1"
   },
-  "/en/docs/Glossar/S-Glossar/Software-445": {
+  "/docs/Glossar/S-Glossar/Software-6f9": {
     "component": "17896441",
     "content": "ac759676"
   },
-  "/en/docs/Glossar/S-Glossar/Stakeholder-43c": {
+  "/docs/Glossar/S-Glossar/Stakeholder-a08": {
     "component": "17896441",
     "content": "67572cce"
   },
-  "/en/docs/Glossar/S-Glossar/Stakeholder-180": {
+  "/docs/Glossar/S-Glossar/Stakeholder-033": {
     "component": "17896441",
     "content": "513ab66f"
   },
-  "/en/docs/Glossar/S-Glossar/Standardsoftware-32e": {
+  "/docs/Glossar/S-Glossar/Standardsoftware-1d2": {
     "component": "17896441",
     "content": "625e33eb"
   },
-  "/en/docs/Glossar/S-Glossar/Systemsoftware-834": {
+  "/docs/Glossar/S-Glossar/Systemsoftware-694": {
     "component": "17896441",
     "content": "9b21e3e8"
   },
-  "/en/docs/Glossar/U-Glossar/UC-4e7": {
+  "/docs/Glossar/U-Glossar/UC-388": {
     "component": "17896441",
     "content": "a53e4c7e"
   },
-  "/en/docs/Glossar/U-Glossar/USV-4bb": {
+  "/docs/Glossar/U-Glossar/USV-0e9": {
     "component": "17896441",
     "content": "a450e64f"
   },
-  "/en/docs/Glossar/V-Glossar/Verfuegbarkeit-75b": {
+  "/docs/Glossar/V-Glossar/Verfuegbarkeit-58a": {
     "component": "17896441",
     "content": "2b63c1c2"
   },
-  "/en/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen-7ab": {
+  "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen-b80": {
     "component": "17896441",
     "content": "2b38060c"
   },
-  "/en/docs/Glossar/V-Glossar/Virtualisierung-92a": {
+  "/docs/Glossar/V-Glossar/Virtualisierung-fd1": {
     "component": "17896441",
     "content": "02771b5a"
   },
-  "/en/docs/Glossar/V-Glossar/VM-513": {
+  "/docs/Glossar/V-Glossar/VM-502": {
     "component": "17896441",
     "content": "eaadfd97"
   },
-  "/en/docs/Glossar/V-Glossar/VPN-3e5": {
+  "/docs/Glossar/V-Glossar/VPN-93c": {
     "component": "17896441",
     "content": "d9120853"
   },
-  "/en/docs/Glossar/W-Glossar/Web-Browser-1f3": {
+  "/docs/Glossar/W-Glossar/Web-Browser-9fe": {
     "component": "17896441",
     "content": "a8ac7fc4"
   },
-  "/en/docs/Glossar/W-Glossar/Web-Client-d10": {
+  "/docs/Glossar/W-Glossar/Web-Client-c26": {
     "component": "17896441",
     "content": "6e7ac1a8"
   },
-  "/en/docs/Glossar/W-Glossar/Webseite-08f": {
+  "/docs/Glossar/W-Glossar/Webseite-eff": {
     "component": "17896441",
     "content": "fe552479"
   },
-  "/en/docs/Glossar/W-Glossar/Webserver-174": {
+  "/docs/Glossar/W-Glossar/Webserver-61f": {
     "component": "17896441",
     "content": "4b4f2ca8"
   },
-  "/en/docs/Glossar/W-Glossar/Website-1fe": {
+  "/docs/Glossar/W-Glossar/Website-77c": {
     "component": "17896441",
     "content": "576ae3b6"
   },
-  "/en/docs/Glossar/Z-Glossar/Zugriffszeiten-40d": {
+  "/docs/Glossar/Z-Glossar/Zugriffszeiten-71a": {
     "component": "17896441",
     "content": "ad26ef88"
   },
-  "/en/-d3f": {
+  "/-3f5": {
     "component": "c4f5d8e4",
     "config": "5e9f5e1a",
     "__routeContextModule": "0545ef6b"

@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/Begriffe-Home">
-            Einführung in das platinus Fachglossar - 5min ⏱️
+            Einführung - 5min ⏱️
           </Link>
         </div>
       </div>

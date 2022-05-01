@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Begriffe.md",
   "sourceDirName": ".",
   "slug": "/Begriffe-Home",
-  "permalink": "/en/docs/Begriffe-Home",
+  "permalink": "/docs/Begriffe-Home",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Begriffe.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "Glossar",
-      "permalink": "/en/docs/tags/glossar"
+      "permalink": "/docs/tags/glossar"
     }
   ],
   "version": "current",
@@ -32,6 +32,6 @@
   "sidebar": "Sidebar10",
   "next": {
     "title": "ABPMP",
-    "permalink": "/en/docs/Glossar/A-Glossar/ABPMP"
+    "permalink": "/docs/Glossar/A-Glossar/ABPMP"
   }
 }

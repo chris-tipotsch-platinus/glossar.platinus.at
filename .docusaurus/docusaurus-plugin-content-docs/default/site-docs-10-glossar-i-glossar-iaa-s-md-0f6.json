@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/I-Glossar/IaaS.md",
   "sourceDirName": "10-Glossar/I-Glossar",
   "slug": "/Glossar/I-Glossar/IaaS",
-  "permalink": "/en/docs/Glossar/I-Glossar/IaaS",
+  "permalink": "/docs/Glossar/I-Glossar/IaaS",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IaaS.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IT-Sicherheit",
-    "permalink": "/en/docs/Glossar/I-Glossar/IT-Sicherheit"
+    "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit"
   },
   "next": {
     "title": "Informationsqualität",
-    "permalink": "/en/docs/Glossar/I-Glossar/Informationsqualitaet"
+    "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
   }
 }

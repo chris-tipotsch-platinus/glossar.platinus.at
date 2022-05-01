@@ -83,7 +83,7 @@ themes: [
         title: 'GLOSSAR',
         logo: {
           alt: 'platinus-Logo',
-          src: 'img/logo.svg',
+          src: '/img/glossar.svg',
         },
         items: [
           {

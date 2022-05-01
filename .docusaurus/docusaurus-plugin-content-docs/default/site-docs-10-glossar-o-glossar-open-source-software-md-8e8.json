@@ -6,20 +6,20 @@
   "source": "@site/docs/10-Glossar/O-Glossar/Open-Source-Software.md",
   "sourceDirName": "10-Glossar/O-Glossar",
   "slug": "/Glossar/O-Glossar/Open-Source-Software",
-  "permalink": "/en/docs/Glossar/O-Glossar/Open-Source-Software",
+  "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Open-Source-Software.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "Open-Source",
-      "permalink": "/en/docs/tags/open-source"
+      "permalink": "/docs/tags/open-source"
     }
   ],
   "version": "current",
@@ -35,10 +35,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Netzwerksicherheit",
-    "permalink": "/en/docs/Glossar/N-Glossar/Netzwerksicherheit"
+    "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
   },
   "next": {
     "title": "Outtasking",
-    "permalink": "/en/docs/Glossar/O-Glossar/Outtasking"
+    "permalink": "/docs/Glossar/O-Glossar/Outtasking"
   }
 }

@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Ablauforganisation.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/BPM",
-  "permalink": "/en/docs/Glossar/A-Glossar/BPM",
+  "permalink": "/docs/Glossar/A-Glossar/BPM",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Ablauforganisation.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "ABPMP",
-    "permalink": "/en/docs/Glossar/A-Glossar/ABPMP"
+    "permalink": "/docs/Glossar/A-Glossar/ABPMP"
   },
   "next": {
     "title": "Anforderungen - Requirements",
-    "permalink": "/en/docs/Glossar/A-Glossar/Anforderungen"
+    "permalink": "/docs/Glossar/A-Glossar/Anforderungen"
   }
 }

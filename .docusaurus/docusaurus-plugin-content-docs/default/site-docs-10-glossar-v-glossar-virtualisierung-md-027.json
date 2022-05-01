@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/V-Glossar/Virtualisierung.md",
   "sourceDirName": "10-Glossar/V-Glossar",
   "slug": "/Glossar/V-Glossar/Virtualisierung",
-  "permalink": "/en/docs/Glossar/V-Glossar/Virtualisierung",
+  "permalink": "/docs/Glossar/V-Glossar/Virtualisierung",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Virtualisierung.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Verfügbarkeitsklassen",
-    "permalink": "/en/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
   },
   "next": {
     "title": "Web-Browser",
-    "permalink": "/en/docs/Glossar/W-Glossar/Web-Browser"
+    "permalink": "/docs/Glossar/W-Glossar/Web-Browser"
   }
 }

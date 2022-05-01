@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/M-Glossar/MTTR.md",
   "sourceDirName": "10-Glossar/M-Glossar",
   "slug": "/Glossar/M-Glossar/MTBF",
-  "permalink": "/en/docs/Glossar/M-Glossar/MTBF",
+  "permalink": "/docs/Glossar/M-Glossar/MTBF",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/MTTR.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "MTTR - Mittlere Reparaturzeit",
-    "permalink": "/en/docs/Glossar/M-Glossar/MTTR"
+    "permalink": "/docs/Glossar/M-Glossar/MTTR"
   },
   "next": {
     "title": "Major-Risk",
-    "permalink": "/en/docs/Glossar/M-Glossar/Major-Risk"
+    "permalink": "/docs/Glossar/M-Glossar/Major-Risk"
   }
 }

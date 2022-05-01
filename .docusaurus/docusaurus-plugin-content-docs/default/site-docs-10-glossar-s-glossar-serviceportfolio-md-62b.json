@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/S-Glossar/Serviceportfolio.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/Serviceportfolio",
-  "permalink": "/en/docs/Glossar/S-Glossar/Serviceportfolio",
+  "permalink": "/docs/Glossar/S-Glossar/Serviceportfolio",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Serviceportfolio.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Servicekatalog",
-    "permalink": "/en/docs/Glossar/S-Glossar/Servicekatalog"
+    "permalink": "/docs/Glossar/S-Glossar/Servicekatalog"
   },
   "next": {
     "title": "Sicherheitskette",
-    "permalink": "/en/docs/Glossar/S-Glossar/Sicherheitskette"
+    "permalink": "/docs/Glossar/S-Glossar/Sicherheitskette"
   }
 }

@@ -6,24 +6,24 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dashboard.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dashboard",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dashboard",
+  "permalink": "/docs/Glossar/D-Glossar/Dashboard",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dashboard.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -40,10 +40,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Compliance",
-    "permalink": "/en/docs/Glossar/C-Glossar/Compliance"
+    "permalink": "/docs/Glossar/C-Glossar/Compliance"
   },
   "next": {
     "title": "Diataxis Framework",
-    "permalink": "/en/docs/Glossar/D-Glossar/Diataxis-Framework"
+    "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
   }
 }
