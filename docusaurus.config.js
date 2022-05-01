@@ -43,7 +43,7 @@ themes: [
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: '/img/favicon.ico',
   organizationName: 'platinus', // Usually your GitHub org/user name.
   projectName: 'platinus-Glossar', // Usually your repo name.
 

@@ -46,7 +46,7 @@ export default {
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "/img/favicon.ico",
   "organizationName": "platinus",
   "projectName": "platinus-Glossar",
   "presets": [

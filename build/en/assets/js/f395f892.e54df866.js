@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchris=self.webpackChunkchris||[]).push([[5752],{8363:function(s){s.exports=JSON.parse('{"name":"BOM","permalink":"/en/docs/tags/bom","docs":[{"id":"Glossar/S-Glossar/Stakeholder","title":"Stakeholder","description":"------","permalink":"/en/docs/Glossar/S-Glossar/Stakeholder"}],"allTagsPath":"/en/docs/tags"}')}}]);

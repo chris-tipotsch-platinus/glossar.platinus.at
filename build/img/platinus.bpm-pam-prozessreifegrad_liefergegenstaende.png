@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html class="edge no-js" lang="de" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<link rel="search" type="application/opensearchdescription+xml" href="https://kb-wiki.platinus.at/lib/exe/opensearch.php" title="platinus-KnowledgeBase"/>
+<link rel="start" href="https://kb-wiki.platinus.at/"/>
+<link rel="contents" href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?do=index" title="Übersicht"/>
+<link rel="manifest" href="https://kb-wiki.platinus.at/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Letzte Änderungen" href="https://kb-wiki.platinus.at/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Aktueller Namensraum" href="https://kb-wiki.platinus.at/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="HTML Klartext" href="https://kb-wiki.platinus.at/_export/xhtml/glossar/p/prozessreifegradmodell"/>
+<link rel="stylesheet" href="https://kb-wiki.platinus.at/lib/exe/css.php?t=sprintdoc&amp;tseed=bd0cdba2a386639ad5e9d406343c15c3"/>
+<!--[if gte IE 9]><!-->
+<script >/*<![CDATA[*/var NS='';var SIG=" --- \/\/[[chris@tipotsch.eu|Chris TIPOTSCH]] 2022\/04\/16 07:50\/\/";var JSINFO = {"template":{"sprintdoc":{"sidebar_toggle_elements":"h1,h2,h3,h4,h5"}},"id":"glossar:p:prozessreifegradmodell","namespace":"","ACT":"show","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script charset="utf-8" src="https://kb-wiki.platinus.at/lib/exe/jquery.php?tseed=34a552433bc33cc9c3bc32527289a0b2" defer="defer"></script>
+<script charset="utf-8" src="https://kb-wiki.platinus.at/lib/exe/js.php?t=sprintdoc&amp;tseed=bd0cdba2a386639ad5e9d406343c15c3" defer="defer"></script>
+<!--<![endif]-->
+<title>support:glossar:p:platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png [platinus-KnowledgeBase]</title>
+
+<script type="text/javascript">(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+</head>
+
+<body id="dokuwiki__top" class="dokuwiki mode_ tpl_sprintdoc loggedIn   wide-content showSidebar">
+<div id="dokuwiki__site">
+        
+        <div id="spr__direct" class="nav-direct no-print">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+
+                        <p>
+                            <span class="sr-out">Direkt: </span>
+                            <span class="skip">
+                                <a rel="nofollow" href="#qsearch__in">Schnellsuche</a><span class="sr-out"> /</span>
+                                <a rel="nofollow" href="#dokuwiki__usertools">Benutzer-Werkzeuge</a><span class="sr-out"> /</span>
+                                <a rel="nofollow" href="#dokuwiki__content">Hauptinhalt dieser Seite</a><span class="sr-out"> /</span>
+                                <a rel="nofollow" href="#spr__toggle-content">Breite des Contents ändern</a>
+                            </span>
+                        </p>
+
+                        <hr class="structure" />
+
+                    </div><!-- .col -->
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- .nav-direct -->
+
+
+
+    <div class="page-wrapper hasSidebar">
+        
+        <div id="dokuwiki__header" class="header no-print">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="claim main-sidebar">
+                            <div class="menu-togglelink mobile-only">
+                                <a href="#">
+                                    <span class="sr-out">Navigation anzeigen/verbergen</span>
+                                </a>
+                            </div>
+
+                            <div class="logo"><a href="https://kb-wiki.platinus.at/start"  accesskey="h" title="[H]"></a><a href="https://kb-wiki.platinus.at/start"  accesskey="h" title="[H]"></a><hr class="structure" /></div>                            <div class="main-title">
+                                                                    <p class="title mobile-only">platinus-KnowledgeBase</p>
+                                                            </div><!-- .main-title -->
+
+                            <div class="menu-tool-select">
+                                <h5 class="sr-only" role="heading" aria-level="2">Werkzeuge</h5>
+                                <form action="https://kb-wiki.platinus.at/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="glossar:p:prozessreifegradmodell" /><input type="hidden" name="sectok" value="a7448c06035437ebe9bc241c20d758f3" /><select name="do" class="edit quickselect" title="Werkzeuge"><option value="">Werkzeuge</option><optgroup label="Seiten-Werkzeuge"><option value="">Seite anzeigen</option><option value="backlink">Links hierher</option><option value="plugin_bookcreator__addtobook">Zu Buch hinzufügen</option><option value="export_pdf">PDF exportieren</option><option value="menuitemfolded">Alles aus-/einklappen</option><option value="export_odt">ODT exportieren</option><option value="export_odt_pdf">ODT=&gt;PDF exportieren</option><option value="subscribe">Aboverwaltung</option></optgroup><optgroup label="Webseiten-Werkzeuge"><option value="recent">Letzte Änderungen</option><option value="media">Medien-Manager</option><option value="index">Übersicht</option></optgroup><optgroup label="Benutzer-Werkzeuge"><option value="admin">Admin</option><option value="logout">Abmelden</option></optgroup></select><button type="submit">test</button></div></form>                            </div><!-- .menu-tool-select -->
+                        </div><!-- .headings -->
+                    </div><!-- .col -->
+
+
+                    <div class="col-xs-12">
+                        <div class="main-title desktop-only">
+                                                            <p class="title">platinus-KnowledgeBase</p>
+                                                                                        <p class="claim">Informationen und Wissen sammeln, aufbereiten, bereitstellen und nutzen.</p>
+                                                    </div><!-- .main-title -->
+                    </div><!-- .col -->
+
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- .header -->
+        
+        <div class="sr-only nav-area-head">
+            <h5 class="sr-only" aria-level="1">Navigationsmenüs und Suche</h5>
+        </div><!-- .nav-area-head -->
+
+        <div class="tools">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="search main-sidebar">
+                            <h6 class="sr-only" role="heading" aria-level="2">Wikiübergreifende Schnellsuche</h6><p class="toggleSearch"><a href="#qsearch__out"><span class="prefix">Springe zur Schnellsuche</span></a></p><form action="https://kb-wiki.platinus.at/start" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="glossar:p:prozessreifegradmodell" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Suche" autocomplete="off" id="qsearch__in" value="" /><button value="1" type="submit" title="Suche">Suche</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>                        </div><!-- .search -->
+
+                        <div class="sidebarheader main-sidebar">
+                                                    </div><!-- .sidebarheader -->
+
+                        <div id="dokuwiki__aside">
+
+                            
+                            <nav class="nav-main">
+    
+<p>
+
+<a href="https://kb-wiki.platinus.at/start" class="wikilink1" title="start" data-wiki-id="start">Home</a>
+</p>
+
+<h1 class="sectionedit1" id="news_space">01 News Space</h1>
+<div class="level1">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;01 News Space&quot;,&quot;hid&quot;:&quot;news_space&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;29-57&quot;} -->
+<h1 class="sectionedit2" id="service_space">02 Service Space</h1>
+<div class="level1">
+
+<p>
+<em>platinus Kernkompetenzen strukturiert nach Modulen </em>
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/pm" class="wikilink1" title="pm" data-wiki-id="pm"> Projektmanagement Wiki-Space</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/am" class="wikilink1" title="am" data-wiki-id="am"> Anforderungsmanagement Wiki-Space</a></div>
+</li>
+<li class="level1 node"><div class="li"> <a href="https://kb-wiki.platinus.at/ea" class="wikilink1" title="ea" data-wiki-id="ea"> Unternehmensarchitektur Wiki-Space</a></div>
+<ul>
+<li class="level2"><div class="li"> <a href="https://kb-wiki.platinus.at/bpm" class="wikilink1" title="bpm" data-wiki-id="bpm"> Prozessarchitektur Wiki-Space</a></div>
+</li>
+<li class="level2"><div class="li"> <a href="https://kb-wiki.platinus.at/da" class="wikilink2" title="da" rel="nofollow" data-wiki-id="da"> Datenarchitelktur Wiki-Space</a></div>
+</li>
+<li class="level2"><div class="li"> <a href="https://kb-wiki.platinus.at/aa" class="wikilink2" title="aa" rel="nofollow" data-wiki-id="aa"> Applikationsarchitektur Wiki-Space</a></div>
+</li>
+<li class="level2"><div class="li"> <a href="https://kb-wiki.platinus.at/ia" class="wikilink2" title="ia" rel="nofollow" data-wiki-id="ia"> Infrastrukturarchiketur Wiki-Space</a></div>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/se" class="wikilink1" title="se" data-wiki-id="se"> Solution Engineering &amp; Development Wiki-Space</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/csm" class="wikilink1" title="csm" data-wiki-id="csm"> Cyber Security Management Wiki-Space</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/tm" class="wikilink1" title="tm" data-wiki-id="tm"> Testmanagement Wiki-Space</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/it" class="wikilink1" title="it" data-wiki-id="it"> IT-Betrieb Wiki-Space</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/km" class="wikilink1" title="km" data-wiki-id="km"> Wissensmanagement Wiki-Space</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/ocm" class="wikilink1" title="ocm" data-wiki-id="ocm"> Organisations-Change Management Wiki-Space</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;02 Service Space&quot;,&quot;hid&quot;:&quot;service_space&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;58-751&quot;} -->
+<h1 class="sectionedit3" id="archiv_space">06 Archiv Space</h1>
+<div class="level1">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;06 Archiv Space&quot;,&quot;hid&quot;:&quot;archiv_space&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;752-783&quot;} -->
+<h1 class="sectionedit4" id="platinus_space">07 platinus Space</h1>
+<div class="level1">
+
+<p>
+<em>platinus internal Spaces</em>
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="https://www.platinus.at/" class="urlextern" target="https://kb-wiki.platinus.at" title="https://www.platinus.at/" rel="ugc nofollow noopener"> platinus Homepage</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://CHAT.platinus.at/" class="urlextern" target="https://kb-wiki.platinus.at" title="https://CHAT.platinus.at/" rel="ugc nofollow noopener"> platinus-CHAT</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/" class="urlextern" target="https://kb-wiki.platinus.at" title="https://kb-wiki.platinus.at/" rel="ugc nofollow noopener"> platinus KB-WIKI</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://it-wiki.tipotsch.eu/" class="urlextern" target="https://kb-wiki.platinus.at" title="https://it-wiki.tipotsch.eu/" rel="ugc nofollow noopener"> platinus IT-WIKI</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://HUB.platinus.at/" class="urlextern" target="https://kb-wiki.platinus.at" title="https://HUB.platinus.at/" rel="ugc nofollow noopener"> platinus-HUB</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://project-HUB.platinus.at/" class="urlextern" target="https://kb-wiki.platinus.at" title="https://project-HUB.platinus.at/" rel="ugc nofollow noopener"> platinus project-HUB</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;07 platinus Space&quot;,&quot;hid&quot;:&quot;platinus_space&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:4,&quot;range&quot;:&quot;784-1172&quot;} -->
+<h1 class="sectionedit5" id="wiki-support_space">08 Wiki-Support Space</h1>
+<div class="level1">
+
+<p>
+<em>platinus Support Space</em>
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/glossar" class="wikilink1" title="glossar" data-wiki-id="glossar"> Glossar - Begriffsmodelle</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/kpi" class="wikilink1" title="kpi" data-wiki-id="kpi"> KPIs - Kennzahlen</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/tag" class="wikilink1" title="tag" data-wiki-id="tag"> TAGs - Inhaltskategorien</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/support/chronik" class="wikilink1" title="support:chronik" data-wiki-id="support:chronik"> Chronik - Änderungshistorie</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/support/zweck" class="wikilink1" title="support:zweck" data-wiki-id="support:zweck"> Über KB@platinus</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;08 Wiki-Support Space&quot;,&quot;hid&quot;:&quot;wiki-support_space&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;1173-1444&quot;} -->
+<h1 class="sectionedit6" id="admin-space_-_verwaltung">09 Admin-Space - Verwaltung</h1>
+<div class="level1">
+
+<p>
+<em>für <a href="https://kb-wiki.platinus.at/admin" class="wikilink1" title="admin" data-wiki-id="admin">Wiki-Administratoren</a></em>
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/admin/user" class="wikilink1" title="admin:user" data-wiki-id="admin:user">Benutzer-Management</a> (User)</div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/admin/groups" class="wikilink1" title="admin:groups" data-wiki-id="admin:groups">Benutzergruppen-Management</a> (Group)</div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/admin/rights" class="wikilink1" title="admin:rights" data-wiki-id="admin:rights">Rechte-Management</a> (Permission)</div>
+</li>
+<li class="level1"><div class="li"> <a href="https://kb-wiki.platinus.at/admin/navigation" class="wikilink1" title="admin:navigation" data-wiki-id="admin:navigation"> Navigationsmenü-Administration</a> (Navigate)</div>
+</li>
+</ul>
+<div class="tagstop"><span>
+	<a href="https://kb-wiki.platinus.at/tag/admin?do=showtag&amp;tag=Admin" class="wikilink1" title="tag:admin" rel="tag">Admin</a>,
+	<a href="https://kb-wiki.platinus.at/tag/navigation?do=showtag&amp;tag=Navigation" class="wikilink1" title="tag:navigation" rel="tag">Navigation</a>,
+	<a href="https://kb-wiki.platinus.at/tag/security?do=showtag&amp;tag=Security" class="wikilink1" title="tag:security" rel="tag">Security</a>
+</span></div>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;09 Admin-Space - Verwaltung&quot;,&quot;hid&quot;:&quot;admin-space_-_verwaltung&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:6,&quot;range&quot;:&quot;1445-&quot;} --></nav>
+
+<nav class="nav-sitetools">
+    <div class="nav"><a href="#sidebar-site-tools" role="heading" aria-level="2">
+        <span class="ico"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M9,2V8H11V11H5C3.89,11 3,11.89 3,13V16H1V22H7V16H5V13H11V16H9V22H15V16H13V13H19V16H17V22H23V16H21V13C21,11.89 20.11,11 19,11H13V8H15V2H9Z" /></svg></span>
+        <span class="lbl">Webseiten-Werkzeuge</span>
+    </a></div>
+    <div class="nav-panel level1">
+        <ul id="sidebar-site-tools" class="toollist">
+            <li class="toollist__listitem recent"><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?do=recent" title="Letzte Änderungen [r]" rel="nofollow" accesskey="r"><span>Letzte Änderungen</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15 13h1.5v2.82l2.44 1.41-.75 1.3L15 16.69V13m4-5H5v11h4.67c-.43-.91-.67-1.93-.67-3a7 7 0 0 1 7-7c1.07 0 2.09.24 3 .67V8M5 21a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h1V1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6.1c1.24 1.26 2 2.99 2 4.9a7 7 0 0 1-7 7c-1.91 0-3.64-.76-4.9-2H5m11-9.85A4.85 4.85 0 0 0 11.15 16c0 2.68 2.17 4.85 4.85 4.85A4.85 4.85 0 0 0 20.85 16c0-2.68-2.17-4.85-4.85-4.85z"/></svg></a></li><li class="toollist__listitem media"><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?do=media&amp;ns=glossar%3Ap" title="Medien-Manager" rel="nofollow"><span>Medien-Manager</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7 15l4.5-6 3.5 4.5 2.5-3L21 15m1-11h-8l-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2M2 6H0v14a2 2 0 0 0 2 2h18v-2H2V6z"/></svg></a></li><li class="toollist__listitem index"><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?do=index" title="Übersicht [x]" rel="nofollow" accesskey="x"><span>Übersicht</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M3 3h6v4H3V3m12 7h6v4h-6v-4m0 7h6v4h-6v-4m-2-4H7v5h6v2H5V9h2v2h6v2z"/></svg></a></li>        </ul>
+    </div>
+</nav>
+
+
+<nav class="nav-usermenu">
+    <div class="nav"><a href="#sidebar-user-tools" role="heading" aria-level="2">
+        <span class="ico"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M12,4A4,4 0 0,1 16,8A4,4 0 0,1 12,12A4,4 0 0,1 8,8A4,4 0 0,1 12,4M12,14C16.42,14 20,15.79 20,18V20H4V18C4,15.79 7.58,14 12,14M7,22H9V24H7V22M11,22H13V24H11V22M15,22H17V24H15V22Z" /></svg></span>
+        <span class="lbl">Benutzer-Werkzeuge</span>
+    </a></div>
+    <div class="nav-panel level1">
+        <ul id="sidebar-user-tools" class="toollist">
+            <li class="toollist__listitem admin"><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?do=admin" title="Admin" rel="nofollow"><span>Admin</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 15.5A3.5 3.5 0 0 1 8.5 12 3.5 3.5 0 0 1 12 8.5a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5m7.43-2.53c.04-.32.07-.64.07-.97 0-.33-.03-.66-.07-1l2.11-1.63c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.31-.61-.22l-2.49 1c-.52-.39-1.06-.73-1.69-.98l-.37-2.65A.506.506 0 0 0 14 2h-4c-.25 0-.46.18-.5.42l-.37 2.65c-.63.25-1.17.59-1.69.98l-2.49-1c-.22-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64L4.57 11c-.04.34-.07.67-.07 1 0 .33.03.65.07.97l-2.11 1.66c-.19.15-.25.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1.01c.52.4 1.06.74 1.69.99l.37 2.65c.04.24.25.42.5.42h4c.25 0 .46-.18.5-.42l.37-2.65c.63-.26 1.17-.59 1.69-.99l2.49 1.01c.22.08.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.66z"/></svg></a></li><li class="toollist__listitem logout"><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?do=logout&amp;sectok=a7448c06035437ebe9bc241c20d758f3" title="Abmelden" rel="nofollow"><span>Abmelden</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M17 17.25V14h-7v-4h7V6.75L22.25 12 17 17.25M13 2a2 2 0 0 1 2 2v4h-2V4H4v16h9v-4h2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9z"/></svg></a></li>        </ul>
+    </div>
+</nav>
+
+
+
+
+    <nav class="nav-trace">
+        <div class="nav"><a href="#sidebar-menu_trace" role="heading" aria-level="2">
+            <span class="ico"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,4A8,8 0 0,0 4,12C4,14.09 4.8,16 6.11,17.41L9.88,9.88L17.41,6.11C16,4.8 14.09,4 12,4M12,20A8,8 0 0,0 20,12C20,9.91 19.2,8 17.89,6.59L14.12,14.12L6.59,17.89C8,19.2 9.91,20 12,20M12,12L11.23,11.23L9.7,14.3L12.77,12.77L12,12M12,17.5H13V19H12V17.5M15.88,15.89L16.59,15.18L17.65,16.24L16.94,16.95L15.88,15.89M17.5,12V11H19V12H17.5M12,6.5H11V5H12V6.5M8.12,8.11L7.41,8.82L6.35,7.76L7.06,7.05L8.12,8.11M6.5,12V13H5V12H6.5Z" /></svg></span>
+            <span class="lbl">Zuletzt Angesehen</span>
+        </a></div>
+        <div class="nav-panel level1">
+            <ul id="sidebar-menu_trace">
+                <li><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell"  title="glossar:p:prozessreifegradmodell">prozessreifegradmodell</a></li><li><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegrad"  title="glossar:p:prozessreifegrad">prozessreifegrad</a></li><li><a href="https://kb-wiki.platinus.at/bpm/nbpm/governance/mission/reifegrad"  title="bpm:nbpm:governance:mission:reifegrad">reifegrad</a></li><li><a href="https://kb-wiki.platinus.at/bpm/nbpm/governance/mission"  title="bpm:nbpm:governance:mission">mission</a></li><li><a href="https://kb-wiki.platinus.at/bpm/nbpm/governance/mission/erfolgsfaktore"  title="bpm:nbpm:governance:mission:erfolgsfaktore">erfolgsfaktore</a></li>            </ul>
+        </div>
+    </nav>
+
+                                                    </div><!-- .aside -->
+
+                    </div><!-- .col -->
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- .tools -->
+
+
+        <div class="top-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+
+                        
+        <nav id="dokuwiki__usertools" class="nav-usertools ">
+            <h6 class="sr-only" role="heading" aria-level="2">Benutzer-Werkzeuge</h6>
+            <ul>
+                <li class="log"><form class="button btn_logout" method="get" action="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell"><div class="no"><input type="hidden" name="do" value="logout" /><input type="hidden" name="sectok" value="a7448c06035437ebe9bc241c20d758f3" /><button type="submit" title="Abmelden"><span>Abmelden</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M17 17.25V14h-7v-4h7V6.75L22.25 12 17 17.25M13 2a2 2 0 0 1 2 2v4h-2V4H4v16h9v-4h2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9z"/></svg></button></div></form>                </li>
+
+                <li class="user"><span class="sr-only">Angemeldet als: </span><bdi>Chris TIPOTSCH</bdi> (<bdi>chris-tipotsch</bdi>)</li>
+                <li class="admin"><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?do=admin" title="Admin" rel="nofollow" class="menuitem admin"><span>Admin</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 15.5A3.5 3.5 0 0 1 8.5 12 3.5 3.5 0 0 1 12 8.5a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5m7.43-2.53c.04-.32.07-.64.07-.97 0-.33-.03-.66-.07-1l2.11-1.63c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.31-.61-.22l-2.49 1c-.52-.39-1.06-.73-1.69-.98l-.37-2.65A.506.506 0 0 0 14 2h-4c-.25 0-.46.18-.5.42l-.37 2.65c-.63.25-1.17.59-1.69.98l-2.49-1c-.22-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64L4.57 11c-.04.34-.07.67-.07 1 0 .33.03.65.07.97l-2.11 1.66c-.19.15-.25.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1.01c.52.4 1.06.74 1.69.99l.37 2.65c.04.24.25.42.5.42h4c.25 0 .46-.18.5-.42l.37-2.65c.63-.26 1.17-.59 1.69-.99l2.49 1.01c.22.08.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.66z"/></svg></a></li>
+                
+            </ul>
+        </nav><!-- #dokuwiki__usertools -->
+    
+
+                    </div><!-- .col -->
+                </div><!-- .row -->
+            </div><!-- .container -->
+        </div><!-- /top-header -->
+
+
+        <div id="dokuwiki__detail">
+
+            
+            <div class="content group">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="breadcrumbs" data-do="Detailinformationen zum Bild">
+
+                                <div class="togglelink page_main-content">
+                                    <a id="spr__toggle-content" href="#"><span class="sr-out">Navigation anzeigen/verbergen</span></a>
+                                </div>
+
+                                <h6 class="sr-only" role="heading" aria-level="2">Seitenstatus</h6>
+
+                                        <h6 class="sr-only" role="heading" aria-level="2">Standortanzeiger</h6>
+        <p>
+            <span class="bchead">Sie befinden sich hier: </span><span class="home"><bdi><a href="https://kb-wiki.platinus.at/start" class="wikilink1" title="start" data-wiki-id="start">start</a></bdi></span> » <bdi><a href="https://kb-wiki.platinus.at/glossar" class="wikilink1" title="glossar" data-wiki-id="glossar">glossar</a></bdi> » <bdi><a href="https://kb-wiki.platinus.at/glossar/p" class="wikilink1" title="glossar:p" data-wiki-id="glossar:p">p</a></bdi> » <bdi><a href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell" class="wikilink1" title="glossar:p:prozessreifegradmodell" data-wiki-id="glossar:p:prozessreifegradmodell">prozessreifegradmodell</a></bdi><bdi><span class="curid"> : <strong>platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png</strong></span></bdi>        </p>
+
+
+                                <h6 class="sr-only" role="heading" aria-level="2">Seiten-Werkzeuge</h6>
+
+                                                                <nav id="dokuwiki__pagetools">
+                                    <div class="tools">
+                                        <ul>
+                                            <li><a accesskey="" title="Im Medien-Manager anzeigen" rel="nofollow" href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell?ns=support%3Aglossar%3Ap&amp;image=support%3Aglossar%3Ap%3Aplatinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png&amp;do=media"><span>Im Medien-Manager anzeigen</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M5 17l4.5-6 3.5 4.5 2.5-3L19 17m1-11h-8l-2-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2z"/></svg></a></li><li><a accesskey="b" title="Zurück zu glossar:p:prozessreifegradmodell [B]" rel="nofollow" href="https://kb-wiki.platinus.at/glossar/p/prozessreifegradmodell"><span>Zurück zu glossar:p:prozessreifegradmodell</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg></a></li>                                        </ul>
+                                    </div>
+                                </nav>
+
+                            </div>
+                            <div id="dokuwiki__content" class="page main-content">
+
+                                <div id="spr__meta-box"></div>
+                                <div class="msg-area"></div>
+
+
+                                
+                                
+                                <h1>support:glossar:p:platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png</h1>
+                                                                <div class="img-link">
+                                    <a href="https://kb-wiki.platinus.at/_media/support/glossar/p/platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png?cache=" title="Originaldatei öffnen"><img width="900" height="623" class="img_detail" alt="platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png" title="platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png" src="https://kb-wiki.platinus.at/_media/support/glossar/p/platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png?cache=&amp;w=900&amp;h=623&amp;tok=89dd97"/></a>                                </div>
+                                                                <div class="img_detail">
+                                                                        <h4>platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png</h4>
+                                    
+                                    <dl><dt>Datum:</dt><dd>2019/11/29 15:09</dd><dt>Dateiname:</dt><dd>platinus.bpm-pam-prozessreifegrad_liefergegenstaende_17cw28.png</dd><dt>Format:</dt><dd>PNG</dd><dt>Größe:</dt><dd>123KB</dd><dt>Breite:</dt><dd>1024</dd><dt>Höhe:</dt><dd>709</dd></dl>                                                                    </div>
+                            </div><!-- .main-content -->
+                        </div><!-- .col -->
+                    </div><!-- .row -->
+                </div><!-- .container -->
+            </div><!-- /.content -->
+
+
+                </div>
+    </div><!-- /wrapper -->
+
+
+    <!-- ********** FOOTER ********** -->
+
+    <div id="dokuwiki__footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+
+                    <div class="main-footer">
+                        <p>
+                            Falls nicht anders bezeichnet, ist der Inhalt dieses Wikis unter der folgenden Lizenz veröffentlicht: <bdi><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" rel="license" class="urlextern" target="https://kb-wiki.platinus.at">CC Attribution-Share Alike 4.0 International</a></bdi>                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div><!-- /footer -->
+
+
+    </div><!-- .dokuwiki__site -->
+
+<div class="no"><img src="https://kb-wiki.platinus.at/lib/exe/taskrunner.php?id=glossar%3Ap%3Aprozessreifegradmodell&amp;1650088222" width="2" height="1" alt="" /></div>
+
+</body>
+</html>
