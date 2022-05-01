@@ -6,20 +6,20 @@
   "source": "@site/docs/10-Glossar/B-Glossar/Betriebszeit.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/Betriebszeit",
-  "permalink": "/docs/Glossar/B-Glossar/Betriebszeit",
+  "permalink": "/en/docs/Glossar/B-Glossar/Betriebszeit",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Betriebszeit.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "Verfügbarkeit",
-      "permalink": "/docs/tags/verfugbarkeit"
+      "permalink": "/en/docs/tags/verfugbarkeit"
     }
   ],
   "version": "current",
@@ -35,10 +35,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Besucher - Visitor",
-    "permalink": "/docs/Glossar/B-Glossar/Besucher"
+    "permalink": "/en/docs/Glossar/B-Glossar/Besucher"
   },
   "next": {
     "title": "CaaS - Container-as-a-Service",
-    "permalink": "/docs/Glossar/C-Glossar/CaaS"
+    "permalink": "/en/docs/Glossar/C-Glossar/CaaS"
   }
 }

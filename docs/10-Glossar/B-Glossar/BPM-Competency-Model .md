@@ -12,9 +12,7 @@ ABPMP ist unter anderem auch Herausgeber des *Guide to the Business  Process Man
 
 Mit diesem Ausbildungsmodell sollen die personenbezogenen Kompetenzen zum Thema Geschäftsprozessmanagement gezielt entwickelt werden.
 
-![BPM Competency Model](/img/bpm_competency_model_von_abpmp_platinus_kb1.png)
-
-Abbildung: ABPMP – [BPM Competency Model ](/img/bpm_competency_model_von_abpmp_platinus_kb.png). Quelle: ABPMP Website
+Abbildung: ABPMP – BPM Competency Model Quelle: ABPMP Website
 
 
 
@@ -24,7 +22,6 @@ Abbildung: ABPMP – [BPM Competency Model ](/img/bpm_competency_model_von_abpmp
 
 ### Quick Links
 
--  [ABPMP-Competency-Model](/files/glossar/abpmpcompetencymodel.pdf) (PDF-Format: Business Process Management Competency Model)
 -  [ABPMP](http://www.abpmp.org/) *– Association of Business Process Management Professional International*
 -  [BPM CBOK](http://www.abpmp.org/?page=guide_BPM_CBOK) *- Guide to the Business Process Management Body of Knowledge*
 -  [CBPP](https://abpmp.site-ym.com/?page=CBPP_App_Process) *-Certified Business Process Professional*

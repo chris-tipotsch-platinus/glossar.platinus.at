@@ -5,32 +5,32 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Suche',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/search.svg').default,
     description: (
       <>
         Mit der integrierten Suchfunktion gelangen Sie schnell zu Ihren Begriffen.
-        Der Navigationsbaum unterstützt Sie beim stöbern zu den Glossareinträgen. 
+        Der <a href="/docs/Begriffe-Home/">Navigationsbaum</a> unterstützt Sie beim stöbern zu den Glossareinträgen.
       </>
     ),
   },
   {
     title: 'Feeback',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/feedback.svg').default,
     description: (
       <>
         Beiträge und Rückmeldungen zum Fachglossar sind herzlich willkommen.
-        Einmeldung für registrierte Benutzer über den CHAT-Serice oder als Backup
+        Einmeldung für registrierte Benutzer über den <a href="https://project-CHAT.platinus.at">CHAT-Service </a>oder als Backup
         über email an glossar@platinus.at
       </>
     ),
   },
   {
     title: 'Dokumentenlenkung',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/document.svg').default,
     description: (
       <>
         Erstellen, prüfen, freigeben, publizieren, verteilen, zurückziehen des Glossareinträgen
-         werden in der Dokumentenlenkung beschrieben.
+         werden in der <a href="/Dokumentenlenkung/">Dokumentenlenkung</a> beschrieben.
       </>
     ),
   },

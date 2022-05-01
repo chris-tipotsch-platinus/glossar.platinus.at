@@ -38,7 +38,7 @@ themes: [
 /** @type {import('@docusaurus/types').Config} */
 // const config = {
   title: 'Fachglossar',
-  tagline: 'platinus-Fachglossar - Die Grundlage für eine gemeinsame Begriffswelt',
+  tagline: 'platinus-Fachglossar - Grundlage für eine gemeinsame Begriffswelt',
   url: 'https://glossar.platinus.at',
   baseUrl: '/',
   onBrokenLinks: 'throw',

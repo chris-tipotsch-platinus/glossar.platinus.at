@@ -1,0 +1,13 @@
+{
+  "name": "Web-Client",
+  "permalink": "/en/docs/tags/web-client",
+  "docs": [
+    {
+      "id": "Glossar/W-Glossar/Web-Client",
+      "title": "Web-Client",
+      "description": "Ein Web- Client steht für die Anwenderseite des Webs; die Anbieterseite bildet der Webserver auf den der Web-Client zugreifen kann. Der Web-Client, das ist der Web-Browser, und Webserver kommunizieren miteinander über die von der Open Systems Interconnection (OSI) definierten Dienstprimitive.",
+      "permalink": "/en/docs/Glossar/W-Glossar/Web-Client"
+    }
+  ],
+  "allTagsPath": "/en/docs/tags"
+}

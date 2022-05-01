@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Sicherheitskette",
+  "id": "Glossar/S-Glossar/Sicherheitskette",
+  "title": "Sicherheitskette",
+  "description": "Durch die voranschreitende Vernetzung müssen alle sicherheitsrelevanten Bereiche berücksichtigt werden. Anhand einer Sicherheitskette lässt  sich das anschaulich verdeutlichen:",
+  "source": "@site/docs/10-Glossar/S-Glossar/Sicherheitskette.md",
+  "sourceDirName": "10-Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Sicherheitskette",
+  "permalink": "/en/docs/Glossar/S-Glossar/Sicherheitskette",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Sicherheitskette.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    },
+    {
+      "label": "SW",
+      "permalink": "/en/docs/tags/sw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Sicherheitskette",
+    "titel": "Sicherheitskette",
+    "tags": [
+      "Begriffe",
+      "IM",
+      "SW"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "IT-Serviceportfolio",
+    "permalink": "/en/docs/Glossar/S-Glossar/Serviceportfolio"
+  },
+  "next": {
+    "title": "Software",
+    "permalink": "/en/docs/Glossar/S-Glossar/Software"
+  }
+}

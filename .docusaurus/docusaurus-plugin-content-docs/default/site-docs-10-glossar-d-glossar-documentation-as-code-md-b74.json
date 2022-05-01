@@ -6,32 +6,32 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Documentation-as-Code.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Doc-as-Code",
-  "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code",
+  "permalink": "/en/docs/Glossar/D-Glossar/Doc-as-Code",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Documentation-as-Code.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/docs/tags/pm"
+      "permalink": "/en/docs/tags/pm"
     },
     {
       "label": "Dokumentation",
-      "permalink": "/docs/tags/dokumentation"
+      "permalink": "/en/docs/tags/dokumentation"
     },
     {
       "label": "Web",
-      "permalink": "/docs/tags/web"
+      "permalink": "/en/docs/tags/web"
     }
   ],
   "version": "current",
@@ -50,10 +50,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Dienstgütevereinbarung - Service Level Agreement",
-    "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
+    "permalink": "/en/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
   },
   "next": {
     "title": "Dokumentationslebenzyklus",
-    "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
   }
 }

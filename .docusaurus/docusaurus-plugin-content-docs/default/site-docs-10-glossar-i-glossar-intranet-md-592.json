@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/I-Glossar/Intranet.md",
   "sourceDirName": "10-Glossar/I-Glossar",
   "slug": "/Glossar/I-Glossar/Intranet",
-  "permalink": "/docs/Glossar/I-Glossar/Intranet",
+  "permalink": "/en/docs/Glossar/I-Glossar/Intranet",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Intranet.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Interoperabilität",
-    "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet"
+    "permalink": "/en/docs/Glossar/I-Glossar/Interoperabilitaet"
   },
   "next": {
     "title": "Kanban",
-    "permalink": "/docs/Glossar/K-Glossar/Kanban"
+    "permalink": "/en/docs/Glossar/K-Glossar/Kanban"
   }
 }

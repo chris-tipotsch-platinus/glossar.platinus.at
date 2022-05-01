@@ -18,7 +18,7 @@ Diese Dokumentenlenkung orientiert sich an den Anforderungen der ISO 9000.
 
 
 
-## Warum wird ein Online Fachglossar bereitgestellt?
+### Warum wird ein Online Fachglossar bereitgestellt?
 
 **Wir sind der festen Überzeugung, dass Wissen geteilt werden sollte**! So können neue Ideen entstehen, Organisation wachsen und Leistungsträger sich entwickeln. Als Fachexperten ist es uns ein Anliegen, Wissen rund um unsere Servicebereiche
 
@@ -28,7 +28,11 @@ Diese Dokumentenlenkung orientiert sich an den Anforderungen der ISO 9000.
 
 für die digitalen Business Transformations-Projekte aufzubereiten, bereitzustellen und anzuwenden. 
 
+:::info
+
 Dieses Glossar dient als **Nachschlagewerk**, als **Grundlage für Verweise** in den jeweiligen Organisationshandbüchern (OHB) und zum Wissenstransfer bei Projekten und bei Prozessenmanagement-Aufgaben. 
+
+:::
 
 Vielleicht finden Sie hier die Definition, die Sie schon immer gesucht haben oder eine neue Perspektive auf ein bereits bekanntes Thema.
 Viel Spaß beim Stöbern! Über Anregungen und Ergänzungen zum GLOSSAR freuen wir uns. 
@@ -75,9 +79,10 @@ Das Fachglossar ist ein Ergebnis des Prozesses **Wissensmanagement und Methodik*
 
 Die funktionale Rolle des **Process-Owner für den Prozesses Wissensmanagement** ist ergebnis- und durchführungsverantwortlich für die Erstellung, Umsetzumg, Einführung und kontinuierliche Weiterentwicklung und Aktualisierung des Online Fachglossars. 
 
-| Prozess-Schritt zu Dokumentenlenkung managen<br />Rolle      | Plan                                           | Do                                              | Check                                  | Act                           |
+| Prozess-Schritt                                              | Plan                                           | Do                                              | Check                                  | Act                           |
 | ------------------------------------------------------------ | ---------------------------------------------- | ----------------------------------------------- | -------------------------------------- | ----------------------------- |
-|                                                              | Dokumentations-Konzept erstellen und abstimmen | Dokumentations-Konzept umsetzten und überwachen | Dokumentation validieren und berichten | Korrektur-Maßnahmen  ableiten |
+| Dokumentenlenkung managen                                    | Dokumentations-Konzept erstellen und abstimmen | Dokumentations-Konzept umsetzten und überwachen | Dokumentation validieren und berichten | Korrektur-Maßnahmen  ableiten |
+| Rollen                                                       |                                                |                                                 |                                        |                               |
 | Process-Owner Wissensmanagement-Prozess<br />= Dokumentations-Manager | AR                                             | AR                                              | AR                                     | AR                            |
 | Prozessmitarbeiter Wissensmanagement-Prozess                 | M                                              | M                                               | M                                      | M                             |
 | * Dokumenten-Owner (Caretaker)                               |                                                |                                                 |                                        |                               |

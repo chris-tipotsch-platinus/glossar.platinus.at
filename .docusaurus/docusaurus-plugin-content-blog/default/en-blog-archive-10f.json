@@ -1,0 +1,55 @@
+{
+  "blogPosts": [
+    {
+      "id": "welcome",
+      "metadata": {
+        "permalink": "/en/blog/welcome",
+        "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/blog/2022-02-22-welcome/index.md",
+        "source": "@site/blog/2022-02-22-welcome/index.md",
+        "title": "Willkommen",
+        "description": "Willkommen beim platinus-Glossar",
+        "date": "2022-02-22T00:00:00.000Z",
+        "formattedDate": "February 22, 2022",
+        "tags": [
+          {
+            "label": "blog",
+            "permalink": "/en/blog/tags/blog"
+          },
+          {
+            "label": "Welcome",
+            "permalink": "/en/blog/tags/welcome"
+          }
+        ],
+        "readingTime": 0.345,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Chris Tipotsch",
+            "title": "Subject Matter Expert",
+            "url": "https://www.xing.com/profile/Chris_TIPOTSCH",
+            "harald": {
+              "name": "Harald Schnetzer",
+              "title": "Subject Matter Expert",
+              "url": "https://www.xing.com/profile/Harald.Schnetzer",
+              "image_url": "https://secure.gravatar.com/avatar/d5621d8504ff60861bf8d1da16273498"
+            },
+            "imageURL": "https://secure.gravatar.com/avatar/d5621d8504ff60861bf8d1da16273498",
+            "key": "chris"
+          }
+        ],
+        "frontMatter": {
+          "slug": "welcome",
+          "title": "Willkommen",
+          "authors": [
+            "chris"
+          ],
+          "tags": [
+            "blog",
+            "Welcome"
+          ]
+        }
+      },
+      "content": "## Willkommen beim platinus-Glossar\n\n*Gemeinesame Begriffswelt - du verstehst mich.*\n\n------\n\nIm Zuge der Überarbeitung mehrerer digitaler Organisationshandbücher (OHBs), wurde im Prozess Wissensmanagement und Methodik die Entscheidung getroffen die fachspezifischen Glossare, Abkürzungen und Begriffsdefinitionen zu den Fachdisziplinen Projektmanagement, Prozessmanagement und Informationsmanagement in ein Fachglossar für Unternehmensberater zusammenzufassen.\n\nDieses Glossar nach dem Konzept \"*Documentation as a Code*\" implementiert. \n\n1. Die Erstellung der Glossareinträge erfolgt im Markdown-Format (.md) mit einem Markdown-Editor"
+    }
+  ]
+}

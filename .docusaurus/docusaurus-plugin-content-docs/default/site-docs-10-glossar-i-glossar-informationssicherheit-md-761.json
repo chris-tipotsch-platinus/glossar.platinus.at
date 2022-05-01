@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/I-Glossar/Informationssicherheit.md",
   "sourceDirName": "10-Glossar/I-Glossar",
   "slug": "/Glossar/I-Glossar/Informationsicherheit",
-  "permalink": "/docs/Glossar/I-Glossar/Informationsicherheit",
+  "permalink": "/en/docs/Glossar/I-Glossar/Informationsicherheit",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Informationssicherheit.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Informationsqualität",
-    "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
+    "permalink": "/en/docs/Glossar/I-Glossar/Informationsqualitaet"
   },
   "next": {
     "title": "Interoperabilität",
-    "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet"
+    "permalink": "/en/docs/Glossar/I-Glossar/Interoperabilitaet"
   }
 }

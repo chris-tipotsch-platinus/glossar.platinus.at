@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/L-Glossar/Latenz.md",
   "sourceDirName": "10-Glossar/L-Glossar",
   "slug": "/Glossar/L-Glossar/Latenz",
-  "permalink": "/docs/Glossar/L-Glossar/Latenz",
+  "permalink": "/en/docs/Glossar/L-Glossar/Latenz",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Latenz.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Kanban",
-    "permalink": "/docs/Glossar/K-Glossar/Kanban"
+    "permalink": "/en/docs/Glossar/K-Glossar/Kanban"
   },
   "next": {
     "title": "Laufzeit",
-    "permalink": "/docs/Glossar/L-Glossar/Laufzeit"
+    "permalink": "/en/docs/Glossar/L-Glossar/Laufzeit"
   }
 }

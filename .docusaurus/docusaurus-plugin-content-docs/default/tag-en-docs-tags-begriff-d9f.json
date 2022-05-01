@@ -1,0 +1,151 @@
+{
+  "name": "Begriff",
+  "permalink": "/en/docs/tags/begriff",
+  "docs": [
+    {
+      "id": "Glossar/A-Glossar/Anleitung",
+      "title": "Anleitung",
+      "description": "Anleitungen haben im Gegensatz zu Arbeitsanweisungen* keinen anweisenden Charakter, sondern stellen unverbindliche Arbeitshilfen dar, die nicht zwingend einzuhalten sind.",
+      "permalink": "/en/docs/Glossar/A-Glossar/Anleitung"
+    },
+    {
+      "id": "Glossar/A-Glossar/Anweisung",
+      "title": "Anweisung - Arbeitsanweisungen",
+      "description": "Arbeitsanweisungen stellen Vorgaben für die ordnungsgemäße Ausführung einer bestimmten Arbeit dar. Sie beschreiben detailliert und für den Ausführenden verständlich, verbindlich und verpflichtend auf welche Art die Aufgaben durchzuführen sind.",
+      "permalink": "/en/docs/Glossar/A-Glossar/Anweisung"
+    },
+    {
+      "id": "Glossar/A-Glossar/Aufbewahrungsfristen",
+      "title": "Aufbewahrungsfristen",
+      "description": "Gesetzliche Vorschriften für Aufbewahrungsfristen",
+      "permalink": "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+    },
+    {
+      "id": "Glossar/A-Glossar/Aufzeichnungen",
+      "title": "Aufzeichnungen",
+      "description": "Aufzeichnungen (englisch Records) stellen als Nachweisdokumente einen speziellen Dokumententyp dar. Sie entstehen im Rahmen der Serviceerbringung und beschreiben erreichte Ergebnisse. Sie dienen der Nachweispflicht für eine  ordnungsgemäße Geschäftsführung und der Einhaltung von Anforderungen. Da Aufzeichnungen per Definition nach deren Erstellung nicht verändert  werden, gibt es für diese keine Revisionsstände. Typischerweise zählen  Logfiles, Systemprotokolle, Auswertungen (Reports, Analysen,  Statistiken), Protokolle (Testprotokolle, Abnahmeprotokolle u. a.),  ausgefüllte Formulare und Checklisten zu den Aufzeichnungen.",
+      "permalink": "/en/docs/Glossar/A-Glossar/Aufzeichnungen"
+    },
+    {
+      "id": "Glossar/A-Glossar/Aufzeichnungspflicht",
+      "title": "Aufzeichnungspflicht",
+      "description": "Gesetzliche Vorschriften für Archivierung: Aufzeichnungspflichten",
+      "permalink": "/en/docs/Glossar/A-Glossar/Aufzeichnungspflicht"
+    },
+    {
+      "id": "Glossar/A-Glossar/Ausfallzeit",
+      "title": "Ausfallzeit",
+      "description": "Mit der Ausfallzeit, Downtime, ist die Zeit gemeint, während der ein System, Computer oder Netzwerk für den Benutzer nicht zur Verfügung steht.",
+      "permalink": "/en/docs/Glossar/A-Glossar/Ausfallzeit"
+    },
+    {
+      "id": "Glossar/A-Glossar/BPM",
+      "title": "BPM - Business Prozess Management",
+      "description": "BPM ist die Abkürzung für Business Prozess Management.",
+      "permalink": "/en/docs/Glossar/A-Glossar/BPM"
+    },
+    {
+      "id": "Glossar/F-Glossar/Fehler",
+      "title": "Fehler",
+      "description": "Fehler sind Abweichungen eines Ist-Zustands von einer vorgegebenen Norm oder einem Soll-Zustand.",
+      "permalink": "/en/docs/Glossar/F-Glossar/Fehler"
+    },
+    {
+      "id": "Glossar/M-Glossar/MTBF",
+      "title": "MTBF - Mittlere Betriebszeit",
+      "description": "Bei der mittleren Betriebszeit zwischen Ausfällen, Mean Time Between Failures (MTBF), handelt es sich um die Zeit, die im normalen Betrieb eines Systems, einer Einrichtung oder einer Systemkomponente wahrscheinlich vergeht, bevor es ausfällt.",
+      "permalink": "/en/docs/Glossar/M-Glossar/MTBF"
+    },
+    {
+      "id": "Glossar/M-Glossar/MTTR",
+      "title": "MTTR - Mittlere Reparaturzeit",
+      "description": "Die Mean Time to Repair (MTTR) oder Mean Time to Recover (MTTR) ist die mittlere Reparaturzeit oder Wiederherstellzeit.",
+      "permalink": "/en/docs/Glossar/M-Glossar/MTTR"
+    },
+    {
+      "id": "Glossar/N-Glossar/Netzwerksicherheit",
+      "title": "Netzwerksicherheit",
+      "description": "Netzwerksicherheit ist kein einzelner feststehender Begriff, sondern umfasst alle Maßnahmen zur Planung, Ausführung und Überwachung der Sicherheit in Rechnernetzen.",
+      "permalink": "/en/docs/Glossar/N-Glossar/Netzwerksicherheit"
+    },
+    {
+      "id": "Glossar/P-Glossar/Performance",
+      "title": "Performance",
+      "description": "Performance ist gleichzusetzen mit Leistungsfähigkeit. Sie kann für  ganze Übertragungssysteme oder für einzelne Übertragungskomponenten, für Rechnersysteme oder einzelne Peripheriegeräte oder auch für Module und Chips angegeben werden.",
+      "permalink": "/en/docs/Glossar/P-Glossar/Performance"
+    },
+    {
+      "id": "Glossar/S-Glossar/Standardsoftware",
+      "title": "Standardsoftware",
+      "description": "SW",
+      "permalink": "/en/docs/Glossar/S-Glossar/Standardsoftware"
+    },
+    {
+      "id": "Glossar/S-Glossar/Systemsoftware",
+      "title": "Systemsoftware",
+      "description": "SW",
+      "permalink": "/en/docs/Glossar/S-Glossar/Systemsoftware"
+    },
+    {
+      "id": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
+      "title": "Verfügbarkeitsklassen",
+      "description": "Klassifizierung von hochverfügbaren Systemen",
+      "permalink": "/en/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen"
+    },
+    {
+      "id": "Glossar/V-Glossar/Virtualisierung",
+      "title": "Virtualisierung",
+      "description": "Was ist Virtualisierung?",
+      "permalink": "/en/docs/Glossar/V-Glossar/Virtualisierung"
+    },
+    {
+      "id": "Glossar/V-Glossar/VM",
+      "title": "Virtuelle Maschine",
+      "description": "Eine virtuelle Maschine ist eine virtuelle Darstellung oder Emulation eines physischen Computers. Sie wird manchmal auch als „Gast“  bezeichnet, im Gegensatz zur physischen Maschine, auf der sie ausgeführt wird, dem „Host“ (dt.: Wirt).",
+      "permalink": "/en/docs/Glossar/V-Glossar/VM"
+    },
+    {
+      "id": "Glossar/V-Glossar/VPN",
+      "title": "VPN - Virtual Private Network",
+      "description": "VPN steht für „Virtual Private Network“, auf Deutsch das virtuelle private Netzwerk. Das konventionelle VPN ist ein eigenständiges Netz, das eingekapselt in einem anderen Netz liegt. ISDN ist ein Beispiel für einen derart gestalteten Aufbau. Das ISDN-Netzwerk liegt innerhalb des allgemeinen Wählnetzes. Das aktuelle VPN ist das IP-Netz, das zumeist innerhalb des öffentlichen Internets ein in sich geschlossenes Teilnetz  bildet. Dieses bettet sich ein und nutzt die dortigen Adressierungsmethoden. Es werden jedoch eigene Netzwerkpakete  transportiert, die die Client Software in Protokolle packt, welche  unabhängig vom Inhalt separat adressierbar sind. Das Gateway entpackt  die Pakete wieder. Zusätzlich bietet das VPN die Option der  Verschlüsselung. Eine geschützte Verbindung entsteht in einem unsicheren Netz.",
+      "permalink": "/en/docs/Glossar/V-Glossar/VPN"
+    },
+    {
+      "id": "Glossar/W-Glossar/Web-Browser",
+      "title": "Web-Browser",
+      "description": "Das englische Wort Browse bedeutet so viel wie \"in einem Buch schmökern\". Auf den technischen Begriff adaptiert, der als Web-Browser bekannt ist, bedeutet das im Internet Surfen. Es handelt sich um ein Navigationsprogramm, das im Internet HTML-Dokumente ( Hypertext Markup Language) interpretiert und darstellt.",
+      "permalink": "/en/docs/Glossar/W-Glossar/Web-Browser"
+    },
+    {
+      "id": "Glossar/W-Glossar/Web-Client",
+      "title": "Web-Client",
+      "description": "Ein Web- Client steht für die Anwenderseite des Webs; die Anbieterseite bildet der Webserver auf den der Web-Client zugreifen kann. Der Web-Client, das ist der Web-Browser, und Webserver kommunizieren miteinander über die von der Open Systems Interconnection (OSI) definierten Dienstprimitive.",
+      "permalink": "/en/docs/Glossar/W-Glossar/Web-Client"
+    },
+    {
+      "id": "Glossar/W-Glossar/Webseite",
+      "title": "Webseite",
+      "description": "Webseiten sind einzelne HTML-Seiten einer Website. Solche HTML-Dokumente bestehten aus Dateien für Texte, Grafiken, Video, Audio und Skripte, die im Webserver im Quelltext abgelegt sind. Die Webseiten einer Website sind, ausgehend von der Homepage, hierarchisch strukturiert. Man unterscheidet zwischen statischen und dynamischen Webseiten.",
+      "permalink": "/en/docs/Glossar/W-Glossar/Webseite"
+    },
+    {
+      "id": "Glossar/W-Glossar/Webserver",
+      "title": "Webserver",
+      "description": "Webserver sind von Providern betriebene Server für das Webhosting. Sie sind mit dem Internet oder Intranets verbunden und stellen Websites und andere Online-Informationen bereit, die beispielsweise auf Anforderung eines Browsers, das ist der Web-Client, über das Hypertext Transfer Protocol ( HTTP) oder über HTTPS angefordert werden können.",
+      "permalink": "/en/docs/Glossar/W-Glossar/Webserver"
+    },
+    {
+      "id": "Glossar/W-Glossar/Website",
+      "title": "Website",
+      "description": "Die Website ist die Standort-Präsenz innerhalb des World Wide Web ( WWW). Auf einer Website können Unternehmen, Behörden, Organisationen und Verwaltungen, Universitäten oder Forschungseinrichtungen, Standardisierungsgremien, Vereine und Privatpersonen Informationen, Produkte, Dienste, Werbung und vieles andere in verschiedensten Dateiformaten darstellen und anbieten, auf ihnen können soziale Kontakte, der Meinungsaustausch mit Andersdenkenden zu speziellen Themenbereichen oder Online-Tagebücher, die Weblogs, geführt werden.",
+      "permalink": "/en/docs/Glossar/W-Glossar/Website"
+    },
+    {
+      "id": "Glossar/Z-Glossar/Zugriffszeiten",
+      "title": "Zugriffszeiten",
+      "description": "Die Zugriffszeit ist die Zeitspanne, die zur Auslösung, Durchführung und Bestätigung eines Befehls für einen Zugriff auf ein Speichermedium vergeht. Sie gilt gleichermaßen für Magnetspeicher, optische Speichermedien, Halbleiterspeicher und Flash-Speicher und ist je nach Art des angesprochenen Speichermediums äußerst unterschiedlich.",
+      "permalink": "/en/docs/Glossar/Z-Glossar/Zugriffszeiten"
+    }
+  ],
+  "allTagsPath": "/en/docs/tags"
+}

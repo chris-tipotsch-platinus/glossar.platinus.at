@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Asset.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Asset",
-  "permalink": "/docs/Glossar/A-Glossar/Asset",
+  "permalink": "/en/docs/Glossar/A-Glossar/Asset",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Asset.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IT-Asset-Repository",
-    "permalink": "/docs/Glossar/A-Glossar/Asset-Repository"
+    "permalink": "/en/docs/Glossar/A-Glossar/Asset-Repository"
   },
   "next": {
     "title": "Aufbewahrungsfristen",
-    "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+    "permalink": "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
   }
 }

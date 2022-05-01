@@ -1,0 +1,31 @@
+{
+  "name": "Glossar",
+  "permalink": "/en/docs/tags/glossar",
+  "docs": [
+    {
+      "id": "Begriffe-Home",
+      "title": "Begriffe Home",
+      "description": "------",
+      "permalink": "/en/docs/Begriffe-Home"
+    },
+    {
+      "id": "Glossar/P-Glossar/PaaS",
+      "title": "PaaS",
+      "description": "Platform as a Service  (PaaS)  ist neben Infrastructure as a Service (IaaS) und Software as a Service (SaaS) eines der drei Servicemodelle  des Cloud-Computings.",
+      "permalink": "/en/docs/Glossar/P-Glossar/PaaS"
+    },
+    {
+      "id": "Glossar/P-Glossar/Portfolio",
+      "title": "Portfolio",
+      "description": "Nach ITILv4 ist eine Portfolio: \"A collection of assets into which an organization chooses to invest its resources in order to receive the best return.\"",
+      "permalink": "/en/docs/Glossar/P-Glossar/Portfolio"
+    },
+    {
+      "id": "Glossar/P-Glossar/Provider",
+      "title": "Provider",
+      "description": "Der Begriff Provider (engl.: Versorger) schließt grundsätzlich alle Dienstleister ein, die die Nutzung und den Betrieb des Internets durch Ihre Services und Angebote möglich machen. So ist es beispielsweise Aufgabe eines Dienstleisters, die Verbindung zum Internet herzustellen. Anbieter, die ausschließlich in diesem Feld arbeiten, werden auch als  Internet Access Provider (IAP) bezeichnet. Sie stellen die  Leitungskapazität und Services zur Verfügung, die der User für die  Internet-Konnektivität benötigt.",
+      "permalink": "/en/docs/Glossar/P-Glossar/Provider"
+    }
+  ],
+  "allTagsPath": "/en/docs/tags"
+}

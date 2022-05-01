@@ -21,9 +21,9 @@ Die Norm **ISO/IEC 15504-5** ist ein internationaler **Standard zum Durchführen
 
 Der **Assessment-Prozess** ist aus unserer Sicht in der Norm **ISO 19011 – Leitfaden zur Auditierung von Managementsystemen** gut beschrieben. Die Anwendung dieses Prozesses wird empfohlen.
 
-![platinus_prozessreifegrad_modell](/img/platinus_prozessreifegrad_modell.png)
 
-Abbildung [Prozessreifegradmodell nach ISO15504](/img/ohb/einleitung/platinus_prozessreifegrad_modell.png)
+
+Abbildung Prozessreifegradmodell nach ISO15504
 
 
 
@@ -36,9 +36,7 @@ Die nachfolgende Abbildung zeigt die typischen Liefergegenstände zum BPM-Servic
    1.  **Prozessreifegrad-Statusbericht** dient zur Standortbestimmung zu einem definierten Zeitpunkt inkl.  nachvollziehbarer Dokumentation der Evidenzdaten zum jeweiligen Statusbericht aus interner Sicht. 
    2.  **Prozessreifegrad-Auditbericht** dient zur Standortbestimmung zu einem definierten Zeitpunkt inkl. nachvollziehbarer Dokumentation der Evidenzdaten aus externer Sicht. Dabei sind die höheren Dokumentationsanforderung der ISO 19011 zu berücksichtigen. –> umfangreicher als internen Berichte!
 
-![PAM-Liefergegenstände](/img/platinus.bpm-pam-prozessreifegrad_liefergegenstaende.png)
-
-Abbildung [PAM-Liefergegenstände](/img/ohb/eineitung/platinus.bpm-pam-prozessreifegrad_liefergegenstaende.png)
+Abbildung PAM-Liefergegenstände
 
 
 
@@ -62,5 +60,5 @@ eden ist ein weiteres Reifegradmodell für die Reifegradanalyse.
 
 -  Prozessreifegrad
 - Mehr Information finden Sie im [platinus.Produktsteckbrief zur Prozessreifegradbeurteilung](https://sway.office.com/Atz2otj4LGswMmX5).
-- White Paper von [APQC](https://www.apqc.org/): [Using Process Management Maturity Models](/files/glossar/WP_Using-a-Maturity-Model.pdf)
+- White Paper von [APQC](https://www.apqc.org/): Using Process Management Maturity Models
 

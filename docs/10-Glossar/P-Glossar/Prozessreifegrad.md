@@ -30,5 +30,5 @@ Die Prozessreifegrad-Messungen zielen meist auf Initiativen zur Prozessoptimieru
 
 -  Prozessreifegradmodell
 - Mehr Information finden Sie im [platinus.Produktsteckbrief zur Prozessreifegradbeurteilung](https://sway.office.com/Atz2otj4LGswMmX5).
-- White Paper von [APQC](https://www.apqc.org/): [Using Process Management Maturity Models](/files/glossar/WP_Using-a-Maturity-Model.pdf)
+- White Paper von [APQC](https://www.apqc.org/): Using Process Management Maturity Models
 

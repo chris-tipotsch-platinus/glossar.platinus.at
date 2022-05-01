@@ -6,20 +6,20 @@
   "source": "@site/docs/10-Glossar/S-Glossar/Standardsoftware.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/Standardsoftware",
-  "permalink": "/docs/Glossar/S-Glossar/Standardsoftware",
+  "permalink": "/en/docs/Glossar/S-Glossar/Standardsoftware",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Standardsoftware.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "SW",
-      "permalink": "/docs/tags/sw"
+      "permalink": "/en/docs/tags/sw"
     }
   ],
   "version": "current",
@@ -35,10 +35,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Software",
-    "permalink": "/docs/Glossar/S-Glossar/Software"
+    "permalink": "/en/docs/Glossar/S-Glossar/Software"
   },
   "next": {
     "title": "Systemsoftware",
-    "permalink": "/docs/Glossar/S-Glossar/Systemsoftware"
+    "permalink": "/en/docs/Glossar/S-Glossar/Systemsoftware"
   }
 }

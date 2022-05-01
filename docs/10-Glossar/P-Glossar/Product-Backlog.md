@@ -24,8 +24,5 @@ Der Product Owner priorisiert die Anforderungen des **Product Backlogs**. Anhand
 
 ## Verweise
 
-- [Dokumentationsrichtlinie im Einzelprojektmanagement](/PMHB07-Dokumente/PM-Richtlinien/PM-RL-Dokumentation)
-- [Projektmanagement-Handbuch](/PMHB01-Begriffe/Definitionen/Projektmanagement-Handbuch.md) 
-- [Projekthandbuch](/PMHB01-Begriffe/Definitionen/Projekthandbuch.md) 
-- [Projektplan](/PMHB01-Begriffe/Definitionen/Projektplan.md) 
+
 

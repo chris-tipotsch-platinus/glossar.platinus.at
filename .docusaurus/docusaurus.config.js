@@ -41,9 +41,9 @@ export default {
     }
   },
   "title": "Fachglossar",
-  "tagline": "platinus-Fachglossar - Die Grundlage für eine gemeinsame Begriffswelt",
+  "tagline": "platinus-Fachglossar - Grundlage für eine gemeinsame Begriffswelt",
   "url": "https://glossar.platinus.at",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -71,7 +71,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "GLOSSAR",
+      "title": "platinus-GLOSSAR",
       "logo": {
         "alt": "platinus-Logo",
         "src": "img/logo.svg"
@@ -139,7 +139,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 by platinus Consulting."
+      "copyright": "Copyright © 2022 by Salzburg AG & platinus Consulting."
     },
     "prism": {
       "theme": {

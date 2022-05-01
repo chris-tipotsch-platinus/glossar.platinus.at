@@ -6,20 +6,20 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dokumentationslebenzyklus",
-  "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
+  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "IT-Dokumentation",
-      "permalink": "/docs/tags/it-dokumentation"
+      "permalink": "/en/docs/tags/it-dokumentation"
     }
   ],
   "version": "current",
@@ -35,10 +35,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Documentation-as-Code",
-    "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+    "permalink": "/en/docs/Glossar/D-Glossar/Doc-as-Code"
   },
   "next": {
     "title": "Dokumentationsmanagement",
-    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement"
   }
 }

@@ -351,6 +351,12 @@
       "permalink": "/docs/Glossar/S-Glossar/SaaS"
     },
     {
+      "id": "Glossar/S-Glossar/Sicherheitskette",
+      "title": "Sicherheitskette",
+      "description": "Durch die voranschreitende Vernetzung müssen alle sicherheitsrelevanten Bereiche berücksichtigt werden. Anhand einer Sicherheitskette lässt  sich das anschaulich verdeutlichen:",
+      "permalink": "/docs/Glossar/S-Glossar/Sicherheitskette"
+    },
+    {
       "id": "Glossar/S-Glossar/SLA",
       "title": "SLA - Dienstgütevertrag",
       "description": "Das Service Level Agreement (SLA) ist eine Vereinbarung zwischen einem IT Service Provider und einem Kunden. Das Operational Level Agreement (OLA) ist eine Vereinbarung zwischen einem IT Service Provider und einem anderen Teil derselben Organisation über die Lieferung von IT-Services.",

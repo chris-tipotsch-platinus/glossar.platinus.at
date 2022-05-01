@@ -1,0 +1,14 @@
+{
+  "blog": {
+    "allTagsPath": "/en/blog/tags",
+    "name": "blog",
+    "count": 1,
+    "permalink": "/en/blog/tags/blog"
+  },
+  "Welcome": {
+    "allTagsPath": "/en/blog/tags",
+    "name": "Welcome",
+    "count": 1,
+    "permalink": "/en/blog/tags/welcome"
+  }
+}

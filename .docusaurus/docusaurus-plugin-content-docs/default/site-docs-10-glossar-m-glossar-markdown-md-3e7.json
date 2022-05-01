@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/M-Glossar/Markdown.md",
   "sourceDirName": "10-Glossar/M-Glossar",
   "slug": "/Glossar/M-Glossar/Markdown",
-  "permalink": "/docs/Glossar/M-Glossar/Markdown",
+  "permalink": "/en/docs/Glossar/M-Glossar/Markdown",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/Markdown.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "Web",
-      "permalink": "/docs/tags/web"
+      "permalink": "/en/docs/tags/web"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Major-Risk",
-    "permalink": "/docs/Glossar/M-Glossar/Major-Risk"
+    "permalink": "/en/docs/Glossar/M-Glossar/Major-Risk"
   },
   "next": {
     "title": "Netzwerksicherheit",
-    "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+    "permalink": "/en/docs/Glossar/N-Glossar/Netzwerksicherheit"
   }
 }
