@@ -430,8 +430,8 @@
                 "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungspflicht"
               },
               "next": {
-                "title": "BPM Competency Model von ABPMP",
-                "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+                "title": "BA - Business Analyse",
+                "permalink": "/docs/Glossar/B-Glossar/BPI"
               }
             },
             {
@@ -635,8 +635,86 @@
                 "permalink": "/docs/Glossar/B-Glossar/Besucher"
               },
               "next": {
-                "title": "CaaS - Container-as-a-Service",
-                "permalink": "/docs/Glossar/C-Glossar/CaaS"
+                "title": "BA - Business Analyse",
+                "permalink": "/docs/Glossar/B-Glossar/BPI"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/BPI",
+              "id": "Glossar/B-Glossar/BPI",
+              "title": "BPI - Business Process Improvment",
+              "description": "BPI ist die Abkürzung für Business Process Improvement.",
+              "source": "@site/docs/10-Glossar/B-Glossar/BPI.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/BPI",
+              "permalink": "/docs/Glossar/B-Glossar/BPI",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPI.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "BPI",
+                "titel": "BPI",
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Ausfallzeit",
+                "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
+              },
+              "next": {
+                "title": "BPM Competency Model von ABPMP",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/BPI",
+              "id": "Glossar/B-Glossar/BPI",
+              "title": "BA - Business Analyse",
+              "description": "Business Analysis ist die Summe der Aufgaben und Methoden, die eingesetzt werden, um zwischen unterschiedlichen Stakeholdern zu vermitteln mit dem Ziel, Strukturen, Grundsätze und Abläufe eines Unternehmens zu verstehen und zielführende Lösungen zu  empfehlen.",
+              "source": "@site/docs/10-Glossar/B-Glossar/Business-Analyse.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/BPI",
+              "permalink": "/docs/Glossar/B-Glossar/BPI",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Business-Analyse.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "BPI",
+                "titel": "BPI",
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Ausfallzeit",
+                "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
+              },
+              "next": {
+                "title": "BPM Competency Model von ABPMP",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
               }
             },
             {
@@ -651,8 +729,12 @@
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM.md",
               "tags": [
                 {
-                  "label": "Begriffe BPM",
-                  "permalink": "/docs/tags/begriffe-bpm"
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
                 }
               ],
               "version": "current",
@@ -660,7 +742,8 @@
                 "id": "BPM",
                 "titel": "BPM",
                 "tags": [
-                  "Begriffe BPM"
+                  "Begriffe",
+                  "BPM"
                 ]
               },
               "sidebar": "Sidebar10",
@@ -704,8 +787,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Ausfallzeit",
-                "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
+                "title": "BA - Business Analyse",
+                "permalink": "/docs/Glossar/B-Glossar/BPI"
               },
               "next": {
                 "title": "BPM-KB",
@@ -787,8 +870,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Betriebszeit",
-                "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
+                "title": "BA - Business Analyse",
+                "permalink": "/docs/Glossar/B-Glossar/BPI"
               },
               "next": {
                 "title": "Change - Veränderung",
@@ -2805,8 +2888,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Richtlinie",
-                "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
+                "title": "Rightshifting",
+                "permalink": "/docs/Glossar/R-Glossar/Rightshifting"
               },
               "next": {
                 "title": "Rollen-Canvas",
@@ -2877,6 +2960,40 @@
                 "permalink": "/docs/Glossar/R-Glossar/Rechenzentrum"
               },
               "next": {
+                "title": "Requirements-Engineering",
+                "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering"
+              }
+            },
+            {
+              "unversionedId": "Glossar/R-Glossar/Requirements-Engineering",
+              "id": "Glossar/R-Glossar/Requirements-Engineering",
+              "title": "Requirements-Engineering",
+              "description": "Die Bezeichnung Requirements-Engineering (RE) hat zwei, wenn auch verwandte, so doch wohl zu unterscheidende Bedeutungsvarianten. Das Wort steht einmal für alle konkreten Aktivitäten am Beginn einer Systementwicklung, die auf eine Präzisierung der Problemstellung abzielen. Ebenso steht es aber auch für eine ganze Teildisziplin im Grenzbereich zwischen Systems-Engineering, Informatik und Anwendungswissenschaften. Zur Unterscheidung dieser beiden Bedeutungsvarianten werden im Folgenden die Bezeichnungen Requirements-Engineering (im engeren Sinn) und Requirements-Engineering  (im weiteren Sinn) verwenden.",
+              "source": "@site/docs/10-Glossar/R-Glossar/Requirements-Engineering.md",
+              "sourceDirName": "10-Glossar/R-Glossar",
+              "slug": "/Glossar/R-Glossar/Requirements-Engineering",
+              "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Requirements-Engineering.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Requirements-Engineering",
+                "title": "Requirements-Engineering",
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Recovery",
+                "permalink": "/docs/Glossar/R-Glossar/Recovery"
+              },
+              "next": {
                 "title": "Ressourcenkalender",
                 "permalink": "/docs/Glossar/R-Glossar/Ressourcenkalender"
               }
@@ -2896,8 +3013,8 @@
               "frontMatter": {},
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Recovery",
-                "permalink": "/docs/Glossar/R-Glossar/Recovery"
+                "title": "Requirements-Engineering",
+                "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering"
               },
               "next": {
                 "title": "Richtlinie",
@@ -2932,6 +3049,40 @@
               "previous": {
                 "title": "Ressourcenkalender",
                 "permalink": "/docs/Glossar/R-Glossar/Ressourcenkalender"
+              },
+              "next": {
+                "title": "Rightshifting",
+                "permalink": "/docs/Glossar/R-Glossar/Rightshifting"
+              }
+            },
+            {
+              "unversionedId": "Glossar/R-Glossar/Rightshifting",
+              "id": "Glossar/R-Glossar/Rightshifting",
+              "title": "Rightshifting",
+              "description": "After achieving some basic level of awareness would some people seek to take responsibility for their situation and then, maybe, commit to doing something about it.  (ARC – Awareness; Responsibility; Commitment – from Sir John Whitmore’s Coaching For Performance).",
+              "source": "@site/docs/10-Glossar/R-Glossar/Rightshifting.md",
+              "sourceDirName": "10-Glossar/R-Glossar",
+              "slug": "/Glossar/R-Glossar/Rightshifting",
+              "permalink": "/docs/Glossar/R-Glossar/Rightshifting",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rightshifting.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Rightshifting",
+                "title": "Rightshifting",
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Richtlinie",
+                "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
               },
               "next": {
                 "title": "Projektrisiko",
@@ -2976,6 +3127,104 @@
               "previous": {
                 "title": "Projektrisiko",
                 "permalink": "/docs/Glossar/R-Glossar/Projektrisiko"
+              },
+              "next": {
+                "title": "Rollenmodell",
+                "permalink": "/docs/Glossar/R-Glossar/Rollenmodell"
+              }
+            },
+            {
+              "unversionedId": "Glossar/R-Glossar/Rollenmodell",
+              "id": "Glossar/R-Glossar/Rollenmodell",
+              "title": "Rollenmodell",
+              "description": "Rollenmodelle sind Modell zur Beschreibung und Spezifikation von Rollen. Im Prozessmanagement werden Prozesse, Rollen und Strukturen aufeinander abgestimmt.",
+              "source": "@site/docs/10-Glossar/R-Glossar/Rollenmodell.md",
+              "sourceDirName": "10-Glossar/R-Glossar",
+              "slug": "/Glossar/R-Glossar/Rollenmodell",
+              "permalink": "/docs/Glossar/R-Glossar/Rollenmodell",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollenmodell.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Rollenmodell",
+                "title": "Rollenmodell",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Rollen-Canvas",
+                "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+              },
+              "next": {
+                "title": "Rollensteckbrief",
+                "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/R-Glossar/Rollensteckbrief",
+              "id": "Glossar/R-Glossar/Rollensteckbrief",
+              "title": "Rollensteckbrief",
+              "description": "Der Rollensteckbrief ist eine Art Management Summary, einer kompakte Rollenbeschreibung auf 1 bis max. 2 Seiten. Rollensteckbrief beschreibt auf kompakte Art und weise auf einem „One  Pager“ die wesentlichen Aspekte einer Rolle, wie Hauptaufgaben, Hauptziele und erforderliche Qualifikationen. Der Rollensteckbrief ist (bei Bedarf) mit der nächsten Ebene - die wir Rollenspezifikation nennen - verknüpft.",
+              "source": "@site/docs/10-Glossar/R-Glossar/Rollensteckbrief.md",
+              "sourceDirName": "10-Glossar/R-Glossar",
+              "slug": "/Glossar/R-Glossar/Rollensteckbrief",
+              "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollensteckbrief.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Rollensteckbrief",
+                "title": "Rollensteckbrief",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Rollenmodell",
+                "permalink": "/docs/Glossar/R-Glossar/Rollenmodell"
               },
               "next": {
                 "title": "Stakeholder",
@@ -3252,8 +3501,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Rollen-Canvas",
-                "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+                "title": "Rollensteckbrief",
+                "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief"
               },
               "next": {
                 "title": "Stakeholder",
@@ -3280,8 +3529,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Rollen-Canvas",
-                "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+                "title": "Rollensteckbrief",
+                "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief"
               },
               "next": {
                 "title": "Stakeholder",
@@ -3944,6 +4193,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "Glossar/B-Glossar/BPI"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/B-Glossar/BPM-Competency-Model"
                   },
                   {
@@ -3969,6 +4222,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/B-Glossar/Betriebszeit"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/B-Glossar/BPI"
                   }
                 ]
               },
@@ -4300,6 +4557,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/R-Glossar/Requirements-Engineering"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/R-Glossar/Ressourcenkalender"
                   },
                   {
@@ -4308,11 +4569,23 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/R-Glossar/Rightshifting"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/R-Glossar/Projektrisiko"
                   },
                   {
                     "type": "doc",
                     "id": "Glossar/R-Glossar/Rollen-Canvas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/R-Glossar/Rollenmodell"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/R-Glossar/Rollensteckbrief"
                   }
                 ]
               },

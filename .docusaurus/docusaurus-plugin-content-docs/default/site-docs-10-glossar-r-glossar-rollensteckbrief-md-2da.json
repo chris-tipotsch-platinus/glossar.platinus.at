@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Rollensteckbrief",
+  "id": "Glossar/R-Glossar/Rollensteckbrief",
+  "title": "Rollensteckbrief",
+  "description": "Der Rollensteckbrief ist eine Art Management Summary, einer kompakte Rollenbeschreibung auf 1 bis max. 2 Seiten. Rollensteckbrief beschreibt auf kompakte Art und weise auf einem „One  Pager“ die wesentlichen Aspekte einer Rolle, wie Hauptaufgaben, Hauptziele und erforderliche Qualifikationen. Der Rollensteckbrief ist (bei Bedarf) mit der nächsten Ebene - die wir Rollenspezifikation nennen - verknüpft.",
+  "source": "@site/docs/10-Glossar/R-Glossar/Rollensteckbrief.md",
+  "sourceDirName": "10-Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Rollensteckbrief",
+  "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollensteckbrief.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Rollensteckbrief",
+    "title": "Rollensteckbrief",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Rollenmodell",
+    "permalink": "/docs/Glossar/R-Glossar/Rollenmodell"
+  },
+  "next": {
+    "title": "Stakeholder",
+    "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
+  }
+}

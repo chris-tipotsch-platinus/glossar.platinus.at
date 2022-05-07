@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Rightshifting",
+  "id": "Glossar/R-Glossar/Rightshifting",
+  "title": "Rightshifting",
+  "description": "After achieving some basic level of awareness would some people seek to take responsibility for their situation and then, maybe, commit to doing something about it.  (ARC – Awareness; Responsibility; Commitment – from Sir John Whitmore’s Coaching For Performance).",
+  "source": "@site/docs/10-Glossar/R-Glossar/Rightshifting.md",
+  "sourceDirName": "10-Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Rightshifting",
+  "permalink": "/docs/Glossar/R-Glossar/Rightshifting",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rightshifting.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Rightshifting",
+    "title": "Rightshifting",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Richtlinie",
+    "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
+  },
+  "next": {
+    "title": "Projektrisiko",
+    "permalink": "/docs/Glossar/R-Glossar/Projektrisiko"
+  }
+}

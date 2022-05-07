@@ -96,6 +96,16 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/B-Glossar/BPI",
+              "path": "/docs/Glossar/B-Glossar/BPI",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/B-Glossar/BPI",
+              "path": "/docs/Glossar/B-Glossar/BPI",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/B-Glossar/BPM",
               "path": "/docs/Glossar/B-Glossar/BPM",
               "sidebar": "Sidebar10"
@@ -396,6 +406,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/R-Glossar/Requirements-Engineering",
+              "path": "/docs/Glossar/R-Glossar/Requirements-Engineering",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/R-Glossar/Ressourcenkalender",
               "path": "/docs/Glossar/R-Glossar/Ressourcenkalender",
               "sidebar": "Sidebar10"
@@ -406,8 +421,23 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/R-Glossar/Rightshifting",
+              "path": "/docs/Glossar/R-Glossar/Rightshifting",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/R-Glossar/Rollen-Canvas",
               "path": "/docs/Glossar/R-Glossar/Rollen-Canvas",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/R-Glossar/Rollenmodell",
+              "path": "/docs/Glossar/R-Glossar/Rollenmodell",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/R-Glossar/Rollensteckbrief",
+              "path": "/docs/Glossar/R-Glossar/Rollensteckbrief",
               "sidebar": "Sidebar10"
             },
             {

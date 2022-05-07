@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/B-Glossar/BPI",
+  "id": "Glossar/B-Glossar/BPI",
+  "title": "BA - Business Analyse",
+  "description": "Business Analysis ist die Summe der Aufgaben und Methoden, die eingesetzt werden, um zwischen unterschiedlichen Stakeholdern zu vermitteln mit dem Ziel, Strukturen, Grundsätze und Abläufe eines Unternehmens zu verstehen und zielführende Lösungen zu  empfehlen.",
+  "source": "@site/docs/10-Glossar/B-Glossar/Business-Analyse.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/BPI",
+  "permalink": "/docs/Glossar/B-Glossar/BPI",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Business-Analyse.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPI",
+    "titel": "BPI",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Ausfallzeit",
+    "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
+  },
+  "next": {
+    "title": "BPM Competency Model von ABPMP",
+    "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+  }
+}

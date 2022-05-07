@@ -89,11 +89,6 @@ export default [
     exact: true
   },
   {
-    path: '/docs/tags/begriffe-bpm',
-    component: ComponentCreator('/docs/tags/begriffe-bpm','228'),
-    exact: true
-  },
-  {
     path: '/docs/tags/bom',
     component: ComponentCreator('/docs/tags/bom','0d8'),
     exact: true
@@ -220,7 +215,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','877'),
+    component: ComponentCreator('/docs','0de'),
     routes: [
       {
         path: '/docs/Begriffe-Home',
@@ -321,6 +316,18 @@ export default [
       {
         path: '/docs/Glossar/B-Glossar/Betriebszeit',
         component: ComponentCreator('/docs/Glossar/B-Glossar/Betriebszeit','0a3'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/B-Glossar/BPI',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/BPI','810'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/B-Glossar/BPI',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/BPI','376'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -685,6 +692,12 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/R-Glossar/Requirements-Engineering',
+        component: ComponentCreator('/docs/Glossar/R-Glossar/Requirements-Engineering','50f'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/R-Glossar/Ressourcenkalender',
         component: ComponentCreator('/docs/Glossar/R-Glossar/Ressourcenkalender','628'),
         exact: true,
@@ -697,8 +710,26 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/R-Glossar/Rightshifting',
+        component: ComponentCreator('/docs/Glossar/R-Glossar/Rightshifting','6f9'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/R-Glossar/Rollen-Canvas',
         component: ComponentCreator('/docs/Glossar/R-Glossar/Rollen-Canvas','7e5'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/R-Glossar/Rollenmodell',
+        component: ComponentCreator('/docs/Glossar/R-Glossar/Rollenmodell','fc7'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/R-Glossar/Rollensteckbrief',
+        component: ComponentCreator('/docs/Glossar/R-Glossar/Rollensteckbrief','5dc'),
         exact: true,
         sidebar: "Sidebar10"
       },

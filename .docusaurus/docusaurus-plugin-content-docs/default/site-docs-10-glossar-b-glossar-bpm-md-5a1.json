@@ -10,8 +10,12 @@
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM.md",
   "tags": [
     {
-      "label": "Begriffe BPM",
-      "permalink": "/docs/tags/begriffe-bpm"
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
     }
   ],
   "version": "current",
@@ -19,7 +23,8 @@
     "id": "BPM",
     "titel": "BPM",
     "tags": [
-      "Begriffe BPM"
+      "Begriffe",
+      "BPM"
     ]
   },
   "sidebar": "Sidebar10",

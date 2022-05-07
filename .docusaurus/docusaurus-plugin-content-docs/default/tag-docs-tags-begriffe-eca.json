@@ -45,6 +45,24 @@
       "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
     },
     {
+      "id": "Glossar/B-Glossar/BPI",
+      "title": "BPI - Business Process Improvment",
+      "description": "BPI ist die Abkürzung für Business Process Improvement.",
+      "permalink": "/docs/Glossar/B-Glossar/BPI"
+    },
+    {
+      "id": "Glossar/B-Glossar/BPI",
+      "title": "BPI - Business Process Improvment",
+      "description": "BPI ist die Abkürzung für Business Process Improvement.",
+      "permalink": "/docs/Glossar/B-Glossar/BPI"
+    },
+    {
+      "id": "Glossar/B-Glossar/BPM",
+      "title": "BPM - Business Process Management",
+      "description": "BPM ist die Abkürzung für Business Process Management.",
+      "permalink": "/docs/Glossar/B-Glossar/BPM"
+    },
+    {
       "id": "Glossar/B-Glossar/BPM-Competency-Model",
       "title": "BPM Competency Model von ABPMP",
       "description": "Die Organisation ABPMP – Association of Business Process Management Professional International – hat zur Orientierung ein BPM Competency Model entwickelt.",
@@ -333,16 +351,40 @@
       "permalink": "/docs/Glossar/R-Glossar/Recovery"
     },
     {
+      "id": "Glossar/R-Glossar/Requirements-Engineering",
+      "title": "Requirements-Engineering",
+      "description": "Die Bezeichnung Requirements-Engineering (RE) hat zwei, wenn auch verwandte, so doch wohl zu unterscheidende Bedeutungsvarianten. Das Wort steht einmal für alle konkreten Aktivitäten am Beginn einer Systementwicklung, die auf eine Präzisierung der Problemstellung abzielen. Ebenso steht es aber auch für eine ganze Teildisziplin im Grenzbereich zwischen Systems-Engineering, Informatik und Anwendungswissenschaften. Zur Unterscheidung dieser beiden Bedeutungsvarianten werden im Folgenden die Bezeichnungen Requirements-Engineering (im engeren Sinn) und Requirements-Engineering  (im weiteren Sinn) verwenden.",
+      "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering"
+    },
+    {
       "id": "Glossar/R-Glossar/Richtlinie",
       "title": "Richtlinie",
       "description": "Der Begriff Richtlinie (policy) wird sowohl im technischen, als auch im rechtlichen Umfeld verwendet.",
       "permalink": "/docs/Glossar/R-Glossar/Richtlinie"
     },
     {
+      "id": "Glossar/R-Glossar/Rightshifting",
+      "title": "Rightshifting",
+      "description": "After achieving some basic level of awareness would some people seek to take responsibility for their situation and then, maybe, commit to doing something about it.  (ARC – Awareness; Responsibility; Commitment – from Sir John Whitmore’s Coaching For Performance).",
+      "permalink": "/docs/Glossar/R-Glossar/Rightshifting"
+    },
+    {
       "id": "Glossar/R-Glossar/Rollen-Canvas",
       "title": "Rollen-Canvas",
       "description": "------",
       "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+    },
+    {
+      "id": "Glossar/R-Glossar/Rollenmodell",
+      "title": "Rollenmodell",
+      "description": "Rollenmodelle sind Modell zur Beschreibung und Spezifikation von Rollen. Im Prozessmanagement werden Prozesse, Rollen und Strukturen aufeinander abgestimmt.",
+      "permalink": "/docs/Glossar/R-Glossar/Rollenmodell"
+    },
+    {
+      "id": "Glossar/R-Glossar/Rollensteckbrief",
+      "title": "Rollensteckbrief",
+      "description": "Der Rollensteckbrief ist eine Art Management Summary, einer kompakte Rollenbeschreibung auf 1 bis max. 2 Seiten. Rollensteckbrief beschreibt auf kompakte Art und weise auf einem „One  Pager“ die wesentlichen Aspekte einer Rolle, wie Hauptaufgaben, Hauptziele und erforderliche Qualifikationen. Der Rollensteckbrief ist (bei Bedarf) mit der nächsten Ebene - die wir Rollenspezifikation nennen - verknüpft.",
+      "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief"
     },
     {
       "id": "Glossar/S-Glossar/SaaS",

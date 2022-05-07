@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/B-Glossar/BPM",
+  "id": "Glossar/B-Glossar/BPM",
+  "title": "BPM - Business Process Management",
+  "description": "BPM ist die Abkürzung für Business Process Management.",
+  "source": "@site/docs/10-Glossar/B-Glossar/BPM (Kopie).md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/BPM",
+  "permalink": "/docs/Glossar/B-Glossar/BPM",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM (Kopie).md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPM",
+    "titel": "BPM",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Ausfallzeit",
+    "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
+  },
+  "next": {
+    "title": "BPM Competency Model von ABPMP",
+    "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Rollenmodell",
+  "id": "Glossar/R-Glossar/Rollenmodell",
+  "title": "Rollenmodell",
+  "description": "Rollenmodelle sind Modell zur Beschreibung und Spezifikation von Rollen. Im Prozessmanagement werden Prozesse, Rollen und Strukturen aufeinander abgestimmt.",
+  "source": "@site/docs/10-Glossar/R-Glossar/Rollenmodell.md",
+  "sourceDirName": "10-Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Rollenmodell",
+  "permalink": "/docs/Glossar/R-Glossar/Rollenmodell",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollenmodell.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Rollenmodell",
+    "title": "Rollenmodell",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Rollen-Canvas",
+    "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+  },
+  "next": {
+    "title": "Rollensteckbrief",
+    "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief"
+  }
+}

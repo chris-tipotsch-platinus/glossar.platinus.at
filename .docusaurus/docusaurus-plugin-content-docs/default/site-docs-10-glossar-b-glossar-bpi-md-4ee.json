@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/B-Glossar/BPI",
+  "id": "Glossar/B-Glossar/BPI",
+  "title": "BPI - Business Process Improvment",
+  "description": "BPI ist die Abkürzung für Business Process Improvement.",
+  "source": "@site/docs/10-Glossar/B-Glossar/BPI.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/BPI",
+  "permalink": "/docs/Glossar/B-Glossar/BPI",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPI.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPI",
+    "titel": "BPI",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Ausfallzeit",
+    "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
+  },
+  "next": {
+    "title": "BPM Competency Model von ABPMP",
+    "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+  }
+}

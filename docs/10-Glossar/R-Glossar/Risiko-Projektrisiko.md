@@ -4,7 +4,7 @@ title: Projektrisiko
 tags: [Begriffe, PM]
 ---
 
-# Projektrisiko
+# Projektrisiko - Risk
 
 Als "**Risiko**" wird die Auswirkung von Ungewissheit auf die angestrebten Ziele definiert (ISO 31000). Hierbei wird unter "Auswirkung" eine Abweichung von der ursprünglichen Erwartung , sei es positiv oder negativ, verstanden. Ein Risiko wird in der Regel durch ein oder mehrere Ereignisse, ihrer Eintrittswahrscheinlichkeit und deren Konsequenzen beschrieben.
 
@@ -15,4 +15,12 @@ Bei Risiken unterscheidet man gerne zwischen „bekannten  Unwägbarkeiten“ (�
 
 - „bekannte Unwägbarkeiten bzw. Risiken“ können mit den Methoden und Werkzeugen des Risikomanagements behandelt werden und als Risikoreserve („*risk management reserve*“) in das Projektbudget aufgenommen werden. 
 - „unbekannte Unwägbarkeiten bzw. Risiken“ können finanziell abgeschätzt und als  Risikoreserve („*contingency reserve*“) in das Projektbudget aufgenommen werden.
+
+
+
+:::note
+
+A possible event that could cause harm or loss, or make it more difficult to achieve objectives. Can also be defined as uncertainty of outcome, and can be used in the context of measuring the probability of positive outcomes as well as negative outcomes.
+
+:::
 

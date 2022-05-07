@@ -102,6 +102,12 @@
         "items": [
           {
             "type": "link",
+            "label": "BA - Business Analyse",
+            "href": "/docs/Glossar/B-Glossar/BPI",
+            "docId": "Glossar/B-Glossar/BPI"
+          },
+          {
+            "type": "link",
             "label": "BPM Competency Model von ABPMP",
             "href": "/docs/Glossar/B-Glossar/BPM-Competency-Model",
             "docId": "Glossar/B-Glossar/BPM-Competency-Model"
@@ -141,6 +147,12 @@
             "label": "Betriebszeit",
             "href": "/docs/Glossar/B-Glossar/Betriebszeit",
             "docId": "Glossar/B-Glossar/Betriebszeit"
+          },
+          {
+            "type": "link",
+            "label": "BA - Business Analyse",
+            "href": "/docs/Glossar/B-Glossar/BPI",
+            "docId": "Glossar/B-Glossar/BPI"
           }
         ]
       },
@@ -584,6 +596,12 @@
           },
           {
             "type": "link",
+            "label": "Requirements-Engineering",
+            "href": "/docs/Glossar/R-Glossar/Requirements-Engineering",
+            "docId": "Glossar/R-Glossar/Requirements-Engineering"
+          },
+          {
+            "type": "link",
             "label": "Ressourcenkalender",
             "href": "/docs/Glossar/R-Glossar/Ressourcenkalender",
             "docId": "Glossar/R-Glossar/Ressourcenkalender"
@@ -596,6 +614,12 @@
           },
           {
             "type": "link",
+            "label": "Rightshifting",
+            "href": "/docs/Glossar/R-Glossar/Rightshifting",
+            "docId": "Glossar/R-Glossar/Rightshifting"
+          },
+          {
+            "type": "link",
             "label": "Projektrisiko",
             "href": "/docs/Glossar/R-Glossar/Projektrisiko",
             "docId": "Glossar/R-Glossar/Projektrisiko"
@@ -605,6 +629,18 @@
             "label": "Rollen-Canvas",
             "href": "/docs/Glossar/R-Glossar/Rollen-Canvas",
             "docId": "Glossar/R-Glossar/Rollen-Canvas"
+          },
+          {
+            "type": "link",
+            "label": "Rollenmodell",
+            "href": "/docs/Glossar/R-Glossar/Rollenmodell",
+            "docId": "Glossar/R-Glossar/Rollenmodell"
+          },
+          {
+            "type": "link",
+            "label": "Rollensteckbrief",
+            "href": "/docs/Glossar/R-Glossar/Rollensteckbrief",
+            "docId": "Glossar/R-Glossar/Rollensteckbrief"
           }
         ]
       },
@@ -889,6 +925,12 @@
       "id": "Glossar/B-Glossar/Betriebszeit",
       "title": "Betriebszeit",
       "description": "Bei der Betriebszeit, Uptime handelt es sich um die Zeit, die ein Computer oder IT- System verfügbar und betriebsbereit ist.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/B-Glossar/BPI": {
+      "id": "Glossar/B-Glossar/BPI",
+      "title": "BA - Business Analyse",
+      "description": "Business Analysis ist die Summe der Aufgaben und Methoden, die eingesetzt werden, um zwischen unterschiedlichen Stakeholdern zu vermitteln mit dem Ziel, Strukturen, Grundsätze und Abläufe eines Unternehmens zu verstehen und zielführende Lösungen zu  empfehlen.",
       "sidebar": "Sidebar10"
     },
     "Glossar/B-Glossar/BPM": {
@@ -1251,6 +1293,12 @@
       "description": "Mit dem Begriff Datenwiederherstellung (englisch: data recovery) wird im weitesten Sinne die Erkennung und Wiederherstellung fehlerhaft übertragener Daten bezeichnet. Im engeren Sinne bedeutet dies nach einem Datenverlust die Wiederherstellung der Originaldaten eines Datenträgers mithilfe von Backup-Systemen oder Continuous Data Protection (CDP).  Nach einer Störung der Datenübertragung wird ein genauer zuvor definierter Zustand bei der Recovery wiederhergestellt. Insbesondere nach dem Ausfall einer physikalischen Übertragungsleitung nutzt der  Anwender Wiederaufsetzpunkte, um seine Anwendung ohne Verlust  fortzusetzen.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/R-Glossar/Requirements-Engineering": {
+      "id": "Glossar/R-Glossar/Requirements-Engineering",
+      "title": "Requirements-Engineering",
+      "description": "Die Bezeichnung Requirements-Engineering (RE) hat zwei, wenn auch verwandte, so doch wohl zu unterscheidende Bedeutungsvarianten. Das Wort steht einmal für alle konkreten Aktivitäten am Beginn einer Systementwicklung, die auf eine Präzisierung der Problemstellung abzielen. Ebenso steht es aber auch für eine ganze Teildisziplin im Grenzbereich zwischen Systems-Engineering, Informatik und Anwendungswissenschaften. Zur Unterscheidung dieser beiden Bedeutungsvarianten werden im Folgenden die Bezeichnungen Requirements-Engineering (im engeren Sinn) und Requirements-Engineering  (im weiteren Sinn) verwenden.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/R-Glossar/Ressourcenkalender": {
       "id": "Glossar/R-Glossar/Ressourcenkalender",
       "title": "Ressourcenkalender",
@@ -1263,10 +1311,28 @@
       "description": "Der Begriff Richtlinie (policy) wird sowohl im technischen, als auch im rechtlichen Umfeld verwendet.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/R-Glossar/Rightshifting": {
+      "id": "Glossar/R-Glossar/Rightshifting",
+      "title": "Rightshifting",
+      "description": "After achieving some basic level of awareness would some people seek to take responsibility for their situation and then, maybe, commit to doing something about it.  (ARC – Awareness; Responsibility; Commitment – from Sir John Whitmore’s Coaching For Performance).",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/R-Glossar/Rollen-Canvas": {
       "id": "Glossar/R-Glossar/Rollen-Canvas",
       "title": "Rollen-Canvas",
       "description": "------",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/R-Glossar/Rollenmodell": {
+      "id": "Glossar/R-Glossar/Rollenmodell",
+      "title": "Rollenmodell",
+      "description": "Rollenmodelle sind Modell zur Beschreibung und Spezifikation von Rollen. Im Prozessmanagement werden Prozesse, Rollen und Strukturen aufeinander abgestimmt.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/R-Glossar/Rollensteckbrief": {
+      "id": "Glossar/R-Glossar/Rollensteckbrief",
+      "title": "Rollensteckbrief",
+      "description": "Der Rollensteckbrief ist eine Art Management Summary, einer kompakte Rollenbeschreibung auf 1 bis max. 2 Seiten. Rollensteckbrief beschreibt auf kompakte Art und weise auf einem „One  Pager“ die wesentlichen Aspekte einer Rolle, wie Hauptaufgaben, Hauptziele und erforderliche Qualifikationen. Der Rollensteckbrief ist (bei Bedarf) mit der nächsten Ebene - die wir Rollenspezifikation nennen - verknüpft.",
       "sidebar": "Sidebar10"
     },
     "Glossar/S-Glossar/SaaS": {

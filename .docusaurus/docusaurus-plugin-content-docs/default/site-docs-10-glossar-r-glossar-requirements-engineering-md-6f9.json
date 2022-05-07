@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/R-Glossar/Requirements-Engineering",
+  "id": "Glossar/R-Glossar/Requirements-Engineering",
+  "title": "Requirements-Engineering",
+  "description": "Die Bezeichnung Requirements-Engineering (RE) hat zwei, wenn auch verwandte, so doch wohl zu unterscheidende Bedeutungsvarianten. Das Wort steht einmal für alle konkreten Aktivitäten am Beginn einer Systementwicklung, die auf eine Präzisierung der Problemstellung abzielen. Ebenso steht es aber auch für eine ganze Teildisziplin im Grenzbereich zwischen Systems-Engineering, Informatik und Anwendungswissenschaften. Zur Unterscheidung dieser beiden Bedeutungsvarianten werden im Folgenden die Bezeichnungen Requirements-Engineering (im engeren Sinn) und Requirements-Engineering  (im weiteren Sinn) verwenden.",
+  "source": "@site/docs/10-Glossar/R-Glossar/Requirements-Engineering.md",
+  "sourceDirName": "10-Glossar/R-Glossar",
+  "slug": "/Glossar/R-Glossar/Requirements-Engineering",
+  "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Requirements-Engineering.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Requirements-Engineering",
+    "title": "Requirements-Engineering",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Recovery",
+    "permalink": "/docs/Glossar/R-Glossar/Recovery"
+  },
+  "next": {
+    "title": "Ressourcenkalender",
+    "permalink": "/docs/Glossar/R-Glossar/Ressourcenkalender"
+  }
+}

@@ -9,6 +9,24 @@
       "permalink": "/docs/Glossar/B-Glossar/Bedarf"
     },
     {
+      "id": "Glossar/B-Glossar/BPI",
+      "title": "BPI - Business Process Improvment",
+      "description": "BPI ist die Abkürzung für Business Process Improvement.",
+      "permalink": "/docs/Glossar/B-Glossar/BPI"
+    },
+    {
+      "id": "Glossar/B-Glossar/BPI",
+      "title": "BPI - Business Process Improvment",
+      "description": "BPI ist die Abkürzung für Business Process Improvement.",
+      "permalink": "/docs/Glossar/B-Glossar/BPI"
+    },
+    {
+      "id": "Glossar/B-Glossar/BPM",
+      "title": "BPM - Business Process Management",
+      "description": "BPM ist die Abkürzung für Business Process Management.",
+      "permalink": "/docs/Glossar/B-Glossar/BPM"
+    },
+    {
       "id": "Glossar/B-Glossar/BPM-Competency-Model",
       "title": "BPM Competency Model von ABPMP",
       "description": "Die Organisation ABPMP – Association of Business Process Management Professional International – hat zur Orientierung ein BPM Competency Model entwickelt.",
@@ -61,6 +79,18 @@
       "title": "Rollen-Canvas",
       "description": "------",
       "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas"
+    },
+    {
+      "id": "Glossar/R-Glossar/Rollenmodell",
+      "title": "Rollenmodell",
+      "description": "Rollenmodelle sind Modell zur Beschreibung und Spezifikation von Rollen. Im Prozessmanagement werden Prozesse, Rollen und Strukturen aufeinander abgestimmt.",
+      "permalink": "/docs/Glossar/R-Glossar/Rollenmodell"
+    },
+    {
+      "id": "Glossar/R-Glossar/Rollensteckbrief",
+      "title": "Rollensteckbrief",
+      "description": "Der Rollensteckbrief ist eine Art Management Summary, einer kompakte Rollenbeschreibung auf 1 bis max. 2 Seiten. Rollensteckbrief beschreibt auf kompakte Art und weise auf einem „One  Pager“ die wesentlichen Aspekte einer Rolle, wie Hauptaufgaben, Hauptziele und erforderliche Qualifikationen. Der Rollensteckbrief ist (bei Bedarf) mit der nächsten Ebene - die wir Rollenspezifikation nennen - verknüpft.",
+      "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief"
     }
   ],
   "allTagsPath": "/docs/tags"
