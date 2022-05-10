@@ -1,132 +1,132 @@
 [
   {
     "name": "Begriffe",
-    "permalink": "/docs/tags/begriffe",
-    "count": 71
+    "permalink": "/en/docs/tags/begriffe",
+    "count": 78
   },
   {
     "name": "Glossar",
-    "permalink": "/docs/tags/glossar",
+    "permalink": "/en/docs/tags/glossar",
     "count": 4
   },
   {
     "name": "Prozessmanagement",
-    "permalink": "/docs/tags/prozessmanagement",
+    "permalink": "/en/docs/tags/prozessmanagement",
     "count": 1
   },
   {
     "name": "IT-Begriff",
-    "permalink": "/docs/tags/it-begriff",
+    "permalink": "/en/docs/tags/it-begriff",
     "count": 1
   },
   {
     "name": "Begriff",
-    "permalink": "/docs/tags/begriff",
+    "permalink": "/en/docs/tags/begriff",
     "count": 24
   },
   {
     "name": "BPM",
-    "permalink": "/docs/tags/bpm",
-    "count": 15
+    "permalink": "/en/docs/tags/bpm",
+    "count": 22
   },
   {
     "name": "IM",
-    "permalink": "/docs/tags/im",
-    "count": 39
+    "permalink": "/en/docs/tags/im",
+    "count": 46
   },
   {
     "name": "PM",
-    "permalink": "/docs/tags/pm",
-    "count": 12
+    "permalink": "/en/docs/tags/pm",
+    "count": 19
   },
   {
     "name": "Verfügbarkeit",
-    "permalink": "/docs/tags/verfugbarkeit",
+    "permalink": "/en/docs/tags/verfugbarkeit",
     "count": 4
   },
   {
     "name": "KB",
-    "permalink": "/docs/tags/kb",
+    "permalink": "/en/docs/tags/kb",
     "count": 1
   },
   {
     "name": "Compliance",
-    "permalink": "/docs/tags/compliance",
+    "permalink": "/en/docs/tags/compliance",
     "count": 1
   },
   {
     "name": "Unternehmensexternen Regelwerken",
-    "permalink": "/docs/tags/unternehmensexternen-regelwerken",
+    "permalink": "/en/docs/tags/unternehmensexternen-regelwerken",
     "count": 1
   },
   {
     "name": "Unternehmensinternen Regelwerke",
-    "permalink": "/docs/tags/unternehmensinternen-regelwerke",
+    "permalink": "/en/docs/tags/unternehmensinternen-regelwerke",
     "count": 1
   },
   {
     "name": "Rechtlichen Regelwerke",
-    "permalink": "/docs/tags/rechtlichen-regelwerke",
+    "permalink": "/en/docs/tags/rechtlichen-regelwerke",
     "count": 1
   },
   {
     "name": "Dokumentation",
-    "permalink": "/docs/tags/dokumentation",
+    "permalink": "/en/docs/tags/dokumentation",
     "count": 1
   },
   {
     "name": "Web",
-    "permalink": "/docs/tags/web",
+    "permalink": "/en/docs/tags/web",
     "count": 2
   },
   {
     "name": "IT-Dokumentation",
-    "permalink": "/docs/tags/it-dokumentation",
+    "permalink": "/en/docs/tags/it-dokumentation",
     "count": 1
   },
   {
     "name": "Open-Source",
-    "permalink": "/docs/tags/open-source",
+    "permalink": "/en/docs/tags/open-source",
     "count": 1
   },
   {
     "name": "IT-Glossar",
-    "permalink": "/docs/tags/it-glossar",
+    "permalink": "/en/docs/tags/it-glossar",
     "count": 1
   },
   {
     "name": "SW",
-    "permalink": "/docs/tags/sw",
+    "permalink": "/en/docs/tags/sw",
     "count": 5
   },
   {
     "name": "BOM",
-    "permalink": "/docs/tags/bom",
+    "permalink": "/en/docs/tags/bom",
     "count": 1
   },
   {
     "name": "Web-Browser",
-    "permalink": "/docs/tags/web-browser",
+    "permalink": "/en/docs/tags/web-browser",
     "count": 1
   },
   {
     "name": "Web-Client",
-    "permalink": "/docs/tags/web-client",
+    "permalink": "/en/docs/tags/web-client",
     "count": 1
   },
   {
     "name": "Webseite",
-    "permalink": "/docs/tags/webseite",
+    "permalink": "/en/docs/tags/webseite",
     "count": 1
   },
   {
     "name": "Availability",
-    "permalink": "/docs/tags/availability",
+    "permalink": "/en/docs/tags/availability",
     "count": 1
   },
   {
     "name": "Website",
-    "permalink": "/docs/tags/website",
+    "permalink": "/en/docs/tags/website",
     "count": 1
   }
 ]

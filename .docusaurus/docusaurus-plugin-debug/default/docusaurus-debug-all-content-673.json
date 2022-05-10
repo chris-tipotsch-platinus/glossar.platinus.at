@@ -1221,6 +1221,202 @@
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
               },
               "next": {
+                "title": "Dokumentation - Documentation",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentation",
+              "id": "Glossar/D-Glossar/Dokumentation",
+              "title": "Dokumentation - Documentation",
+              "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentation.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentation",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentation",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentation.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentation",
+                "titel": "Dokumentation",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Documentation-as-Code",
+                "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+              },
+              "next": {
+                "title": "Dokumentationsarchitektur",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationsarchitektur",
+              "id": "Glossar/D-Glossar/Dokumentationsarchitektur",
+              "title": "Dokumentationsarchitektur",
+              "description": "Nach unserem Verständnis handelt es sich bei einer Dokumentationslandkarte um ein Dokument, das die Struktur der  Dokumentation und die Zusammenhänge zwischen den verschiedenen  Dokumentationen in einer grafischen Übersicht darstellt. In einer Dokumentationslandkarte (DLK, Dokumentationsarchitekturmodell, Dokumentationsarchitektur, Document Map) werden sämtliche Dokumente einer Dokumentation zu eine bestimmten Sachverhalt (zB. Prozess-Dokumentation,  IT-Dokumentation, Bau-Dokumentation…) nach außen übersichtlich grafisch dargestellt, abgegrenzt und bei Bedarf die Abhängigkeiten zwischen den Dokumenten auf hoher Abstraktionsebene im Gesamtüberblick aufgezeigt.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsarchitektur.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationsarchitektur",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsarchitektur.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationsarchitektur",
+                "titel": "Dokumentationsarchitektur",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentation - Documentation",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
+              },
+              "next": {
+                "title": "Dokumentationskonzept",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationskonzept",
+              "id": "Glossar/D-Glossar/Dokumentationskonzept",
+              "title": "Dokumentationskonzept",
+              "description": "Das Dokumentationskonzept dient der Umsetzung der Dokumentationsrichtlinie und definiert Vorgaben für die strukturelle und inhaltliche Ausgestaltung der Fach-Dokumentation (ZB. Gebäude-Dokumentation,  IT-Dokumentation, Prozess-Dokumentation) sowie für die operative  Verwaltung von Dokumenten, d. h. für das Dokumentenmanagement.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationskonzept.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationskonzept",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationskonzept.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationskonzept",
+                "titel": "Dokumentationskonzept",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationsarchitektur",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur"
+              },
+              "next": {
+                "title": "Dokumentationslandkarte IT",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "title": "Dokumentationslandkarte IT",
+              "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationslandkarte-IT.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationslandkarte-IT.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationslandkarte-IT",
+                "titel": "Dokumentationslandkarte IT",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationskonzept",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
+              },
+              "next": {
                 "title": "Dokumentationslebenzyklus",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
               }
@@ -1261,8 +1457,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Documentation-as-Code",
-                "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+                "title": "Dokumentationslandkarte IT",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
               },
               "next": {
                 "title": "Dokumentationsmanagement",
@@ -1314,6 +1510,104 @@
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
               },
               "next": {
+                "title": "Dokumente - Documents",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumente"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumente",
+              "id": "Glossar/D-Glossar/Dokumente",
+              "title": "Dokumente - Documents",
+              "description": "In Anlehnung an die ISO 9000 (2014) ist ein Dokument definiert als eine Zusammenfassung von Informationen auf einem Trägermedium (Papier, sonstige Speicherung), das als Gesamtheit identifizierbar und zugänglich ist. Mit Ausnahme des speziellen Dokumententyps „Aufzeichnungen“ sind  Dokumente veränderbar und können in verschiedenen Revisions- bzw. Versionsständen existieren.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumente",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumente",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumente.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumente",
+                "titel": "Dokumente",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationsmanagement",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+              },
+              "next": {
+                "title": "Dokumentenklasse - Dokumentenbereich",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentenklasse",
+              "id": "Glossar/D-Glossar/Dokumentenklasse",
+              "title": "Dokumentenklasse - Dokumentenbereich",
+              "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentenklasse",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentenklasse",
+                "titel": "Dokumentenklasse",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumente - Documents",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumente"
+              },
+              "next": {
                 "title": "Dokumentenmanagement",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
               }
@@ -1359,8 +1653,57 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentationsmanagement",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+                "title": "Dokumentenklasse - Dokumentenbereich",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+              },
+              "next": {
+                "title": "Dokumententypen",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumententypen",
+              "id": "Glossar/D-Glossar/Dokumententypen",
+              "title": "Dokumententypen",
+              "description": "Ein Dokumententyp beschreibt eine Gruppe von Dokumenten mit gleichartigen Eigenschaften.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumententypen.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumententypen",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumententypen",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumententypen.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumententypen",
+                "titel": "Dokumententypen",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentenmanagement",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
               },
               "next": {
                 "title": "Einfluss",
@@ -1393,8 +1736,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentenmanagement",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+                "title": "Dokumententypen",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
               },
               "next": {
                 "title": "Empowerment - Ermächtigung",
@@ -4281,6 +4624,22 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentationsarchitektur"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentationskonzept"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumentationslebenzyklus"
                   },
                   {
@@ -4289,7 +4648,19 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumente"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentenklasse"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumentenmanagement"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumententypen"
                   }
                 ]
               },

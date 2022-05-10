@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/U-Glossar/USV.md",
   "sourceDirName": "10-Glossar/U-Glossar",
   "slug": "/Glossar/U-Glossar/USV",
-  "permalink": "/docs/Glossar/U-Glossar/USV",
+  "permalink": "/en/docs/Glossar/U-Glossar/USV",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/U-Glossar/USV.md",
   "tags": [
     {
       "label": "SW",
-      "permalink": "/docs/tags/sw"
+      "permalink": "/en/docs/tags/sw"
     }
   ],
   "version": "current",
@@ -27,10 +27,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "UC - Underpinning Contract",
-    "permalink": "/docs/Glossar/U-Glossar/UC"
+    "permalink": "/en/docs/Glossar/U-Glossar/UC"
   },
   "next": {
     "title": "Virtuelle Maschine",
-    "permalink": "/docs/Glossar/V-Glossar/VM"
+    "permalink": "/en/docs/Glossar/V-Glossar/VM"
   }
 }

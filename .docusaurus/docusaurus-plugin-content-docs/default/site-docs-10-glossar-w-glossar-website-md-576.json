@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/W-Glossar/Website.md",
   "sourceDirName": "10-Glossar/W-Glossar",
   "slug": "/Glossar/W-Glossar/Website",
-  "permalink": "/docs/Glossar/W-Glossar/Website",
+  "permalink": "/en/docs/Glossar/W-Glossar/Website",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Website.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     },
     {
       "label": "Website",
-      "permalink": "/docs/tags/website"
+      "permalink": "/en/docs/tags/website"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Webserver",
-    "permalink": "/docs/Glossar/W-Glossar/Webserver"
+    "permalink": "/en/docs/Glossar/W-Glossar/Webserver"
   },
   "next": {
     "title": "Zugriffszeiten",
-    "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten"
+    "permalink": "/en/docs/Glossar/Z-Glossar/Zugriffszeiten"
   }
 }

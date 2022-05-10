@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/B-Glossar/BPM.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/BPM",
-  "permalink": "/docs/Glossar/B-Glossar/BPM",
+  "permalink": "/en/docs/Glossar/B-Glossar/BPM",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "BPM-KB",
-    "permalink": "/docs/Glossar/B-Glossar/BPM-KB"
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM-KB"
   },
   "next": {
     "title": "Bedarf - Demand",
-    "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+    "permalink": "/en/docs/Glossar/B-Glossar/Bedarf"
   }
 }

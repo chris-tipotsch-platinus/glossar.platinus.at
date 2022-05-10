@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/R-Glossar/Rechenzentrum.md",
   "sourceDirName": "10-Glossar/R-Glossar",
   "slug": "/Glossar/R-Glossar/Rechenzentrum",
-  "permalink": "/docs/Glossar/R-Glossar/Rechenzentrum",
+  "permalink": "/en/docs/Glossar/R-Glossar/Rechenzentrum",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rechenzentrum.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Prozessreifegradmodelle",
-    "permalink": "/docs/Glossar/P-Glossar/Prozessreifegradmodelle"
+    "permalink": "/en/docs/Glossar/P-Glossar/Prozessreifegradmodelle"
   },
   "next": {
     "title": "Recovery",
-    "permalink": "/docs/Glossar/R-Glossar/Recovery"
+    "permalink": "/en/docs/Glossar/R-Glossar/Recovery"
   }
 }

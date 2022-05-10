@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentation",
+  "id": "Glossar/D-Glossar/Dokumentation",
+  "title": "Dokumentation - Documentation",
+  "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentation.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentation",
+  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentation",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentation.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentation",
+    "titel": "Dokumentation",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Documentation-as-Code",
+    "permalink": "/en/docs/Glossar/D-Glossar/Doc-as-Code"
+  },
+  "next": {
+    "title": "Dokumentationsarchitektur",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsarchitektur"
+  }
+}

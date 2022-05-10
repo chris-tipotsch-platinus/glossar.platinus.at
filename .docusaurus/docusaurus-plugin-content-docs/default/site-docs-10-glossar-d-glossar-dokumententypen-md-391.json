@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumententypen",
+  "id": "Glossar/D-Glossar/Dokumententypen",
+  "title": "Dokumententypen",
+  "description": "Ein Dokumententyp beschreibt eine Gruppe von Dokumenten mit gleichartigen Eigenschaften.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumententypen.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumententypen",
+  "permalink": "/en/docs/Glossar/D-Glossar/Dokumententypen",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumententypen.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumententypen",
+    "titel": "Dokumententypen",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentenmanagement",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenmanagement"
+  },
+  "next": {
+    "title": "Einfluss",
+    "permalink": "/en/docs/Glossar/E-Glossar/Einfluss"
+  }
+}

@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/P-Glossar/Preismodell.md",
   "sourceDirName": "10-Glossar/P-Glossar",
   "slug": "/Glossar/P-Glossar/Preismodell",
-  "permalink": "/docs/Glossar/P-Glossar/Preismodell",
+  "permalink": "/en/docs/Glossar/P-Glossar/Preismodell",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Preismodell.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -27,10 +27,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Portfolio",
-    "permalink": "/docs/Glossar/P-Glossar/Portfolio"
+    "permalink": "/en/docs/Glossar/P-Glossar/Portfolio"
   },
   "next": {
     "title": "Provider",
-    "permalink": "/docs/Glossar/P-Glossar/Provider"
+    "permalink": "/en/docs/Glossar/P-Glossar/Provider"
   }
 }

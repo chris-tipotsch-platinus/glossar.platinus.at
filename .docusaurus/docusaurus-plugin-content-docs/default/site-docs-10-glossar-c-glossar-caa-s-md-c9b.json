@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/C-Glossar/CaaS.md",
   "sourceDirName": "10-Glossar/C-Glossar",
   "slug": "/Glossar/C-Glossar/CaaS",
-  "permalink": "/docs/Glossar/C-Glossar/CaaS",
+  "permalink": "/en/docs/Glossar/C-Glossar/CaaS",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/CaaS.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "BA - Business Analyse",
-    "permalink": "/docs/Glossar/B-Glossar/BPI"
+    "permalink": "/en/docs/Glossar/B-Glossar/BPI"
   },
   "next": {
     "title": "Change - Veränderung",
-    "permalink": "/docs/Glossar/C-Glossar/Change"
+    "permalink": "/en/docs/Glossar/C-Glossar/Change"
   }
 }

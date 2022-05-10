@@ -63,6 +63,30 @@
       "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
     },
     {
+      "id": "Glossar/D-Glossar/Dokumentation",
+      "title": "Dokumentation - Documentation",
+      "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationsarchitektur",
+      "title": "Dokumentationsarchitektur",
+      "description": "Nach unserem Verständnis handelt es sich bei einer Dokumentationslandkarte um ein Dokument, das die Struktur der  Dokumentation und die Zusammenhänge zwischen den verschiedenen  Dokumentationen in einer grafischen Übersicht darstellt. In einer Dokumentationslandkarte (DLK, Dokumentationsarchitekturmodell, Dokumentationsarchitektur, Document Map) werden sämtliche Dokumente einer Dokumentation zu eine bestimmten Sachverhalt (zB. Prozess-Dokumentation,  IT-Dokumentation, Bau-Dokumentation…) nach außen übersichtlich grafisch dargestellt, abgegrenzt und bei Bedarf die Abhängigkeiten zwischen den Dokumenten auf hoher Abstraktionsebene im Gesamtüberblick aufgezeigt.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationskonzept",
+      "title": "Dokumentationskonzept",
+      "description": "Das Dokumentationskonzept dient der Umsetzung der Dokumentationsrichtlinie und definiert Vorgaben für die strukturelle und inhaltliche Ausgestaltung der Fach-Dokumentation (ZB. Gebäude-Dokumentation,  IT-Dokumentation, Prozess-Dokumentation) sowie für die operative  Verwaltung von Dokumenten, d. h. für das Dokumentenmanagement.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+      "title": "Dokumentationslandkarte IT",
+      "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+    },
+    {
       "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
       "title": "Dokumentationslebenzyklus",
       "description": "Technische Dokumentation im Produktlebenszyklus",
@@ -75,10 +99,28 @@
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
     },
     {
+      "id": "Glossar/D-Glossar/Dokumente",
+      "title": "Dokumente - Documents",
+      "description": "In Anlehnung an die ISO 9000 (2014) ist ein Dokument definiert als eine Zusammenfassung von Informationen auf einem Trägermedium (Papier, sonstige Speicherung), das als Gesamtheit identifizierbar und zugänglich ist. Mit Ausnahme des speziellen Dokumententyps „Aufzeichnungen“ sind  Dokumente veränderbar und können in verschiedenen Revisions- bzw. Versionsständen existieren.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumente"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentenklasse",
+      "title": "Dokumentenklasse - Dokumentenbereich",
+      "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+    },
+    {
       "id": "Glossar/D-Glossar/Dokumentenmanagement",
       "title": "Dokumentenmanagement",
       "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um elektronische Dokumente handeln. Im Fokus stehen die operativen Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumententypen",
+      "title": "Dokumententypen",
+      "description": "Ein Dokumententyp beschreibt eine Gruppe von Dokumenten mit gleichartigen Eigenschaften.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
     },
     {
       "id": "Glossar/F-Glossar/Funktionalität",

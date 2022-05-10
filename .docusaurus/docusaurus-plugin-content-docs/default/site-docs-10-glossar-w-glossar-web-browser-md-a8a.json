@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/W-Glossar/Web-Browser.md",
   "sourceDirName": "10-Glossar/W-Glossar",
   "slug": "/Glossar/W-Glossar/Web-Browser",
-  "permalink": "/docs/Glossar/W-Glossar/Web-Browser",
+  "permalink": "/en/docs/Glossar/W-Glossar/Web-Browser",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Web-Browser.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     },
     {
       "label": "Web-Browser",
-      "permalink": "/docs/tags/web-browser"
+      "permalink": "/en/docs/tags/web-browser"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Virtualisierung",
-    "permalink": "/docs/Glossar/V-Glossar/Virtualisierung"
+    "permalink": "/en/docs/Glossar/V-Glossar/Virtualisierung"
   },
   "next": {
     "title": "Web-Client",
-    "permalink": "/docs/Glossar/W-Glossar/Web-Client"
+    "permalink": "/en/docs/Glossar/W-Glossar/Web-Client"
   }
 }

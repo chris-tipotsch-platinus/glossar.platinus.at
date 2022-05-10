@@ -6,20 +6,20 @@
   "source": "@site/docs/10-Glossar/S-Glossar/Sicherheitskette.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/Sicherheitskette",
-  "permalink": "/docs/Glossar/S-Glossar/Sicherheitskette",
+  "permalink": "/en/docs/Glossar/S-Glossar/Sicherheitskette",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Sicherheitskette.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "SW",
-      "permalink": "/docs/tags/sw"
+      "permalink": "/en/docs/tags/sw"
     }
   ],
   "version": "current",
@@ -35,10 +35,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IT-Serviceportfolio",
-    "permalink": "/docs/Glossar/S-Glossar/Serviceportfolio"
+    "permalink": "/en/docs/Glossar/S-Glossar/Serviceportfolio"
   },
   "next": {
     "title": "Software",
-    "permalink": "/docs/Glossar/S-Glossar/Software"
+    "permalink": "/en/docs/Glossar/S-Glossar/Software"
   }
 }

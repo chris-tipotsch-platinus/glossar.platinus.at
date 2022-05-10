@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentationsarchitektur",
+  "id": "Glossar/D-Glossar/Dokumentationsarchitektur",
+  "title": "Dokumentationsarchitektur",
+  "description": "Nach unserem Verständnis handelt es sich bei einer Dokumentationslandkarte um ein Dokument, das die Struktur der  Dokumentation und die Zusammenhänge zwischen den verschiedenen  Dokumentationen in einer grafischen Übersicht darstellt. In einer Dokumentationslandkarte (DLK, Dokumentationsarchitekturmodell, Dokumentationsarchitektur, Document Map) werden sämtliche Dokumente einer Dokumentation zu eine bestimmten Sachverhalt (zB. Prozess-Dokumentation,  IT-Dokumentation, Bau-Dokumentation…) nach außen übersichtlich grafisch dargestellt, abgegrenzt und bei Bedarf die Abhängigkeiten zwischen den Dokumenten auf hoher Abstraktionsebene im Gesamtüberblick aufgezeigt.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsarchitektur.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentationsarchitektur",
+  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsarchitektur.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentationsarchitektur",
+    "titel": "Dokumentationsarchitektur",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentation - Documentation",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentation"
+  },
+  "next": {
+    "title": "Dokumentationskonzept",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationskonzept"
+  }
+}

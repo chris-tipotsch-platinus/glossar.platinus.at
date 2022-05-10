@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/V-Glossar/VPN.md",
   "sourceDirName": "10-Glossar/V-Glossar",
   "slug": "/Glossar/V-Glossar/VPN",
-  "permalink": "/docs/Glossar/V-Glossar/VPN",
+  "permalink": "/en/docs/Glossar/V-Glossar/VPN",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/VPN.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Virtuelle Maschine",
-    "permalink": "/docs/Glossar/V-Glossar/VM"
+    "permalink": "/en/docs/Glossar/V-Glossar/VM"
   },
   "next": {
     "title": "Verfügbarkeit - Availability",
-    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit"
+    "permalink": "/en/docs/Glossar/V-Glossar/Verfuegbarkeit"
   }
 }

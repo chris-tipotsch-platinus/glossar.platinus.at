@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/Z-Glossar/Zugriffszeiten.md",
   "sourceDirName": "10-Glossar/Z-Glossar",
   "slug": "/Glossar/Z-Glossar/Zugriffszeiten",
-  "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten",
+  "permalink": "/en/docs/Glossar/Z-Glossar/Zugriffszeiten",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/Z-Glossar/Zugriffszeiten.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -25,6 +25,6 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Website",
-    "permalink": "/docs/Glossar/W-Glossar/Website"
+    "permalink": "/en/docs/Glossar/W-Glossar/Website"
   }
 }

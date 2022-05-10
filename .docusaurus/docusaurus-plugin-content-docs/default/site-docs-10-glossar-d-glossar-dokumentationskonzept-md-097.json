@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentationskonzept",
+  "id": "Glossar/D-Glossar/Dokumentationskonzept",
+  "title": "Dokumentationskonzept",
+  "description": "Das Dokumentationskonzept dient der Umsetzung der Dokumentationsrichtlinie und definiert Vorgaben für die strukturelle und inhaltliche Ausgestaltung der Fach-Dokumentation (ZB. Gebäude-Dokumentation,  IT-Dokumentation, Prozess-Dokumentation) sowie für die operative  Verwaltung von Dokumenten, d. h. für das Dokumentenmanagement.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationskonzept.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentationskonzept",
+  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationskonzept",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationskonzept.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentationskonzept",
+    "titel": "Dokumentationskonzept",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentationsarchitektur",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsarchitektur"
+  },
+  "next": {
+    "title": "Dokumentationslandkarte IT",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+  }
+}

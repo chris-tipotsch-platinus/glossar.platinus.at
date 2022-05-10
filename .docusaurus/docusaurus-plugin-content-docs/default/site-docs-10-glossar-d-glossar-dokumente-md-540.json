@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumente",
+  "id": "Glossar/D-Glossar/Dokumente",
+  "title": "Dokumente - Documents",
+  "description": "In Anlehnung an die ISO 9000 (2014) ist ein Dokument definiert als eine Zusammenfassung von Informationen auf einem Trägermedium (Papier, sonstige Speicherung), das als Gesamtheit identifizierbar und zugänglich ist. Mit Ausnahme des speziellen Dokumententyps „Aufzeichnungen“ sind  Dokumente veränderbar und können in verschiedenen Revisions- bzw. Versionsständen existieren.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumente",
+  "permalink": "/en/docs/Glossar/D-Glossar/Dokumente",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumente.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumente",
+    "titel": "Dokumente",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentationsmanagement",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+  },
+  "next": {
+    "title": "Dokumentenklasse - Dokumentenbereich",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenklasse"
+  }
+}

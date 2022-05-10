@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/L-Glossar/Leitlinien.md",
   "sourceDirName": "10-Glossar/L-Glossar",
   "slug": "/Glossar/L-Glossar/Leitlinie",
-  "permalink": "/docs/Glossar/L-Glossar/Leitlinie",
+  "permalink": "/en/docs/Glossar/L-Glossar/Leitlinie",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Leitlinien.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Lean Management",
-    "permalink": "/docs/Glossar/L-Glossar/Lean-Management"
+    "permalink": "/en/docs/Glossar/L-Glossar/Lean-Management"
   },
   "next": {
     "title": "Linux",
-    "permalink": "/docs/Glossar/L-Glossar/Linux"
+    "permalink": "/en/docs/Glossar/L-Glossar/Linux"
   }
 }
