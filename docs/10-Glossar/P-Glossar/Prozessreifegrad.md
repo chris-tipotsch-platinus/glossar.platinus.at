@@ -6,7 +6,13 @@ tags: [Begriffe]
 
 # Prozessreifegrad
 
-Der **Prozessreifegrad** misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist. Je nach Reifegradmodell werden hierzu unterschiedliche Kriterien bzw. *Geschäftsprozess-Reifegrad-Checklisten* zur zeitpunktbezogenen Beurteilung herangezogen. Je nachdem, wie gut die einzelnen Kriterien erfüllt sind, wird für das betrachtete Unternehmen (organisationsweiter Reifegrad als Mittel aller Prozesse)  bzw. den untersuchten Prozess (Einzelprozessreifegrad) ein bestimmter Reifegrad festgelegt. Je besser die einzelnen Kriterien erfüllt sind,  desto höher der Reifegrad.
+:::info
+
+<h3>Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist. </h3>
+
+:::
+
+Je nach Reifegradmodell werden hierzu unterschiedliche Kriterien bzw. *Geschäftsprozess-Reifegrad-Checklisten* zur zeitpunktbezogenen Beurteilung herangezogen. Je nachdem, wie gut die einzelnen Kriterien erfüllt sind, wird für das betrachtete Unternehmen (organisationsweiter Reifegrad als Mittel aller Prozesse)  bzw. den untersuchten Prozess (Einzelprozessreifegrad) ein bestimmter Reifegrad festgelegt. Je besser die einzelnen Kriterien erfüllt sind,  desto höher der Reifegrad.
 
 Das Prozessreifegrad-Modell ist ein einfaches Werkzeug bzw. ein BPM-Service zur Beurteilung von Geschäftsprozessen-Fähigkeiten. Die Messung des Reifegrades efolgt mittel vorderfinierter Reifegradkriterien, die wiederum vom gewählten Prozessreifegradmodell anhängig sind. 
 
@@ -31,4 +37,5 @@ Die Prozessreifegrad-Messungen zielen meist auf Initiativen zur Prozessoptimieru
 -  Prozessreifegradmodell
 - Mehr Information finden Sie im [platinus.Produktsteckbrief zur Prozessreifegradbeurteilung](https://sway.office.com/Atz2otj4LGswMmX5).
 - White Paper von [APQC](https://www.apqc.org/): Using Process Management Maturity Models
+- ISO15504
 
