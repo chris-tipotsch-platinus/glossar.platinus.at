@@ -1,8 +1,8 @@
 ---
-id: Prozesslandkarte
+id: prozesslandkarte
 title: Prozesslandkarte
 sidebar_position: 1
-tags: [Begriffe. Metadaten]
+tags: [Begriffe, Metadaten]
 ---
 
 # Prozesslandkarte - *Process Map*
@@ -11,7 +11,7 @@ Die **Prozesslandkarte** ist eine grafische Darstellung der Prozessgruppen eines
 
 :::info
 
-<h3>Prozesslandkarten sind vereinfachte, übersichtliche, grafische High-Level-Prozessdarstellungen von Prozessmodellen einer Organisation. </h3>
+<h4>Prozesslandkarten sind vereinfachte, übersichtliche, grafische High-Level-Prozessdarstellungen von Prozessmodellen einer Organisation. </h4>
 
 :::
 

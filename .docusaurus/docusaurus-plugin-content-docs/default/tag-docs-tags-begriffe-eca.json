@@ -393,6 +393,12 @@
       "permalink": "/docs/Glossar/O-Glossar/Outtasking"
     },
     {
+      "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+      "title": "platinus Prozessreferenzmodell",
+      "description": "Das Referenz-Prozessmodell von platinus eignet sich gut für die Abbildung von Unternehmensprozessen auf der Prozesslandkarten-Ebene.",
+      "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
+    },
+    {
       "id": "Glossar/P-Glossar/Preismodell",
       "title": "Preismodell",
       "description": "Das Peismodell beschreibt wie Preise für ein Produkt bzw. Services gebildet werden.",
@@ -411,6 +417,12 @@
       "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
     },
     {
+      "id": "Glossar/P-Glossar/prozesslandkarte",
+      "title": "Prozesslandkarte",
+      "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
+      "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
+    },
+    {
       "id": "Glossar/P-Glossar/Prozessreifegrad",
       "title": "Prozessreifegrad",
       "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist.",
@@ -419,7 +431,7 @@
     {
       "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
       "title": "Prozessreifegradmodelle",
-      "description": "Ein Prozessreifegradmodell – auch Process Assessment Model (PAM) genannt – beschreibt die Methodik und Praktiken die für Bewertungen von Geschäftsprozesse herangezogen werden.",
+      "description": "Prozessreifegradmodell nach ISO 15504",
       "permalink": "/docs/Glossar/P-Glossar/Prozessreifegradmodelle"
     },
     {

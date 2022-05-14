@@ -1,27 +1,32 @@
 {
-  "unversionedId": "Glossar/P-Glossar/Prozesslandkarte",
-  "id": "Glossar/P-Glossar/Prozesslandkarte",
+  "unversionedId": "Glossar/P-Glossar/prozesslandkarte",
+  "id": "Glossar/P-Glossar/prozesslandkarte",
   "title": "Prozesslandkarte",
   "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
   "source": "@site/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
   "sourceDirName": "10-Glossar/P-Glossar",
-  "slug": "/Glossar/P-Glossar/Prozesslandkarte",
-  "permalink": "/docs/Glossar/P-Glossar/Prozesslandkarte",
+  "slug": "/Glossar/P-Glossar/prozesslandkarte",
+  "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
   "tags": [
     {
-      "label": "Begriffe. Metadaten",
-      "permalink": "/docs/tags/begriffe-metadaten"
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Metadaten",
+      "permalink": "/docs/tags/metadaten"
     }
   ],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "id": "Prozesslandkarte",
+    "id": "prozesslandkarte",
     "title": "Prozesslandkarte",
     "sidebar_position": 1,
     "tags": [
-      "Begriffe. Metadaten"
+      "Begriffe",
+      "Metadaten"
     ]
   },
   "sidebar": "Sidebar10",
@@ -30,7 +35,7 @@
     "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
   },
   "next": {
-    "title": "Product Backlog",
-    "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
+    "title": "platinus Prozessreferenzmodell",
+    "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
   }
 }

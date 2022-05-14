@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+  "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+  "title": "platinus Prozessreferenzmodell",
+  "description": "Das Referenz-Prozessmodell von platinus eignet sich gut für die Abbildung von Unternehmensprozessen auf der Prozesslandkarten-Ebene.",
+  "source": "@site/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
+  "sourceDirName": "10-Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+  "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "platinus-prozessreferenzmodell",
+    "title": "platinus Prozessreferenzmodell",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Prozesslandkarte",
+    "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
+  },
+  "next": {
+    "title": "Product Backlog",
+    "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
+  }
+}

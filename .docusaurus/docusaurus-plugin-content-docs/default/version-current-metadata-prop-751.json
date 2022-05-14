@@ -639,8 +639,14 @@
           {
             "type": "link",
             "label": "Prozesslandkarte",
-            "href": "/docs/Glossar/P-Glossar/Prozesslandkarte",
-            "docId": "Glossar/P-Glossar/Prozesslandkarte"
+            "href": "/docs/Glossar/P-Glossar/prozesslandkarte",
+            "docId": "Glossar/P-Glossar/prozesslandkarte"
+          },
+          {
+            "type": "link",
+            "label": "platinus Prozessreferenzmodell",
+            "href": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+            "docId": "Glossar/P-Glossar/platinus-prozessreferenzmodell"
           },
           {
             "type": "link",
@@ -1403,6 +1409,12 @@
       "description": "Performance ist gleichzusetzen mit Leistungsfähigkeit. Sie kann für  ganze Übertragungssysteme oder für einzelne Übertragungskomponenten, für Rechnersysteme oder einzelne Peripheriegeräte oder auch für Module und Chips angegeben werden.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/P-Glossar/platinus-prozessreferenzmodell": {
+      "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+      "title": "platinus Prozessreferenzmodell",
+      "description": "Das Referenz-Prozessmodell von platinus eignet sich gut für die Abbildung von Unternehmensprozessen auf der Prozesslandkarten-Ebene.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/P-Glossar/PM-Paradigmen": {
       "id": "Glossar/P-Glossar/PM-Paradigmen",
       "title": "PM-Paradigmen",
@@ -1445,8 +1457,8 @@
       "description": "Die Prozessdiagrammen dienen zur modellhaften Darstellung, zur Visualisierung von Prozessabläufen. Die modellhafte Darstellung von Prozessen kann in verschiedenen Notationen und mit verschiedenen Diagrammarten erfolgen.",
       "sidebar": "Sidebar10"
     },
-    "Glossar/P-Glossar/Prozesslandkarte": {
-      "id": "Glossar/P-Glossar/Prozesslandkarte",
+    "Glossar/P-Glossar/prozesslandkarte": {
+      "id": "Glossar/P-Glossar/prozesslandkarte",
       "title": "Prozesslandkarte",
       "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
       "sidebar": "Sidebar10"
@@ -1460,7 +1472,7 @@
     "Glossar/P-Glossar/Prozessreifegradmodelle": {
       "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
       "title": "Prozessreifegradmodelle",
-      "description": "Ein Prozessreifegradmodell – auch Process Assessment Model (PAM) genannt – beschreibt die Methodik und Praktiken die für Bewertungen von Geschäftsprozesse herangezogen werden.",
+      "description": "Prozessreifegradmodell nach ISO 15504",
       "sidebar": "Sidebar10"
     },
     "Glossar/R-Glossar/Projektrisiko": {

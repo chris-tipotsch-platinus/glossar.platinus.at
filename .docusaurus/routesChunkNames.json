@@ -100,11 +100,6 @@
     "tag": "tag---docs-tags-begriffe-2-cd-093",
     "__routeContextModule": "__routeContextModule---docs-tags-925-e13"
   },
-  "/docs/tags/begriffe-metadaten-fc7": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-begriffe-metadaten-1-b-6-c23",
-    "__routeContextModule": "__routeContextModule---docs-tags-925-e13"
-  },
   "/docs/tags/bom-0d8": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-bom-335-a7d",
@@ -158,6 +153,11 @@
   "/docs/tags/kb-4fc": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-kbfff-097",
+    "__routeContextModule": "__routeContextModule---docs-tags-925-e13"
+  },
+  "/docs/tags/metadaten-543": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-metadaten-887-bb5",
     "__routeContextModule": "__routeContextModule---docs-tags-925-e13"
   },
   "/docs/tags/open-source-406": {
@@ -239,7 +239,7 @@
     "component": "component---theme-search-page-1-a-4-d6f",
     "__routeContextModule": "__routeContextModule---searchc-8-c-bde"
   },
-  "/docs-27d": {
+  "/docs-8c8": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398",
     "__routeContextModule": "__routeContextModule---docs-tags-925-e13"
@@ -568,6 +568,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-glossar-p-glossar-performance-872-6e5"
   },
+  "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell-3e5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-glossar-p-glossar-platinus-prozessreferenzmodell-7-b-7-478"
+  },
   "/docs/Glossar/P-Glossar/PM-Paradigmen-648": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-glossar-p-glossar-pm-paradigmenc-05-c75"
@@ -596,9 +600,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-glossar-p-glossar-prozessdiagramme-9-f-5-1ba"
   },
-  "/docs/Glossar/P-Glossar/Prozesslandkarte-caa": {
+  "/docs/Glossar/P-Glossar/prozesslandkarte-500": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-glossar-p-glossar-prozesslandkartef-34-979"
+    "content": "content---docs-glossar-p-glossar-prozesslandkartef-34-56a"
   },
   "/docs/Glossar/P-Glossar/Prozessreifegrad-0c5": {
     "component": "component---theme-doc-item-178-a40",

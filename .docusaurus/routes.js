@@ -89,11 +89,6 @@ export default [
     exact: true
   },
   {
-    path: '/docs/tags/begriffe-metadaten',
-    component: ComponentCreator('/docs/tags/begriffe-metadaten','fc7'),
-    exact: true
-  },
-  {
     path: '/docs/tags/bom',
     component: ComponentCreator('/docs/tags/bom','0d8'),
     exact: true
@@ -146,6 +141,11 @@ export default [
   {
     path: '/docs/tags/kb',
     component: ComponentCreator('/docs/tags/kb','4fc'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/metadaten',
+    component: ComponentCreator('/docs/tags/metadaten','543'),
     exact: true
   },
   {
@@ -230,7 +230,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','27d'),
+    component: ComponentCreator('/docs','8c8'),
     routes: [
       {
         path: '/docs/Begriffe-Home',
@@ -719,6 +719,12 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell',
+        component: ComponentCreator('/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell','3e5'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/P-Glossar/PM-Paradigmen',
         component: ComponentCreator('/docs/Glossar/P-Glossar/PM-Paradigmen','648'),
         exact: true,
@@ -761,8 +767,8 @@ export default [
         sidebar: "Sidebar10"
       },
       {
-        path: '/docs/Glossar/P-Glossar/Prozesslandkarte',
-        component: ComponentCreator('/docs/Glossar/P-Glossar/Prozesslandkarte','caa'),
+        path: '/docs/Glossar/P-Glossar/prozesslandkarte',
+        component: ComponentCreator('/docs/Glossar/P-Glossar/prozesslandkarte','500'),
         exact: true,
         sidebar: "Sidebar10"
       },

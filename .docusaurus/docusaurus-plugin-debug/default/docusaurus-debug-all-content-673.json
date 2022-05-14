@@ -3221,6 +3221,42 @@
               }
             },
             {
+              "unversionedId": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "title": "platinus Prozessreferenzmodell",
+              "description": "Das Referenz-Prozessmodell von platinus eignet sich gut für die Abbildung von Unternehmensprozessen auf der Prozesslandkarten-Ebene.",
+              "source": "@site/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
+              "sourceDirName": "10-Glossar/P-Glossar",
+              "slug": "/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "platinus-prozessreferenzmodell",
+                "title": "platinus Prozessreferenzmodell",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Prozesslandkarte",
+                "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
+              },
+              "next": {
+                "title": "Product Backlog",
+                "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
+              }
+            },
+            {
               "unversionedId": "Glossar/P-Glossar/PM-Paradigmen",
               "id": "Glossar/P-Glossar/PM-Paradigmen",
               "title": "PM-Paradigmen",
@@ -3340,8 +3376,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Prozesslandkarte",
-                "permalink": "/docs/Glossar/P-Glossar/Prozesslandkarte"
+                "title": "platinus Prozessreferenzmodell",
+                "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
               },
               "next": {
                 "title": "Projektinformationen",
@@ -3445,33 +3481,38 @@
               },
               "next": {
                 "title": "Prozesslandkarte",
-                "permalink": "/docs/Glossar/P-Glossar/Prozesslandkarte"
+                "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
               }
             },
             {
-              "unversionedId": "Glossar/P-Glossar/Prozesslandkarte",
-              "id": "Glossar/P-Glossar/Prozesslandkarte",
+              "unversionedId": "Glossar/P-Glossar/prozesslandkarte",
+              "id": "Glossar/P-Glossar/prozesslandkarte",
               "title": "Prozesslandkarte",
               "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
               "source": "@site/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
               "sourceDirName": "10-Glossar/P-Glossar",
-              "slug": "/Glossar/P-Glossar/Prozesslandkarte",
-              "permalink": "/docs/Glossar/P-Glossar/Prozesslandkarte",
+              "slug": "/Glossar/P-Glossar/prozesslandkarte",
+              "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte",
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
               "tags": [
                 {
-                  "label": "Begriffe. Metadaten",
-                  "permalink": "/docs/tags/begriffe-metadaten"
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "Metadaten",
+                  "permalink": "/docs/tags/metadaten"
                 }
               ],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "id": "Prozesslandkarte",
+                "id": "prozesslandkarte",
                 "title": "Prozesslandkarte",
                 "sidebar_position": 1,
                 "tags": [
-                  "Begriffe. Metadaten"
+                  "Begriffe",
+                  "Metadaten"
                 ]
               },
               "sidebar": "Sidebar10",
@@ -3480,8 +3521,8 @@
                 "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
               },
               "next": {
-                "title": "Product Backlog",
-                "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
+                "title": "platinus Prozessreferenzmodell",
+                "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
               }
             },
             {
@@ -3522,7 +3563,7 @@
               "unversionedId": "Glossar/P-Glossar/Prozessreifegradmodelle",
               "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
               "title": "Prozessreifegradmodelle",
-              "description": "Ein Prozessreifegradmodell – auch Process Assessment Model (PAM) genannt – beschreibt die Methodik und Praktiken die für Bewertungen von Geschäftsprozesse herangezogen werden.",
+              "description": "Prozessreifegradmodell nach ISO 15504",
               "source": "@site/docs/10-Glossar/P-Glossar/Prozessreifegradmodell.md",
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Prozessreifegradmodelle",
@@ -5280,7 +5321,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "Glossar/P-Glossar/Prozesslandkarte"
+                    "id": "Glossar/P-Glossar/prozesslandkarte"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell"
                   },
                   {
                     "type": "doc",

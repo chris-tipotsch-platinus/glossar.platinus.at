@@ -416,6 +416,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "path": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/P-Glossar/PM-Paradigmen",
               "path": "/docs/Glossar/P-Glossar/PM-Paradigmen",
               "sidebar": "Sidebar10"
@@ -451,8 +456,8 @@
               "sidebar": "Sidebar10"
             },
             {
-              "id": "Glossar/P-Glossar/Prozesslandkarte",
-              "path": "/docs/Glossar/P-Glossar/Prozesslandkarte",
+              "id": "Glossar/P-Glossar/prozesslandkarte",
+              "path": "/docs/Glossar/P-Glossar/prozesslandkarte",
               "sidebar": "Sidebar10"
             },
             {
