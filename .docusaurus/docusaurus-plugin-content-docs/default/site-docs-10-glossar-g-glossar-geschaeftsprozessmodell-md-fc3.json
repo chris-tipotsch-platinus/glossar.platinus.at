@@ -1,0 +1,41 @@
+{
+  "unversionedId": "Glossar/G-Glossar/geschaeftsprozessmodell",
+  "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+  "title": "Geschäftsprozessmodell",
+  "description": "Business Process Management (BPM)",
+  "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozessmodell.md",
+  "sourceDirName": "10-Glossar/G-Glossar",
+  "slug": "/Glossar/G-Glossar/geschaeftsprozessmodell",
+  "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmodell.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "geschaeftsprozessmodell",
+    "title": "Geschäftsprozessmodell",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Geschäftsprozessmanagement",
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+  },
+  "next": {
+    "title": "HTTPS",
+    "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+  }
+}

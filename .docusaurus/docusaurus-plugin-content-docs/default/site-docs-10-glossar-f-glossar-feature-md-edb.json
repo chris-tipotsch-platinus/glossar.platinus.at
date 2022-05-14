@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/F-Glossar/Feature.md",
   "sourceDirName": "10-Glossar/F-Glossar",
   "slug": "/Glossar/F-Glossar/Feature",
-  "permalink": "/en/docs/Glossar/F-Glossar/Feature",
+  "permalink": "/docs/Glossar/F-Glossar/Feature",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Feature.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Faehigkeiten",
-    "permalink": "/en/docs/Glossar/F-Glossar/Faehigkeiten"
+    "permalink": "/docs/Glossar/F-Glossar/Faehigkeiten"
   },
   "next": {
     "title": "Fehler",
-    "permalink": "/en/docs/Glossar/F-Glossar/Fehler"
+    "permalink": "/docs/Glossar/F-Glossar/Fehler"
   }
 }

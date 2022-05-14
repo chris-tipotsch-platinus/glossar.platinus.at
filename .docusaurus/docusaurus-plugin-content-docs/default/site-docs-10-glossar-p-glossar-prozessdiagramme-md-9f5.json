@@ -1,0 +1,36 @@
+{
+  "unversionedId": "Glossar/P-Glossar/Prozessdiagramme",
+  "id": "Glossar/P-Glossar/Prozessdiagramme",
+  "title": "Prozessdiagramme",
+  "description": "Die Prozessdiagrammen dienen zur modellhaften Darstellung, zur Visualisierung von Prozessabläufen. Die modellhafte Darstellung von Prozessen kann in verschiedenen Notationen und mit verschiedenen Diagrammarten erfolgen.",
+  "source": "@site/docs/10-Glossar/P-Glossar/Prozessdiagramme.md",
+  "sourceDirName": "10-Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/Prozessdiagramme",
+  "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozessdiagramme.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Prozessdiagramme",
+    "title": "Prozessdiagramme",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Provider",
+    "permalink": "/docs/Glossar/P-Glossar/Provider"
+  },
+  "next": {
+    "title": "Prozesslandkarte",
+    "permalink": "/docs/Glossar/P-Glossar/Prozesslandkarte"
+  }
+}

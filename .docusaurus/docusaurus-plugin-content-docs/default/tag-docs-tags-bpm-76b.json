@@ -105,6 +105,30 @@
       "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
     },
     {
+      "id": "Glossar/G-Glossar/geschaeftsprozess",
+      "title": "Geschäftsprozess",
+      "description": "Business Process",
+      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
+    },
+    {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmanagement",
+      "title": "Geschäftsprozessmanagement",
+      "description": "Business Process Management (BPM)",
+      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+    },
+    {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+      "title": "Geschäftsprozessmodell",
+      "description": "Business Process Management (BPM)",
+      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
+    },
+    {
+      "id": "Glossar/H-Glossar/Handbuch",
+      "title": "Handbuch",
+      "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+      "permalink": "/docs/Glossar/H-Glossar/Handbuch"
+    },
+    {
       "id": "Glossar/I-Glossar/Informationsqualitaet",
       "title": "Informationsqualität",
       "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
@@ -115,6 +139,18 @@
       "title": "Leitlinie",
       "description": "Eine Leitlinie ist ein übergeordnetes Regelwerk für Richtlinien, Konzepte und Prozesse.",
       "permalink": "/docs/Glossar/L-Glossar/Leitlinie"
+    },
+    {
+      "id": "Glossar/O-Glossar/Organisationsentwicklung",
+      "title": "Organisationsentwicklung",
+      "description": "Organisationsentwicklung wird sehr allgemein definiert als „Interventionsstrategie, welche gruppendynamische Prozesse  verwendet, die sich auf die Organisationskultur konzentriert, um  geplante Veränderungen herbeizuführen“.",
+      "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung"
+    },
+    {
+      "id": "Glossar/O-Glossar/Organisationshandbuch",
+      "title": "Organisationshandbuch",
+      "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+      "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch"
     },
     {
       "id": "Glossar/R-Glossar/Rollen-Canvas",

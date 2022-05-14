@@ -1,132 +1,147 @@
 [
   {
     "name": "Begriffe",
-    "permalink": "/en/docs/tags/begriffe",
-    "count": 78
+    "permalink": "/docs/tags/begriffe",
+    "count": 85
   },
   {
     "name": "Glossar",
-    "permalink": "/en/docs/tags/glossar",
+    "permalink": "/docs/tags/glossar",
     "count": 4
   },
   {
     "name": "Prozessmanagement",
-    "permalink": "/en/docs/tags/prozessmanagement",
+    "permalink": "/docs/tags/prozessmanagement",
     "count": 1
   },
   {
     "name": "IT-Begriff",
-    "permalink": "/en/docs/tags/it-begriff",
+    "permalink": "/docs/tags/it-begriff",
     "count": 1
   },
   {
     "name": "Begriff",
-    "permalink": "/en/docs/tags/begriff",
+    "permalink": "/docs/tags/begriff",
     "count": 24
   },
   {
     "name": "BPM",
-    "permalink": "/en/docs/tags/bpm",
-    "count": 22
+    "permalink": "/docs/tags/bpm",
+    "count": 28
   },
   {
     "name": "IM",
-    "permalink": "/en/docs/tags/im",
-    "count": 46
+    "permalink": "/docs/tags/im",
+    "count": 48
   },
   {
     "name": "PM",
-    "permalink": "/en/docs/tags/pm",
-    "count": 19
+    "permalink": "/docs/tags/pm",
+    "count": 22
   },
   {
     "name": "Verfügbarkeit",
-    "permalink": "/en/docs/tags/verfugbarkeit",
+    "permalink": "/docs/tags/verfugbarkeit",
     "count": 4
   },
   {
     "name": "KB",
-    "permalink": "/en/docs/tags/kb",
+    "permalink": "/docs/tags/kb",
     "count": 1
   },
   {
     "name": "Compliance",
-    "permalink": "/en/docs/tags/compliance",
+    "permalink": "/docs/tags/compliance",
     "count": 1
   },
   {
     "name": "Unternehmensexternen Regelwerken",
-    "permalink": "/en/docs/tags/unternehmensexternen-regelwerken",
+    "permalink": "/docs/tags/unternehmensexternen-regelwerken",
     "count": 1
   },
   {
     "name": "Unternehmensinternen Regelwerke",
-    "permalink": "/en/docs/tags/unternehmensinternen-regelwerke",
+    "permalink": "/docs/tags/unternehmensinternen-regelwerke",
     "count": 1
   },
   {
     "name": "Rechtlichen Regelwerke",
-    "permalink": "/en/docs/tags/rechtlichen-regelwerke",
+    "permalink": "/docs/tags/rechtlichen-regelwerke",
     "count": 1
   },
   {
     "name": "Dokumentation",
-    "permalink": "/en/docs/tags/dokumentation",
+    "permalink": "/docs/tags/dokumentation",
     "count": 1
   },
   {
     "name": "Web",
-    "permalink": "/en/docs/tags/web",
+    "permalink": "/docs/tags/web",
     "count": 2
   },
   {
     "name": "IT-Dokumentation",
-    "permalink": "/en/docs/tags/it-dokumentation",
+    "permalink": "/docs/tags/it-dokumentation",
+    "count": 1
+  },
+  {
+    "name": "Handbuch",
+    "permalink": "/docs/tags/handbuch",
+    "count": 2
+  },
+  {
+    "name": "Technische Dokumentation",
+    "permalink": "/docs/tags/technische-dokumentation",
     "count": 1
   },
   {
     "name": "Open-Source",
-    "permalink": "/en/docs/tags/open-source",
+    "permalink": "/docs/tags/open-source",
+    "count": 1
+  },
+  {
+    "name": "Begriffe. Metadaten",
+    "permalink": "/docs/tags/begriffe-metadaten",
     "count": 1
   },
   {
     "name": "IT-Glossar",
-    "permalink": "/en/docs/tags/it-glossar",
+    "permalink": "/docs/tags/it-glossar",
     "count": 1
   },
   {
     "name": "SW",
-    "permalink": "/en/docs/tags/sw",
+    "permalink": "/docs/tags/sw",
     "count": 5
   },
   {
     "name": "BOM",
-    "permalink": "/en/docs/tags/bom",
+    "permalink": "/docs/tags/bom",
     "count": 1
   },
   {
     "name": "Web-Browser",
-    "permalink": "/en/docs/tags/web-browser",
+    "permalink": "/docs/tags/web-browser",
     "count": 1
   },
   {
     "name": "Web-Client",
-    "permalink": "/en/docs/tags/web-client",
+    "permalink": "/docs/tags/web-client",
     "count": 1
   },
   {
     "name": "Webseite",
-    "permalink": "/en/docs/tags/webseite",
+    "permalink": "/docs/tags/webseite",
     "count": 1
   },
   {
     "name": "Availability",
-    "permalink": "/en/docs/tags/availability",
+    "permalink": "/docs/tags/availability",
     "count": 1
   },
   {
     "name": "Website",
-    "permalink": "/en/docs/tags/website",
+    "permalink": "/docs/tags/website",
     "count": 1
   }
 ]

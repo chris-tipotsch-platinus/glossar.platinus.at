@@ -6,24 +6,24 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsarchitektur.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dokumentationsarchitektur",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsarchitektur.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -40,10 +40,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Dokumentation - Documentation",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentation"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
   },
   "next": {
     "title": "Dokumentationskonzept",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationskonzept"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
   }
 }

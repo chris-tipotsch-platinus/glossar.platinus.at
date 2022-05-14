@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Glossar/O-Glossar/Organisationshandbuch",
+  "id": "Glossar/O-Glossar/Organisationshandbuch",
+  "title": "Organisationshandbuch",
+  "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+  "source": "@site/docs/10-Glossar/O-Glossar/Organisationshandbuch.md",
+  "sourceDirName": "10-Glossar/O-Glossar",
+  "slug": "/Glossar/O-Glossar/Organisationshandbuch",
+  "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Organisationshandbuch.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "Handbuch",
+      "permalink": "/docs/tags/handbuch"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Organisationshandbuch",
+    "title": "Organisationshandbuch",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "Handbuch",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Organisationsentwicklung",
+    "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung"
+  },
+  "next": {
+    "title": "Outtasking",
+    "permalink": "/docs/Glossar/O-Glossar/Outtasking"
+  }
+}

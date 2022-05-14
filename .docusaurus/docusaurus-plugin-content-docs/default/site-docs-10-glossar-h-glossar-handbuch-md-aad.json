@@ -1,0 +1,59 @@
+{
+  "unversionedId": "Glossar/H-Glossar/Handbuch",
+  "id": "Glossar/H-Glossar/Handbuch",
+  "title": "Handbuch",
+  "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+  "source": "@site/docs/10-Glossar/H-Glossar/Handbuch.md",
+  "sourceDirName": "10-Glossar/H-Glossar",
+  "slug": "/Glossar/H-Glossar/Handbuch",
+  "permalink": "/docs/Glossar/H-Glossar/Handbuch",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Handbuch.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "Handbuch",
+      "permalink": "/docs/tags/handbuch"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "Technische Dokumentation",
+      "permalink": "/docs/tags/technische-dokumentation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Handbuch",
+    "title": "Handbuch",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "Handbuch",
+      "IM",
+      "PM",
+      "Technische Dokumentation"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "HTTPS",
+    "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+  },
+  "next": {
+    "title": "Hochverfügbarkeit - High Availability",
+    "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+  }
+}

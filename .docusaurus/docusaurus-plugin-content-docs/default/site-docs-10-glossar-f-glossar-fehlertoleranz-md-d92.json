@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/F-Glossar/Fehlertoleranz.md",
   "sourceDirName": "10-Glossar/F-Glossar",
   "slug": "/Glossar/F-Glossar/Fehlertoleranz",
-  "permalink": "/en/docs/Glossar/F-Glossar/Fehlertoleranz",
+  "permalink": "/docs/Glossar/F-Glossar/Fehlertoleranz",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Fehlertoleranz.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Fehler",
-    "permalink": "/en/docs/Glossar/F-Glossar/Fehler"
+    "permalink": "/docs/Glossar/F-Glossar/Fehler"
   },
   "next": {
     "title": "Full-Time-Equivalent",
-    "permalink": "/en/docs/Glossar/F-Glossar/FTE"
+    "permalink": "/docs/Glossar/F-Glossar/FTE"
   }
 }

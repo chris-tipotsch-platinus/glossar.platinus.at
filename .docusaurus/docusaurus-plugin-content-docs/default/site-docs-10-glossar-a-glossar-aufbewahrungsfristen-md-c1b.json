@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Aufbewahrungsfristen.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Aufbewahrungsfristen",
-  "permalink": "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
+  "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufbewahrungsfristen.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IT-Asset",
-    "permalink": "/en/docs/Glossar/A-Glossar/Asset"
+    "permalink": "/docs/Glossar/A-Glossar/Asset"
   },
   "next": {
     "title": "Aufzeichnungen",
-    "permalink": "/en/docs/Glossar/A-Glossar/Aufzeichnungen"
+    "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungen"
   }
 }

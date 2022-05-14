@@ -6,24 +6,24 @@
   "source": "@site/docs/10-Glossar/I-Glossar/Informationsqualitaet.md",
   "sourceDirName": "10-Glossar/I-Glossar",
   "slug": "/Glossar/I-Glossar/Informationsqualitaet",
-  "permalink": "/en/docs/Glossar/I-Glossar/Informationsqualitaet",
+  "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Informationsqualitaet.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -40,10 +40,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IaaS",
-    "permalink": "/en/docs/Glossar/I-Glossar/IaaS"
+    "permalink": "/docs/Glossar/I-Glossar/IaaS"
   },
   "next": {
     "title": "Informationsicherheit",
-    "permalink": "/en/docs/Glossar/I-Glossar/Informationsicherheit"
+    "permalink": "/docs/Glossar/I-Glossar/Informationsicherheit"
   }
 }

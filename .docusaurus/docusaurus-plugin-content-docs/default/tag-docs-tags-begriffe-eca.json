@@ -225,6 +225,30 @@
       "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
     },
     {
+      "id": "Glossar/G-Glossar/geschaeftsprozess",
+      "title": "Geschäftsprozess",
+      "description": "Business Process",
+      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
+    },
+    {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmanagement",
+      "title": "Geschäftsprozessmanagement",
+      "description": "Business Process Management (BPM)",
+      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+    },
+    {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+      "title": "Geschäftsprozessmodell",
+      "description": "Business Process Management (BPM)",
+      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
+    },
+    {
+      "id": "Glossar/H-Glossar/Handbuch",
+      "title": "Handbuch",
+      "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+      "permalink": "/docs/Glossar/H-Glossar/Handbuch"
+    },
+    {
       "id": "Glossar/H-Glossar/Hochverfuegbarkeit",
       "title": "Hochverfügbarkeit - High Availability",
       "description": "Hochverfügbarkeit",
@@ -351,6 +375,18 @@
       "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
     },
     {
+      "id": "Glossar/O-Glossar/Organisationsentwicklung",
+      "title": "Organisationsentwicklung",
+      "description": "Organisationsentwicklung wird sehr allgemein definiert als „Interventionsstrategie, welche gruppendynamische Prozesse  verwendet, die sich auf die Organisationskultur konzentriert, um  geplante Veränderungen herbeizuführen“.",
+      "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung"
+    },
+    {
+      "id": "Glossar/O-Glossar/Organisationshandbuch",
+      "title": "Organisationshandbuch",
+      "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+      "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch"
+    },
+    {
       "id": "Glossar/O-Glossar/Outtasking",
       "title": "Outtasking",
       "description": "Das Outtasking ist eine besondere Form des Outsourcings. Beim klassischen Outsourcing geben Unternehmen komplette Aufgabenkomplexe und Strukturen an interne oder externe Dienstleister ab. Dagegen geben die  Auftraggeber beim Outtasking lediglich einzelne Aufgabenbereiche  (Englisch „tasks“) an Dienstleister ab. Diese Form der Arbeitsvergabe  wird immer beliebter und hat zahlreiche Vorteile gegenüber dem  Outsourcing.",
@@ -369,9 +405,15 @@
       "permalink": "/docs/Glossar/R-Glossar/Projektrisiko"
     },
     {
+      "id": "Glossar/P-Glossar/Prozessdiagramme",
+      "title": "Prozessdiagramme",
+      "description": "Die Prozessdiagrammen dienen zur modellhaften Darstellung, zur Visualisierung von Prozessabläufen. Die modellhafte Darstellung von Prozessen kann in verschiedenen Notationen und mit verschiedenen Diagrammarten erfolgen.",
+      "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
+    },
+    {
       "id": "Glossar/P-Glossar/Prozessreifegrad",
       "title": "Prozessreifegrad",
-      "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist. Je nach Reifegradmodell werden hierzu unterschiedliche Kriterien bzw. Geschäftsprozess-Reifegrad-Checklisten zur zeitpunktbezogenen Beurteilung herangezogen. Je nachdem, wie gut die einzelnen Kriterien erfüllt sind, wird für das betrachtete Unternehmen (organisationsweiter Reifegrad als Mittel aller Prozesse)  bzw. den untersuchten Prozess (Einzelprozessreifegrad) ein bestimmter Reifegrad festgelegt. Je besser die einzelnen Kriterien erfüllt sind,  desto höher der Reifegrad.",
+      "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist.",
       "permalink": "/docs/Glossar/P-Glossar/Prozessreifegrad"
     },
     {

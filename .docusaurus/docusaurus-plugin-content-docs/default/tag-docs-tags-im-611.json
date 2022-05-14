@@ -129,6 +129,12 @@
       "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
     },
     {
+      "id": "Glossar/H-Glossar/Handbuch",
+      "title": "Handbuch",
+      "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+      "permalink": "/docs/Glossar/H-Glossar/Handbuch"
+    },
+    {
       "id": "Glossar/H-Glossar/Hochverfuegbarkeit",
       "title": "Hochverfügbarkeit - High Availability",
       "description": "Hochverfügbarkeit",
@@ -199,6 +205,12 @@
       "title": "Open Source Software",
       "description": "SW",
       "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+    },
+    {
+      "id": "Glossar/O-Glossar/Organisationshandbuch",
+      "title": "Organisationshandbuch",
+      "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+      "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch"
     },
     {
       "id": "Glossar/O-Glossar/Outtasking",

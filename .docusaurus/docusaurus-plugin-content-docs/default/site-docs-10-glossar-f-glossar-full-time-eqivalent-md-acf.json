@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/F-Glossar/Full-Time-Eqivalent.md",
   "sourceDirName": "10-Glossar/F-Glossar",
   "slug": "/Glossar/F-Glossar/FTE",
-  "permalink": "/en/docs/Glossar/F-Glossar/FTE",
+  "permalink": "/docs/Glossar/F-Glossar/FTE",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Full-Time-Eqivalent.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -30,10 +30,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Fehlertoleranz",
-    "permalink": "/en/docs/Glossar/F-Glossar/Fehlertoleranz"
+    "permalink": "/docs/Glossar/F-Glossar/Fehlertoleranz"
   },
   "next": {
     "title": "Funktionalität - Utility",
-    "permalink": "/en/docs/Glossar/F-Glossar/Funktionalität"
+    "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
   }
 }
