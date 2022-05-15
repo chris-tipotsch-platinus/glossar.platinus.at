@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/O-Glossar/Organisationsentwicklung",
+  "id": "Glossar/O-Glossar/Organisationsentwicklung",
+  "title": "Organisationsentwicklung",
+  "description": "Organisationsentwicklung wird sehr allgemein definiert als „Interventionsstrategie, welche gruppendynamische Prozesse  verwendet, die sich auf die Organisationskultur konzentriert, um  geplante Veränderungen herbeizuführen“.",
+  "source": "@site/docs/10-Glossar/O-Glossar/Organisationsentwicklung.md",
+  "sourceDirName": "10-Glossar/O-Glossar",
+  "slug": "/Glossar/O-Glossar/Organisationsentwicklung",
+  "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Organisationsentwicklung.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Organisationsentwicklung",
+    "title": "Organisationsentwicklung",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Open Source Software",
+    "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+  },
+  "next": {
+    "title": "Organisationshandbuch",
+    "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch"
+  }
+}

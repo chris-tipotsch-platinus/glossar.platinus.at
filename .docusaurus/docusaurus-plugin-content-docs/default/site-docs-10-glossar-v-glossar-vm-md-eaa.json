@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/V-Glossar/VM.md",
   "sourceDirName": "10-Glossar/V-Glossar",
   "slug": "/Glossar/V-Glossar/VM",
-  "permalink": "/en/docs/Glossar/V-Glossar/VM",
+  "permalink": "/docs/Glossar/V-Glossar/VM",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/VM.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "USV",
-    "permalink": "/en/docs/Glossar/U-Glossar/USV"
+    "permalink": "/docs/Glossar/U-Glossar/USV"
   },
   "next": {
     "title": "VPN - Virtual Private Network",
-    "permalink": "/en/docs/Glossar/V-Glossar/VPN"
+    "permalink": "/docs/Glossar/V-Glossar/VPN"
   }
 }

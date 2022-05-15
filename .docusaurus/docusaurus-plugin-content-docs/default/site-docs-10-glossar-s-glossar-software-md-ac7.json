@@ -6,20 +6,20 @@
   "source": "@site/docs/10-Glossar/S-Glossar/Software.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/Software",
-  "permalink": "/en/docs/Glossar/S-Glossar/Software",
+  "permalink": "/docs/Glossar/S-Glossar/Software",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Software.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "SW",
-      "permalink": "/en/docs/tags/sw"
+      "permalink": "/docs/tags/sw"
     }
   ],
   "version": "current",
@@ -35,10 +35,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Sicherheitskette",
-    "permalink": "/en/docs/Glossar/S-Glossar/Sicherheitskette"
+    "permalink": "/docs/Glossar/S-Glossar/Sicherheitskette"
   },
   "next": {
     "title": "Standardsoftware",
-    "permalink": "/en/docs/Glossar/S-Glossar/Standardsoftware"
+    "permalink": "/docs/Glossar/S-Glossar/Standardsoftware"
   }
 }

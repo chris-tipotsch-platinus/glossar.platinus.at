@@ -1,0 +1,19 @@
+{
+  "name": "Handbuch",
+  "permalink": "/docs/tags/handbuch",
+  "docs": [
+    {
+      "id": "Glossar/H-Glossar/Handbuch",
+      "title": "Handbuch",
+      "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+      "permalink": "/docs/Glossar/H-Glossar/Handbuch"
+    },
+    {
+      "id": "Glossar/O-Glossar/Organisationshandbuch",
+      "title": "Organisationshandbuch",
+      "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+      "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

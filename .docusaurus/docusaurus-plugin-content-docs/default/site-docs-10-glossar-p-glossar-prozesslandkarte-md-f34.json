@@ -1,0 +1,41 @@
+{
+  "unversionedId": "Glossar/P-Glossar/prozesslandkarte",
+  "id": "Glossar/P-Glossar/prozesslandkarte",
+  "title": "Prozesslandkarte",
+  "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
+  "source": "@site/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
+  "sourceDirName": "10-Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/prozesslandkarte",
+  "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "Metadaten",
+      "permalink": "/docs/tags/metadaten"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "prozesslandkarte",
+    "title": "Prozesslandkarte",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "Metadaten"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Prozessdiagramme",
+    "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
+  },
+  "next": {
+    "title": "platinus Prozessreferenzmodell",
+    "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
+  }
+}

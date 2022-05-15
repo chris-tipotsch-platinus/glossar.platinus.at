@@ -6,16 +6,16 @@
   "source": "@site/docs/10-Glossar/H-Glossar/HTTPS.md",
   "sourceDirName": "10-Glossar/H-Glossar",
   "slug": "/Glossar/H-Glossar/HTTPS",
-  "permalink": "/en/docs/Glossar/H-Glossar/HTTPS",
+  "permalink": "/docs/Glossar/H-Glossar/HTTPS",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/HTTPS.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -29,11 +29,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Funktionalität - Utility",
-    "permalink": "/en/docs/Glossar/F-Glossar/Funktionalität"
+    "title": "Geschäftsprozessmodell",
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
   },
   "next": {
-    "title": "Hochverfügbarkeit - High Availability",
-    "permalink": "/en/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+    "title": "Handbuch",
+    "permalink": "/docs/Glossar/H-Glossar/Handbuch"
   }
 }

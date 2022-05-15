@@ -1,0 +1,41 @@
+{
+  "unversionedId": "Glossar/G-Glossar/geschaeftsprozessmanagement",
+  "id": "Glossar/G-Glossar/geschaeftsprozessmanagement",
+  "title": "Geschäftsprozessmanagement",
+  "description": "Business Process Management (BPM)",
+  "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozessmanagement (Kopie).md",
+  "sourceDirName": "10-Glossar/G-Glossar",
+  "slug": "/Glossar/G-Glossar/geschaeftsprozessmanagement",
+  "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmanagement (Kopie).md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "geschaeftsprozessmanagement",
+    "title": "Geschäftsprozessmanagement",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Geschäftsprozess",
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
+  },
+  "next": {
+    "title": "Geschäftsprozessmanagement",
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+  }
+}

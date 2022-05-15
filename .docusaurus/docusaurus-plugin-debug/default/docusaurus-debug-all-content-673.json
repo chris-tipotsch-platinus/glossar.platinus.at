@@ -1977,8 +1977,190 @@
                 "permalink": "/docs/Glossar/F-Glossar/FTE"
               },
               "next": {
+                "title": "Geschäftsprozess",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
+              }
+            },
+            {
+              "unversionedId": "Glossar/G-Glossar/geschaeftsprozess",
+              "id": "Glossar/G-Glossar/geschaeftsprozess",
+              "title": "Geschäftsprozess",
+              "description": "Business Process",
+              "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozess.md",
+              "sourceDirName": "10-Glossar/G-Glossar",
+              "slug": "/Glossar/G-Glossar/geschaeftsprozess",
+              "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozess.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "geschaeftsprozess",
+                "title": "Geschäftsprozess",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Funktionalität - Utility",
+                "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+              },
+              "next": {
+                "title": "Geschäftsprozessmanagement",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+              }
+            },
+            {
+              "unversionedId": "Glossar/G-Glossar/geschaeftsprozessmanagement",
+              "id": "Glossar/G-Glossar/geschaeftsprozessmanagement",
+              "title": "Geschäftsprozessmanagement",
+              "description": "Business Process Management (BPM)",
+              "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozessmanagement.md",
+              "sourceDirName": "10-Glossar/G-Glossar",
+              "slug": "/Glossar/G-Glossar/geschaeftsprozessmanagement",
+              "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmanagement.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "geschaeftsprozessmanagement",
+                "title": "Geschäftsprozessmanagement",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Geschäftsprozess",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
+              },
+              "next": {
+                "title": "Geschäftsprozessmodell",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
+              }
+            },
+            {
+              "unversionedId": "Glossar/G-Glossar/geschaeftsprozessmodell",
+              "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+              "title": "Geschäftsprozessmodell",
+              "description": "Business Process Management (BPM)",
+              "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozessmodell.md",
+              "sourceDirName": "10-Glossar/G-Glossar",
+              "slug": "/Glossar/G-Glossar/geschaeftsprozessmodell",
+              "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmodell.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "geschaeftsprozessmodell",
+                "title": "Geschäftsprozessmodell",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Geschäftsprozessmanagement",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+              },
+              "next": {
                 "title": "HTTPS",
                 "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+              }
+            },
+            {
+              "unversionedId": "Glossar/H-Glossar/Handbuch",
+              "id": "Glossar/H-Glossar/Handbuch",
+              "title": "Handbuch",
+              "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+              "source": "@site/docs/10-Glossar/H-Glossar/Handbuch.md",
+              "sourceDirName": "10-Glossar/H-Glossar",
+              "slug": "/Glossar/H-Glossar/Handbuch",
+              "permalink": "/docs/Glossar/H-Glossar/Handbuch",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Handbuch.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "Handbuch",
+                  "permalink": "/docs/tags/handbuch"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "Technische Dokumentation",
+                  "permalink": "/docs/tags/technische-dokumentation"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Handbuch",
+                "title": "Handbuch",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "Handbuch",
+                  "IM",
+                  "PM",
+                  "Technische Dokumentation"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "HTTPS",
+                "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+              },
+              "next": {
+                "title": "Hochverfügbarkeit - High Availability",
+                "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
               }
             },
             {
@@ -2017,8 +2199,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "HTTPS",
-                "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+                "title": "Handbuch",
+                "permalink": "/docs/Glossar/H-Glossar/Handbuch"
               },
               "next": {
                 "title": "Hosting",
@@ -2095,12 +2277,12 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Funktionalität - Utility",
-                "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+                "title": "Geschäftsprozessmodell",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
               },
               "next": {
-                "title": "Hochverfügbarkeit - High Availability",
-                "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+                "title": "Handbuch",
+                "permalink": "/docs/Glossar/H-Glossar/Handbuch"
               }
             },
             {
@@ -2827,6 +3009,104 @@
                 "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
               },
               "next": {
+                "title": "Organisationsentwicklung",
+                "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung"
+              }
+            },
+            {
+              "unversionedId": "Glossar/O-Glossar/Organisationsentwicklung",
+              "id": "Glossar/O-Glossar/Organisationsentwicklung",
+              "title": "Organisationsentwicklung",
+              "description": "Organisationsentwicklung wird sehr allgemein definiert als „Interventionsstrategie, welche gruppendynamische Prozesse  verwendet, die sich auf die Organisationskultur konzentriert, um  geplante Veränderungen herbeizuführen“.",
+              "source": "@site/docs/10-Glossar/O-Glossar/Organisationsentwicklung.md",
+              "sourceDirName": "10-Glossar/O-Glossar",
+              "slug": "/Glossar/O-Glossar/Organisationsentwicklung",
+              "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Organisationsentwicklung.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Organisationsentwicklung",
+                "title": "Organisationsentwicklung",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Open Source Software",
+                "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+              },
+              "next": {
+                "title": "Organisationshandbuch",
+                "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch"
+              }
+            },
+            {
+              "unversionedId": "Glossar/O-Glossar/Organisationshandbuch",
+              "id": "Glossar/O-Glossar/Organisationshandbuch",
+              "title": "Organisationshandbuch",
+              "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+              "source": "@site/docs/10-Glossar/O-Glossar/Organisationshandbuch.md",
+              "sourceDirName": "10-Glossar/O-Glossar",
+              "slug": "/Glossar/O-Glossar/Organisationshandbuch",
+              "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Organisationshandbuch.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "Handbuch",
+                  "permalink": "/docs/tags/handbuch"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Organisationshandbuch",
+                "title": "Organisationshandbuch",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "Handbuch",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Organisationsentwicklung",
+                "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung"
+              },
+              "next": {
                 "title": "Outtasking",
                 "permalink": "/docs/Glossar/O-Glossar/Outtasking"
               }
@@ -2862,8 +3142,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Open Source Software",
-                "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+                "title": "Organisationshandbuch",
+                "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch"
               },
               "next": {
                 "title": "PM-Paradigmen",
@@ -2938,6 +3218,42 @@
               "next": {
                 "title": "Prozessreifegrad",
                 "permalink": "/docs/Glossar/P-Glossar/Prozessreifegrad"
+              }
+            },
+            {
+              "unversionedId": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "title": "platinus Prozessreferenzmodell",
+              "description": "Das Referenz-Prozessmodell von platinus eignet sich gut für die Abbildung von Unternehmensprozessen auf der Prozesslandkarten-Ebene.",
+              "source": "@site/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
+              "sourceDirName": "10-Glossar/P-Glossar",
+              "slug": "/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "platinus-prozessreferenzmodell",
+                "title": "platinus Prozessreferenzmodell",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Prozesslandkarte",
+                "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
+              },
+              "next": {
+                "title": "Product Backlog",
+                "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
               }
             },
             {
@@ -3060,8 +3376,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Provider",
-                "permalink": "/docs/Glossar/P-Glossar/Provider"
+                "title": "platinus Prozessreferenzmodell",
+                "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
               },
               "next": {
                 "title": "Projektinformationen",
@@ -3128,15 +3444,92 @@
                 "permalink": "/docs/Glossar/P-Glossar/Preismodell"
               },
               "next": {
-                "title": "Product Backlog",
-                "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
+                "title": "Prozessdiagramme",
+                "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
+              }
+            },
+            {
+              "unversionedId": "Glossar/P-Glossar/Prozessdiagramme",
+              "id": "Glossar/P-Glossar/Prozessdiagramme",
+              "title": "Prozessdiagramme",
+              "description": "Die Prozessdiagrammen dienen zur modellhaften Darstellung, zur Visualisierung von Prozessabläufen. Die modellhafte Darstellung von Prozessen kann in verschiedenen Notationen und mit verschiedenen Diagrammarten erfolgen.",
+              "source": "@site/docs/10-Glossar/P-Glossar/Prozessdiagramme.md",
+              "sourceDirName": "10-Glossar/P-Glossar",
+              "slug": "/Glossar/P-Glossar/Prozessdiagramme",
+              "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozessdiagramme.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "Prozessdiagramme",
+                "title": "Prozessdiagramme",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Provider",
+                "permalink": "/docs/Glossar/P-Glossar/Provider"
+              },
+              "next": {
+                "title": "Prozesslandkarte",
+                "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
+              }
+            },
+            {
+              "unversionedId": "Glossar/P-Glossar/prozesslandkarte",
+              "id": "Glossar/P-Glossar/prozesslandkarte",
+              "title": "Prozesslandkarte",
+              "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
+              "source": "@site/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
+              "sourceDirName": "10-Glossar/P-Glossar",
+              "slug": "/Glossar/P-Glossar/prozesslandkarte",
+              "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "Metadaten",
+                  "permalink": "/docs/tags/metadaten"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "prozesslandkarte",
+                "title": "Prozesslandkarte",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe",
+                  "Metadaten"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Prozessdiagramme",
+                "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
+              },
+              "next": {
+                "title": "platinus Prozessreferenzmodell",
+                "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
               }
             },
             {
               "unversionedId": "Glossar/P-Glossar/Prozessreifegrad",
               "id": "Glossar/P-Glossar/Prozessreifegrad",
               "title": "Prozessreifegrad",
-              "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist. Je nach Reifegradmodell werden hierzu unterschiedliche Kriterien bzw. Geschäftsprozess-Reifegrad-Checklisten zur zeitpunktbezogenen Beurteilung herangezogen. Je nachdem, wie gut die einzelnen Kriterien erfüllt sind, wird für das betrachtete Unternehmen (organisationsweiter Reifegrad als Mittel aller Prozesse)  bzw. den untersuchten Prozess (Einzelprozessreifegrad) ein bestimmter Reifegrad festgelegt. Je besser die einzelnen Kriterien erfüllt sind,  desto höher der Reifegrad.",
+              "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist.",
               "source": "@site/docs/10-Glossar/P-Glossar/Prozessreifegrad.md",
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Prozessreifegrad",
@@ -3170,7 +3563,7 @@
               "unversionedId": "Glossar/P-Glossar/Prozessreifegradmodelle",
               "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
               "title": "Prozessreifegradmodelle",
-              "description": "Ein Prozessreifegradmodell – auch Process Assessment Model (PAM) genannt – beschreibt die Methodik und Praktiken die für Bewertungen von Geschäftsprozesse herangezogen werden.",
+              "description": "Prozessreifegradmodell nach ISO 15504",
               "source": "@site/docs/10-Glossar/P-Glossar/Prozessreifegradmodell.md",
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Prozessreifegradmodelle",
@@ -4714,6 +5107,26 @@
               },
               {
                 "type": "category",
+                "label": "G-Glossar",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Glossar/G-Glossar/geschaeftsprozess"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/G-Glossar/geschaeftsprozessmanagement"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/G-Glossar/geschaeftsprozessmodell"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "H-Glossar",
                 "collapsible": true,
                 "collapsed": true,
@@ -4721,6 +5134,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/H-Glossar/HTTPS"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/H-Glossar/Handbuch"
                   },
                   {
                     "type": "doc",
@@ -4860,6 +5277,14 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/O-Glossar/Organisationsentwicklung"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/O-Glossar/Organisationshandbuch"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/O-Glossar/Outtasking"
                   }
                 ]
@@ -4889,6 +5314,18 @@
                   {
                     "type": "doc",
                     "id": "Glossar/P-Glossar/Provider"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/P-Glossar/Prozessdiagramme"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/P-Glossar/prozesslandkarte"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell"
                   },
                   {
                     "type": "doc",

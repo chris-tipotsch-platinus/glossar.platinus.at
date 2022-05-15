@@ -1,0 +1,13 @@
+{
+  "name": "Technische Dokumentation",
+  "permalink": "/docs/tags/technische-dokumentation",
+  "docs": [
+    {
+      "id": "Glossar/H-Glossar/Handbuch",
+      "title": "Handbuch",
+      "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+      "permalink": "/docs/Glossar/H-Glossar/Handbuch"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/E-Glossar/Empowerment.md",
   "sourceDirName": "10-Glossar/E-Glossar",
   "slug": "/Glossar/E-Glossar/Empowerment",
-  "permalink": "/en/docs/Glossar/E-Glossar/Empowerment",
+  "permalink": "/docs/Glossar/E-Glossar/Empowerment",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/E-Glossar/Empowerment.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Einfluss",
-    "permalink": "/en/docs/Glossar/E-Glossar/Einfluss"
+    "permalink": "/docs/Glossar/E-Glossar/Einfluss"
   },
   "next": {
     "title": "Faehigkeiten",
-    "permalink": "/en/docs/Glossar/F-Glossar/Faehigkeiten"
+    "permalink": "/docs/Glossar/F-Glossar/Faehigkeiten"
   }
 }

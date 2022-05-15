@@ -6,20 +6,20 @@
   "source": "@site/docs/10-Glossar/B-Glossar/Betriebszeit.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/Betriebszeit",
-  "permalink": "/en/docs/Glossar/B-Glossar/Betriebszeit",
+  "permalink": "/docs/Glossar/B-Glossar/Betriebszeit",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Betriebszeit.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "Verfügbarkeit",
-      "permalink": "/en/docs/tags/verfugbarkeit"
+      "permalink": "/docs/tags/verfugbarkeit"
     }
   ],
   "version": "current",
@@ -35,10 +35,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Besucher - Visitor",
-    "permalink": "/en/docs/Glossar/B-Glossar/Besucher"
+    "permalink": "/docs/Glossar/B-Glossar/Besucher"
   },
   "next": {
     "title": "BA - Business Analyse",
-    "permalink": "/en/docs/Glossar/B-Glossar/BPI"
+    "permalink": "/docs/Glossar/B-Glossar/BPI"
   }
 }

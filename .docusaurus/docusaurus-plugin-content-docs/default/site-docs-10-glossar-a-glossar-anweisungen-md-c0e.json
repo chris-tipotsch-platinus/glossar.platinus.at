@@ -6,12 +6,12 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Anweisungen.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Anweisung",
-  "permalink": "/en/docs/Glossar/A-Glossar/Anweisung",
+  "permalink": "/docs/Glossar/A-Glossar/Anweisung",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anweisungen.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -25,10 +25,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Anleitung",
-    "permalink": "/en/docs/Glossar/A-Glossar/Anleitung"
+    "permalink": "/docs/Glossar/A-Glossar/Anleitung"
   },
   "next": {
     "title": "Artefakte",
-    "permalink": "/en/docs/Glossar/A-Glossar/Artefakte"
+    "permalink": "/docs/Glossar/A-Glossar/Artefakte"
   }
 }

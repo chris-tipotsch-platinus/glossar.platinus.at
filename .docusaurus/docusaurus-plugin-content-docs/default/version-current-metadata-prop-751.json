@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Begriffe Home",
-        "href": "/en/docs/Begriffe-Home",
+        "href": "/docs/Begriffe-Home",
         "docId": "Begriffe-Home"
       },
       {
@@ -23,73 +23,73 @@
           {
             "type": "link",
             "label": "ABPMP",
-            "href": "/en/docs/Glossar/A-Glossar/ABPMP",
+            "href": "/docs/Glossar/A-Glossar/ABPMP",
             "docId": "Glossar/A-Glossar/ABPMP"
           },
           {
             "type": "link",
             "label": "BPM - Business Prozess Management",
-            "href": "/en/docs/Glossar/A-Glossar/BPM",
+            "href": "/docs/Glossar/A-Glossar/BPM",
             "docId": "Glossar/A-Glossar/BPM"
           },
           {
             "type": "link",
             "label": "Anforderungen - Requirements",
-            "href": "/en/docs/Glossar/A-Glossar/Anforderungen",
+            "href": "/docs/Glossar/A-Glossar/Anforderungen",
             "docId": "Glossar/A-Glossar/Anforderungen"
           },
           {
             "type": "link",
             "label": "Anleitung",
-            "href": "/en/docs/Glossar/A-Glossar/Anleitung",
+            "href": "/docs/Glossar/A-Glossar/Anleitung",
             "docId": "Glossar/A-Glossar/Anleitung"
           },
           {
             "type": "link",
             "label": "Anweisung - Arbeitsanweisungen",
-            "href": "/en/docs/Glossar/A-Glossar/Anweisung",
+            "href": "/docs/Glossar/A-Glossar/Anweisung",
             "docId": "Glossar/A-Glossar/Anweisung"
           },
           {
             "type": "link",
             "label": "Artefakte",
-            "href": "/en/docs/Glossar/A-Glossar/Artefakte",
+            "href": "/docs/Glossar/A-Glossar/Artefakte",
             "docId": "Glossar/A-Glossar/Artefakte"
           },
           {
             "type": "link",
             "label": "IT-Asset-Repository",
-            "href": "/en/docs/Glossar/A-Glossar/Asset-Repository",
+            "href": "/docs/Glossar/A-Glossar/Asset-Repository",
             "docId": "Glossar/A-Glossar/Asset-Repository"
           },
           {
             "type": "link",
             "label": "IT-Asset",
-            "href": "/en/docs/Glossar/A-Glossar/Asset",
+            "href": "/docs/Glossar/A-Glossar/Asset",
             "docId": "Glossar/A-Glossar/Asset"
           },
           {
             "type": "link",
             "label": "Aufbewahrungsfristen",
-            "href": "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
+            "href": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
             "docId": "Glossar/A-Glossar/Aufbewahrungsfristen"
           },
           {
             "type": "link",
             "label": "Aufzeichnungen",
-            "href": "/en/docs/Glossar/A-Glossar/Aufzeichnungen",
+            "href": "/docs/Glossar/A-Glossar/Aufzeichnungen",
             "docId": "Glossar/A-Glossar/Aufzeichnungen"
           },
           {
             "type": "link",
             "label": "Aufzeichnungspflicht",
-            "href": "/en/docs/Glossar/A-Glossar/Aufzeichnungspflicht",
+            "href": "/docs/Glossar/A-Glossar/Aufzeichnungspflicht",
             "docId": "Glossar/A-Glossar/Aufzeichnungspflicht"
           },
           {
             "type": "link",
             "label": "Ausfallzeit",
-            "href": "/en/docs/Glossar/A-Glossar/Ausfallzeit",
+            "href": "/docs/Glossar/A-Glossar/Ausfallzeit",
             "docId": "Glossar/A-Glossar/Ausfallzeit"
           }
         ]
@@ -103,55 +103,55 @@
           {
             "type": "link",
             "label": "BA - Business Analyse",
-            "href": "/en/docs/Glossar/B-Glossar/BPI",
+            "href": "/docs/Glossar/B-Glossar/BPI",
             "docId": "Glossar/B-Glossar/BPI"
           },
           {
             "type": "link",
             "label": "BPM Competency Model von ABPMP",
-            "href": "/en/docs/Glossar/B-Glossar/BPM-Competency-Model",
+            "href": "/docs/Glossar/B-Glossar/BPM-Competency-Model",
             "docId": "Glossar/B-Glossar/BPM-Competency-Model"
           },
           {
             "type": "link",
             "label": "BPM-KB",
-            "href": "/en/docs/Glossar/B-Glossar/BPM-KB",
+            "href": "/docs/Glossar/B-Glossar/BPM-KB",
             "docId": "Glossar/B-Glossar/BPM-KB"
           },
           {
             "type": "link",
             "label": "BPM - Business Process Management",
-            "href": "/en/docs/Glossar/B-Glossar/BPM",
+            "href": "/docs/Glossar/B-Glossar/BPM",
             "docId": "Glossar/B-Glossar/BPM"
           },
           {
             "type": "link",
             "label": "Bedarf - Demand",
-            "href": "/en/docs/Glossar/B-Glossar/Bedarf",
+            "href": "/docs/Glossar/B-Glossar/Bedarf",
             "docId": "Glossar/B-Glossar/Bedarf"
           },
           {
             "type": "link",
             "label": "Benutzer - User",
-            "href": "/en/docs/Glossar/B-Glossar/Benutzer",
+            "href": "/docs/Glossar/B-Glossar/Benutzer",
             "docId": "Glossar/B-Glossar/Benutzer"
           },
           {
             "type": "link",
             "label": "Besucher - Visitor",
-            "href": "/en/docs/Glossar/B-Glossar/Besucher",
+            "href": "/docs/Glossar/B-Glossar/Besucher",
             "docId": "Glossar/B-Glossar/Besucher"
           },
           {
             "type": "link",
             "label": "Betriebszeit",
-            "href": "/en/docs/Glossar/B-Glossar/Betriebszeit",
+            "href": "/docs/Glossar/B-Glossar/Betriebszeit",
             "docId": "Glossar/B-Glossar/Betriebszeit"
           },
           {
             "type": "link",
             "label": "BA - Business Analyse",
-            "href": "/en/docs/Glossar/B-Glossar/BPI",
+            "href": "/docs/Glossar/B-Glossar/BPI",
             "docId": "Glossar/B-Glossar/BPI"
           }
         ]
@@ -165,25 +165,25 @@
           {
             "type": "link",
             "label": "CaaS - Container-as-a-Service",
-            "href": "/en/docs/Glossar/C-Glossar/CaaS",
+            "href": "/docs/Glossar/C-Glossar/CaaS",
             "docId": "Glossar/C-Glossar/CaaS"
           },
           {
             "type": "link",
             "label": "Change - Veränderung",
-            "href": "/en/docs/Glossar/C-Glossar/Change",
+            "href": "/docs/Glossar/C-Glossar/Change",
             "docId": "Glossar/C-Glossar/Change"
           },
           {
             "type": "link",
             "label": "Community of Practice",
-            "href": "/en/docs/Glossar/C-Glossar/CoP",
+            "href": "/docs/Glossar/C-Glossar/CoP",
             "docId": "Glossar/C-Glossar/CoP"
           },
           {
             "type": "link",
             "label": "Compliance",
-            "href": "/en/docs/Glossar/C-Glossar/Compliance",
+            "href": "/docs/Glossar/C-Glossar/Compliance",
             "docId": "Glossar/C-Glossar/Compliance"
           }
         ]
@@ -197,91 +197,91 @@
           {
             "type": "link",
             "label": "Dashboard",
-            "href": "/en/docs/Glossar/D-Glossar/Dashboard",
+            "href": "/docs/Glossar/D-Glossar/Dashboard",
             "docId": "Glossar/D-Glossar/Dashboard"
           },
           {
             "type": "link",
             "label": "Diataxis Framework",
-            "href": "/en/docs/Glossar/D-Glossar/Diataxis-Framework",
+            "href": "/docs/Glossar/D-Glossar/Diataxis-Framework",
             "docId": "Glossar/D-Glossar/Diataxis-Framework"
           },
           {
             "type": "link",
             "label": "Dienstgüte - Quality of Service (QoS)",
-            "href": "/en/docs/Glossar/D-Glossar/Dienstguete",
+            "href": "/docs/Glossar/D-Glossar/Dienstguete",
             "docId": "Glossar/D-Glossar/Dienstguete"
           },
           {
             "type": "link",
             "label": "Dienstgütevereinbarung - Service Level Agreement",
-            "href": "/en/docs/Glossar/D-Glossar/Dienstguetevereinbarung",
+            "href": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung",
             "docId": "Glossar/D-Glossar/Dienstguetevereinbarung"
           },
           {
             "type": "link",
             "label": "Documentation-as-Code",
-            "href": "/en/docs/Glossar/D-Glossar/Doc-as-Code",
+            "href": "/docs/Glossar/D-Glossar/Doc-as-Code",
             "docId": "Glossar/D-Glossar/Doc-as-Code"
           },
           {
             "type": "link",
             "label": "Dokumentation - Documentation",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentation",
+            "href": "/docs/Glossar/D-Glossar/Dokumentation",
             "docId": "Glossar/D-Glossar/Dokumentation"
           },
           {
             "type": "link",
             "label": "Dokumentationsarchitektur",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
+            "href": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
             "docId": "Glossar/D-Glossar/Dokumentationsarchitektur"
           },
           {
             "type": "link",
             "label": "Dokumentationskonzept",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentationskonzept",
+            "href": "/docs/Glossar/D-Glossar/Dokumentationskonzept",
             "docId": "Glossar/D-Glossar/Dokumentationskonzept"
           },
           {
             "type": "link",
             "label": "Dokumentationslandkarte IT",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+            "href": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
             "docId": "Glossar/D-Glossar/Dokumentationslandkarte-IT"
           },
           {
             "type": "link",
             "label": "Dokumentationslebenzyklus",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
+            "href": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
             "docId": "Glossar/D-Glossar/Dokumentationslebenzyklus"
           },
           {
             "type": "link",
             "label": "Dokumentationsmanagement",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement",
+            "href": "/docs/Glossar/D-Glossar/Dokumentationsmanagement",
             "docId": "Glossar/D-Glossar/Dokumentationsmanagement"
           },
           {
             "type": "link",
             "label": "Dokumente - Documents",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumente",
+            "href": "/docs/Glossar/D-Glossar/Dokumente",
             "docId": "Glossar/D-Glossar/Dokumente"
           },
           {
             "type": "link",
             "label": "Dokumentenklasse - Dokumentenbereich",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentenklasse",
+            "href": "/docs/Glossar/D-Glossar/Dokumentenklasse",
             "docId": "Glossar/D-Glossar/Dokumentenklasse"
           },
           {
             "type": "link",
             "label": "Dokumentenmanagement",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumentenmanagement",
+            "href": "/docs/Glossar/D-Glossar/Dokumentenmanagement",
             "docId": "Glossar/D-Glossar/Dokumentenmanagement"
           },
           {
             "type": "link",
             "label": "Dokumententypen",
-            "href": "/en/docs/Glossar/D-Glossar/Dokumententypen",
+            "href": "/docs/Glossar/D-Glossar/Dokumententypen",
             "docId": "Glossar/D-Glossar/Dokumententypen"
           }
         ]
@@ -295,13 +295,13 @@
           {
             "type": "link",
             "label": "Einfluss",
-            "href": "/en/docs/Glossar/E-Glossar/Einfluss",
+            "href": "/docs/Glossar/E-Glossar/Einfluss",
             "docId": "Glossar/E-Glossar/Einfluss"
           },
           {
             "type": "link",
             "label": "Empowerment - Ermächtigung",
-            "href": "/en/docs/Glossar/E-Glossar/Empowerment",
+            "href": "/docs/Glossar/E-Glossar/Empowerment",
             "docId": "Glossar/E-Glossar/Empowerment"
           }
         ]
@@ -315,38 +315,64 @@
           {
             "type": "link",
             "label": "Faehigkeiten",
-            "href": "/en/docs/Glossar/F-Glossar/Faehigkeiten",
+            "href": "/docs/Glossar/F-Glossar/Faehigkeiten",
             "docId": "Glossar/F-Glossar/Faehigkeiten"
           },
           {
             "type": "link",
             "label": "Feature",
-            "href": "/en/docs/Glossar/F-Glossar/Feature",
+            "href": "/docs/Glossar/F-Glossar/Feature",
             "docId": "Glossar/F-Glossar/Feature"
           },
           {
             "type": "link",
             "label": "Fehler",
-            "href": "/en/docs/Glossar/F-Glossar/Fehler",
+            "href": "/docs/Glossar/F-Glossar/Fehler",
             "docId": "Glossar/F-Glossar/Fehler"
           },
           {
             "type": "link",
             "label": "Fehlertoleranz",
-            "href": "/en/docs/Glossar/F-Glossar/Fehlertoleranz",
+            "href": "/docs/Glossar/F-Glossar/Fehlertoleranz",
             "docId": "Glossar/F-Glossar/Fehlertoleranz"
           },
           {
             "type": "link",
             "label": "Full-Time-Equivalent",
-            "href": "/en/docs/Glossar/F-Glossar/FTE",
+            "href": "/docs/Glossar/F-Glossar/FTE",
             "docId": "Glossar/F-Glossar/FTE"
           },
           {
             "type": "link",
             "label": "Funktionalität - Utility",
-            "href": "/en/docs/Glossar/F-Glossar/Funktionalität",
+            "href": "/docs/Glossar/F-Glossar/Funktionalität",
             "docId": "Glossar/F-Glossar/Funktionalität"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "G-Glossar",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Geschäftsprozess",
+            "href": "/docs/Glossar/G-Glossar/geschaeftsprozess",
+            "docId": "Glossar/G-Glossar/geschaeftsprozess"
+          },
+          {
+            "type": "link",
+            "label": "Geschäftsprozessmanagement",
+            "href": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
+            "docId": "Glossar/G-Glossar/geschaeftsprozessmanagement"
+          },
+          {
+            "type": "link",
+            "label": "Geschäftsprozessmodell",
+            "href": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+            "docId": "Glossar/G-Glossar/geschaeftsprozessmodell"
           }
         ]
       },
@@ -359,19 +385,25 @@
           {
             "type": "link",
             "label": "HTTPS",
-            "href": "/en/docs/Glossar/H-Glossar/HTTPS",
+            "href": "/docs/Glossar/H-Glossar/HTTPS",
             "docId": "Glossar/H-Glossar/HTTPS"
           },
           {
             "type": "link",
+            "label": "Handbuch",
+            "href": "/docs/Glossar/H-Glossar/Handbuch",
+            "docId": "Glossar/H-Glossar/Handbuch"
+          },
+          {
+            "type": "link",
             "label": "Hochverfügbarkeit - High Availability",
-            "href": "/en/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
+            "href": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
             "docId": "Glossar/H-Glossar/Hochverfuegbarkeit"
           },
           {
             "type": "link",
             "label": "Hosting",
-            "href": "/en/docs/Glossar/H-Glossar/Hosting",
+            "href": "/docs/Glossar/H-Glossar/Hosting",
             "docId": "Glossar/H-Glossar/Hosting"
           }
         ]
@@ -385,49 +417,49 @@
           {
             "type": "link",
             "label": "IPS",
-            "href": "/en/docs/Glossar/I-Glossar/IPS",
+            "href": "/docs/Glossar/I-Glossar/IPS",
             "docId": "Glossar/I-Glossar/IPS"
           },
           {
             "type": "link",
             "label": "IT-Service",
-            "href": "/en/docs/Glossar/I-Glossar/IT-Service",
+            "href": "/docs/Glossar/I-Glossar/IT-Service",
             "docId": "Glossar/I-Glossar/IT-Service"
           },
           {
             "type": "link",
             "label": "IT-Sicherheit",
-            "href": "/en/docs/Glossar/I-Glossar/IT-Sicherheit",
+            "href": "/docs/Glossar/I-Glossar/IT-Sicherheit",
             "docId": "Glossar/I-Glossar/IT-Sicherheit"
           },
           {
             "type": "link",
             "label": "IaaS",
-            "href": "/en/docs/Glossar/I-Glossar/IaaS",
+            "href": "/docs/Glossar/I-Glossar/IaaS",
             "docId": "Glossar/I-Glossar/IaaS"
           },
           {
             "type": "link",
             "label": "Informationsqualität",
-            "href": "/en/docs/Glossar/I-Glossar/Informationsqualitaet",
+            "href": "/docs/Glossar/I-Glossar/Informationsqualitaet",
             "docId": "Glossar/I-Glossar/Informationsqualitaet"
           },
           {
             "type": "link",
             "label": "Informationsicherheit",
-            "href": "/en/docs/Glossar/I-Glossar/Informationsicherheit",
+            "href": "/docs/Glossar/I-Glossar/Informationsicherheit",
             "docId": "Glossar/I-Glossar/Informationsicherheit"
           },
           {
             "type": "link",
             "label": "Interoperabilität",
-            "href": "/en/docs/Glossar/I-Glossar/Interoperabilitaet",
+            "href": "/docs/Glossar/I-Glossar/Interoperabilitaet",
             "docId": "Glossar/I-Glossar/Interoperabilitaet"
           },
           {
             "type": "link",
             "label": "Intranet",
-            "href": "/en/docs/Glossar/I-Glossar/Intranet",
+            "href": "/docs/Glossar/I-Glossar/Intranet",
             "docId": "Glossar/I-Glossar/Intranet"
           }
         ]
@@ -441,7 +473,7 @@
           {
             "type": "link",
             "label": "Kanban",
-            "href": "/en/docs/Glossar/K-Glossar/Kanban",
+            "href": "/docs/Glossar/K-Glossar/Kanban",
             "docId": "Glossar/K-Glossar/Kanban"
           }
         ]
@@ -455,31 +487,31 @@
           {
             "type": "link",
             "label": "Latenz",
-            "href": "/en/docs/Glossar/L-Glossar/Latenz",
+            "href": "/docs/Glossar/L-Glossar/Latenz",
             "docId": "Glossar/L-Glossar/Latenz"
           },
           {
             "type": "link",
             "label": "Laufzeit",
-            "href": "/en/docs/Glossar/L-Glossar/Laufzeit",
+            "href": "/docs/Glossar/L-Glossar/Laufzeit",
             "docId": "Glossar/L-Glossar/Laufzeit"
           },
           {
             "type": "link",
             "label": "Lean Management",
-            "href": "/en/docs/Glossar/L-Glossar/Lean-Management",
+            "href": "/docs/Glossar/L-Glossar/Lean-Management",
             "docId": "Glossar/L-Glossar/Lean-Management"
           },
           {
             "type": "link",
             "label": "Leitlinie",
-            "href": "/en/docs/Glossar/L-Glossar/Leitlinie",
+            "href": "/docs/Glossar/L-Glossar/Leitlinie",
             "docId": "Glossar/L-Glossar/Leitlinie"
           },
           {
             "type": "link",
             "label": "Linux",
-            "href": "/en/docs/Glossar/L-Glossar/Linux",
+            "href": "/docs/Glossar/L-Glossar/Linux",
             "docId": "Glossar/L-Glossar/Linux"
           }
         ]
@@ -493,25 +525,25 @@
           {
             "type": "link",
             "label": "MTTR - Mittlere Reparaturzeit",
-            "href": "/en/docs/Glossar/M-Glossar/MTTR",
+            "href": "/docs/Glossar/M-Glossar/MTTR",
             "docId": "Glossar/M-Glossar/MTTR"
           },
           {
             "type": "link",
             "label": "MTBF - Mittlere Betriebszeit",
-            "href": "/en/docs/Glossar/M-Glossar/MTBF",
+            "href": "/docs/Glossar/M-Glossar/MTBF",
             "docId": "Glossar/M-Glossar/MTBF"
           },
           {
             "type": "link",
             "label": "Major-Risk",
-            "href": "/en/docs/Glossar/M-Glossar/Major-Risk",
+            "href": "/docs/Glossar/M-Glossar/Major-Risk",
             "docId": "Glossar/M-Glossar/Major-Risk"
           },
           {
             "type": "link",
             "label": "Markdown",
-            "href": "/en/docs/Glossar/M-Glossar/Markdown",
+            "href": "/docs/Glossar/M-Glossar/Markdown",
             "docId": "Glossar/M-Glossar/Markdown"
           }
         ]
@@ -525,7 +557,7 @@
           {
             "type": "link",
             "label": "Netzwerksicherheit",
-            "href": "/en/docs/Glossar/N-Glossar/Netzwerksicherheit",
+            "href": "/docs/Glossar/N-Glossar/Netzwerksicherheit",
             "docId": "Glossar/N-Glossar/Netzwerksicherheit"
           }
         ]
@@ -539,13 +571,25 @@
           {
             "type": "link",
             "label": "Open Source Software",
-            "href": "/en/docs/Glossar/O-Glossar/Open-Source-Software",
+            "href": "/docs/Glossar/O-Glossar/Open-Source-Software",
             "docId": "Glossar/O-Glossar/Open-Source-Software"
           },
           {
             "type": "link",
+            "label": "Organisationsentwicklung",
+            "href": "/docs/Glossar/O-Glossar/Organisationsentwicklung",
+            "docId": "Glossar/O-Glossar/Organisationsentwicklung"
+          },
+          {
+            "type": "link",
+            "label": "Organisationshandbuch",
+            "href": "/docs/Glossar/O-Glossar/Organisationshandbuch",
+            "docId": "Glossar/O-Glossar/Organisationshandbuch"
+          },
+          {
+            "type": "link",
             "label": "Outtasking",
-            "href": "/en/docs/Glossar/O-Glossar/Outtasking",
+            "href": "/docs/Glossar/O-Glossar/Outtasking",
             "docId": "Glossar/O-Glossar/Outtasking"
           }
         ]
@@ -559,61 +603,79 @@
           {
             "type": "link",
             "label": "PM-Paradigmen",
-            "href": "/en/docs/Glossar/P-Glossar/PM-Paradigmen",
+            "href": "/docs/Glossar/P-Glossar/PM-Paradigmen",
             "docId": "Glossar/P-Glossar/PM-Paradigmen"
           },
           {
             "type": "link",
             "label": "PaaS",
-            "href": "/en/docs/Glossar/P-Glossar/PaaS",
+            "href": "/docs/Glossar/P-Glossar/PaaS",
             "docId": "Glossar/P-Glossar/PaaS"
           },
           {
             "type": "link",
             "label": "Portfolio",
-            "href": "/en/docs/Glossar/P-Glossar/Portfolio",
+            "href": "/docs/Glossar/P-Glossar/Portfolio",
             "docId": "Glossar/P-Glossar/Portfolio"
           },
           {
             "type": "link",
             "label": "Preismodell",
-            "href": "/en/docs/Glossar/P-Glossar/Preismodell",
+            "href": "/docs/Glossar/P-Glossar/Preismodell",
             "docId": "Glossar/P-Glossar/Preismodell"
           },
           {
             "type": "link",
             "label": "Provider",
-            "href": "/en/docs/Glossar/P-Glossar/Provider",
+            "href": "/docs/Glossar/P-Glossar/Provider",
             "docId": "Glossar/P-Glossar/Provider"
           },
           {
             "type": "link",
+            "label": "Prozessdiagramme",
+            "href": "/docs/Glossar/P-Glossar/Prozessdiagramme",
+            "docId": "Glossar/P-Glossar/Prozessdiagramme"
+          },
+          {
+            "type": "link",
+            "label": "Prozesslandkarte",
+            "href": "/docs/Glossar/P-Glossar/prozesslandkarte",
+            "docId": "Glossar/P-Glossar/prozesslandkarte"
+          },
+          {
+            "type": "link",
+            "label": "platinus Prozessreferenzmodell",
+            "href": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+            "docId": "Glossar/P-Glossar/platinus-prozessreferenzmodell"
+          },
+          {
+            "type": "link",
             "label": "Product Backlog",
-            "href": "/en/docs/Glossar/P-Glossar/Product-Backlog",
+            "href": "/docs/Glossar/P-Glossar/Product-Backlog",
             "docId": "Glossar/P-Glossar/Product-Backlog"
           },
           {
             "type": "link",
             "label": "Projektinformationen",
-            "href": "/en/docs/Glossar/P-Glossar/Projektinformationeng",
+            "href": "/docs/Glossar/P-Glossar/Projektinformationeng",
             "docId": "Glossar/P-Glossar/Projektinformationeng"
           },
           {
             "type": "link",
             "label": "Performance",
-            "href": "/en/docs/Glossar/P-Glossar/Performance",
+            "href": "/docs/Glossar/P-Glossar/Performance",
             "docId": "Glossar/P-Glossar/Performance"
           },
           {
             "type": "link",
             "label": "Prozessreifegrad",
-            "href": "/en/docs/Glossar/P-Glossar/Prozessreifegrad",
+            "href": "/docs/Glossar/P-Glossar/Prozessreifegrad",
             "docId": "Glossar/P-Glossar/Prozessreifegrad"
           },
           {
             "type": "link",
             "label": "Prozessreifegradmodelle",
-            "href": "/en/docs/Glossar/P-Glossar/Prozessreifegradmodelle",
+            "href": "/docs/Glossar/P-Glossar/Prozessreifegradmodelle",
             "docId": "Glossar/P-Glossar/Prozessreifegradmodelle"
           }
         ]
@@ -627,61 +689,61 @@
           {
             "type": "link",
             "label": "Rechenzentrum",
-            "href": "/en/docs/Glossar/R-Glossar/Rechenzentrum",
+            "href": "/docs/Glossar/R-Glossar/Rechenzentrum",
             "docId": "Glossar/R-Glossar/Rechenzentrum"
           },
           {
             "type": "link",
             "label": "Recovery",
-            "href": "/en/docs/Glossar/R-Glossar/Recovery",
+            "href": "/docs/Glossar/R-Glossar/Recovery",
             "docId": "Glossar/R-Glossar/Recovery"
           },
           {
             "type": "link",
             "label": "Requirements-Engineering",
-            "href": "/en/docs/Glossar/R-Glossar/Requirements-Engineering",
+            "href": "/docs/Glossar/R-Glossar/Requirements-Engineering",
             "docId": "Glossar/R-Glossar/Requirements-Engineering"
           },
           {
             "type": "link",
             "label": "Ressourcenkalender",
-            "href": "/en/docs/Glossar/R-Glossar/Ressourcenkalender",
+            "href": "/docs/Glossar/R-Glossar/Ressourcenkalender",
             "docId": "Glossar/R-Glossar/Ressourcenkalender"
           },
           {
             "type": "link",
             "label": "Richtlinie",
-            "href": "/en/docs/Glossar/R-Glossar/Richtlinie",
+            "href": "/docs/Glossar/R-Glossar/Richtlinie",
             "docId": "Glossar/R-Glossar/Richtlinie"
           },
           {
             "type": "link",
             "label": "Rightshifting",
-            "href": "/en/docs/Glossar/R-Glossar/Rightshifting",
+            "href": "/docs/Glossar/R-Glossar/Rightshifting",
             "docId": "Glossar/R-Glossar/Rightshifting"
           },
           {
             "type": "link",
             "label": "Projektrisiko",
-            "href": "/en/docs/Glossar/R-Glossar/Projektrisiko",
+            "href": "/docs/Glossar/R-Glossar/Projektrisiko",
             "docId": "Glossar/R-Glossar/Projektrisiko"
           },
           {
             "type": "link",
             "label": "Rollen-Canvas",
-            "href": "/en/docs/Glossar/R-Glossar/Rollen-Canvas",
+            "href": "/docs/Glossar/R-Glossar/Rollen-Canvas",
             "docId": "Glossar/R-Glossar/Rollen-Canvas"
           },
           {
             "type": "link",
             "label": "Rollenmodell",
-            "href": "/en/docs/Glossar/R-Glossar/Rollenmodell",
+            "href": "/docs/Glossar/R-Glossar/Rollenmodell",
             "docId": "Glossar/R-Glossar/Rollenmodell"
           },
           {
             "type": "link",
             "label": "Rollensteckbrief",
-            "href": "/en/docs/Glossar/R-Glossar/Rollensteckbrief",
+            "href": "/docs/Glossar/R-Glossar/Rollensteckbrief",
             "docId": "Glossar/R-Glossar/Rollensteckbrief"
           }
         ]
@@ -695,61 +757,61 @@
           {
             "type": "link",
             "label": "Stakeholder",
-            "href": "/en/docs/Glossar/S-Glossar/Stakeholder",
+            "href": "/docs/Glossar/S-Glossar/Stakeholder",
             "docId": "Glossar/S-Glossar/Stakeholder"
           },
           {
             "type": "link",
             "label": "Stakeholder",
-            "href": "/en/docs/Glossar/S-Glossar/Stakeholder",
+            "href": "/docs/Glossar/S-Glossar/Stakeholder",
             "docId": "Glossar/S-Glossar/Stakeholder"
           },
           {
             "type": "link",
             "label": "SLA - Dienstgütevertrag",
-            "href": "/en/docs/Glossar/S-Glossar/SLA",
+            "href": "/docs/Glossar/S-Glossar/SLA",
             "docId": "Glossar/S-Glossar/SLA"
           },
           {
             "type": "link",
             "label": "SaaS - Software-as-a-Service",
-            "href": "/en/docs/Glossar/S-Glossar/SaaS",
+            "href": "/docs/Glossar/S-Glossar/SaaS",
             "docId": "Glossar/S-Glossar/SaaS"
           },
           {
             "type": "link",
             "label": "Servicekatalog",
-            "href": "/en/docs/Glossar/S-Glossar/Servicekatalog",
+            "href": "/docs/Glossar/S-Glossar/Servicekatalog",
             "docId": "Glossar/S-Glossar/Servicekatalog"
           },
           {
             "type": "link",
             "label": "IT-Serviceportfolio",
-            "href": "/en/docs/Glossar/S-Glossar/Serviceportfolio",
+            "href": "/docs/Glossar/S-Glossar/Serviceportfolio",
             "docId": "Glossar/S-Glossar/Serviceportfolio"
           },
           {
             "type": "link",
             "label": "Sicherheitskette",
-            "href": "/en/docs/Glossar/S-Glossar/Sicherheitskette",
+            "href": "/docs/Glossar/S-Glossar/Sicherheitskette",
             "docId": "Glossar/S-Glossar/Sicherheitskette"
           },
           {
             "type": "link",
             "label": "Software",
-            "href": "/en/docs/Glossar/S-Glossar/Software",
+            "href": "/docs/Glossar/S-Glossar/Software",
             "docId": "Glossar/S-Glossar/Software"
           },
           {
             "type": "link",
             "label": "Standardsoftware",
-            "href": "/en/docs/Glossar/S-Glossar/Standardsoftware",
+            "href": "/docs/Glossar/S-Glossar/Standardsoftware",
             "docId": "Glossar/S-Glossar/Standardsoftware"
           },
           {
             "type": "link",
             "label": "Systemsoftware",
-            "href": "/en/docs/Glossar/S-Glossar/Systemsoftware",
+            "href": "/docs/Glossar/S-Glossar/Systemsoftware",
             "docId": "Glossar/S-Glossar/Systemsoftware"
           }
         ]
@@ -763,13 +825,13 @@
           {
             "type": "link",
             "label": "UC - Underpinning Contract",
-            "href": "/en/docs/Glossar/U-Glossar/UC",
+            "href": "/docs/Glossar/U-Glossar/UC",
             "docId": "Glossar/U-Glossar/UC"
           },
           {
             "type": "link",
             "label": "USV",
-            "href": "/en/docs/Glossar/U-Glossar/USV",
+            "href": "/docs/Glossar/U-Glossar/USV",
             "docId": "Glossar/U-Glossar/USV"
           }
         ]
@@ -783,31 +845,31 @@
           {
             "type": "link",
             "label": "Virtuelle Maschine",
-            "href": "/en/docs/Glossar/V-Glossar/VM",
+            "href": "/docs/Glossar/V-Glossar/VM",
             "docId": "Glossar/V-Glossar/VM"
           },
           {
             "type": "link",
             "label": "VPN - Virtual Private Network",
-            "href": "/en/docs/Glossar/V-Glossar/VPN",
+            "href": "/docs/Glossar/V-Glossar/VPN",
             "docId": "Glossar/V-Glossar/VPN"
           },
           {
             "type": "link",
             "label": "Verfügbarkeit - Availability",
-            "href": "/en/docs/Glossar/V-Glossar/Verfuegbarkeit",
+            "href": "/docs/Glossar/V-Glossar/Verfuegbarkeit",
             "docId": "Glossar/V-Glossar/Verfuegbarkeit"
           },
           {
             "type": "link",
             "label": "Verfügbarkeitsklassen",
-            "href": "/en/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+            "href": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
             "docId": "Glossar/V-Glossar/Verfuegbarkeitsklassen"
           },
           {
             "type": "link",
             "label": "Virtualisierung",
-            "href": "/en/docs/Glossar/V-Glossar/Virtualisierung",
+            "href": "/docs/Glossar/V-Glossar/Virtualisierung",
             "docId": "Glossar/V-Glossar/Virtualisierung"
           }
         ]
@@ -821,31 +883,31 @@
           {
             "type": "link",
             "label": "Web-Browser",
-            "href": "/en/docs/Glossar/W-Glossar/Web-Browser",
+            "href": "/docs/Glossar/W-Glossar/Web-Browser",
             "docId": "Glossar/W-Glossar/Web-Browser"
           },
           {
             "type": "link",
             "label": "Web-Client",
-            "href": "/en/docs/Glossar/W-Glossar/Web-Client",
+            "href": "/docs/Glossar/W-Glossar/Web-Client",
             "docId": "Glossar/W-Glossar/Web-Client"
           },
           {
             "type": "link",
             "label": "Webseite",
-            "href": "/en/docs/Glossar/W-Glossar/Webseite",
+            "href": "/docs/Glossar/W-Glossar/Webseite",
             "docId": "Glossar/W-Glossar/Webseite"
           },
           {
             "type": "link",
             "label": "Webserver",
-            "href": "/en/docs/Glossar/W-Glossar/Webserver",
+            "href": "/docs/Glossar/W-Glossar/Webserver",
             "docId": "Glossar/W-Glossar/Webserver"
           },
           {
             "type": "link",
             "label": "Website",
-            "href": "/en/docs/Glossar/W-Glossar/Website",
+            "href": "/docs/Glossar/W-Glossar/Website",
             "docId": "Glossar/W-Glossar/Website"
           }
         ]
@@ -859,7 +921,7 @@
           {
             "type": "link",
             "label": "Zugriffszeiten",
-            "href": "/en/docs/Glossar/Z-Glossar/Zugriffszeiten",
+            "href": "/docs/Glossar/Z-Glossar/Zugriffszeiten",
             "docId": "Glossar/Z-Glossar/Zugriffszeiten"
           }
         ]
@@ -1155,6 +1217,30 @@
       "description": "Funktionalität ist die Menge der Fähigkeiten, die mit einem Produkt oder einer Dienstleistung verbunden sind. In einem IT-Kontext ist es die Fähigkeit eines Programms oder Anwendungssystems, eine Funktion zur Ausführung einer Reihe von Benutzeraufgaben bereitzustellen. Funktionalität ist der besondere Gebrauch oder die Menge an Verwendungen, für die etwas konzipiert ist.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/G-Glossar/geschaeftsprozess": {
+      "id": "Glossar/G-Glossar/geschaeftsprozess",
+      "title": "Geschäftsprozess",
+      "description": "Business Process",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/G-Glossar/geschaeftsprozessmanagement": {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmanagement",
+      "title": "Geschäftsprozessmanagement",
+      "description": "Business Process Management (BPM)",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/G-Glossar/geschaeftsprozessmodell": {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+      "title": "Geschäftsprozessmodell",
+      "description": "Business Process Management (BPM)",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/H-Glossar/Handbuch": {
+      "id": "Glossar/H-Glossar/Handbuch",
+      "title": "Handbuch",
+      "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/H-Glossar/Hochverfuegbarkeit": {
       "id": "Glossar/H-Glossar/Hochverfuegbarkeit",
       "title": "Hochverfügbarkeit - High Availability",
@@ -1293,6 +1379,18 @@
       "description": "SW",
       "sidebar": "Sidebar10"
     },
+    "Glossar/O-Glossar/Organisationsentwicklung": {
+      "id": "Glossar/O-Glossar/Organisationsentwicklung",
+      "title": "Organisationsentwicklung",
+      "description": "Organisationsentwicklung wird sehr allgemein definiert als „Interventionsstrategie, welche gruppendynamische Prozesse  verwendet, die sich auf die Organisationskultur konzentriert, um  geplante Veränderungen herbeizuführen“.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/O-Glossar/Organisationshandbuch": {
+      "id": "Glossar/O-Glossar/Organisationshandbuch",
+      "title": "Organisationshandbuch",
+      "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/O-Glossar/Outtasking": {
       "id": "Glossar/O-Glossar/Outtasking",
       "title": "Outtasking",
@@ -1309,6 +1407,12 @@
       "id": "Glossar/P-Glossar/Performance",
       "title": "Performance",
       "description": "Performance ist gleichzusetzen mit Leistungsfähigkeit. Sie kann für  ganze Übertragungssysteme oder für einzelne Übertragungskomponenten, für Rechnersysteme oder einzelne Peripheriegeräte oder auch für Module und Chips angegeben werden.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/P-Glossar/platinus-prozessreferenzmodell": {
+      "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
+      "title": "platinus Prozessreferenzmodell",
+      "description": "Das Referenz-Prozessmodell von platinus eignet sich gut für die Abbildung von Unternehmensprozessen auf der Prozesslandkarten-Ebene.",
       "sidebar": "Sidebar10"
     },
     "Glossar/P-Glossar/PM-Paradigmen": {
@@ -1347,16 +1451,28 @@
       "description": "Der Begriff Provider (engl.: Versorger) schließt grundsätzlich alle Dienstleister ein, die die Nutzung und den Betrieb des Internets durch Ihre Services und Angebote möglich machen. So ist es beispielsweise Aufgabe eines Dienstleisters, die Verbindung zum Internet herzustellen. Anbieter, die ausschließlich in diesem Feld arbeiten, werden auch als  Internet Access Provider (IAP) bezeichnet. Sie stellen die  Leitungskapazität und Services zur Verfügung, die der User für die  Internet-Konnektivität benötigt.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/P-Glossar/Prozessdiagramme": {
+      "id": "Glossar/P-Glossar/Prozessdiagramme",
+      "title": "Prozessdiagramme",
+      "description": "Die Prozessdiagrammen dienen zur modellhaften Darstellung, zur Visualisierung von Prozessabläufen. Die modellhafte Darstellung von Prozessen kann in verschiedenen Notationen und mit verschiedenen Diagrammarten erfolgen.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/P-Glossar/prozesslandkarte": {
+      "id": "Glossar/P-Glossar/prozesslandkarte",
+      "title": "Prozesslandkarte",
+      "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/P-Glossar/Prozessreifegrad": {
       "id": "Glossar/P-Glossar/Prozessreifegrad",
       "title": "Prozessreifegrad",
-      "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist. Je nach Reifegradmodell werden hierzu unterschiedliche Kriterien bzw. Geschäftsprozess-Reifegrad-Checklisten zur zeitpunktbezogenen Beurteilung herangezogen. Je nachdem, wie gut die einzelnen Kriterien erfüllt sind, wird für das betrachtete Unternehmen (organisationsweiter Reifegrad als Mittel aller Prozesse)  bzw. den untersuchten Prozess (Einzelprozessreifegrad) ein bestimmter Reifegrad festgelegt. Je besser die einzelnen Kriterien erfüllt sind,  desto höher der Reifegrad.",
+      "description": "Der Prozessreifegrad misst, wie weit ein einzelner Geschäftsprozess im Vergleich zu Referenz- respektive Best Practice  Modellen entwickelt ist.",
       "sidebar": "Sidebar10"
     },
     "Glossar/P-Glossar/Prozessreifegradmodelle": {
       "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
       "title": "Prozessreifegradmodelle",
-      "description": "Ein Prozessreifegradmodell – auch Process Assessment Model (PAM) genannt – beschreibt die Methodik und Praktiken die für Bewertungen von Geschäftsprozesse herangezogen werden.",
+      "description": "Prozessreifegradmodell nach ISO 15504",
       "sidebar": "Sidebar10"
     },
     "Glossar/R-Glossar/Projektrisiko": {
