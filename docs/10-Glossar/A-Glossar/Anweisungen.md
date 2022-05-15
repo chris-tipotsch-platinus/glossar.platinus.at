@@ -4,7 +4,7 @@ titel: Anweisung
 tags: [Begriff]
 ---
 
-# Anweisung - Arbeitsanweisungen
+# Anweisung - Arbeitsanweisungen - *Work Instruction*
 
 :::info
 
@@ -12,7 +12,7 @@ tags: [Begriff]
 
 :::
 
-Arbeitsanweisungen zielen auf eine einheitliche und standardisierte Erfüllung der Aufgaben. 
+Arbeitsanweisungen zielen auf eine einheitliche und standardisierte Erfüllung der Aufgaben. Eine Arbeitsabweisung ist eine schriftliche Dokumentation der Arbeitsschritte (Prozessorganisation) sowie der einzusetzenden Sachmittel und Informationen für einen oder mehrere Aufgabenträger.
 
 Arbeitsanweisungen beschreiben detailliert einzelnen Aktivitäten eines  Geschäftsprozesses bzw. eines Verfahrens. Hierbei kann es sich u. a. um  textliche Beschreibungen, Checklisten, Mustervorlagen, Formulare und  Fragenkataloge handeln. Sie sind an einen Prozess bzw. ein Verfahren  gebunden, regeln tätigkeitsbezogene Abläufe.  
 
