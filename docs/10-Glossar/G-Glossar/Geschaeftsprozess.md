@@ -33,14 +33,17 @@ Ein Geschäftsprozess besteht aus einer strukturierten Gruppe von Aktivitäten/F
 
 Ein Geschäftsprozess 
 
-1. hat einen **Zweck** bzw. Wirkung (**Outcome**, *Purpose, Impact*) 
-2. hat einen oder mehrere **Prozesskunden**
-3. erzeugt irgendeinen Art von **Kundenwert** (Produkt und/oder Dienstleistung)
-4. hat **Ziele** mit spezifischen Führungsgrössen/KPIs (Menge, Zeit, Kosten, Qualität, Risiko)
-5. hat zeigesteuerte oder ereignisgesteuerte **Ereignisse** zum Auslösen und Beenden des Prozesses
-6. verfügt über eine **sachlogische Abfolge** von Aktivitäten
-7. hat **spezifische Outputs** / Liefergegenstände / Deliverables
-8. hat **spezifische Inputs** 
+1. hat einen **Zweck** bzw. Wirkung (**Outcome**, *Purpose, Impact*). Der Prozesszweck beschreibt was mit diesem Prozess nachhaltig erreicht werden soll und warum dieser Prozess für die Organisation bzw. dem Kunden wichtig ist. Der Zweck des Prozesses gibt den Rahmen zur Definition von Prozesszielen und der Prozesskennzahlen. bei Outcome handelt sich hierbei um eine erwünschte oder erzielte Wirkung für den Kunden bzw. eine andere Stakeholdergruppe. 
+2. hat einen oder mehrere **Prozesskunden**. Der Prozesskunden hat Anforderungen an den Prozess und nimmt die Leistung des Prozesses ab. Um kundenorientierte Prozesse zu gestalten, sind die Anfoderungen systematisch zu erfassen und zu berücksichtigen. 
+3. erzeugt irgendeinen Art von **Kundenwert** (Produkt und/oder Dienstleistung). Der Prozess produziert eine Leistung, die vom Prozesskunden in irgendeiner Weise honoriert wird. Die Prozess-Performance ist im ursprünglichen Sinne die erbrachte Produktivität = Output/Input und deren Messung. In einem umfassenderen Sinne die Bewertung der Kombination aus Leistung und Wirkung (Effektivität), somit ein Ausmaß an Zielerreichung.
+4. hat **Ziele** mit spezifischen Führungsgrössen/KPIs (Menge, Zeit, Kosten, Qualität, Risiko). Ein Prozess verfügt über Steuergrössen die bei der Gestaltung berücksichtigt werden müssen. Prozessziele richtet sich nach dem Prozesszweck und definiert einen Rahmen zur Prozessdurchführung z.B.: minimale / maximale Durchlaufzeit. Prozessziele werden über Messgrößen / Kennzahlen gemessen und sind ein wesentlicher Betrachtungsgegenstand in der Prozesssteuerung. 
+5. hat zeigesteuerte oder ereignisgesteuerte **Ereignisse** zum Auslösen und Beenden des Prozesses. Ein Prozesstigger (Auslöser) is ein Zustand, der von einem (externen oder internen) Kunden bzw.
+   Prozess verursacht wird oder durch Zeit (Datum) ausgelöst wird.
+6. verfügt über eine **sachlogische Abfolge** von Aktivitäten O=f(I). 
+7. hat **spezifische Inputs**. Inputs sind Dokumente, Informationen, Material. Es gibt Inputs, die von
+   außerhalb auf den Prozess wirken und während des Prozesses auf einzelne Schritte
+   einwirken.
+8. hat **spezifische Outputs** / Liefergegenstände / Deliverables. Output sind Teil- und Endergebnisse, wie etwa Dienstleistungen, Produkte, Dokumente. Es gibt Outputs, die aus einzelnen Schritten des Prozesses entstehen und finale Outputs des Prozesses.
 9. verwendet **Ressourcen** (Personenressourcen - Leistungsträger, Sachressourcen – Sachmittel, Material, Maschinen, Finanzressourcen – Finanzmittel, Informationensressourcen)
 10. hat **funktionale Rollen** mit definierten Zuständigkeiten ([RACI](https://de.wikipedia.org/wiki/RACI/)) 
 11. verfügt über **Informationen** (über den Prozess, im Prozess, über den Status). 
@@ -48,6 +51,15 @@ Ein Geschäftsprozess
 ![Process](/img/process.png)
 
 Abbildung [Process](/img/process.png) mit Governance und Enablement Elementen (Quelle = platinus)
+
+
+
+**Prozesse beschreiben eine Kunden–Kunden-Beziehung.** Ein Prozess beginnt mit der Berücksichtigung von Kundenerwartungen bzw. -anforderungen und endet mit der Erbringung der Leistung und somit mit der Erfüllung bzw. Zufriedenstellung dieser Kundenanforderungen. 
+
+**Prozesse sind keine Projekte.** Ein Prozess beschreibt eine repetitive Aufgabe, während ein Projekt eine einmalige, komplexe und temporäre Aufgabenstellung darstellt. Dennoch wird bei manchen Prozessen
+auf Projektmanagement zurückgegriffen, wenn die Einzigartigkeit (Kunde) oder Besonderheit
+und Komplexität (Produktentwicklung) es erfordert. Weiters wird die Weiterentwicklung und
+Optimierung von Prozessen bewusst als Organisationsprojekt konzipiert und abgewickelt.
 
 
 
