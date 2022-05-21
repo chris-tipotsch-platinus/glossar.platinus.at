@@ -7,7 +7,7 @@ tags: [Begriffe, BPM]
 
 # Geschäftsprozess
 
-*Business Process*
+*Business Process* = *Geschäftsprozess = Geschäft + Prozess*
 
 ------
 
