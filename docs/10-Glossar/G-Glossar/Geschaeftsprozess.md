@@ -27,7 +27,9 @@ Ein Geschäftsprozess ist ein strukturierter Satz an Aktivitäten, mit deren Hil
 
 Unter einem Geschäftsprozess versteht man eine (definierte oder wahrscheinliche) Aufeinanderfolge von Zuständen eines Systems in Abhängigkeit von den Vorbedingungen und den äußeren Einflüssen.
 
-Ein Geschäftsprozess besteht aus einer strukturierten Gruppe von Aktivitäten/Funktionen und hat den Zweck, ein oder mehrere Produkte von Wert und/oder Wirkungen (Outcome) für Anspruchsgruppen entsprechend der Prozess-Spezifikation zu liefern. Der Geschäftsprozess besitzt einen bestimmten Leistungsumfang, ist durch einen definierten, messbaren Input und Output bestimmt, ist wiederholbar, fügt Kundenwert an Prozessobjekten hinzu, hat einen durchgängig verantwortlichen Prozess-Eigner – und verfügt über alle notwendigen Ressourcen und Informationen,
+Ein Geschäftsprozess besteht aus einer strukturierten Gruppe von Aktivitäten/Funktionen und hat den Zweck, ein oder mehrere Produkte von Wert und/oder Wirkungen (Outcome) für Anspruchsgruppen entsprechend der Prozess-Spezifikation zu liefern. Der Geschäftsprozess besitzt einen bestimmten Leistungsumfang, ist durch einen definierten, messbaren Input und Output bestimmt, ist wiederholbar, fügt Kundenwert an Prozessobjekten hinzu, hat einen durchgängig verantwortlichen Prozess-Eigner – und verfügt über alle notwendigen Ressourcen und Informationen.
+
+*“Business processes are the channels through which organizations deliver value to clients, themselves, and other stakeholders. There is no other way to deliver that value. Functional areas alone are not able to deliver value. Therefore, each organization performs its strategic intent through their business processes.”*
 
 
 
