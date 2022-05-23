@@ -6,20 +6,21 @@
   "source": "@site/docs/10-Glossar/B-Glossar/BPM-KB.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/BPM-KB",
-  "permalink": "/docs/Glossar/B-Glossar/BPM-KB",
+  "permalink": "/en/docs/Glossar/B-Glossar/BPM-KB",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-KB.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "KB",
-      "permalink": "/docs/tags/kb"
+      "permalink": "/en/docs/tags/kb"
     }
   ],
   "version": "current",
@@ -35,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "BPM-Experte - *BPM-Expert*",
-    "permalink": "/docs/Glossar/B-Glossar/BPM-Experte"
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM-Experte"
   },
   "next": {
     "title": "BPM-Rahmenkonzept - *BPM-Framework*",
-    "permalink": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept"
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM-Rahmenkonzept"
   }
 }

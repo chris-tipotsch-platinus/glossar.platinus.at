@@ -6,20 +6,21 @@
   "source": "@site/docs/10-Glossar/V-Glossar/Verfuegbarkeitsklassen.md",
   "sourceDirName": "10-Glossar/V-Glossar",
   "slug": "/Glossar/V-Glossar/Verfuegbarkeitsklassen",
-  "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "permalink": "/en/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Verfuegbarkeitsklassen.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "Verfügbarkeit",
-      "permalink": "/docs/tags/verfugbarkeit"
+      "permalink": "/en/docs/tags/verfugbarkeit"
     }
   ],
   "version": "current",
@@ -35,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Verfügbarkeit - Availability",
-    "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit"
+    "permalink": "/en/docs/Glossar/V-Glossar/Verfuegbarkeit"
   },
   "next": {
     "title": "Virtualisierung",
-    "permalink": "/docs/Glossar/V-Glossar/Virtualisierung"
+    "permalink": "/en/docs/Glossar/V-Glossar/Virtualisierung"
   }
 }

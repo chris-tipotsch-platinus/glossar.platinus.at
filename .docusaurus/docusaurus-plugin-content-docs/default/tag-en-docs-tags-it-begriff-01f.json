@@ -1,13 +1,14 @@
 {
-  "name": "IT-Begriff",
+  "label": "IT-Begriff",
   "permalink": "/en/docs/tags/it-begriff",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/A-Glossar/Anforderungen",
       "title": "Anforderungen - Requirements",
       "description": "Der zentrale Begriff im Requirements Engineering sind die Anforderungen – auch als Requirements bezeichnet. Diese können folgendermaßen definiert werden:",
       "permalink": "/en/docs/Glossar/A-Glossar/Anforderungen"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

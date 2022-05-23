@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+  "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+  "title": "Dokumentationslandkarte IT",
+  "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT.md",
+  "sourceDirName": "10-Glossar/D-Glossar/Dokumentenlandkarten",
+  "slug": "/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentationslandkarte-IT",
+    "titel": "Dokumentationslandkarte IT",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentenklasse - Dokumentenbereich",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenklasse"
+  },
+  "next": {
+    "title": "Dokumentenlebenszyklus",
+    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
+  }
+}

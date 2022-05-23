@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchris=self.webpackChunkchris||[]).push([[9293],{8495:function(e){e.exports=JSON.parse('{"label":"Welcome","permalink":"/blog/tags/welcome","allTagsPath":"/blog/tags","count":1}')}}]);

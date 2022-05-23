@@ -1,13 +1,14 @@
 {
-  "name": "Web-Browser",
+  "label": "Web-Browser",
   "permalink": "/en/docs/tags/web-browser",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/W-Glossar/Web-Browser",
       "title": "Web-Browser",
       "description": "Das englische Wort Browse bedeutet so viel wie \"in einem Buch schmökern\". Auf den technischen Begriff adaptiert, der als Web-Browser bekannt ist, bedeutet das im Internet Surfen. Es handelt sich um ein Navigationsprogramm, das im Internet HTML-Dokumente ( Hypertext Markup Language) interpretiert und darstellt.",
       "permalink": "/en/docs/Glossar/W-Glossar/Web-Browser"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

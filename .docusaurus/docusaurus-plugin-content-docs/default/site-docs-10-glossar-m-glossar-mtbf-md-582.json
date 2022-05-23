@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/M-Glossar/MTBF.md",
   "sourceDirName": "10-Glossar/M-Glossar",
   "slug": "/Glossar/M-Glossar/MTTR",
-  "permalink": "/docs/Glossar/M-Glossar/MTTR",
+  "permalink": "/en/docs/Glossar/M-Glossar/MTTR",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/MTBF.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Linux",
-    "permalink": "/docs/Glossar/L-Glossar/Linux"
+    "permalink": "/en/docs/Glossar/L-Glossar/Linux"
   },
   "next": {
     "title": "MTBF - Mittlere Betriebszeit",
-    "permalink": "/docs/Glossar/M-Glossar/MTBF"
+    "permalink": "/en/docs/Glossar/M-Glossar/MTBF"
   }
 }

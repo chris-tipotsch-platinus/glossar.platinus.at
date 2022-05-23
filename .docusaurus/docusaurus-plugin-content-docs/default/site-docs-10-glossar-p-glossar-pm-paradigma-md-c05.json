@@ -6,7 +6,8 @@
   "source": "@site/docs/10-Glossar/P-Glossar/PM-Paradigma.md",
   "sourceDirName": "10-Glossar/P-Glossar",
   "slug": "/Glossar/P-Glossar/PM-Paradigmen",
-  "permalink": "/docs/Glossar/P-Glossar/PM-Paradigmen",
+  "permalink": "/en/docs/Glossar/P-Glossar/PM-Paradigmen",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/PM-Paradigma.md",
   "tags": [],
   "version": "current",
@@ -19,10 +20,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Outtasking",
-    "permalink": "/docs/Glossar/O-Glossar/Outtasking"
+    "permalink": "/en/docs/Glossar/O-Glossar/Outtasking"
   },
   "next": {
     "title": "PaaS",
-    "permalink": "/docs/Glossar/P-Glossar/PaaS"
+    "permalink": "/en/docs/Glossar/P-Glossar/PaaS"
   }
 }

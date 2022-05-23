@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchris=self.webpackChunkchris||[]).push([[2908],{1014:function(s){s.exports=JSON.parse('{"name":"Open-Source","permalink":"/docs/tags/open-source","docs":[{"id":"Glossar/O-Glossar/Open-Source-Software","title":"Open Source Software","description":"SW","permalink":"/docs/Glossar/O-Glossar/Open-Source-Software"}],"allTagsPath":"/docs/tags"}')}}]);

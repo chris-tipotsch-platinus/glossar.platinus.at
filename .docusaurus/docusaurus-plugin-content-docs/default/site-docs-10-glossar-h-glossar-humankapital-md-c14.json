@@ -6,24 +6,25 @@
   "source": "@site/docs/10-Glossar/H-Glossar/Humankapital.md",
   "sourceDirName": "10-Glossar/H-Glossar",
   "slug": "/Glossar/H-Glossar/Humankapital",
-  "permalink": "/docs/Glossar/H-Glossar/Humankapital",
+  "permalink": "/en/docs/Glossar/H-Glossar/Humankapital",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Humankapital.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "PM",
-      "permalink": "/docs/tags/pm"
+      "permalink": "/en/docs/tags/pm"
     },
     {
       "label": "WM",
-      "permalink": "/docs/tags/wm"
+      "permalink": "/en/docs/tags/wm"
     }
   ],
   "version": "current",
@@ -40,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Hosting",
-    "permalink": "/docs/Glossar/H-Glossar/Hosting"
+    "permalink": "/en/docs/Glossar/H-Glossar/Hosting"
   },
   "next": {
     "title": "IPS",
-    "permalink": "/docs/Glossar/I-Glossar/IPS"
+    "permalink": "/en/docs/Glossar/I-Glossar/IPS"
   }
 }

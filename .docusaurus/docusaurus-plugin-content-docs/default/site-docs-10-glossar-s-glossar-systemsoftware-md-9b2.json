@@ -6,20 +6,21 @@
   "source": "@site/docs/10-Glossar/S-Glossar/Systemsoftware.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/Systemsoftware",
-  "permalink": "/docs/Glossar/S-Glossar/Systemsoftware",
+  "permalink": "/en/docs/Glossar/S-Glossar/Systemsoftware",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Systemsoftware.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "permalink": "/en/docs/tags/begriff"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "SW",
-      "permalink": "/docs/tags/sw"
+      "permalink": "/en/docs/tags/sw"
     }
   ],
   "version": "current",
@@ -35,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Systemkapital",
-    "permalink": "/docs/Glossar/S-Glossar/Systemkapital"
+    "permalink": "/en/docs/Glossar/S-Glossar/Systemkapital"
   },
   "next": {
     "title": "UC - Underpinning Contract",
-    "permalink": "/docs/Glossar/U-Glossar/UC"
+    "permalink": "/en/docs/Glossar/U-Glossar/UC"
   }
 }

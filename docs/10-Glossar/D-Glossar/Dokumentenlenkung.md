@@ -142,11 +142,11 @@ Der Prozessauditor sichtet und prüft das Dokument nach der 3C.Methode (Complete
 
 Für die Freigabe der neuen Revision der Prozessbeschreibung ist die Rolle des Prozessverantwortlichen verantwortlich. Sie prüft ebenfalls, ob die Prozessbeschreibung so veröffentlicht werden kann und bestätigt bei positivem Ergebnis anschließend die Freigabe. Es wird auch der Dokumenten-Produktionsprozess - ein Bestandteil des Konzepte Doc-as-Code - angestossen und die Metadaten für die Gültigkeit und Veröffentlicheungsdatum festgelegt.  
 
-#### 04 Anschließende Verteilung
+#### 04 Workflow-Stufe 4 - aktives Verteilung
 
 Mit der Freigabe der neuen Revision wird die bisherige Version archiviert und entsprechend gekennzeichnet. Die neue, aktuell gültige Version der Prozessbeschreibung wird an jene Mitarbeiter verteilt, für die diese relevant ist. Für ein anstehendes Audit ist wichtig, dass genau nachverfolgt werden kann, welche Version der Prozessbeschreibung wann gültig war. Diese Funktion des Versionsmanagement ist vom Dokumentenmanagementsystem bereitzustellen.  Für die einzelnen Workflow-Stufen (bspw. *Bearbeitung*) muss festgehalten werden, wer die entsprechende Stufe wann (Datum) durchgeführt hat. Diese Informationen können bei Einsatz einer Dokumentenlenkungs-Software in den Metadaten des Dokuments automatisch protokolliert werden. Außerdem sollten diese Informationen bestenfalls auch in der Fußzeile des Dokuments direkt ausgegeben werden. Werden die Dokumente in Papierform gelenkt, so werden diese Daten meist in einer separaten Excel-Tabelle händisch eingetragen und protokolliert.
 
-#### 05 Kenntnisnahme und ggf. Schulung
+#### 05 Workflow-Stufe 5 - Bestätigung der Kenntnisnahme bzw. Schulung
 
 Die Kenntnisnahme (oder je nach Bedarf der Schulungsnachweis) ist wichtig, damit der Proezssauditor dem Auditor vorlegen kann, dass die Mitarbeiter die neue Version der Prozessbeschreibung tatsächlich gelesen haben (bzw. zu den Inhalten geschult wurden). So eine Lesebestätigung kann per Unterschriftenliste oder per Log-Aufzeichungen von den einzelnen Mitarbeitern eingeholt werden. Die elegantere Variante ist die elektronische Lesebestätigung der Dokumentenlenkung.
 

@@ -1,7 +1,9 @@
 {
-  "name": "Begriffe",
+  "label": "Begriffe",
   "permalink": "/docs/tags/begriffe",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 102,
+  "items": [
     {
       "id": "Glossar/A-Glossar/ABPMP",
       "title": "ABPMP",
@@ -189,10 +191,10 @@
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
     },
     {
-      "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+      "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
       "title": "Dokumentationslandkarte IT",
       "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
-      "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
     },
     {
       "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
@@ -301,12 +303,6 @@
       "title": "Geschäftsprozessmanagement",
       "description": "Business Process Management (BPM)",
       "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
-    },
-    {
-      "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
-      "title": "Geschäftsprozessmodell",
-      "description": "Business Process Management (BPM)",
-      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
     },
     {
       "id": "Glossar/H-Glossar/Handbuch",
@@ -620,6 +616,5 @@
       "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
       "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

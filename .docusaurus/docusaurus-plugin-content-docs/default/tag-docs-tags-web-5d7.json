@@ -1,7 +1,9 @@
 {
-  "name": "Web",
+  "label": "Web",
   "permalink": "/docs/tags/web",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
     {
       "id": "Glossar/D-Glossar/Doc-as-Code",
       "title": "Documentation-as-Code",
@@ -14,6 +16,5 @@
       "description": "Markdown is a way to style text on the web.",
       "permalink": "/docs/Glossar/M-Glossar/Markdown"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

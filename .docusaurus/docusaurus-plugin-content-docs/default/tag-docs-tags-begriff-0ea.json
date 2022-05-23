@@ -1,7 +1,9 @@
 {
-  "name": "Begriff",
+  "label": "Begriff",
   "permalink": "/docs/tags/begriff",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 25,
+  "items": [
     {
       "id": "Glossar/A-Glossar/Anleitung",
       "title": "Anleitung",
@@ -152,6 +154,5 @@
       "description": "Die Zugriffszeit ist die Zeitspanne, die zur Auslösung, Durchführung und Bestätigung eines Befehls für einen Zugriff auf ein Speichermedium vergeht. Sie gilt gleichermaßen für Magnetspeicher, optische Speichermedien, Halbleiterspeicher und Flash-Speicher und ist je nach Art des angesprochenen Speichermediums äußerst unterschiedlich.",
       "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

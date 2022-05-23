@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
   "sourceDirName": "10-Glossar/P-Glossar",
   "slug": "/Glossar/P-Glossar/platinus-prozessreferenzmodell",
-  "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+  "permalink": "/en/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -27,10 +28,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Prozesslandkarte",
-    "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
+    "permalink": "/en/docs/Glossar/P-Glossar/prozesslandkarte"
   },
   "next": {
     "title": "Product Backlog",
-    "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
+    "permalink": "/en/docs/Glossar/P-Glossar/Product-Backlog"
   }
 }

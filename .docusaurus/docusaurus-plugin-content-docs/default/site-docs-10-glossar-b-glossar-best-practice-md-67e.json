@@ -6,24 +6,25 @@
   "source": "@site/docs/10-Glossar/B-Glossar/Best-Practice.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/Best-Practice",
-  "permalink": "/docs/Glossar/B-Glossar/Best-Practice",
+  "permalink": "/en/docs/Glossar/B-Glossar/Best-Practice",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Best-Practice.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/docs/tags/pm"
+      "permalink": "/en/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -40,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Benutzer - User",
-    "permalink": "/docs/Glossar/B-Glossar/Benutzer"
+    "permalink": "/en/docs/Glossar/B-Glossar/Benutzer"
   },
   "next": {
     "title": "Besucher - Visitor",
-    "permalink": "/docs/Glossar/B-Glossar/Besucher"
+    "permalink": "/en/docs/Glossar/B-Glossar/Besucher"
   }
 }

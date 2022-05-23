@@ -1,13 +1,14 @@
 {
-  "name": "Open-Source",
+  "label": "Open-Source",
   "permalink": "/docs/tags/open-source",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/O-Glossar/Open-Source-Software",
       "title": "Open Source Software",
       "description": "SW",
       "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

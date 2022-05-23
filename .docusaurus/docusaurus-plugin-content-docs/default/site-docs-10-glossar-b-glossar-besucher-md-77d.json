@@ -6,16 +6,17 @@
   "source": "@site/docs/10-Glossar/B-Glossar/Besucher.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/Besucher",
-  "permalink": "/docs/Glossar/B-Glossar/Besucher",
+  "permalink": "/en/docs/Glossar/B-Glossar/Besucher",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Besucher.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Bestlösung - Best Practice",
-    "permalink": "/docs/Glossar/B-Glossar/Best-Practice"
+    "permalink": "/en/docs/Glossar/B-Glossar/Best-Practice"
   },
   "next": {
     "title": "Betriebszeit",
-    "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
+    "permalink": "/en/docs/Glossar/B-Glossar/Betriebszeit"
   }
 }

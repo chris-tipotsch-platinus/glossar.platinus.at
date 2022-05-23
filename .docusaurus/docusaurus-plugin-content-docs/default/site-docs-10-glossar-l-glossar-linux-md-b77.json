@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/L-Glossar/Linux.md",
   "sourceDirName": "10-Glossar/L-Glossar",
   "slug": "/Glossar/L-Glossar/Linux",
-  "permalink": "/docs/Glossar/L-Glossar/Linux",
+  "permalink": "/en/docs/Glossar/L-Glossar/Linux",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Linux.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Leitlinie",
-    "permalink": "/docs/Glossar/L-Glossar/Leitlinie"
+    "permalink": "/en/docs/Glossar/L-Glossar/Leitlinie"
   },
   "next": {
     "title": "MTTR - Mittlere Reparaturzeit",
-    "permalink": "/docs/Glossar/M-Glossar/MTTR"
+    "permalink": "/en/docs/Glossar/M-Glossar/MTTR"
   }
 }

@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/K-Glossar/Konfliktarten.md",
   "sourceDirName": "10-Glossar/K-Glossar",
   "slug": "/Glossar/K-Glossar/konfliktarten",
-  "permalink": "/docs/Glossar/K-Glossar/konfliktarten",
+  "permalink": "/en/docs/Glossar/K-Glossar/konfliktarten",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Konfliktarten.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Kanban",
-    "permalink": "/docs/Glossar/K-Glossar/Kanban"
+    "permalink": "/en/docs/Glossar/K-Glossar/Kanban"
   },
   "next": {
     "title": "Latenz",
-    "permalink": "/docs/Glossar/L-Glossar/Latenz"
+    "permalink": "/en/docs/Glossar/L-Glossar/Latenz"
   }
 }

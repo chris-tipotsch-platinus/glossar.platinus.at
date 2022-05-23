@@ -1,7 +1,9 @@
 {
-  "name": "WM",
+  "label": "WM",
   "permalink": "/docs/tags/wm",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
     {
       "id": "Glossar/A-Glossar/Anweisung",
       "title": "Anweisung - *Work Instruction*",
@@ -38,6 +40,5 @@
       "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
       "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

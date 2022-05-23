@@ -1,13 +1,14 @@
 {
-  "name": "IT-Glossar",
+  "label": "IT-Glossar",
   "permalink": "/docs/tags/it-glossar",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/S-Glossar/Servicekatalog",
       "title": "Servicekatalog",
       "description": "Ein Servicekatalog ist eine vollständige Liste von Sachleistungen (Gütern, Diensten) und von Dienstleistungen, die ein Unternehmen für seine Kunden oder Mitarbeiter erbringt. Es hilft bei der Definition der Produkte / Leistungen und der Standardisierung der Qualität des Kundenservice. Es fungiert als gemeinsame Schnittstelle, über die Kunden auf die Dienste zugreifen können.",
       "permalink": "/docs/Glossar/S-Glossar/Servicekatalog"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

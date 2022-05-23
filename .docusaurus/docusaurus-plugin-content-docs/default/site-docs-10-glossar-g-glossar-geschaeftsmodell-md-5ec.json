@@ -6,16 +6,17 @@
   "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsmodell.md",
   "sourceDirName": "10-Glossar/G-Glossar",
   "slug": "/Glossar/G-Glossar/Geschaeftsmodell",
-  "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell",
+  "permalink": "/en/docs/Glossar/G-Glossar/Geschaeftsmodell",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsmodell.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     }
   ],
   "version": "current",
@@ -32,10 +33,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Funktionalität - Utility",
-    "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+    "permalink": "/en/docs/Glossar/F-Glossar/Funktionalität"
   },
   "next": {
     "title": "Geschäftsprozess",
-    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
+    "permalink": "/en/docs/Glossar/G-Glossar/geschaeftsprozess"
   }
 }

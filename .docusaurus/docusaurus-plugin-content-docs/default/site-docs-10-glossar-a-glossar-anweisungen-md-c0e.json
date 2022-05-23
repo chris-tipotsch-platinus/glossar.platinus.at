@@ -6,20 +6,21 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Anweisungen.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Anweisung",
-  "permalink": "/docs/Glossar/A-Glossar/Anweisung",
+  "permalink": "/en/docs/Glossar/A-Glossar/Anweisung",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anweisungen.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "WM",
-      "permalink": "/docs/tags/wm"
+      "permalink": "/en/docs/tags/wm"
     }
   ],
   "version": "current",
@@ -35,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Anleitung",
-    "permalink": "/docs/Glossar/A-Glossar/Anleitung"
+    "permalink": "/en/docs/Glossar/A-Glossar/Anleitung"
   },
   "next": {
     "title": "Anwender - *User*",
-    "permalink": "/docs/Glossar/A-Glossar/Anwender"
+    "permalink": "/en/docs/Glossar/A-Glossar/Anwender"
   }
 }

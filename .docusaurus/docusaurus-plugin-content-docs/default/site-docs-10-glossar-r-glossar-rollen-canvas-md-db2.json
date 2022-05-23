@@ -6,20 +6,21 @@
   "source": "@site/docs/10-Glossar/R-Glossar/Rollen-Canvas.md",
   "sourceDirName": "10-Glossar/R-Glossar",
   "slug": "/Glossar/R-Glossar/Rollen-Canvas",
-  "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas",
+  "permalink": "/en/docs/Glossar/R-Glossar/Rollen-Canvas",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollen-Canvas.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "PM",
-      "permalink": "/docs/tags/pm"
+      "permalink": "/en/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -35,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Projektrisiko",
-    "permalink": "/docs/Glossar/R-Glossar/Projektrisiko"
+    "permalink": "/en/docs/Glossar/R-Glossar/Projektrisiko"
   },
   "next": {
     "title": "Rollenmodell",
-    "permalink": "/docs/Glossar/R-Glossar/Rollenmodell"
+    "permalink": "/en/docs/Glossar/R-Glossar/Rollenmodell"
   }
 }

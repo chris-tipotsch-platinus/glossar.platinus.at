@@ -1,730 +1,726 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/en/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/en/docs",
           "mainDocId": "Begriffe-Home",
           "docs": [
             {
               "id": "Begriffe-Home",
-              "path": "/docs/Begriffe-Home",
+              "path": "/en/docs/Begriffe-Home",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/ABPMP",
-              "path": "/docs/Glossar/A-Glossar/ABPMP",
+              "path": "/en/docs/Glossar/A-Glossar/ABPMP",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Anforderungen",
-              "path": "/docs/Glossar/A-Glossar/Anforderungen",
+              "path": "/en/docs/Glossar/A-Glossar/Anforderungen",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Anleitung",
-              "path": "/docs/Glossar/A-Glossar/Anleitung",
+              "path": "/en/docs/Glossar/A-Glossar/Anleitung",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Anweisung",
-              "path": "/docs/Glossar/A-Glossar/Anweisung",
+              "path": "/en/docs/Glossar/A-Glossar/Anweisung",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Anwender",
-              "path": "/docs/Glossar/A-Glossar/Anwender",
+              "path": "/en/docs/Glossar/A-Glossar/Anwender",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Artefakte",
-              "path": "/docs/Glossar/A-Glossar/Artefakte",
+              "path": "/en/docs/Glossar/A-Glossar/Artefakte",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Asset",
-              "path": "/docs/Glossar/A-Glossar/Asset",
+              "path": "/en/docs/Glossar/A-Glossar/Asset",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Asset-Repository",
-              "path": "/docs/Glossar/A-Glossar/Asset-Repository",
+              "path": "/en/docs/Glossar/A-Glossar/Asset-Repository",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Aufbauorganisation",
-              "path": "/docs/Glossar/A-Glossar/Aufbauorganisation",
+              "path": "/en/docs/Glossar/A-Glossar/Aufbauorganisation",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Aufbewahrungsfristen",
-              "path": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
+              "path": "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Aufzeichnungen",
-              "path": "/docs/Glossar/A-Glossar/Aufzeichnungen",
+              "path": "/en/docs/Glossar/A-Glossar/Aufzeichnungen",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Aufzeichnungspflicht",
-              "path": "/docs/Glossar/A-Glossar/Aufzeichnungspflicht",
+              "path": "/en/docs/Glossar/A-Glossar/Aufzeichnungspflicht",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/Ausfallzeit",
-              "path": "/docs/Glossar/A-Glossar/Ausfallzeit",
+              "path": "/en/docs/Glossar/A-Glossar/Ausfallzeit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/A-Glossar/BPM",
-              "path": "/docs/Glossar/A-Glossar/BPM",
+              "path": "/en/docs/Glossar/A-Glossar/BPM",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Bedarf",
-              "path": "/docs/Glossar/B-Glossar/Bedarf",
+              "path": "/en/docs/Glossar/B-Glossar/Bedarf",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Benchmarking",
-              "path": "/docs/Glossar/B-Glossar/Benchmarking",
+              "path": "/en/docs/Glossar/B-Glossar/Benchmarking",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Benutzer",
-              "path": "/docs/Glossar/B-Glossar/Benutzer",
+              "path": "/en/docs/Glossar/B-Glossar/Benutzer",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Best-Practice",
-              "path": "/docs/Glossar/B-Glossar/Best-Practice",
+              "path": "/en/docs/Glossar/B-Glossar/Best-Practice",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Besucher",
-              "path": "/docs/Glossar/B-Glossar/Besucher",
+              "path": "/en/docs/Glossar/B-Glossar/Besucher",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Betriebszeit",
-              "path": "/docs/Glossar/B-Glossar/Betriebszeit",
+              "path": "/en/docs/Glossar/B-Glossar/Betriebszeit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Beziehungskapital",
-              "path": "/docs/Glossar/B-Glossar/Beziehungskapital",
+              "path": "/en/docs/Glossar/B-Glossar/Beziehungskapital",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/Bottleneck",
-              "path": "/docs/Glossar/B-Glossar/Bottleneck",
+              "path": "/en/docs/Glossar/B-Glossar/Bottleneck",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPI",
-              "path": "/docs/Glossar/B-Glossar/BPI",
+              "path": "/en/docs/Glossar/B-Glossar/BPI",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPI",
-              "path": "/docs/Glossar/B-Glossar/BPI",
+              "path": "/en/docs/Glossar/B-Glossar/BPI",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPM",
-              "path": "/docs/Glossar/B-Glossar/BPM",
+              "path": "/en/docs/Glossar/B-Glossar/BPM",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPM-Competency-Model",
-              "path": "/docs/Glossar/B-Glossar/BPM-Competency-Model",
+              "path": "/en/docs/Glossar/B-Glossar/BPM-Competency-Model",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPM-Experte",
-              "path": "/docs/Glossar/B-Glossar/BPM-Experte",
+              "path": "/en/docs/Glossar/B-Glossar/BPM-Experte",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPM-KB",
-              "path": "/docs/Glossar/B-Glossar/BPM-KB",
+              "path": "/en/docs/Glossar/B-Glossar/BPM-KB",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPM-Rahmenkonzept",
-              "path": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "path": "/en/docs/Glossar/B-Glossar/BPM-Rahmenkonzept",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/B-Glossar/BPMN",
-              "path": "/docs/Glossar/B-Glossar/BPMN",
+              "path": "/en/docs/Glossar/B-Glossar/BPMN",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/C-Glossar/CaaS",
-              "path": "/docs/Glossar/C-Glossar/CaaS",
+              "path": "/en/docs/Glossar/C-Glossar/CaaS",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/C-Glossar/Change",
-              "path": "/docs/Glossar/C-Glossar/Change",
+              "path": "/en/docs/Glossar/C-Glossar/Change",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/C-Glossar/Compliance",
-              "path": "/docs/Glossar/C-Glossar/Compliance",
+              "path": "/en/docs/Glossar/C-Glossar/Compliance",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/C-Glossar/CoP",
-              "path": "/docs/Glossar/C-Glossar/CoP",
+              "path": "/en/docs/Glossar/C-Glossar/CoP",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dashboard",
-              "path": "/docs/Glossar/D-Glossar/Dashboard",
+              "path": "/en/docs/Glossar/D-Glossar/Dashboard",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Diataxis-Framework",
-              "path": "/docs/Glossar/D-Glossar/Diataxis-Framework",
+              "path": "/en/docs/Glossar/D-Glossar/Diataxis-Framework",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dienstguete",
-              "path": "/docs/Glossar/D-Glossar/Dienstguete",
+              "path": "/en/docs/Glossar/D-Glossar/Dienstguete",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
-              "path": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung",
+              "path": "/en/docs/Glossar/D-Glossar/Dienstguetevereinbarung",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Doc-as-Code",
-              "path": "/docs/Glossar/D-Glossar/Doc-as-Code",
+              "path": "/en/docs/Glossar/D-Glossar/Doc-as-Code",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentation",
-              "path": "/docs/Glossar/D-Glossar/Dokumentation",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentation",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentationsarchitektur",
-              "path": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentationskonzept",
-              "path": "/docs/Glossar/D-Glossar/Dokumentationskonzept",
-              "sidebar": "Sidebar10"
-            },
-            {
-              "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
-              "path": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentationskonzept",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
-              "path": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentationsmanagement",
-              "path": "/docs/Glossar/D-Glossar/Dokumentationsmanagement",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumente",
-              "path": "/docs/Glossar/D-Glossar/Dokumente",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumente",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentenklasse",
-              "path": "/docs/Glossar/D-Glossar/Dokumentenklasse",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentenklasse",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentenlebenszyklus",
-              "path": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentenlebenszyklus",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentenlenkung",
-              "path": "/docs/Glossar/D-Glossar/Dokumentenlenkung",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentenlenkung",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumentenmanagement",
-              "path": "/docs/Glossar/D-Glossar/Dokumentenmanagement",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumentenmanagement",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/D-Glossar/Dokumententypen",
-              "path": "/docs/Glossar/D-Glossar/Dokumententypen",
+              "path": "/en/docs/Glossar/D-Glossar/Dokumententypen",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/E-Glossar/Einfluss",
-              "path": "/docs/Glossar/E-Glossar/Einfluss",
+              "path": "/en/docs/Glossar/E-Glossar/Einfluss",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/E-Glossar/Empowerment",
-              "path": "/docs/Glossar/E-Glossar/Empowerment",
+              "path": "/en/docs/Glossar/E-Glossar/Empowerment",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/F-Glossar/Faehigkeiten",
-              "path": "/docs/Glossar/F-Glossar/Faehigkeiten",
+              "path": "/en/docs/Glossar/F-Glossar/Faehigkeiten",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/F-Glossar/Feature",
-              "path": "/docs/Glossar/F-Glossar/Feature",
+              "path": "/en/docs/Glossar/F-Glossar/Feature",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/F-Glossar/Fehler",
-              "path": "/docs/Glossar/F-Glossar/Fehler",
+              "path": "/en/docs/Glossar/F-Glossar/Fehler",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/F-Glossar/Fehlertoleranz",
-              "path": "/docs/Glossar/F-Glossar/Fehlertoleranz",
+              "path": "/en/docs/Glossar/F-Glossar/Fehlertoleranz",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/F-Glossar/FTE",
-              "path": "/docs/Glossar/F-Glossar/FTE",
+              "path": "/en/docs/Glossar/F-Glossar/FTE",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/F-Glossar/Funktionalität",
-              "path": "/docs/Glossar/F-Glossar/Funktionalität",
+              "path": "/en/docs/Glossar/F-Glossar/Funktionalität",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/G-Glossar/Geschaeftsmodell",
-              "path": "/docs/Glossar/G-Glossar/Geschaeftsmodell",
+              "path": "/en/docs/Glossar/G-Glossar/Geschaeftsmodell",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/G-Glossar/geschaeftsprozess",
-              "path": "/docs/Glossar/G-Glossar/geschaeftsprozess",
+              "path": "/en/docs/Glossar/G-Glossar/geschaeftsprozess",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/G-Glossar/geschaeftsprozessmanagement",
-              "path": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
-              "sidebar": "Sidebar10"
-            },
-            {
-              "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
-              "path": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+              "path": "/en/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/H-Glossar/Handbuch",
-              "path": "/docs/Glossar/H-Glossar/Handbuch",
+              "path": "/en/docs/Glossar/H-Glossar/Handbuch",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/H-Glossar/Hochverfuegbarkeit",
-              "path": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
+              "path": "/en/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/H-Glossar/Hosting",
-              "path": "/docs/Glossar/H-Glossar/Hosting",
+              "path": "/en/docs/Glossar/H-Glossar/Hosting",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/H-Glossar/HTTPS",
-              "path": "/docs/Glossar/H-Glossar/HTTPS",
+              "path": "/en/docs/Glossar/H-Glossar/HTTPS",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/H-Glossar/Humankapital",
-              "path": "/docs/Glossar/H-Glossar/Humankapital",
+              "path": "/en/docs/Glossar/H-Glossar/Humankapital",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/IaaS",
-              "path": "/docs/Glossar/I-Glossar/IaaS",
+              "path": "/en/docs/Glossar/I-Glossar/IaaS",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/Informationsicherheit",
-              "path": "/docs/Glossar/I-Glossar/Informationsicherheit",
+              "path": "/en/docs/Glossar/I-Glossar/Informationsicherheit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/Informationsqualitaet",
-              "path": "/docs/Glossar/I-Glossar/Informationsqualitaet",
+              "path": "/en/docs/Glossar/I-Glossar/Informationsqualitaet",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/Interoperabilitaet",
-              "path": "/docs/Glossar/I-Glossar/Interoperabilitaet",
+              "path": "/en/docs/Glossar/I-Glossar/Interoperabilitaet",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/Intranet",
-              "path": "/docs/Glossar/I-Glossar/Intranet",
+              "path": "/en/docs/Glossar/I-Glossar/Intranet",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/IPS",
-              "path": "/docs/Glossar/I-Glossar/IPS",
+              "path": "/en/docs/Glossar/I-Glossar/IPS",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/IT-Service",
-              "path": "/docs/Glossar/I-Glossar/IT-Service",
+              "path": "/en/docs/Glossar/I-Glossar/IT-Service",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/I-Glossar/IT-Sicherheit",
-              "path": "/docs/Glossar/I-Glossar/IT-Sicherheit",
+              "path": "/en/docs/Glossar/I-Glossar/IT-Sicherheit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/K-Glossar/Kanban",
-              "path": "/docs/Glossar/K-Glossar/Kanban",
+              "path": "/en/docs/Glossar/K-Glossar/Kanban",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/K-Glossar/konfliktarten",
-              "path": "/docs/Glossar/K-Glossar/konfliktarten",
+              "path": "/en/docs/Glossar/K-Glossar/konfliktarten",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/L-Glossar/Latenz",
-              "path": "/docs/Glossar/L-Glossar/Latenz",
+              "path": "/en/docs/Glossar/L-Glossar/Latenz",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/L-Glossar/Laufzeit",
-              "path": "/docs/Glossar/L-Glossar/Laufzeit",
+              "path": "/en/docs/Glossar/L-Glossar/Laufzeit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/L-Glossar/Lean-Management",
-              "path": "/docs/Glossar/L-Glossar/Lean-Management",
+              "path": "/en/docs/Glossar/L-Glossar/Lean-Management",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/L-Glossar/Leitlinie",
-              "path": "/docs/Glossar/L-Glossar/Leitlinie",
+              "path": "/en/docs/Glossar/L-Glossar/Leitlinie",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/L-Glossar/Linux",
-              "path": "/docs/Glossar/L-Glossar/Linux",
+              "path": "/en/docs/Glossar/L-Glossar/Linux",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/M-Glossar/Major-Risk",
-              "path": "/docs/Glossar/M-Glossar/Major-Risk",
+              "path": "/en/docs/Glossar/M-Glossar/Major-Risk",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/M-Glossar/Markdown",
-              "path": "/docs/Glossar/M-Glossar/Markdown",
+              "path": "/en/docs/Glossar/M-Glossar/Markdown",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/M-Glossar/MTBF",
-              "path": "/docs/Glossar/M-Glossar/MTBF",
+              "path": "/en/docs/Glossar/M-Glossar/MTBF",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/M-Glossar/MTTR",
-              "path": "/docs/Glossar/M-Glossar/MTTR",
+              "path": "/en/docs/Glossar/M-Glossar/MTTR",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/N-Glossar/Netzwerksicherheit",
-              "path": "/docs/Glossar/N-Glossar/Netzwerksicherheit",
+              "path": "/en/docs/Glossar/N-Glossar/Netzwerksicherheit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/O-Glossar/Open-Source-Software",
-              "path": "/docs/Glossar/O-Glossar/Open-Source-Software",
+              "path": "/en/docs/Glossar/O-Glossar/Open-Source-Software",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/O-Glossar/Organisationsentwicklung",
-              "path": "/docs/Glossar/O-Glossar/Organisationsentwicklung",
+              "path": "/en/docs/Glossar/O-Glossar/Organisationsentwicklung",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/O-Glossar/Organisationshandbuch",
-              "path": "/docs/Glossar/O-Glossar/Organisationshandbuch",
+              "path": "/en/docs/Glossar/O-Glossar/Organisationshandbuch",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/O-Glossar/Outtasking",
-              "path": "/docs/Glossar/O-Glossar/Outtasking",
+              "path": "/en/docs/Glossar/O-Glossar/Outtasking",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/PaaS",
-              "path": "/docs/Glossar/P-Glossar/PaaS",
+              "path": "/en/docs/Glossar/P-Glossar/PaaS",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Performance",
-              "path": "/docs/Glossar/P-Glossar/Performance",
+              "path": "/en/docs/Glossar/P-Glossar/Performance",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/platinus-prozessreferenzmodell",
-              "path": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "path": "/en/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/PM-Paradigmen",
-              "path": "/docs/Glossar/P-Glossar/PM-Paradigmen",
+              "path": "/en/docs/Glossar/P-Glossar/PM-Paradigmen",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Portfolio",
-              "path": "/docs/Glossar/P-Glossar/Portfolio",
+              "path": "/en/docs/Glossar/P-Glossar/Portfolio",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Preismodell",
-              "path": "/docs/Glossar/P-Glossar/Preismodell",
+              "path": "/en/docs/Glossar/P-Glossar/Preismodell",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Product-Backlog",
-              "path": "/docs/Glossar/P-Glossar/Product-Backlog",
+              "path": "/en/docs/Glossar/P-Glossar/Product-Backlog",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Projektinformationeng",
-              "path": "/docs/Glossar/P-Glossar/Projektinformationeng",
+              "path": "/en/docs/Glossar/P-Glossar/Projektinformationeng",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Provider",
-              "path": "/docs/Glossar/P-Glossar/Provider",
+              "path": "/en/docs/Glossar/P-Glossar/Provider",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Prozessdiagramme",
-              "path": "/docs/Glossar/P-Glossar/Prozessdiagramme",
+              "path": "/en/docs/Glossar/P-Glossar/Prozessdiagramme",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/prozesslandkarte",
-              "path": "/docs/Glossar/P-Glossar/prozesslandkarte",
+              "path": "/en/docs/Glossar/P-Glossar/prozesslandkarte",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Prozessreifegrad",
-              "path": "/docs/Glossar/P-Glossar/Prozessreifegrad",
+              "path": "/en/docs/Glossar/P-Glossar/Prozessreifegrad",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
-              "path": "/docs/Glossar/P-Glossar/Prozessreifegradmodelle",
+              "path": "/en/docs/Glossar/P-Glossar/Prozessreifegradmodelle",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Projektrisiko",
-              "path": "/docs/Glossar/R-Glossar/Projektrisiko",
+              "path": "/en/docs/Glossar/R-Glossar/Projektrisiko",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Rechenzentrum",
-              "path": "/docs/Glossar/R-Glossar/Rechenzentrum",
+              "path": "/en/docs/Glossar/R-Glossar/Rechenzentrum",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Recovery",
-              "path": "/docs/Glossar/R-Glossar/Recovery",
+              "path": "/en/docs/Glossar/R-Glossar/Recovery",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Requirements-Engineering",
-              "path": "/docs/Glossar/R-Glossar/Requirements-Engineering",
+              "path": "/en/docs/Glossar/R-Glossar/Requirements-Engineering",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Ressourcenkalender",
-              "path": "/docs/Glossar/R-Glossar/Ressourcenkalender",
+              "path": "/en/docs/Glossar/R-Glossar/Ressourcenkalender",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Richtlinie",
-              "path": "/docs/Glossar/R-Glossar/Richtlinie",
+              "path": "/en/docs/Glossar/R-Glossar/Richtlinie",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Rightshifting",
-              "path": "/docs/Glossar/R-Glossar/Rightshifting",
+              "path": "/en/docs/Glossar/R-Glossar/Rightshifting",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Rollen-Canvas",
-              "path": "/docs/Glossar/R-Glossar/Rollen-Canvas",
+              "path": "/en/docs/Glossar/R-Glossar/Rollen-Canvas",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Rollenmodell",
-              "path": "/docs/Glossar/R-Glossar/Rollenmodell",
+              "path": "/en/docs/Glossar/R-Glossar/Rollenmodell",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/R-Glossar/Rollensteckbrief",
-              "path": "/docs/Glossar/R-Glossar/Rollensteckbrief",
+              "path": "/en/docs/Glossar/R-Glossar/Rollensteckbrief",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/SaaS",
-              "path": "/docs/Glossar/S-Glossar/SaaS",
+              "path": "/en/docs/Glossar/S-Glossar/SaaS",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Servicekatalog",
-              "path": "/docs/Glossar/S-Glossar/Servicekatalog",
+              "path": "/en/docs/Glossar/S-Glossar/Servicekatalog",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Serviceportfolio",
-              "path": "/docs/Glossar/S-Glossar/Serviceportfolio",
+              "path": "/en/docs/Glossar/S-Glossar/Serviceportfolio",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Sicherheitskette",
-              "path": "/docs/Glossar/S-Glossar/Sicherheitskette",
+              "path": "/en/docs/Glossar/S-Glossar/Sicherheitskette",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/SLA",
-              "path": "/docs/Glossar/S-Glossar/SLA",
+              "path": "/en/docs/Glossar/S-Glossar/SLA",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Software",
-              "path": "/docs/Glossar/S-Glossar/Software",
+              "path": "/en/docs/Glossar/S-Glossar/Software",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Stakeholder",
-              "path": "/docs/Glossar/S-Glossar/Stakeholder",
+              "path": "/en/docs/Glossar/S-Glossar/Stakeholder",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Stakeholder",
-              "path": "/docs/Glossar/S-Glossar/Stakeholder",
+              "path": "/en/docs/Glossar/S-Glossar/Stakeholder",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Standardsoftware",
-              "path": "/docs/Glossar/S-Glossar/Standardsoftware",
+              "path": "/en/docs/Glossar/S-Glossar/Standardsoftware",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Strukturkapital",
-              "path": "/docs/Glossar/S-Glossar/Strukturkapital",
+              "path": "/en/docs/Glossar/S-Glossar/Strukturkapital",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Systemkapital",
-              "path": "/docs/Glossar/S-Glossar/Systemkapital",
+              "path": "/en/docs/Glossar/S-Glossar/Systemkapital",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/S-Glossar/Systemsoftware",
-              "path": "/docs/Glossar/S-Glossar/Systemsoftware",
+              "path": "/en/docs/Glossar/S-Glossar/Systemsoftware",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/U-Glossar/UC",
-              "path": "/docs/Glossar/U-Glossar/UC",
+              "path": "/en/docs/Glossar/U-Glossar/UC",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/U-Glossar/USV",
-              "path": "/docs/Glossar/U-Glossar/USV",
+              "path": "/en/docs/Glossar/U-Glossar/USV",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/V-Glossar/Verfuegbarkeit",
-              "path": "/docs/Glossar/V-Glossar/Verfuegbarkeit",
+              "path": "/en/docs/Glossar/V-Glossar/Verfuegbarkeit",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/V-Glossar/Verfuegbarkeitsklassen",
-              "path": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+              "path": "/en/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/V-Glossar/Virtualisierung",
-              "path": "/docs/Glossar/V-Glossar/Virtualisierung",
+              "path": "/en/docs/Glossar/V-Glossar/Virtualisierung",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/V-Glossar/VM",
-              "path": "/docs/Glossar/V-Glossar/VM",
+              "path": "/en/docs/Glossar/V-Glossar/VM",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/V-Glossar/VPN",
-              "path": "/docs/Glossar/V-Glossar/VPN",
+              "path": "/en/docs/Glossar/V-Glossar/VPN",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/W-Glossar/Web-Browser",
-              "path": "/docs/Glossar/W-Glossar/Web-Browser",
+              "path": "/en/docs/Glossar/W-Glossar/Web-Browser",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/W-Glossar/Web-Client",
-              "path": "/docs/Glossar/W-Glossar/Web-Client",
+              "path": "/en/docs/Glossar/W-Glossar/Web-Client",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/W-Glossar/Webseite",
-              "path": "/docs/Glossar/W-Glossar/Webseite",
+              "path": "/en/docs/Glossar/W-Glossar/Webseite",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/W-Glossar/Webserver",
-              "path": "/docs/Glossar/W-Glossar/Webserver",
+              "path": "/en/docs/Glossar/W-Glossar/Webserver",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/W-Glossar/Website",
-              "path": "/docs/Glossar/W-Glossar/Website",
+              "path": "/en/docs/Glossar/W-Glossar/Website",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/W-Glossar/Wissensbilanz",
-              "path": "/docs/Glossar/W-Glossar/Wissensbilanz",
+              "path": "/en/docs/Glossar/W-Glossar/Wissensbilanz",
               "sidebar": "Sidebar10"
             },
             {
               "id": "Glossar/Z-Glossar/Zugriffszeiten",
-              "path": "/docs/Glossar/Z-Glossar/Zugriffszeiten",
+              "path": "/en/docs/Glossar/Z-Glossar/Zugriffszeiten",
               "sidebar": "Sidebar10"
             }
           ],
+          "draftIds": [],
           "sidebars": {
             "Sidebar10": {
               "link": {
-                "path": "/docs/Begriffe-Home",
+                "path": "/en/docs/Begriffe-Home",
                 "label": "Begriffe-Home"
               }
             }

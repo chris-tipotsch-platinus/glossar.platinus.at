@@ -1,7 +1,9 @@
 {
-  "name": "IM",
+  "label": "IM",
   "permalink": "/docs/tags/im",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 53,
+  "items": [
     {
       "id": "Glossar/A-Glossar/Anwender",
       "title": "Anwender - *User*",
@@ -99,10 +101,10 @@
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
     },
     {
-      "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+      "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
       "title": "Dokumentationslandkarte IT",
       "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
-      "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
     },
     {
       "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
@@ -320,6 +322,5 @@
       "description": "VPN steht für „Virtual Private Network“, auf Deutsch das virtuelle private Netzwerk. Das konventionelle VPN ist ein eigenständiges Netz, das eingekapselt in einem anderen Netz liegt. ISDN ist ein Beispiel für einen derart gestalteten Aufbau. Das ISDN-Netzwerk liegt innerhalb des allgemeinen Wählnetzes. Das aktuelle VPN ist das IP-Netz, das zumeist innerhalb des öffentlichen Internets ein in sich geschlossenes Teilnetz  bildet. Dieses bettet sich ein und nutzt die dortigen Adressierungsmethoden. Es werden jedoch eigene Netzwerkpakete  transportiert, die die Client Software in Protokolle packt, welche  unabhängig vom Inhalt separat adressierbar sind. Das Gateway entpackt  die Pakete wieder. Zusätzlich bietet das VPN die Option der  Verschlüsselung. Eine geschützte Verbindung entsteht in einem unsicheren Netz.",
       "permalink": "/docs/Glossar/V-Glossar/VPN"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

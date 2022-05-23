@@ -6,7 +6,8 @@
   "source": "@site/docs/10-Glossar/K-Glossar/Kanban.md",
   "sourceDirName": "10-Glossar/K-Glossar",
   "slug": "/Glossar/K-Glossar/Kanban",
-  "permalink": "/docs/Glossar/K-Glossar/Kanban",
+  "permalink": "/en/docs/Glossar/K-Glossar/Kanban",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Kanban.md",
   "tags": [],
   "version": "current",
@@ -14,10 +15,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Intranet",
-    "permalink": "/docs/Glossar/I-Glossar/Intranet"
+    "permalink": "/en/docs/Glossar/I-Glossar/Intranet"
   },
   "next": {
     "title": "Konfliktarten",
-    "permalink": "/docs/Glossar/K-Glossar/konfliktarten"
+    "permalink": "/en/docs/Glossar/K-Glossar/konfliktarten"
   }
 }
