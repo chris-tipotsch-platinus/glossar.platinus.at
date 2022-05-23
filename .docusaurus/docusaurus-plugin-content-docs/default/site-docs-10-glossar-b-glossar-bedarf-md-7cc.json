@@ -39,11 +39,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "BPM - Business Process Management",
-    "permalink": "/docs/Glossar/B-Glossar/BPM"
+    "title": "BPMN - Business Process Model and Notation",
+    "permalink": "/docs/Glossar/B-Glossar/BPMN"
   },
   "next": {
-    "title": "Benutzer - User",
-    "permalink": "/docs/Glossar/B-Glossar/Benutzer"
+    "title": "Benchmarking",
+    "permalink": "/docs/Glossar/B-Glossar/Benchmarking"
   }
 }

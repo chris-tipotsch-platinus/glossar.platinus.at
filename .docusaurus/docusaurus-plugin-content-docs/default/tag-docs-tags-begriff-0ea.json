@@ -9,10 +9,16 @@
       "permalink": "/docs/Glossar/A-Glossar/Anleitung"
     },
     {
-      "id": "Glossar/A-Glossar/Anweisung",
-      "title": "Anweisung - Arbeitsanweisungen",
-      "description": "Arbeitsanweisungen stellen Vorgaben für die ordnungsgemäße Ausführung einer bestimmten Arbeit dar. Sie beschreiben detailliert und für den Ausführenden verständlich, verbindlich und verpflichtend auf welche Art die Aufgaben durchzuführen sind.",
-      "permalink": "/docs/Glossar/A-Glossar/Anweisung"
+      "id": "Glossar/A-Glossar/Anwender",
+      "title": "Anwender - *User*",
+      "description": "Anwender sind Personen, die zur Erledigung ihrer Aufgaben technische oder organisatorische Lösungen nutzen.",
+      "permalink": "/docs/Glossar/A-Glossar/Anwender"
+    },
+    {
+      "id": "Glossar/A-Glossar/Aufbauorganisation",
+      "title": "Aufbauorganisation",
+      "description": "Die Aufbauorganisation bildet das hierarchische Gerüst einer Organisation, das festlegt, welche Aufgaben von welchen Aufgabenträgern und Sachmitteln ausgeführt werden. Die Aufbauorganisation ist die statische Kehrseite der Ablauf- oder Prozessorganisation.",
+      "permalink": "/docs/Glossar/A-Glossar/Aufbauorganisation"
     },
     {
       "id": "Glossar/A-Glossar/Aufbewahrungsfristen",

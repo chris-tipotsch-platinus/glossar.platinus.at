@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Strukturkapital",
+  "id": "Glossar/S-Glossar/Strukturkapital",
+  "title": "Strukturkapital",
+  "description": "Strukturkapital (Structural Capital – SC) kann als Wissen bezeichnet werden, das in Form von Strukturen, Prozessen und (den objektivierten Aspekten) der Unternehmenskultur quasi institutionalisiert wurde. Dazu gehören allgemeines Organisationswissen  zu Ablauforganisation bzw. Prozessmodellen, Aufbauorganisatiopn und Rollen sowies sonstiges Prozessinformationen dazu.",
+  "source": "@site/docs/10-Glossar/S-Glossar/Strukturkapital.md",
+  "sourceDirName": "10-Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Strukturkapital",
+  "permalink": "/docs/Glossar/S-Glossar/Strukturkapital",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Strukturkapital.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "WM",
+      "permalink": "/docs/tags/wm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Strukturkapital",
+    "title": "Strukturkapital",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "WM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Standardsoftware",
+    "permalink": "/docs/Glossar/S-Glossar/Standardsoftware"
+  },
+  "next": {
+    "title": "Systemkapital",
+    "permalink": "/docs/Glossar/S-Glossar/Systemkapital"
+  }
+}

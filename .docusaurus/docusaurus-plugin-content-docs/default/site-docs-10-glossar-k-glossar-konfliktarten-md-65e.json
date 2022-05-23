@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Glossar/K-Glossar/konfliktarten",
+  "id": "Glossar/K-Glossar/konfliktarten",
+  "title": "Konfliktarten",
+  "description": "Konflikte können verschiedene Ursachen und Ausprägungen haben.",
+  "source": "@site/docs/10-Glossar/K-Glossar/Konfliktarten.md",
+  "sourceDirName": "10-Glossar/K-Glossar",
+  "slug": "/Glossar/K-Glossar/konfliktarten",
+  "permalink": "/docs/Glossar/K-Glossar/konfliktarten",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Konfliktarten.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "konfliktarten",
+    "titel": "Konfliktarten",
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Kanban",
+    "permalink": "/docs/Glossar/K-Glossar/Kanban"
+  },
+  "next": {
+    "title": "Latenz",
+    "permalink": "/docs/Glossar/L-Glossar/Latenz"
+  }
+}

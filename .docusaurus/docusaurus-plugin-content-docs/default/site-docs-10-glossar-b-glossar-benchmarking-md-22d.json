@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/B-Glossar/Benchmarking",
+  "id": "Glossar/B-Glossar/Benchmarking",
+  "title": "Benchmarking",
+  "description": "Ein Vergleich der Leistung eines Prozesses in einer Organisation mit ähnlichen Prozessen eines anderen Unternehmens oder Bereichs. Die Suche nach vergleichbaren Daten für einen Benchmark dient dazu, die Prozessumsetzung und -einführung zu",
+  "source": "@site/docs/10-Glossar/B-Glossar/Benchmarking.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/Benchmarking",
+  "permalink": "/docs/Glossar/B-Glossar/Benchmarking",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Benchmarking.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Benchmarking",
+    "titel": "Benchmarking",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Bedarf - Demand",
+    "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+  },
+  "next": {
+    "title": "Benutzer - User",
+    "permalink": "/docs/Glossar/B-Glossar/Benutzer"
+  }
+}

@@ -6,9 +6,9 @@ tags: [Begriffe, BPM, IM, PM]
 
 # Dokumentationsmanagement
 
-Das **Dokumentationsmanagement** umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.
+Das **Dokumentationsmanagement** umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.
 
-Das Dokumentationsmanagement ist damit vom Dokumentenmanagement zu unterscheiden, das sich von der Erstellung und Qualitätssicherung  über die Bereitstellung, Nutzung und Aktualisierung bis zur Archivierung und Löschung von zu lenkenden Dokumenten erstreckt.
+Das Dokumentationsmanagement ist damit vom Dokumentenmanagement zu unterscheiden, das sich von der Erstellung und Qualitätssicherung über die Bereitstellung, Nutzung und Aktualisierung bis zur Archivierung und Löschung von zu lenkenden Dokumenten erstreckt.
 
 
 

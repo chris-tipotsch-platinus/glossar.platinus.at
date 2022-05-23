@@ -38,3 +38,16 @@ In Anlehnung an die ISO 9000 (2014) ist ein Dokument definiert als eine **Zusamm
 
 :::
 
+![Vorgabedokumente](/img/Vorgabedokumente.png)
+
+Abbildung [Unterschied Vorgabe- und Nachweisdokument](/img/Vorgabedokumente.png)
+
+##### Vorgabedokument 
+
+Vorgabedokumente sind „Dokumente, die dem Mitarbeiter (oder dem Anwender) wichtige Informationen oder (Durchführungs-) Bestimmungen
+vermitteln.“ Darin werden sozusagen die Abläufe des Unternehmensbeschrieben.
+
+##### Nachweisdokument
+
+Ein QM-Nachweisdokument ist eine zur Darlegung der Qualitätsfähigkeit von Prozessen oder QM-Elementen eines QM-Systems im Rahmen eines externen Qualitätsaudits oder Zertifizierungsaudits vorgelegte oder vorzulegende tätigkeitsbezogene Ergebnisaufzeichnung.
+

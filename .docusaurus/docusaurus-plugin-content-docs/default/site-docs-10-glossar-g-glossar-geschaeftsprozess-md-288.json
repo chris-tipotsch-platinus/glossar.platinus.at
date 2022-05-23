@@ -2,7 +2,7 @@
   "unversionedId": "Glossar/G-Glossar/geschaeftsprozess",
   "id": "Glossar/G-Glossar/geschaeftsprozess",
   "title": "Geschäftsprozess",
-  "description": "Business Process",
+  "description": "Business Process = Geschäftsprozess = Geschäft + Prozess",
   "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozess.md",
   "sourceDirName": "10-Glossar/G-Glossar",
   "slug": "/Glossar/G-Glossar/geschaeftsprozess",
@@ -31,8 +31,8 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Funktionalität - Utility",
-    "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+    "title": "Geschaeftsmodell",
+    "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell"
   },
   "next": {
     "title": "Geschäftsprozessmanagement",

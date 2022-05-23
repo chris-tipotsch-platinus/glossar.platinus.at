@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/H-Glossar/Humankapital",
+  "id": "Glossar/H-Glossar/Humankapital",
+  "title": "Humankapital",
+  "description": "Humankapital (human capital) bezeichnet in der Wirtschaftswissenschaft die „personengebundenen Wissensbestandteile in den Köpfen der Mitarbeiter“.",
+  "source": "@site/docs/10-Glossar/H-Glossar/Humankapital.md",
+  "sourceDirName": "10-Glossar/H-Glossar",
+  "slug": "/Glossar/H-Glossar/Humankapital",
+  "permalink": "/docs/Glossar/H-Glossar/Humankapital",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Humankapital.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "WM",
+      "permalink": "/docs/tags/wm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Humankapital",
+    "title": "Humankapital",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "WM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Hosting",
+    "permalink": "/docs/Glossar/H-Glossar/Hosting"
+  },
+  "next": {
+    "title": "IPS",
+    "permalink": "/docs/Glossar/I-Glossar/IPS"
+  }
+}

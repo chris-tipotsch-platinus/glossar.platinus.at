@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Glossar/W-Glossar/Wissensbilanz",
+  "id": "Glossar/W-Glossar/Wissensbilanz",
+  "title": "Wissensbilanz",
+  "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
+  "source": "@site/docs/10-Glossar/W-Glossar/Wissensbilanz.md",
+  "sourceDirName": "10-Glossar/W-Glossar",
+  "slug": "/Glossar/W-Glossar/Wissensbilanz",
+  "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Wissensbilanz.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "WM",
+      "permalink": "/docs/tags/wm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Wissensbilanz",
+    "title": "Wissensbilanz",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "WM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Website",
+    "permalink": "/docs/Glossar/W-Glossar/Website"
+  },
+  "next": {
+    "title": "Zugriffszeiten",
+    "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten"
+  }
+}

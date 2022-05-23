@@ -2,7 +2,7 @@
   {
     "name": "Begriffe",
     "permalink": "/docs/tags/begriffe",
-    "count": 87
+    "count": 103
   },
   {
     "name": "Glossar",
@@ -22,22 +22,27 @@
   {
     "name": "Begriff",
     "permalink": "/docs/tags/begriff",
-    "count": 24
+    "count": 25
   },
   {
     "name": "BPM",
     "permalink": "/docs/tags/bpm",
-    "count": 28
+    "count": 43
+  },
+  {
+    "name": "WM",
+    "permalink": "/docs/tags/wm",
+    "count": 6
   },
   {
     "name": "IM",
     "permalink": "/docs/tags/im",
-    "count": 48
+    "count": 53
   },
   {
     "name": "PM",
     "permalink": "/docs/tags/pm",
-    "count": 22
+    "count": 31
   },
   {
     "name": "Verfügbarkeit",
@@ -82,7 +87,7 @@
   {
     "name": "IT-Dokumentation",
     "permalink": "/docs/tags/it-dokumentation",
-    "count": 1
+    "count": 2
   },
   {
     "name": "Handbuch",

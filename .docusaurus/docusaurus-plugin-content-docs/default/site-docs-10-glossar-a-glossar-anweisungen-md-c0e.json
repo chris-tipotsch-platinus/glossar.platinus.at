@@ -1,8 +1,8 @@
 {
   "unversionedId": "Glossar/A-Glossar/Anweisung",
   "id": "Glossar/A-Glossar/Anweisung",
-  "title": "Anweisung - Arbeitsanweisungen",
-  "description": "Arbeitsanweisungen stellen Vorgaben für die ordnungsgemäße Ausführung einer bestimmten Arbeit dar. Sie beschreiben detailliert und für den Ausführenden verständlich, verbindlich und verpflichtend auf welche Art die Aufgaben durchzuführen sind.",
+  "title": "Anweisung - *Work Instruction*",
+  "description": "Work Instructions",
   "source": "@site/docs/10-Glossar/A-Glossar/Anweisungen.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Anweisung",
@@ -10,8 +10,16 @@
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anweisungen.md",
   "tags": [
     {
-      "label": "Begriff",
-      "permalink": "/docs/tags/begriff"
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "WM",
+      "permalink": "/docs/tags/wm"
     }
   ],
   "version": "current",
@@ -19,7 +27,9 @@
     "id": "Anweisung",
     "titel": "Anweisung",
     "tags": [
-      "Begriff"
+      "Begriffe",
+      "BPM",
+      "WM"
     ]
   },
   "sidebar": "Sidebar10",
@@ -28,7 +38,7 @@
     "permalink": "/docs/Glossar/A-Glossar/Anleitung"
   },
   "next": {
-    "title": "Artefakte",
-    "permalink": "/docs/Glossar/A-Glossar/Artefakte"
+    "title": "Anwender - *User*",
+    "permalink": "/docs/Glossar/A-Glossar/Anwender"
   }
 }

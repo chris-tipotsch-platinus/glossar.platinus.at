@@ -46,9 +46,15 @@
           },
           {
             "type": "link",
-            "label": "Anweisung - Arbeitsanweisungen",
+            "label": "Anweisung - *Work Instruction*",
             "href": "/docs/Glossar/A-Glossar/Anweisung",
             "docId": "Glossar/A-Glossar/Anweisung"
+          },
+          {
+            "type": "link",
+            "label": "Anwender - *User*",
+            "href": "/docs/Glossar/A-Glossar/Anwender",
+            "docId": "Glossar/A-Glossar/Anwender"
           },
           {
             "type": "link",
@@ -67,6 +73,12 @@
             "label": "IT-Asset",
             "href": "/docs/Glossar/A-Glossar/Asset",
             "docId": "Glossar/A-Glossar/Asset"
+          },
+          {
+            "type": "link",
+            "label": "Aufbauorganisation",
+            "href": "/docs/Glossar/A-Glossar/Aufbauorganisation",
+            "docId": "Glossar/A-Glossar/Aufbauorganisation"
           },
           {
             "type": "link",
@@ -114,9 +126,21 @@
           },
           {
             "type": "link",
+            "label": "BPM-Experte - *BPM-Expert*",
+            "href": "/docs/Glossar/B-Glossar/BPM-Experte",
+            "docId": "Glossar/B-Glossar/BPM-Experte"
+          },
+          {
+            "type": "link",
             "label": "BPM-KB",
             "href": "/docs/Glossar/B-Glossar/BPM-KB",
             "docId": "Glossar/B-Glossar/BPM-KB"
+          },
+          {
+            "type": "link",
+            "label": "BPM-Rahmenkonzept - *BPM-Framework*",
+            "href": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept",
+            "docId": "Glossar/B-Glossar/BPM-Rahmenkonzept"
           },
           {
             "type": "link",
@@ -126,15 +150,33 @@
           },
           {
             "type": "link",
+            "label": "BPMN - Business Process Model and Notation",
+            "href": "/docs/Glossar/B-Glossar/BPMN",
+            "docId": "Glossar/B-Glossar/BPMN"
+          },
+          {
+            "type": "link",
             "label": "Bedarf - Demand",
             "href": "/docs/Glossar/B-Glossar/Bedarf",
             "docId": "Glossar/B-Glossar/Bedarf"
           },
           {
             "type": "link",
+            "label": "Benchmarking",
+            "href": "/docs/Glossar/B-Glossar/Benchmarking",
+            "docId": "Glossar/B-Glossar/Benchmarking"
+          },
+          {
+            "type": "link",
             "label": "Benutzer - User",
             "href": "/docs/Glossar/B-Glossar/Benutzer",
             "docId": "Glossar/B-Glossar/Benutzer"
+          },
+          {
+            "type": "link",
+            "label": "Bestlösung - Best Practice",
+            "href": "/docs/Glossar/B-Glossar/Best-Practice",
+            "docId": "Glossar/B-Glossar/Best-Practice"
           },
           {
             "type": "link",
@@ -147,6 +189,18 @@
             "label": "Betriebszeit",
             "href": "/docs/Glossar/B-Glossar/Betriebszeit",
             "docId": "Glossar/B-Glossar/Betriebszeit"
+          },
+          {
+            "type": "link",
+            "label": "Beziehungskapital",
+            "href": "/docs/Glossar/B-Glossar/Beziehungskapital",
+            "docId": "Glossar/B-Glossar/Beziehungskapital"
+          },
+          {
+            "type": "link",
+            "label": "Flaschenhals - Bottleneck",
+            "href": "/docs/Glossar/B-Glossar/Bottleneck",
+            "docId": "Glossar/B-Glossar/Bottleneck"
           },
           {
             "type": "link",
@@ -274,6 +328,18 @@
           },
           {
             "type": "link",
+            "label": "Dokumentenlebenszyklus",
+            "href": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus",
+            "docId": "Glossar/D-Glossar/Dokumentenlebenszyklus"
+          },
+          {
+            "type": "link",
+            "label": "Dokumentenlenkung",
+            "href": "/docs/Glossar/D-Glossar/Dokumentenlenkung",
+            "docId": "Glossar/D-Glossar/Dokumentenlenkung"
+          },
+          {
+            "type": "link",
             "label": "Dokumentenmanagement",
             "href": "/docs/Glossar/D-Glossar/Dokumentenmanagement",
             "docId": "Glossar/D-Glossar/Dokumentenmanagement"
@@ -358,6 +424,12 @@
         "items": [
           {
             "type": "link",
+            "label": "Geschaeftsmodell",
+            "href": "/docs/Glossar/G-Glossar/Geschaeftsmodell",
+            "docId": "Glossar/G-Glossar/Geschaeftsmodell"
+          },
+          {
+            "type": "link",
             "label": "Geschäftsprozess",
             "href": "/docs/Glossar/G-Glossar/geschaeftsprozess",
             "docId": "Glossar/G-Glossar/geschaeftsprozess"
@@ -405,6 +477,12 @@
             "label": "Hosting",
             "href": "/docs/Glossar/H-Glossar/Hosting",
             "docId": "Glossar/H-Glossar/Hosting"
+          },
+          {
+            "type": "link",
+            "label": "Humankapital",
+            "href": "/docs/Glossar/H-Glossar/Humankapital",
+            "docId": "Glossar/H-Glossar/Humankapital"
           }
         ]
       },
@@ -475,6 +553,12 @@
             "label": "Kanban",
             "href": "/docs/Glossar/K-Glossar/Kanban",
             "docId": "Glossar/K-Glossar/Kanban"
+          },
+          {
+            "type": "link",
+            "label": "Konfliktarten",
+            "href": "/docs/Glossar/K-Glossar/konfliktarten",
+            "docId": "Glossar/K-Glossar/konfliktarten"
           }
         ]
       },
@@ -810,6 +894,18 @@
           },
           {
             "type": "link",
+            "label": "Strukturkapital",
+            "href": "/docs/Glossar/S-Glossar/Strukturkapital",
+            "docId": "Glossar/S-Glossar/Strukturkapital"
+          },
+          {
+            "type": "link",
+            "label": "Systemkapital",
+            "href": "/docs/Glossar/S-Glossar/Systemkapital",
+            "docId": "Glossar/S-Glossar/Systemkapital"
+          },
+          {
+            "type": "link",
             "label": "Systemsoftware",
             "href": "/docs/Glossar/S-Glossar/Systemsoftware",
             "docId": "Glossar/S-Glossar/Systemsoftware"
@@ -909,6 +1005,12 @@
             "label": "Website",
             "href": "/docs/Glossar/W-Glossar/Website",
             "docId": "Glossar/W-Glossar/Website"
+          },
+          {
+            "type": "link",
+            "label": "Wissensbilanz",
+            "href": "/docs/Glossar/W-Glossar/Wissensbilanz",
+            "docId": "Glossar/W-Glossar/Wissensbilanz"
           }
         ]
       },
@@ -955,8 +1057,14 @@
     },
     "Glossar/A-Glossar/Anweisung": {
       "id": "Glossar/A-Glossar/Anweisung",
-      "title": "Anweisung - Arbeitsanweisungen",
-      "description": "Arbeitsanweisungen stellen Vorgaben für die ordnungsgemäße Ausführung einer bestimmten Arbeit dar. Sie beschreiben detailliert und für den Ausführenden verständlich, verbindlich und verpflichtend auf welche Art die Aufgaben durchzuführen sind.",
+      "title": "Anweisung - *Work Instruction*",
+      "description": "Work Instructions",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/A-Glossar/Anwender": {
+      "id": "Glossar/A-Glossar/Anwender",
+      "title": "Anwender - *User*",
+      "description": "Anwender sind Personen, die zur Erledigung ihrer Aufgaben technische oder organisatorische Lösungen nutzen.",
       "sidebar": "Sidebar10"
     },
     "Glossar/A-Glossar/Artefakte": {
@@ -975,6 +1083,12 @@
       "id": "Glossar/A-Glossar/Asset-Repository",
       "title": "IT-Asset-Repository",
       "description": "Die IT-Asset Datenbank dient zur Planung, Verwaltung und der Berichterstattung aller IT-Asset-Daten. Das IT-Asset Repository ist ein Teil des Enterprise Asset Repository.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/A-Glossar/Aufbauorganisation": {
+      "id": "Glossar/A-Glossar/Aufbauorganisation",
+      "title": "Aufbauorganisation",
+      "description": "Die Aufbauorganisation bildet das hierarchische Gerüst einer Organisation, das festlegt, welche Aufgaben von welchen Aufgabenträgern und Sachmitteln ausgeführt werden. Die Aufbauorganisation ist die statische Kehrseite der Ablauf- oder Prozessorganisation.",
       "sidebar": "Sidebar10"
     },
     "Glossar/A-Glossar/Aufbewahrungsfristen": {
@@ -1013,10 +1127,22 @@
       "description": "Ein Bedarf ist eine Problem, das zu lösen ist, oder eine Chance, die wahrzunehmen ist. Der Bedarf kann Changes auslösen, wenn Stakeholder zum Handeln motiviert werden. Changes können auch einen Bedarf auslösen, wenn durch sie der Nutzen bestehender Lösungen vermindert oder erhöht wird.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/B-Glossar/Benchmarking": {
+      "id": "Glossar/B-Glossar/Benchmarking",
+      "title": "Benchmarking",
+      "description": "Ein Vergleich der Leistung eines Prozesses in einer Organisation mit ähnlichen Prozessen eines anderen Unternehmens oder Bereichs. Die Suche nach vergleichbaren Daten für einen Benchmark dient dazu, die Prozessumsetzung und -einführung zu",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/B-Glossar/Benutzer": {
       "id": "Glossar/B-Glossar/Benutzer",
       "title": "Benutzer - User",
       "description": "Ein User ist ein Benutzer, Anwender oder Endanwender, der einen Computer, ein Smartphone oder ein anderes elektronisches oder telekommunikationstechnisches Gerät und seine Anwendungsprogramme benutzt.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/B-Glossar/Best-Practice": {
+      "id": "Glossar/B-Glossar/Best-Practice",
+      "title": "Bestlösung - Best Practice",
+      "description": "Best Practice ist der in einer Branche als Bestlösung angesehene Prozess-, System- und/oder Organisationsstandard. Wird im Zusammenhang mit Benchmarking als Instrument zur Bewertung der eigenen Ist-Position und der zukünftigen, möglichen",
       "sidebar": "Sidebar10"
     },
     "Glossar/B-Glossar/Besucher": {
@@ -1029,6 +1155,18 @@
       "id": "Glossar/B-Glossar/Betriebszeit",
       "title": "Betriebszeit",
       "description": "Bei der Betriebszeit, Uptime handelt es sich um die Zeit, die ein Computer oder IT- System verfügbar und betriebsbereit ist.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/B-Glossar/Beziehungskapital": {
+      "id": "Glossar/B-Glossar/Beziehungskapital",
+      "title": "Beziehungskapital",
+      "description": "Das Beziehungskapital stellt die Beziehung einer Organisation zu ihren Stakeholdern dar und zeigt den Wert auf, den diese Stakeholder den Geschäftsbeziehungen beimessen. Zu den Anspruchgruppen zählen Kunden und Lieferanten, sowie zu sonstigen Partnern und der Öffentlichkeit.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/B-Glossar/Bottleneck": {
+      "id": "Glossar/B-Glossar/Bottleneck",
+      "title": "Flaschenhals - Bottleneck",
+      "description": "Ein Bottleneck (deutsch: Flaschenhals) ist ein Engpass, durch den ein Auftragsrückstand erzeugt wird. Normalerweise wird durch einen Engpass die Systemleistung reduziert, wodurch i.d.R. die gewünschten Ziele nicht erreicht werden können. Engpässe können sowohl auf internen als auch auf externen Faktoren beruhen und z. B. von Betriebseinrichtungen, Personen, Vorgehensweisen und ineffektiven Prozessen abhängig sein. Die Identifizierung von Engpässen und deren Beseitigung bzw. Reduzierung sind häufig wesentliche Ziele beim Design und der Umsetzung neuer Prozesse.",
       "sidebar": "Sidebar10"
     },
     "Glossar/B-Glossar/BPI": {
@@ -1049,10 +1187,28 @@
       "description": "Die Organisation ABPMP – Association of Business Process Management Professional International – hat zur Orientierung ein BPM Competency Model entwickelt.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/B-Glossar/BPM-Experte": {
+      "id": "Glossar/B-Glossar/BPM-Experte",
+      "title": "BPM-Experte - *BPM-Expert*",
+      "description": "Ein BPM-Experte ist mit den Methoden und Techniken des Prozessmanagements vertraut und setzt diese ein, um alle oder ausgewählte Aufgaben des Prozessmanagements zu lösen. Mit fortschreitender Spezialisierung erfolgt eine Differenzierung in engere Rollen wie Prozessanalyst, Prozessarchitekt, Prozessmodellierer.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/B-Glossar/BPM-KB": {
       "id": "Glossar/B-Glossar/BPM-KB",
       "title": "BPM-KB",
       "description": "BPM-KB ist die Abkürzung für Business Prozess Management Knowledge Base.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/B-Glossar/BPM-Rahmenkonzept": {
+      "id": "Glossar/B-Glossar/BPM-Rahmenkonzept",
+      "title": "BPM-Rahmenkonzept - *BPM-Framework*",
+      "description": "Ein BPM-Rahmenkonzept ist ein Metamodell, das mehrere prozessorientierte Methoden",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/B-Glossar/BPMN": {
+      "id": "Glossar/B-Glossar/BPMN",
+      "title": "BPMN - Business Process Model and Notation",
+      "description": "Die Business Process Model and Notation – früher Business Process Modelling Notation genannt – ist eine international standardisierte Notation (Zeichensystem) für alle Geschäftsprozesse mit der zugehörigen Semantik. Sie verfolgt das Ziel, für",
       "sidebar": "Sidebar10"
     },
     "Glossar/C-Glossar/CaaS": {
@@ -1142,19 +1298,31 @@
     "Glossar/D-Glossar/Dokumentationsmanagement": {
       "id": "Glossar/D-Glossar/Dokumentationsmanagement",
       "title": "Dokumentationsmanagement",
-      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dokumente": {
       "id": "Glossar/D-Glossar/Dokumente",
       "title": "Dokumente - Documents",
-      "description": "In Anlehnung an die ISO 9000 (2014) ist ein Dokument definiert als eine Zusammenfassung von Informationen auf einem Trägermedium (Papier, sonstige Speicherung), das als Gesamtheit identifizierbar und zugänglich ist. Mit Ausnahme des speziellen Dokumententyps „Aufzeichnungen“ sind  Dokumente veränderbar und können in verschiedenen Revisions- bzw. Versionsständen existieren.",
+      "description": "Was ist eine Dokument?",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dokumentenklasse": {
       "id": "Glossar/D-Glossar/Dokumentenklasse",
       "title": "Dokumentenklasse - Dokumentenbereich",
       "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/D-Glossar/Dokumentenlebenszyklus": {
+      "id": "Glossar/D-Glossar/Dokumentenlebenszyklus",
+      "title": "Dokumentenlebenszyklus",
+      "description": "Document Lifecycle",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/D-Glossar/Dokumentenlenkung": {
+      "id": "Glossar/D-Glossar/Dokumentenlenkung",
+      "title": "Dokumentenlenkung",
+      "description": "Was ist Dokumentenlenkung?",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dokumentenmanagement": {
@@ -1217,10 +1385,16 @@
       "description": "Funktionalität ist die Menge der Fähigkeiten, die mit einem Produkt oder einer Dienstleistung verbunden sind. In einem IT-Kontext ist es die Fähigkeit eines Programms oder Anwendungssystems, eine Funktion zur Ausführung einer Reihe von Benutzeraufgaben bereitzustellen. Funktionalität ist der besondere Gebrauch oder die Menge an Verwendungen, für die etwas konzipiert ist.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/G-Glossar/Geschaeftsmodell": {
+      "id": "Glossar/G-Glossar/Geschaeftsmodell",
+      "title": "Geschaeftsmodell",
+      "description": "Business Model",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/G-Glossar/geschaeftsprozess": {
       "id": "Glossar/G-Glossar/geschaeftsprozess",
       "title": "Geschäftsprozess",
-      "description": "Business Process",
+      "description": "Business Process = Geschäftsprozess = Geschäft + Prozess",
       "sidebar": "Sidebar10"
     },
     "Glossar/G-Glossar/geschaeftsprozessmanagement": {
@@ -1257,6 +1431,12 @@
       "id": "Glossar/H-Glossar/HTTPS",
       "title": "HTTPS",
       "description": "HTTPS steht für Hypertext Transfer Protocol Secure und ist eine verschlüsselte Form des HTTP. Dieses dient der Übertragung von Daten in einem Netzwerk und stellt in gewisser Weise die Sprache von Servern und  Clients in einem Netzwerk dar. Genutzt werden HTTP und HTTPS vor allem im Internet zur Kommunikation zwischen Webserver und Computer. Nötig sind beide, damit die in einem Netzwerk verbundenen Rechner über eine  einheitliche Sprache verfügen und Befehle eindeutig interpretiert werden können. Im Gegensatz zu HTTP ist die Sprache in Hypertext Transfer  Protocol Secure verschlüsselt.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/H-Glossar/Humankapital": {
+      "id": "Glossar/H-Glossar/Humankapital",
+      "title": "Humankapital",
+      "description": "Humankapital (human capital) bezeichnet in der Wirtschaftswissenschaft die „personengebundenen Wissensbestandteile in den Köpfen der Mitarbeiter“.",
       "sidebar": "Sidebar10"
     },
     "Glossar/I-Glossar/IaaS": {
@@ -1311,6 +1491,12 @@
       "id": "Glossar/K-Glossar/Kanban",
       "title": "Kanban",
       "description": "",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/K-Glossar/konfliktarten": {
+      "id": "Glossar/K-Glossar/konfliktarten",
+      "title": "Konfliktarten",
+      "description": "Konflikte können verschiedene Ursachen und Ausprägungen haben.",
       "sidebar": "Sidebar10"
     },
     "Glossar/L-Glossar/Latenz": {
@@ -1583,6 +1769,18 @@
       "description": "SW",
       "sidebar": "Sidebar10"
     },
+    "Glossar/S-Glossar/Strukturkapital": {
+      "id": "Glossar/S-Glossar/Strukturkapital",
+      "title": "Strukturkapital",
+      "description": "Strukturkapital (Structural Capital – SC) kann als Wissen bezeichnet werden, das in Form von Strukturen, Prozessen und (den objektivierten Aspekten) der Unternehmenskultur quasi institutionalisiert wurde. Dazu gehören allgemeines Organisationswissen  zu Ablauforganisation bzw. Prozessmodellen, Aufbauorganisatiopn und Rollen sowies sonstiges Prozessinformationen dazu.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/S-Glossar/Systemkapital": {
+      "id": "Glossar/S-Glossar/Systemkapital",
+      "title": "Systemkapital",
+      "description": "Systemkapital kann als Wissen bezeichnet werden, das in Form von Informationssystemem und Algorithmen quasi institutionalisiert wurde. Dazu gehören allgemeines Systemwissen zu Applikationssystemen und der Technologie-Infrastruktur dazu.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/S-Glossar/Systemsoftware": {
       "id": "Glossar/S-Glossar/Systemsoftware",
       "title": "Systemsoftware",
@@ -1659,6 +1857,12 @@
       "id": "Glossar/W-Glossar/Website",
       "title": "Website",
       "description": "Die Website ist die Standort-Präsenz innerhalb des World Wide Web ( WWW). Auf einer Website können Unternehmen, Behörden, Organisationen und Verwaltungen, Universitäten oder Forschungseinrichtungen, Standardisierungsgremien, Vereine und Privatpersonen Informationen, Produkte, Dienste, Werbung und vieles andere in verschiedensten Dateiformaten darstellen und anbieten, auf ihnen können soziale Kontakte, der Meinungsaustausch mit Andersdenkenden zu speziellen Themenbereichen oder Online-Tagebücher, die Weblogs, geführt werden.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/W-Glossar/Wissensbilanz": {
+      "id": "Glossar/W-Glossar/Wissensbilanz",
+      "title": "Wissensbilanz",
+      "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
       "sidebar": "Sidebar10"
     },
     "Glossar/Z-Glossar/Zugriffszeiten": {

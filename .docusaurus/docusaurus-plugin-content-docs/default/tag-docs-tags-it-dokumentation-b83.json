@@ -7,6 +7,12 @@
       "title": "Dokumentationslebenzyklus",
       "description": "Technische Dokumentation im Produktlebenszyklus",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentenlebenszyklus",
+      "title": "Dokumentenlebenszyklus",
+      "description": "Document Lifecycle",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
     }
   ],
   "allTagsPath": "/docs/tags"

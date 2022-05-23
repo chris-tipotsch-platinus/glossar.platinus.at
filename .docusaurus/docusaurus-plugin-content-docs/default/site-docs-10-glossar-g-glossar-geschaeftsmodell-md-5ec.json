@@ -1,0 +1,41 @@
+{
+  "unversionedId": "Glossar/G-Glossar/Geschaeftsmodell",
+  "id": "Glossar/G-Glossar/Geschaeftsmodell",
+  "title": "Geschaeftsmodell",
+  "description": "Business Model",
+  "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsmodell.md",
+  "sourceDirName": "10-Glossar/G-Glossar",
+  "slug": "/Glossar/G-Glossar/Geschaeftsmodell",
+  "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsmodell.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Geschaeftsmodell",
+    "title": "Geschaeftsmodell",
+    "sidebar_position": 1,
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Funktionalität - Utility",
+    "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+  },
+  "next": {
+    "title": "Geschäftsprozess",
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
+  }
+}

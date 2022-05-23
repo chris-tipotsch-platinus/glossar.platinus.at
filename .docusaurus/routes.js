@@ -219,6 +219,11 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/wm',
+    component: ComponentCreator('/docs/tags/wm','a75'),
+    exact: true
+  },
+  {
     path: '/Dokumentenlenkung',
     component: ComponentCreator('/Dokumentenlenkung','f56'),
     exact: true
@@ -230,7 +235,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','8c8'),
+    component: ComponentCreator('/docs','023'),
     routes: [
       {
         path: '/docs/Begriffe-Home',
@@ -263,6 +268,12 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/A-Glossar/Anwender',
+        component: ComponentCreator('/docs/Glossar/A-Glossar/Anwender','6f3'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/A-Glossar/Artefakte',
         component: ComponentCreator('/docs/Glossar/A-Glossar/Artefakte','ad9'),
         exact: true,
@@ -277,6 +288,12 @@ export default [
       {
         path: '/docs/Glossar/A-Glossar/Asset-Repository',
         component: ComponentCreator('/docs/Glossar/A-Glossar/Asset-Repository','20d'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/A-Glossar/Aufbauorganisation',
+        component: ComponentCreator('/docs/Glossar/A-Glossar/Aufbauorganisation','8fa'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -317,8 +334,20 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/B-Glossar/Benchmarking',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/Benchmarking','6ac'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/B-Glossar/Benutzer',
         component: ComponentCreator('/docs/Glossar/B-Glossar/Benutzer','a8e'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/B-Glossar/Best-Practice',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/Best-Practice','71e'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -331,6 +360,18 @@ export default [
       {
         path: '/docs/Glossar/B-Glossar/Betriebszeit',
         component: ComponentCreator('/docs/Glossar/B-Glossar/Betriebszeit','0a3'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/B-Glossar/Beziehungskapital',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/Beziehungskapital','67c'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/B-Glossar/Bottleneck',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/Bottleneck','918'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -359,8 +400,26 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/B-Glossar/BPM-Experte',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/BPM-Experte','e9d'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/B-Glossar/BPM-KB',
         component: ComponentCreator('/docs/Glossar/B-Glossar/BPM-KB','8c6'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/B-Glossar/BPM-Rahmenkonzept',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/BPM-Rahmenkonzept','2d9'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/B-Glossar/BPMN',
+        component: ComponentCreator('/docs/Glossar/B-Glossar/BPMN','5e3'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -467,6 +526,18 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/D-Glossar/Dokumentenlebenszyklus',
+        component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentenlebenszyklus','b97'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/D-Glossar/Dokumentenlenkung',
+        component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentenlenkung','d38'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/D-Glossar/Dokumentenmanagement',
         component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentenmanagement','3a8'),
         exact: true,
@@ -527,6 +598,12 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/G-Glossar/Geschaeftsmodell',
+        component: ComponentCreator('/docs/Glossar/G-Glossar/Geschaeftsmodell','963'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/G-Glossar/geschaeftsprozess',
         component: ComponentCreator('/docs/Glossar/G-Glossar/geschaeftsprozess','c54'),
         exact: true,
@@ -565,6 +642,12 @@ export default [
       {
         path: '/docs/Glossar/H-Glossar/HTTPS',
         component: ComponentCreator('/docs/Glossar/H-Glossar/HTTPS','04d'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/H-Glossar/Humankapital',
+        component: ComponentCreator('/docs/Glossar/H-Glossar/Humankapital','069'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -619,6 +702,12 @@ export default [
       {
         path: '/docs/Glossar/K-Glossar/Kanban',
         component: ComponentCreator('/docs/Glossar/K-Glossar/Kanban','c25'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/K-Glossar/konfliktarten',
+        component: ComponentCreator('/docs/Glossar/K-Glossar/konfliktarten','93c'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -899,6 +988,18 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/S-Glossar/Strukturkapital',
+        component: ComponentCreator('/docs/Glossar/S-Glossar/Strukturkapital','e9c'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/S-Glossar/Systemkapital',
+        component: ComponentCreator('/docs/Glossar/S-Glossar/Systemkapital','f42'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/S-Glossar/Systemsoftware',
         component: ComponentCreator('/docs/Glossar/S-Glossar/Systemsoftware','694'),
         exact: true,
@@ -973,6 +1074,12 @@ export default [
       {
         path: '/docs/Glossar/W-Glossar/Website',
         component: ComponentCreator('/docs/Glossar/W-Glossar/Website','77c'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/W-Glossar/Wissensbilanz',
+        component: ComponentCreator('/docs/Glossar/W-Glossar/Wissensbilanz','1f4'),
         exact: true,
         sidebar: "Sidebar10"
       },

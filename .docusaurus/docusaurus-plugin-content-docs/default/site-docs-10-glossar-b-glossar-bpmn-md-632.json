@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Glossar/B-Glossar/BPMN",
+  "id": "Glossar/B-Glossar/BPMN",
+  "title": "BPMN - Business Process Model and Notation",
+  "description": "Die Business Process Model and Notation – früher Business Process Modelling Notation genannt – ist eine international standardisierte Notation (Zeichensystem) für alle Geschäftsprozesse mit der zugehörigen Semantik. Sie verfolgt das Ziel, für",
+  "source": "@site/docs/10-Glossar/B-Glossar/BPMN.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/BPMN",
+  "permalink": "/docs/Glossar/B-Glossar/BPMN",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPMN.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPMN",
+    "titel": "BPMN",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "BPM - Business Process Management",
+    "permalink": "/docs/Glossar/B-Glossar/BPM"
+  },
+  "next": {
+    "title": "Bedarf - Demand",
+    "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+  }
+}

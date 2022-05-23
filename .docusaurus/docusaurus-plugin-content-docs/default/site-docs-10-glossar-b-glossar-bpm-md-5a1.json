@@ -29,11 +29,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "BPM-KB",
-    "permalink": "/docs/Glossar/B-Glossar/BPM-KB"
+    "title": "BPM-Rahmenkonzept - *BPM-Framework*",
+    "permalink": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept"
   },
   "next": {
-    "title": "Bedarf - Demand",
-    "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+    "title": "BPMN - Business Process Model and Notation",
+    "permalink": "/docs/Glossar/B-Glossar/BPMN"
   }
 }

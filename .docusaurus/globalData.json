@@ -36,6 +36,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/A-Glossar/Anwender",
+              "path": "/docs/Glossar/A-Glossar/Anwender",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/A-Glossar/Artefakte",
               "path": "/docs/Glossar/A-Glossar/Artefakte",
               "sidebar": "Sidebar10"
@@ -48,6 +53,11 @@
             {
               "id": "Glossar/A-Glossar/Asset-Repository",
               "path": "/docs/Glossar/A-Glossar/Asset-Repository",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/A-Glossar/Aufbauorganisation",
+              "path": "/docs/Glossar/A-Glossar/Aufbauorganisation",
               "sidebar": "Sidebar10"
             },
             {
@@ -81,8 +91,18 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/B-Glossar/Benchmarking",
+              "path": "/docs/Glossar/B-Glossar/Benchmarking",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/B-Glossar/Benutzer",
               "path": "/docs/Glossar/B-Glossar/Benutzer",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/B-Glossar/Best-Practice",
+              "path": "/docs/Glossar/B-Glossar/Best-Practice",
               "sidebar": "Sidebar10"
             },
             {
@@ -93,6 +113,16 @@
             {
               "id": "Glossar/B-Glossar/Betriebszeit",
               "path": "/docs/Glossar/B-Glossar/Betriebszeit",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/B-Glossar/Beziehungskapital",
+              "path": "/docs/Glossar/B-Glossar/Beziehungskapital",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/B-Glossar/Bottleneck",
+              "path": "/docs/Glossar/B-Glossar/Bottleneck",
               "sidebar": "Sidebar10"
             },
             {
@@ -116,8 +146,23 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/B-Glossar/BPM-Experte",
+              "path": "/docs/Glossar/B-Glossar/BPM-Experte",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/B-Glossar/BPM-KB",
               "path": "/docs/Glossar/B-Glossar/BPM-KB",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "path": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/B-Glossar/BPMN",
+              "path": "/docs/Glossar/B-Glossar/BPMN",
               "sidebar": "Sidebar10"
             },
             {
@@ -206,6 +251,16 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "path": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/D-Glossar/Dokumentenlenkung",
+              "path": "/docs/Glossar/D-Glossar/Dokumentenlenkung",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/D-Glossar/Dokumentenmanagement",
               "path": "/docs/Glossar/D-Glossar/Dokumentenmanagement",
               "sidebar": "Sidebar10"
@@ -256,6 +311,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/G-Glossar/Geschaeftsmodell",
+              "path": "/docs/Glossar/G-Glossar/Geschaeftsmodell",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/G-Glossar/geschaeftsprozess",
               "path": "/docs/Glossar/G-Glossar/geschaeftsprozess",
               "sidebar": "Sidebar10"
@@ -288,6 +348,11 @@
             {
               "id": "Glossar/H-Glossar/HTTPS",
               "path": "/docs/Glossar/H-Glossar/HTTPS",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/H-Glossar/Humankapital",
+              "path": "/docs/Glossar/H-Glossar/Humankapital",
               "sidebar": "Sidebar10"
             },
             {
@@ -333,6 +398,11 @@
             {
               "id": "Glossar/K-Glossar/Kanban",
               "path": "/docs/Glossar/K-Glossar/Kanban",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/K-Glossar/konfliktarten",
+              "path": "/docs/Glossar/K-Glossar/konfliktarten",
               "sidebar": "Sidebar10"
             },
             {
@@ -566,6 +636,16 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/S-Glossar/Strukturkapital",
+              "path": "/docs/Glossar/S-Glossar/Strukturkapital",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/S-Glossar/Systemkapital",
+              "path": "/docs/Glossar/S-Glossar/Systemkapital",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/S-Glossar/Systemsoftware",
               "path": "/docs/Glossar/S-Glossar/Systemsoftware",
               "sidebar": "Sidebar10"
@@ -628,6 +708,11 @@
             {
               "id": "Glossar/W-Glossar/Website",
               "path": "/docs/Glossar/W-Glossar/Website",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/W-Glossar/Wissensbilanz",
+              "path": "/docs/Glossar/W-Glossar/Wissensbilanz",
               "sidebar": "Sidebar10"
             },
             {

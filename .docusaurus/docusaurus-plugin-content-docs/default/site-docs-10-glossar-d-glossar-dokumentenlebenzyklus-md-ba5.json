@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentenlebenszyklus",
+  "id": "Glossar/D-Glossar/Dokumentenlebenszyklus",
+  "title": "Dokumentenlebenszyklus",
+  "description": "Document Lifecycle",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenlebenzyklus.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentenlebenszyklus",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlebenzyklus.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "IT-Dokumentation",
+      "permalink": "/docs/tags/it-dokumentation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentenlebenszyklus",
+    "titel": "Dokumentenlebenszyklus",
+    "tags": [
+      "Begriffe",
+      "IM",
+      "IT-Dokumentation"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentenklasse - Dokumentenbereich",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+  },
+  "next": {
+    "title": "Dokumentenlenkung",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenlenkung"
+  }
+}

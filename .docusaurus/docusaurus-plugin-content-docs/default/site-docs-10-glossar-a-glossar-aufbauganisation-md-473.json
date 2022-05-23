@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Glossar/A-Glossar/Aufbauorganisation",
+  "id": "Glossar/A-Glossar/Aufbauorganisation",
+  "title": "Aufbauorganisation",
+  "description": "Die Aufbauorganisation bildet das hierarchische Gerüst einer Organisation, das festlegt, welche Aufgaben von welchen Aufgabenträgern und Sachmitteln ausgeführt werden. Die Aufbauorganisation ist die statische Kehrseite der Ablauf- oder Prozessorganisation.",
+  "source": "@site/docs/10-Glossar/A-Glossar/Aufbauganisation.md",
+  "sourceDirName": "10-Glossar/A-Glossar",
+  "slug": "/Glossar/A-Glossar/Aufbauorganisation",
+  "permalink": "/docs/Glossar/A-Glossar/Aufbauorganisation",
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufbauganisation.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Aufbauorganisation",
+    "titel": "Aufbauorganisation",
+    "tags": [
+      "Begriff",
+      "BPM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "IT-Asset",
+    "permalink": "/docs/Glossar/A-Glossar/Asset"
+  },
+  "next": {
+    "title": "Aufbewahrungsfristen",
+    "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+  }
+}
