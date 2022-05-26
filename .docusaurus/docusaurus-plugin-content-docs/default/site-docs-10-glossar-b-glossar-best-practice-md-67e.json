@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/B-Glossar/Best-Practice",
+  "id": "Glossar/B-Glossar/Best-Practice",
+  "title": "Bestlösung - Best Practice",
+  "description": "Best Practice ist der in einer Branche als Bestlösung angesehene Prozess-, System- und/oder Organisationsstandard. Wird im Zusammenhang mit Benchmarking als Instrument zur Bewertung der eigenen Ist-Position und der zukünftigen, möglichen",
+  "source": "@site/docs/10-Glossar/B-Glossar/Best-Practice.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/Best-Practice",
+  "permalink": "/en/docs/Glossar/B-Glossar/Best-Practice",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Best-Practice.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/en/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Best-Practice",
+    "titel": "Best Practice",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Benutzer - User",
+    "permalink": "/en/docs/Glossar/B-Glossar/Benutzer"
+  },
+  "next": {
+    "title": "Besucher - Visitor",
+    "permalink": "/en/docs/Glossar/B-Glossar/Besucher"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchris=self.webpackChunkchris||[]).push([[6152],{7906:function(s){s.exports=JSON.parse('{"label":"Compliance","permalink":"/docs/tags/compliance","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Glossar/C-Glossar/Compliance","title":"Compliance","description":"Compliance","permalink":"/docs/Glossar/C-Glossar/Compliance"}]}')}}]);

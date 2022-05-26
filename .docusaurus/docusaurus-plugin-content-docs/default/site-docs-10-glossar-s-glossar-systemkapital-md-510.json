@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/S-Glossar/Systemkapital",
+  "id": "Glossar/S-Glossar/Systemkapital",
+  "title": "Systemkapital",
+  "description": "Systemkapital kann als Wissen bezeichnet werden, das in Form von Informationssystemem und Algorithmen quasi institutionalisiert wurde. Dazu gehören allgemeines Systemwissen zu Applikationssystemen und der Technologie-Infrastruktur dazu.",
+  "source": "@site/docs/10-Glossar/S-Glossar/Systemkapital.md",
+  "sourceDirName": "10-Glossar/S-Glossar",
+  "slug": "/Glossar/S-Glossar/Systemkapital",
+  "permalink": "/en/docs/Glossar/S-Glossar/Systemkapital",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Systemkapital.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    },
+    {
+      "label": "WM",
+      "permalink": "/en/docs/tags/wm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Systemkapital",
+    "title": "Systemkapital",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "WM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Strukturkapital",
+    "permalink": "/en/docs/Glossar/S-Glossar/Strukturkapital"
+  },
+  "next": {
+    "title": "Systemsoftware",
+    "permalink": "/en/docs/Glossar/S-Glossar/Systemsoftware"
+  }
+}

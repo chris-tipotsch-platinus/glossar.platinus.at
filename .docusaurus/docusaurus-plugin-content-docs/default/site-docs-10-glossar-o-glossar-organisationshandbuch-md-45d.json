@@ -6,28 +6,29 @@
   "source": "@site/docs/10-Glossar/O-Glossar/Organisationshandbuch.md",
   "sourceDirName": "10-Glossar/O-Glossar",
   "slug": "/Glossar/O-Glossar/Organisationshandbuch",
-  "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch",
+  "permalink": "/en/docs/Glossar/O-Glossar/Organisationshandbuch",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Organisationshandbuch.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "Handbuch",
-      "permalink": "/docs/tags/handbuch"
+      "permalink": "/en/docs/tags/handbuch"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/docs/tags/pm"
+      "permalink": "/en/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -45,10 +46,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Organisationsentwicklung",
-    "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung"
+    "permalink": "/en/docs/Glossar/O-Glossar/Organisationsentwicklung"
   },
   "next": {
     "title": "Outtasking",
-    "permalink": "/docs/Glossar/O-Glossar/Outtasking"
+    "permalink": "/en/docs/Glossar/O-Glossar/Outtasking"
   }
 }

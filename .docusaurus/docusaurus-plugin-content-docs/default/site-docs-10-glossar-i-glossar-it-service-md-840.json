@@ -6,16 +6,17 @@
   "source": "@site/docs/10-Glossar/I-Glossar/IT-Service.md",
   "sourceDirName": "10-Glossar/I-Glossar",
   "slug": "/Glossar/I-Glossar/IT-Service",
-  "permalink": "/docs/Glossar/I-Glossar/IT-Service",
+  "permalink": "/en/docs/Glossar/I-Glossar/IT-Service",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IT-Service.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IPS",
-    "permalink": "/docs/Glossar/I-Glossar/IPS"
+    "permalink": "/en/docs/Glossar/I-Glossar/IPS"
   },
   "next": {
     "title": "IT-Sicherheit",
-    "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit"
+    "permalink": "/en/docs/Glossar/I-Glossar/IT-Sicherheit"
   }
 }

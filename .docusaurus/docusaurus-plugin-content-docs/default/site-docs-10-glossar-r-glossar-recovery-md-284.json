@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/R-Glossar/Recovery.md",
   "sourceDirName": "10-Glossar/R-Glossar",
   "slug": "/Glossar/R-Glossar/Recovery",
-  "permalink": "/docs/Glossar/R-Glossar/Recovery",
+  "permalink": "/en/docs/Glossar/R-Glossar/Recovery",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Recovery.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Rechenzentrum",
-    "permalink": "/docs/Glossar/R-Glossar/Rechenzentrum"
+    "permalink": "/en/docs/Glossar/R-Glossar/Rechenzentrum"
   },
   "next": {
     "title": "Requirements-Engineering",
-    "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering"
+    "permalink": "/en/docs/Glossar/R-Glossar/Requirements-Engineering"
   }
 }

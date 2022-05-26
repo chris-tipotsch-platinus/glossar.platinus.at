@@ -1,7 +1,9 @@
 {
-  "name": "Begriff",
+  "label": "Begriff",
   "permalink": "/en/docs/tags/begriff",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 25,
+  "items": [
     {
       "id": "Glossar/A-Glossar/Anleitung",
       "title": "Anleitung",
@@ -9,10 +11,16 @@
       "permalink": "/en/docs/Glossar/A-Glossar/Anleitung"
     },
     {
-      "id": "Glossar/A-Glossar/Anweisung",
-      "title": "Anweisung - Arbeitsanweisungen",
-      "description": "Arbeitsanweisungen stellen Vorgaben für die ordnungsgemäße Ausführung einer bestimmten Arbeit dar. Sie beschreiben detailliert und für den Ausführenden verständlich, verbindlich und verpflichtend auf welche Art die Aufgaben durchzuführen sind.",
-      "permalink": "/en/docs/Glossar/A-Glossar/Anweisung"
+      "id": "Glossar/A-Glossar/Anwender",
+      "title": "Anwender - *User*",
+      "description": "Anwender sind Personen, die zur Erledigung ihrer Aufgaben technische oder organisatorische Lösungen nutzen.",
+      "permalink": "/en/docs/Glossar/A-Glossar/Anwender"
+    },
+    {
+      "id": "Glossar/A-Glossar/Aufbauorganisation",
+      "title": "Aufbauorganisation",
+      "description": "Die Aufbauorganisation bildet das hierarchische Gerüst einer Organisation, das festlegt, welche Aufgaben von welchen Aufgabenträgern und Sachmitteln ausgeführt werden. Die Aufbauorganisation ist die statische Kehrseite der Ablauf- oder Prozessorganisation.",
+      "permalink": "/en/docs/Glossar/A-Glossar/Aufbauorganisation"
     },
     {
       "id": "Glossar/A-Glossar/Aufbewahrungsfristen",
@@ -146,6 +154,5 @@
       "description": "Die Zugriffszeit ist die Zeitspanne, die zur Auslösung, Durchführung und Bestätigung eines Befehls für einen Zugriff auf ein Speichermedium vergeht. Sie gilt gleichermaßen für Magnetspeicher, optische Speichermedien, Halbleiterspeicher und Flash-Speicher und ist je nach Art des angesprochenen Speichermediums äußerst unterschiedlich.",
       "permalink": "/en/docs/Glossar/Z-Glossar/Zugriffszeiten"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

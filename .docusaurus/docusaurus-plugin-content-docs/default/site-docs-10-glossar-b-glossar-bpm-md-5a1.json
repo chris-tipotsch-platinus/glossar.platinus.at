@@ -6,16 +6,17 @@
   "source": "@site/docs/10-Glossar/B-Glossar/BPM.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/BPM",
-  "permalink": "/docs/Glossar/B-Glossar/BPM",
+  "permalink": "/en/docs/Glossar/B-Glossar/BPM",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     }
   ],
   "version": "current",
@@ -29,11 +30,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "BPM-KB",
-    "permalink": "/docs/Glossar/B-Glossar/BPM-KB"
+    "title": "BPM-Rahmenkonzept - *BPM-Framework*",
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM-Rahmenkonzept"
   },
   "next": {
-    "title": "Bedarf - Demand",
-    "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+    "title": "BPMN - Business Process Model and Notation",
+    "permalink": "/en/docs/Glossar/B-Glossar/BPMN"
   }
 }

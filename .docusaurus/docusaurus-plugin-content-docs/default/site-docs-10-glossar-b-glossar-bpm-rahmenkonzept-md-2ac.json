@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Glossar/B-Glossar/BPM-Rahmenkonzept",
+  "id": "Glossar/B-Glossar/BPM-Rahmenkonzept",
+  "title": "BPM-Rahmenkonzept - *BPM-Framework*",
+  "description": "Ein BPM-Rahmenkonzept ist ein Metamodell, das mehrere prozessorientierte Methoden",
+  "source": "@site/docs/10-Glossar/B-Glossar/BPM-Rahmenkonzept.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/BPM-Rahmenkonzept",
+  "permalink": "/en/docs/Glossar/B-Glossar/BPM-Rahmenkonzept",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Rahmenkonzept.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPM-Rahmenkonzept",
+    "titel": "BPM-Rahmenkonzept",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "BPM-KB",
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM-KB"
+  },
+  "next": {
+    "title": "BPM - Business Process Management",
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM"
+  }
+}

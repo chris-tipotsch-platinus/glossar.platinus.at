@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/B-Glossar/Beziehungskapital",
+  "id": "Glossar/B-Glossar/Beziehungskapital",
+  "title": "Beziehungskapital",
+  "description": "Das Beziehungskapital stellt die Beziehung einer Organisation zu ihren Stakeholdern dar und zeigt den Wert auf, den diese Stakeholder den Geschäftsbeziehungen beimessen. Zu den Anspruchgruppen zählen Kunden und Lieferanten, sowie zu sonstigen Partnern und der Öffentlichkeit.",
+  "source": "@site/docs/10-Glossar/B-Glossar/Beziehungskapital.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/Beziehungskapital",
+  "permalink": "/en/docs/Glossar/B-Glossar/Beziehungskapital",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Beziehungskapital.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/en/docs/tags/pm"
+    },
+    {
+      "label": "WM",
+      "permalink": "/en/docs/tags/wm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Beziehungskapital",
+    "title": "Beziehungskapital",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "WM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Betriebszeit",
+    "permalink": "/en/docs/Glossar/B-Glossar/Betriebszeit"
+  },
+  "next": {
+    "title": "Flaschenhals - Bottleneck",
+    "permalink": "/en/docs/Glossar/B-Glossar/Bottleneck"
+  }
+}

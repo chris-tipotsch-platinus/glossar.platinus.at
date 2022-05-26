@@ -158,15 +158,15 @@
                 "permalink": "/docs/Glossar/A-Glossar/Anforderungen"
               },
               "next": {
-                "title": "Anweisung - Arbeitsanweisungen",
+                "title": "Anweisung - *Work Instruction*",
                 "permalink": "/docs/Glossar/A-Glossar/Anweisung"
               }
             },
             {
               "unversionedId": "Glossar/A-Glossar/Anweisung",
               "id": "Glossar/A-Glossar/Anweisung",
-              "title": "Anweisung - Arbeitsanweisungen",
-              "description": "Arbeitsanweisungen stellen Vorgaben für die ordnungsgemäße Ausführung einer bestimmten Arbeit dar. Sie beschreiben detailliert und für den Ausführenden verständlich, verbindlich und verpflichtend auf welche Art die Aufgaben durchzuführen sind.",
+              "title": "Anweisung - *Work Instruction*",
+              "description": "Work Instructions",
               "source": "@site/docs/10-Glossar/A-Glossar/Anweisungen.md",
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Anweisung",
@@ -174,8 +174,16 @@
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anweisungen.md",
               "tags": [
                 {
-                  "label": "Begriff",
-                  "permalink": "/docs/tags/begriff"
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
                 }
               ],
               "version": "current",
@@ -183,13 +191,54 @@
                 "id": "Anweisung",
                 "titel": "Anweisung",
                 "tags": [
-                  "Begriff"
+                  "Begriffe",
+                  "BPM",
+                  "WM"
                 ]
               },
               "sidebar": "Sidebar10",
               "previous": {
                 "title": "Anleitung",
                 "permalink": "/docs/Glossar/A-Glossar/Anleitung"
+              },
+              "next": {
+                "title": "Anwender - *User*",
+                "permalink": "/docs/Glossar/A-Glossar/Anwender"
+              }
+            },
+            {
+              "unversionedId": "Glossar/A-Glossar/Anwender",
+              "id": "Glossar/A-Glossar/Anwender",
+              "title": "Anwender - *User*",
+              "description": "Anwender sind Personen, die zur Erledigung ihrer Aufgaben technische oder organisatorische Lösungen nutzen.",
+              "source": "@site/docs/10-Glossar/A-Glossar/Anwender.md",
+              "sourceDirName": "10-Glossar/A-Glossar",
+              "slug": "/Glossar/A-Glossar/Anwender",
+              "permalink": "/docs/Glossar/A-Glossar/Anwender",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anwender.md",
+              "tags": [
+                {
+                  "label": "Begriff",
+                  "permalink": "/docs/tags/begriff"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Anwender",
+                "titel": "Anwender",
+                "tags": [
+                  "Begriff",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Anweisung - *Work Instruction*",
+                "permalink": "/docs/Glossar/A-Glossar/Anweisung"
               },
               "next": {
                 "title": "Artefakte",
@@ -222,8 +271,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Anweisung - Arbeitsanweisungen",
-                "permalink": "/docs/Glossar/A-Glossar/Anweisung"
+                "title": "Anwender - *User*",
+                "permalink": "/docs/Glossar/A-Glossar/Anwender"
               },
               "next": {
                 "title": "IT-Asset-Repository",
@@ -260,8 +309,8 @@
                 "permalink": "/docs/Glossar/A-Glossar/Asset-Repository"
               },
               "next": {
-                "title": "Aufbewahrungsfristen",
-                "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+                "title": "Aufbauorganisation",
+                "permalink": "/docs/Glossar/A-Glossar/Aufbauorganisation"
               }
             },
             {
@@ -299,6 +348,50 @@
               }
             },
             {
+              "unversionedId": "Glossar/A-Glossar/Aufbauorganisation",
+              "id": "Glossar/A-Glossar/Aufbauorganisation",
+              "title": "Aufbauorganisation",
+              "description": "Die Aufbauorganisation bildet das hierarchische Gerüst einer Organisation, das festlegt, welche Aufgaben von welchen Aufgabenträgern und Sachmitteln ausgeführt werden. Die Aufbauorganisation ist die statische Kehrseite der Ablauf- oder Prozessorganisation.",
+              "source": "@site/docs/10-Glossar/A-Glossar/Aufbauganisation.md",
+              "sourceDirName": "10-Glossar/A-Glossar",
+              "slug": "/Glossar/A-Glossar/Aufbauorganisation",
+              "permalink": "/docs/Glossar/A-Glossar/Aufbauorganisation",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufbauganisation.md",
+              "tags": [
+                {
+                  "label": "Begriff",
+                  "permalink": "/docs/tags/begriff"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Aufbauorganisation",
+                "titel": "Aufbauorganisation",
+                "tags": [
+                  "Begriff",
+                  "BPM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "IT-Asset",
+                "permalink": "/docs/Glossar/A-Glossar/Asset"
+              },
+              "next": {
+                "title": "Aufbewahrungsfristen",
+                "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+              }
+            },
+            {
               "unversionedId": "Glossar/A-Glossar/Aufbewahrungsfristen",
               "id": "Glossar/A-Glossar/Aufbewahrungsfristen",
               "title": "Aufbewahrungsfristen",
@@ -324,8 +417,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "IT-Asset",
-                "permalink": "/docs/Glossar/A-Glossar/Asset"
+                "title": "Aufbauorganisation",
+                "permalink": "/docs/Glossar/A-Glossar/Aufbauorganisation"
               },
               "next": {
                 "title": "Aufzeichnungen",
@@ -509,8 +602,57 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "BPM - Business Process Management",
-                "permalink": "/docs/Glossar/B-Glossar/BPM"
+                "title": "BPMN - Business Process Model and Notation",
+                "permalink": "/docs/Glossar/B-Glossar/BPMN"
+              },
+              "next": {
+                "title": "Benchmarking",
+                "permalink": "/docs/Glossar/B-Glossar/Benchmarking"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/Benchmarking",
+              "id": "Glossar/B-Glossar/Benchmarking",
+              "title": "Benchmarking",
+              "description": "Ein Vergleich der Leistung eines Prozesses in einer Organisation mit ähnlichen Prozessen eines anderen Unternehmens oder Bereichs. Die Suche nach vergleichbaren Daten für einen Benchmark dient dazu, die Prozessumsetzung und -einführung zu",
+              "source": "@site/docs/10-Glossar/B-Glossar/Benchmarking.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/Benchmarking",
+              "permalink": "/docs/Glossar/B-Glossar/Benchmarking",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Benchmarking.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Benchmarking",
+                "titel": "Benchmarking",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Bedarf - Demand",
+                "permalink": "/docs/Glossar/B-Glossar/Bedarf"
               },
               "next": {
                 "title": "Benutzer - User",
@@ -548,8 +690,57 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Bedarf - Demand",
-                "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+                "title": "Benchmarking",
+                "permalink": "/docs/Glossar/B-Glossar/Benchmarking"
+              },
+              "next": {
+                "title": "Bestlösung - Best Practice",
+                "permalink": "/docs/Glossar/B-Glossar/Best-Practice"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/Best-Practice",
+              "id": "Glossar/B-Glossar/Best-Practice",
+              "title": "Bestlösung - Best Practice",
+              "description": "Best Practice ist der in einer Branche als Bestlösung angesehene Prozess-, System- und/oder Organisationsstandard. Wird im Zusammenhang mit Benchmarking als Instrument zur Bewertung der eigenen Ist-Position und der zukünftigen, möglichen",
+              "source": "@site/docs/10-Glossar/B-Glossar/Best-Practice.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/Best-Practice",
+              "permalink": "/docs/Glossar/B-Glossar/Best-Practice",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Best-Practice.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Best-Practice",
+                "titel": "Best Practice",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Benutzer - User",
+                "permalink": "/docs/Glossar/B-Glossar/Benutzer"
               },
               "next": {
                 "title": "Besucher - Visitor",
@@ -587,8 +778,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Benutzer - User",
-                "permalink": "/docs/Glossar/B-Glossar/Benutzer"
+                "title": "Bestlösung - Best Practice",
+                "permalink": "/docs/Glossar/B-Glossar/Best-Practice"
               },
               "next": {
                 "title": "Betriebszeit",
@@ -633,6 +824,94 @@
               "previous": {
                 "title": "Besucher - Visitor",
                 "permalink": "/docs/Glossar/B-Glossar/Besucher"
+              },
+              "next": {
+                "title": "Beziehungskapital",
+                "permalink": "/docs/Glossar/B-Glossar/Beziehungskapital"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/Beziehungskapital",
+              "id": "Glossar/B-Glossar/Beziehungskapital",
+              "title": "Beziehungskapital",
+              "description": "Das Beziehungskapital stellt die Beziehung einer Organisation zu ihren Stakeholdern dar und zeigt den Wert auf, den diese Stakeholder den Geschäftsbeziehungen beimessen. Zu den Anspruchgruppen zählen Kunden und Lieferanten, sowie zu sonstigen Partnern und der Öffentlichkeit.",
+              "source": "@site/docs/10-Glossar/B-Glossar/Beziehungskapital.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/Beziehungskapital",
+              "permalink": "/docs/Glossar/B-Glossar/Beziehungskapital",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Beziehungskapital.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Beziehungskapital",
+                "title": "Beziehungskapital",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "WM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Betriebszeit",
+                "permalink": "/docs/Glossar/B-Glossar/Betriebszeit"
+              },
+              "next": {
+                "title": "Flaschenhals - Bottleneck",
+                "permalink": "/docs/Glossar/B-Glossar/Bottleneck"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/Bottleneck",
+              "id": "Glossar/B-Glossar/Bottleneck",
+              "title": "Flaschenhals - Bottleneck",
+              "description": "Ein Bottleneck (deutsch: Flaschenhals) ist ein Engpass, durch den ein Auftragsrückstand erzeugt wird. Normalerweise wird durch einen Engpass die Systemleistung reduziert, wodurch i.d.R. die gewünschten Ziele nicht erreicht werden können. Engpässe können sowohl auf internen als auch auf externen Faktoren beruhen und z. B. von Betriebseinrichtungen, Personen, Vorgehensweisen und ineffektiven Prozessen abhängig sein. Die Identifizierung von Engpässen und deren Beseitigung bzw. Reduzierung sind häufig wesentliche Ziele beim Design und der Umsetzung neuer Prozesse.",
+              "source": "@site/docs/10-Glossar/B-Glossar/Bottleneck.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/Bottleneck",
+              "permalink": "/docs/Glossar/B-Glossar/Bottleneck",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Bottleneck.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Bottleneck",
+                "titel": "Bottleneck",
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Beziehungskapital",
+                "permalink": "/docs/Glossar/B-Glossar/Beziehungskapital"
               },
               "next": {
                 "title": "BA - Business Analyse",
@@ -748,12 +1027,12 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "BPM-KB",
-                "permalink": "/docs/Glossar/B-Glossar/BPM-KB"
+                "title": "BPM-Rahmenkonzept - *BPM-Framework*",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept"
               },
               "next": {
-                "title": "Bedarf - Demand",
-                "permalink": "/docs/Glossar/B-Glossar/Bedarf"
+                "title": "BPMN - Business Process Model and Notation",
+                "permalink": "/docs/Glossar/B-Glossar/BPMN"
               }
             },
             {
@@ -789,6 +1068,45 @@
               "previous": {
                 "title": "BA - Business Analyse",
                 "permalink": "/docs/Glossar/B-Glossar/BPI"
+              },
+              "next": {
+                "title": "BPM-Experte - *BPM-Expert*",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-Experte"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/BPM-Experte",
+              "id": "Glossar/B-Glossar/BPM-Experte",
+              "title": "BPM-Experte - *BPM-Expert*",
+              "description": "Ein BPM-Experte ist mit den Methoden und Techniken des Prozessmanagements vertraut und setzt diese ein, um alle oder ausgewählte Aufgaben des Prozessmanagements zu lösen. Mit fortschreitender Spezialisierung erfolgt eine Differenzierung in engere Rollen wie Prozessanalyst, Prozessarchitekt, Prozessmodellierer.",
+              "source": "@site/docs/10-Glossar/B-Glossar/BPM-Experte.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/BPM-Experte",
+              "permalink": "/docs/Glossar/B-Glossar/BPM-Experte",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Experte.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "BPM-Experte",
+                "titel": "BPM-Experte",
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "BPM Competency Model von ABPMP",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
               },
               "next": {
                 "title": "BPM-KB",
@@ -831,12 +1149,90 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "BPM Competency Model von ABPMP",
-                "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model"
+                "title": "BPM-Experte - *BPM-Expert*",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-Experte"
+              },
+              "next": {
+                "title": "BPM-Rahmenkonzept - *BPM-Framework*",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "id": "Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "title": "BPM-Rahmenkonzept - *BPM-Framework*",
+              "description": "Ein BPM-Rahmenkonzept ist ein Metamodell, das mehrere prozessorientierte Methoden",
+              "source": "@site/docs/10-Glossar/B-Glossar/BPM-Rahmenkonzept.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "permalink": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Rahmenkonzept.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "BPM-Rahmenkonzept",
+                "titel": "BPM-Rahmenkonzept",
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "BPM-KB",
+                "permalink": "/docs/Glossar/B-Glossar/BPM-KB"
               },
               "next": {
                 "title": "BPM - Business Process Management",
                 "permalink": "/docs/Glossar/B-Glossar/BPM"
+              }
+            },
+            {
+              "unversionedId": "Glossar/B-Glossar/BPMN",
+              "id": "Glossar/B-Glossar/BPMN",
+              "title": "BPMN - Business Process Model and Notation",
+              "description": "Die Business Process Model and Notation – früher Business Process Modelling Notation genannt – ist eine international standardisierte Notation (Zeichensystem) für alle Geschäftsprozesse mit der zugehörigen Semantik. Sie verfolgt das Ziel, für",
+              "source": "@site/docs/10-Glossar/B-Glossar/BPMN.md",
+              "sourceDirName": "10-Glossar/B-Glossar",
+              "slug": "/Glossar/B-Glossar/BPMN",
+              "permalink": "/docs/Glossar/B-Glossar/BPMN",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPMN.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "BPMN",
+                "titel": "BPMN",
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "BPM - Business Process Management",
+                "permalink": "/docs/Glossar/B-Glossar/BPM"
+              },
+              "next": {
+                "title": "Bedarf - Demand",
+                "permalink": "/docs/Glossar/B-Glossar/Bedarf"
               }
             },
             {
@@ -1469,7 +1865,7 @@
               "unversionedId": "Glossar/D-Glossar/Dokumentationsmanagement",
               "id": "Glossar/D-Glossar/Dokumentationsmanagement",
               "title": "Dokumentationsmanagement",
-              "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+              "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentationsmanagement",
@@ -1518,7 +1914,7 @@
               "unversionedId": "Glossar/D-Glossar/Dokumente",
               "id": "Glossar/D-Glossar/Dokumente",
               "title": "Dokumente - Documents",
-              "description": "In Anlehnung an die ISO 9000 (2014) ist ein Dokument definiert als eine Zusammenfassung von Informationen auf einem Trägermedium (Papier, sonstige Speicherung), das als Gesamtheit identifizierbar und zugänglich ist. Mit Ausnahme des speziellen Dokumententyps „Aufzeichnungen“ sind  Dokumente veränderbar und können in verschiedenen Revisions- bzw. Versionsständen existieren.",
+              "description": "Was ist eine Dokument?",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumente",
@@ -1608,6 +2004,99 @@
                 "permalink": "/docs/Glossar/D-Glossar/Dokumente"
               },
               "next": {
+                "title": "Dokumentenlebenszyklus",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "id": "Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "title": "Dokumentenlebenszyklus",
+              "description": "Document Lifecycle",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenlebenzyklus.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlebenzyklus.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "IT-Dokumentation",
+                  "permalink": "/docs/tags/it-dokumentation"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentenlebenszyklus",
+                "titel": "Dokumentenlebenszyklus",
+                "tags": [
+                  "Begriffe",
+                  "IM",
+                  "IT-Dokumentation"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentenklasse - Dokumentenbereich",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+              },
+              "next": {
+                "title": "Dokumentenlenkung",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenlenkung"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentenlenkung",
+              "id": "Glossar/D-Glossar/Dokumentenlenkung",
+              "title": "Dokumentenlenkung",
+              "description": "Was ist Dokumentenlenkung?",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenlenkung.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentenlenkung",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentenlenkung",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlenkung.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentenlenkung",
+                "titel": "Dokumentenlenkung",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentenlebenszyklus",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
+              },
+              "next": {
                 "title": "Dokumentenmanagement",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
               }
@@ -1653,8 +2142,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentenklasse - Dokumentenbereich",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+                "title": "Dokumentenlenkung",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenlenkung"
               },
               "next": {
                 "title": "Dokumententypen",
@@ -1977,6 +2466,47 @@
                 "permalink": "/docs/Glossar/F-Glossar/FTE"
               },
               "next": {
+                "title": "Geschaeftsmodell",
+                "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell"
+              }
+            },
+            {
+              "unversionedId": "Glossar/G-Glossar/Geschaeftsmodell",
+              "id": "Glossar/G-Glossar/Geschaeftsmodell",
+              "title": "Geschaeftsmodell",
+              "description": "Business Model",
+              "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsmodell.md",
+              "sourceDirName": "10-Glossar/G-Glossar",
+              "slug": "/Glossar/G-Glossar/Geschaeftsmodell",
+              "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsmodell.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "Geschaeftsmodell",
+                "title": "Geschaeftsmodell",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Funktionalität - Utility",
+                "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+              },
+              "next": {
                 "title": "Geschäftsprozess",
                 "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
               }
@@ -1985,7 +2515,7 @@
               "unversionedId": "Glossar/G-Glossar/geschaeftsprozess",
               "id": "Glossar/G-Glossar/geschaeftsprozess",
               "title": "Geschäftsprozess",
-              "description": "Business Process",
+              "description": "Business Process = Geschäftsprozess = Geschäft + Prozess",
               "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozess.md",
               "sourceDirName": "10-Glossar/G-Glossar",
               "slug": "/Glossar/G-Glossar/geschaeftsprozess",
@@ -2014,8 +2544,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Funktionalität - Utility",
-                "permalink": "/docs/Glossar/F-Glossar/Funktionalität"
+                "title": "Geschaeftsmodell",
+                "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell"
               },
               "next": {
                 "title": "Geschäftsprozessmanagement",
@@ -2242,8 +2772,8 @@
                 "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
               },
               "next": {
-                "title": "IPS",
-                "permalink": "/docs/Glossar/I-Glossar/IPS"
+                "title": "Humankapital",
+                "permalink": "/docs/Glossar/H-Glossar/Humankapital"
               }
             },
             {
@@ -2283,6 +2813,55 @@
               "next": {
                 "title": "Handbuch",
                 "permalink": "/docs/Glossar/H-Glossar/Handbuch"
+              }
+            },
+            {
+              "unversionedId": "Glossar/H-Glossar/Humankapital",
+              "id": "Glossar/H-Glossar/Humankapital",
+              "title": "Humankapital",
+              "description": "Humankapital (human capital) bezeichnet in der Wirtschaftswissenschaft die „personengebundenen Wissensbestandteile in den Köpfen der Mitarbeiter“.",
+              "source": "@site/docs/10-Glossar/H-Glossar/Humankapital.md",
+              "sourceDirName": "10-Glossar/H-Glossar",
+              "slug": "/Glossar/H-Glossar/Humankapital",
+              "permalink": "/docs/Glossar/H-Glossar/Humankapital",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Humankapital.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Humankapital",
+                "title": "Humankapital",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "WM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Hosting",
+                "permalink": "/docs/Glossar/H-Glossar/Hosting"
+              },
+              "next": {
+                "title": "IPS",
+                "permalink": "/docs/Glossar/I-Glossar/IPS"
               }
             },
             {
@@ -2511,8 +3090,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Hosting",
-                "permalink": "/docs/Glossar/H-Glossar/Hosting"
+                "title": "Humankapital",
+                "permalink": "/docs/Glossar/H-Glossar/Humankapital"
               },
               "next": {
                 "title": "IT-Service",
@@ -2616,6 +3195,40 @@
                 "permalink": "/docs/Glossar/I-Glossar/Intranet"
               },
               "next": {
+                "title": "Konfliktarten",
+                "permalink": "/docs/Glossar/K-Glossar/konfliktarten"
+              }
+            },
+            {
+              "unversionedId": "Glossar/K-Glossar/konfliktarten",
+              "id": "Glossar/K-Glossar/konfliktarten",
+              "title": "Konfliktarten",
+              "description": "Konflikte können verschiedene Ursachen und Ausprägungen haben.",
+              "source": "@site/docs/10-Glossar/K-Glossar/Konfliktarten.md",
+              "sourceDirName": "10-Glossar/K-Glossar",
+              "slug": "/Glossar/K-Glossar/konfliktarten",
+              "permalink": "/docs/Glossar/K-Glossar/konfliktarten",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Konfliktarten.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "konfliktarten",
+                "titel": "Konfliktarten",
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Kanban",
+                "permalink": "/docs/Glossar/K-Glossar/Kanban"
+              },
+              "next": {
                 "title": "Latenz",
                 "permalink": "/docs/Glossar/L-Glossar/Latenz"
               }
@@ -2651,8 +3264,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Kanban",
-                "permalink": "/docs/Glossar/K-Glossar/Kanban"
+                "title": "Konfliktarten",
+                "permalink": "/docs/Glossar/K-Glossar/konfliktarten"
               },
               "next": {
                 "title": "Laufzeit",
@@ -4313,6 +4926,104 @@
                 "permalink": "/docs/Glossar/S-Glossar/Software"
               },
               "next": {
+                "title": "Strukturkapital",
+                "permalink": "/docs/Glossar/S-Glossar/Strukturkapital"
+              }
+            },
+            {
+              "unversionedId": "Glossar/S-Glossar/Strukturkapital",
+              "id": "Glossar/S-Glossar/Strukturkapital",
+              "title": "Strukturkapital",
+              "description": "Strukturkapital (Structural Capital – SC) kann als Wissen bezeichnet werden, das in Form von Strukturen, Prozessen und (den objektivierten Aspekten) der Unternehmenskultur quasi institutionalisiert wurde. Dazu gehören allgemeines Organisationswissen  zu Ablauforganisation bzw. Prozessmodellen, Aufbauorganisatiopn und Rollen sowies sonstiges Prozessinformationen dazu.",
+              "source": "@site/docs/10-Glossar/S-Glossar/Strukturkapital.md",
+              "sourceDirName": "10-Glossar/S-Glossar",
+              "slug": "/Glossar/S-Glossar/Strukturkapital",
+              "permalink": "/docs/Glossar/S-Glossar/Strukturkapital",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Strukturkapital.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Strukturkapital",
+                "title": "Strukturkapital",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "WM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Standardsoftware",
+                "permalink": "/docs/Glossar/S-Glossar/Standardsoftware"
+              },
+              "next": {
+                "title": "Systemkapital",
+                "permalink": "/docs/Glossar/S-Glossar/Systemkapital"
+              }
+            },
+            {
+              "unversionedId": "Glossar/S-Glossar/Systemkapital",
+              "id": "Glossar/S-Glossar/Systemkapital",
+              "title": "Systemkapital",
+              "description": "Systemkapital kann als Wissen bezeichnet werden, das in Form von Informationssystemem und Algorithmen quasi institutionalisiert wurde. Dazu gehören allgemeines Systemwissen zu Applikationssystemen und der Technologie-Infrastruktur dazu.",
+              "source": "@site/docs/10-Glossar/S-Glossar/Systemkapital.md",
+              "sourceDirName": "10-Glossar/S-Glossar",
+              "slug": "/Glossar/S-Glossar/Systemkapital",
+              "permalink": "/docs/Glossar/S-Glossar/Systemkapital",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Systemkapital.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Systemkapital",
+                "title": "Systemkapital",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "WM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Strukturkapital",
+                "permalink": "/docs/Glossar/S-Glossar/Strukturkapital"
+              },
+              "next": {
                 "title": "Systemsoftware",
                 "permalink": "/docs/Glossar/S-Glossar/Systemsoftware"
               }
@@ -4353,8 +5064,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Standardsoftware",
-                "permalink": "/docs/Glossar/S-Glossar/Standardsoftware"
+                "title": "Systemkapital",
+                "permalink": "/docs/Glossar/S-Glossar/Systemkapital"
               },
               "next": {
                 "title": "UC - Underpinning Contract",
@@ -4824,6 +5535,55 @@
                 "permalink": "/docs/Glossar/W-Glossar/Webserver"
               },
               "next": {
+                "title": "Wissensbilanz",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+              }
+            },
+            {
+              "unversionedId": "Glossar/W-Glossar/Wissensbilanz",
+              "id": "Glossar/W-Glossar/Wissensbilanz",
+              "title": "Wissensbilanz",
+              "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
+              "source": "@site/docs/10-Glossar/W-Glossar/Wissensbilanz.md",
+              "sourceDirName": "10-Glossar/W-Glossar",
+              "slug": "/Glossar/W-Glossar/Wissensbilanz",
+              "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz",
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Wissensbilanz.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Wissensbilanz",
+                "title": "Wissensbilanz",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "WM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Website",
+                "permalink": "/docs/Glossar/W-Glossar/Website"
+              },
+              "next": {
                 "title": "Zugriffszeiten",
                 "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten"
               }
@@ -4854,8 +5614,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Website",
-                "permalink": "/docs/Glossar/W-Glossar/Website"
+                "title": "Wissensbilanz",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
               }
             }
           ],
@@ -4893,6 +5653,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/A-Glossar/Anwender"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/A-Glossar/Artefakte"
                   },
                   {
@@ -4902,6 +5666,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/A-Glossar/Asset"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/A-Glossar/Aufbauorganisation"
                   },
                   {
                     "type": "doc",
@@ -4937,7 +5705,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/B-Glossar/BPM-Experte"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/B-Glossar/BPM-KB"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/B-Glossar/BPM-Rahmenkonzept"
                   },
                   {
                     "type": "doc",
@@ -4945,11 +5721,23 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/B-Glossar/BPMN"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/B-Glossar/Bedarf"
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/B-Glossar/Benchmarking"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/B-Glossar/Benutzer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/B-Glossar/Best-Practice"
                   },
                   {
                     "type": "doc",
@@ -4958,6 +5746,14 @@
                   {
                     "type": "doc",
                     "id": "Glossar/B-Glossar/Betriebszeit"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/B-Glossar/Beziehungskapital"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/B-Glossar/Bottleneck"
                   },
                   {
                     "type": "doc",
@@ -5049,6 +5845,14 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentenlebenszyklus"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentenlenkung"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumentenmanagement"
                   },
                   {
@@ -5113,6 +5917,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "Glossar/G-Glossar/Geschaeftsmodell"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/G-Glossar/geschaeftsprozess"
                   },
                   {
@@ -5146,6 +5954,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/H-Glossar/Hosting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/H-Glossar/Humankapital"
                   }
                 ]
               },
@@ -5198,6 +6010,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/K-Glossar/Kanban"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/K-Glossar/konfliktarten"
                   }
                 ]
               },
@@ -5441,6 +6257,14 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/S-Glossar/Strukturkapital"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/S-Glossar/Systemkapital"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/S-Glossar/Systemsoftware"
                   }
                 ]
@@ -5514,6 +6338,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/W-Glossar/Website"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/W-Glossar/Wissensbilanz"
                   }
                 ]
               },

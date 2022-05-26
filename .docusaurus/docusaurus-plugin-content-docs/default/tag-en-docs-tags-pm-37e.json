@@ -1,12 +1,38 @@
 {
-  "name": "PM",
+  "label": "PM",
   "permalink": "/en/docs/tags/pm",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 31,
+  "items": [
+    {
+      "id": "Glossar/A-Glossar/Aufbauorganisation",
+      "title": "Aufbauorganisation",
+      "description": "Die Aufbauorganisation bildet das hierarchische Gerüst einer Organisation, das festlegt, welche Aufgaben von welchen Aufgabenträgern und Sachmitteln ausgeführt werden. Die Aufbauorganisation ist die statische Kehrseite der Ablauf- oder Prozessorganisation.",
+      "permalink": "/en/docs/Glossar/A-Glossar/Aufbauorganisation"
+    },
     {
       "id": "Glossar/B-Glossar/Bedarf",
       "title": "Bedarf - Demand",
       "description": "Ein Bedarf ist eine Problem, das zu lösen ist, oder eine Chance, die wahrzunehmen ist. Der Bedarf kann Changes auslösen, wenn Stakeholder zum Handeln motiviert werden. Changes können auch einen Bedarf auslösen, wenn durch sie der Nutzen bestehender Lösungen vermindert oder erhöht wird.",
       "permalink": "/en/docs/Glossar/B-Glossar/Bedarf"
+    },
+    {
+      "id": "Glossar/B-Glossar/Benchmarking",
+      "title": "Benchmarking",
+      "description": "Ein Vergleich der Leistung eines Prozesses in einer Organisation mit ähnlichen Prozessen eines anderen Unternehmens oder Bereichs. Die Suche nach vergleichbaren Daten für einen Benchmark dient dazu, die Prozessumsetzung und -einführung zu",
+      "permalink": "/en/docs/Glossar/B-Glossar/Benchmarking"
+    },
+    {
+      "id": "Glossar/B-Glossar/Best-Practice",
+      "title": "Bestlösung - Best Practice",
+      "description": "Best Practice ist der in einer Branche als Bestlösung angesehene Prozess-, System- und/oder Organisationsstandard. Wird im Zusammenhang mit Benchmarking als Instrument zur Bewertung der eigenen Ist-Position und der zukünftigen, möglichen",
+      "permalink": "/en/docs/Glossar/B-Glossar/Best-Practice"
+    },
+    {
+      "id": "Glossar/B-Glossar/Beziehungskapital",
+      "title": "Beziehungskapital",
+      "description": "Das Beziehungskapital stellt die Beziehung einer Organisation zu ihren Stakeholdern dar und zeigt den Wert auf, den diese Stakeholder den Geschäftsbeziehungen beimessen. Zu den Anspruchgruppen zählen Kunden und Lieferanten, sowie zu sonstigen Partnern und der Öffentlichkeit.",
+      "permalink": "/en/docs/Glossar/B-Glossar/Beziehungskapital"
     },
     {
       "id": "Glossar/D-Glossar/Dashboard",
@@ -39,21 +65,21 @@
       "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationskonzept"
     },
     {
-      "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+      "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
       "title": "Dokumentationslandkarte IT",
       "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
-      "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+      "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
     },
     {
       "id": "Glossar/D-Glossar/Dokumentationsmanagement",
       "title": "Dokumentationsmanagement",
-      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung  anforderungsgerechter, gelenkter Dokumente.des Dokumentenmanagements.  Ziel von Dokumentationsmanagement ist die Bereitstellung von  anforderungsgerechten Dokumenten, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
       "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement"
     },
     {
       "id": "Glossar/D-Glossar/Dokumente",
       "title": "Dokumente - Documents",
-      "description": "In Anlehnung an die ISO 9000 (2014) ist ein Dokument definiert als eine Zusammenfassung von Informationen auf einem Trägermedium (Papier, sonstige Speicherung), das als Gesamtheit identifizierbar und zugänglich ist. Mit Ausnahme des speziellen Dokumententyps „Aufzeichnungen“ sind  Dokumente veränderbar und können in verschiedenen Revisions- bzw. Versionsständen existieren.",
+      "description": "Was ist eine Dokument?",
       "permalink": "/en/docs/Glossar/D-Glossar/Dokumente"
     },
     {
@@ -61,6 +87,12 @@
       "title": "Dokumentenklasse - Dokumentenbereich",
       "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
       "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenklasse"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentenlenkung",
+      "title": "Dokumentenlenkung",
+      "description": "Was ist Dokumentenlenkung?",
+      "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlenkung"
     },
     {
       "id": "Glossar/D-Glossar/Dokumentenmanagement",
@@ -81,10 +113,34 @@
       "permalink": "/en/docs/Glossar/F-Glossar/FTE"
     },
     {
+      "id": "Glossar/H-Glossar/Handbuch",
+      "title": "Handbuch",
+      "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
+      "permalink": "/en/docs/Glossar/H-Glossar/Handbuch"
+    },
+    {
+      "id": "Glossar/H-Glossar/Humankapital",
+      "title": "Humankapital",
+      "description": "Humankapital (human capital) bezeichnet in der Wirtschaftswissenschaft die „personengebundenen Wissensbestandteile in den Köpfen der Mitarbeiter“.",
+      "permalink": "/en/docs/Glossar/H-Glossar/Humankapital"
+    },
+    {
       "id": "Glossar/I-Glossar/Informationsqualitaet",
       "title": "Informationsqualität",
       "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
       "permalink": "/en/docs/Glossar/I-Glossar/Informationsqualitaet"
+    },
+    {
+      "id": "Glossar/O-Glossar/Organisationsentwicklung",
+      "title": "Organisationsentwicklung",
+      "description": "Organisationsentwicklung wird sehr allgemein definiert als „Interventionsstrategie, welche gruppendynamische Prozesse  verwendet, die sich auf die Organisationskultur konzentriert, um  geplante Veränderungen herbeizuführen“.",
+      "permalink": "/en/docs/Glossar/O-Glossar/Organisationsentwicklung"
+    },
+    {
+      "id": "Glossar/O-Glossar/Organisationshandbuch",
+      "title": "Organisationshandbuch",
+      "description": "Ein Organisationshandbuch (Org-Handbuch, Orgahandbuch, OHB) beschreibt ein Managementsystem. Bei dem Wort „Managementsystem“ handelt es sich um ein Kofferwort aus „Management“ +„System“ und sollte im Deutschen eher als „System der Unternehmensführung“ verstanden bzw.  interpretiert werden.",
+      "permalink": "/en/docs/Glossar/O-Glossar/Organisationshandbuch"
     },
     {
       "id": "Glossar/R-Glossar/Projektrisiko",
@@ -115,7 +171,24 @@
       "title": "Stakeholder",
       "description": "------",
       "permalink": "/en/docs/Glossar/S-Glossar/Stakeholder"
+    },
+    {
+      "id": "Glossar/S-Glossar/Strukturkapital",
+      "title": "Strukturkapital",
+      "description": "Strukturkapital (Structural Capital – SC) kann als Wissen bezeichnet werden, das in Form von Strukturen, Prozessen und (den objektivierten Aspekten) der Unternehmenskultur quasi institutionalisiert wurde. Dazu gehören allgemeines Organisationswissen  zu Ablauforganisation bzw. Prozessmodellen, Aufbauorganisatiopn und Rollen sowies sonstiges Prozessinformationen dazu.",
+      "permalink": "/en/docs/Glossar/S-Glossar/Strukturkapital"
+    },
+    {
+      "id": "Glossar/S-Glossar/Systemkapital",
+      "title": "Systemkapital",
+      "description": "Systemkapital kann als Wissen bezeichnet werden, das in Form von Informationssystemem und Algorithmen quasi institutionalisiert wurde. Dazu gehören allgemeines Systemwissen zu Applikationssystemen und der Technologie-Infrastruktur dazu.",
+      "permalink": "/en/docs/Glossar/S-Glossar/Systemkapital"
+    },
+    {
+      "id": "Glossar/W-Glossar/Wissensbilanz",
+      "title": "Wissensbilanz",
+      "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
+      "permalink": "/en/docs/Glossar/W-Glossar/Wissensbilanz"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

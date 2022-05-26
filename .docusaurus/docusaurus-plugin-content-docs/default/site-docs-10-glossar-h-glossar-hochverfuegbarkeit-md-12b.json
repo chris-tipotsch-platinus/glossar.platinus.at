@@ -6,20 +6,21 @@
   "source": "@site/docs/10-Glossar/H-Glossar/Hochverfuegbarkeit.md",
   "sourceDirName": "10-Glossar/H-Glossar",
   "slug": "/Glossar/H-Glossar/Hochverfuegbarkeit",
-  "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
+  "permalink": "/en/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Hochverfuegbarkeit.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "Verfügbarkeit",
-      "permalink": "/docs/tags/verfugbarkeit"
+      "permalink": "/en/docs/tags/verfugbarkeit"
     }
   ],
   "version": "current",
@@ -35,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Handbuch",
-    "permalink": "/docs/Glossar/H-Glossar/Handbuch"
+    "permalink": "/en/docs/Glossar/H-Glossar/Handbuch"
   },
   "next": {
     "title": "Hosting",
-    "permalink": "/docs/Glossar/H-Glossar/Hosting"
+    "permalink": "/en/docs/Glossar/H-Glossar/Hosting"
   }
 }

@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Glossar/B-Glossar/BPM-Experte",
+  "id": "Glossar/B-Glossar/BPM-Experte",
+  "title": "BPM-Experte - *BPM-Expert*",
+  "description": "Ein BPM-Experte ist mit den Methoden und Techniken des Prozessmanagements vertraut und setzt diese ein, um alle oder ausgewählte Aufgaben des Prozessmanagements zu lösen. Mit fortschreitender Spezialisierung erfolgt eine Differenzierung in engere Rollen wie Prozessanalyst, Prozessarchitekt, Prozessmodellierer.",
+  "source": "@site/docs/10-Glossar/B-Glossar/BPM-Experte.md",
+  "sourceDirName": "10-Glossar/B-Glossar",
+  "slug": "/Glossar/B-Glossar/BPM-Experte",
+  "permalink": "/en/docs/Glossar/B-Glossar/BPM-Experte",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Experte.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/en/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/en/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BPM-Experte",
+    "titel": "BPM-Experte",
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "BPM Competency Model von ABPMP",
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM-Competency-Model"
+  },
+  "next": {
+    "title": "BPM-KB",
+    "permalink": "/en/docs/Glossar/B-Glossar/BPM-KB"
+  }
+}

@@ -1,13 +1,14 @@
 {
-  "name": "KB",
+  "label": "KB",
   "permalink": "/en/docs/tags/kb",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/B-Glossar/BPM-KB",
       "title": "BPM-KB",
       "description": "BPM-KB ist die Abkürzung für Business Prozess Management Knowledge Base.",
       "permalink": "/en/docs/Glossar/B-Glossar/BPM-KB"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

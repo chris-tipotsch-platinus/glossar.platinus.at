@@ -6,16 +6,17 @@
   "source": "@site/docs/10-Glossar/S-Glossar/SaaS.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/SaaS",
-  "permalink": "/docs/Glossar/S-Glossar/SaaS",
+  "permalink": "/en/docs/Glossar/S-Glossar/SaaS",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/SaaS.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "SLA - Dienstgütevertrag",
-    "permalink": "/docs/Glossar/S-Glossar/SLA"
+    "permalink": "/en/docs/Glossar/S-Glossar/SLA"
   },
   "next": {
     "title": "Servicekatalog",
-    "permalink": "/docs/Glossar/S-Glossar/Servicekatalog"
+    "permalink": "/en/docs/Glossar/S-Glossar/Servicekatalog"
   }
 }

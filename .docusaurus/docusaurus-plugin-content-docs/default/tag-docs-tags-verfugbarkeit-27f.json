@@ -1,7 +1,9 @@
 {
-  "name": "Verfügbarkeit",
+  "label": "Verfügbarkeit",
   "permalink": "/docs/tags/verfugbarkeit",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
     {
       "id": "Glossar/B-Glossar/Betriebszeit",
       "title": "Betriebszeit",
@@ -26,6 +28,5 @@
       "description": "Webserver sind von Providern betriebene Server für das Webhosting. Sie sind mit dem Internet oder Intranets verbunden und stellen Websites und andere Online-Informationen bereit, die beispielsweise auf Anforderung eines Browsers, das ist der Web-Client, über das Hypertext Transfer Protocol ( HTTP) oder über HTTPS angefordert werden können.",
       "permalink": "/docs/Glossar/W-Glossar/Webserver"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

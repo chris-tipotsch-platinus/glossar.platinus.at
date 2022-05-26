@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/C-Glossar/Community-of-Practice.md",
   "sourceDirName": "10-Glossar/C-Glossar",
   "slug": "/Glossar/C-Glossar/CoP",
-  "permalink": "/docs/Glossar/C-Glossar/CoP",
+  "permalink": "/en/docs/Glossar/C-Glossar/CoP",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/Community-of-Practice.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Change - Veränderung",
-    "permalink": "/docs/Glossar/C-Glossar/Change"
+    "permalink": "/en/docs/Glossar/C-Glossar/Change"
   },
   "next": {
     "title": "Compliance",
-    "permalink": "/docs/Glossar/C-Glossar/Compliance"
+    "permalink": "/en/docs/Glossar/C-Glossar/Compliance"
   }
 }

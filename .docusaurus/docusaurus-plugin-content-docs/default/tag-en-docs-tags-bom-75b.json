@@ -1,13 +1,14 @@
 {
-  "name": "BOM",
+  "label": "BOM",
   "permalink": "/en/docs/tags/bom",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/S-Glossar/Stakeholder",
       "title": "Stakeholder",
       "description": "------",
       "permalink": "/en/docs/Glossar/S-Glossar/Stakeholder"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

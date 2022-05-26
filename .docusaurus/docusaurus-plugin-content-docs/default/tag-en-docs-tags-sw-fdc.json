@@ -1,7 +1,9 @@
 {
-  "name": "SW",
+  "label": "SW",
   "permalink": "/en/docs/tags/sw",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 5,
+  "items": [
     {
       "id": "Glossar/S-Glossar/Sicherheitskette",
       "title": "Sicherheitskette",
@@ -32,6 +34,5 @@
       "description": "Die unterbrechungsfreie Stromversorgung, kurz USV, ist ein System,  das beim Eintreten von Störungen in der Stromversorgung kritischer  Systeme aktiv wird und diese weiterhin zuverlässig mit Strom versorgt.  Dazu ist es in die Stromzuleitung der Geräte eingefügt. Manche USV  tolerieren bei Aktivierung eine in der Regel unkritische Verzögerung im Millisekundenbereich.",
       "permalink": "/en/docs/Glossar/U-Glossar/USV"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

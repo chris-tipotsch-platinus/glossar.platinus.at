@@ -1,7 +1,9 @@
 {
-  "name": "Glossar",
+  "label": "Glossar",
   "permalink": "/en/docs/tags/glossar",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 4,
+  "items": [
     {
       "id": "Begriffe-Home",
       "title": "Begriffe Home",
@@ -26,6 +28,5 @@
       "description": "Der Begriff Provider (engl.: Versorger) schließt grundsätzlich alle Dienstleister ein, die die Nutzung und den Betrieb des Internets durch Ihre Services und Angebote möglich machen. So ist es beispielsweise Aufgabe eines Dienstleisters, die Verbindung zum Internet herzustellen. Anbieter, die ausschließlich in diesem Feld arbeiten, werden auch als  Internet Access Provider (IAP) bezeichnet. Sie stellen die  Leitungskapazität und Services zur Verfügung, die der User für die  Internet-Konnektivität benötigt.",
       "permalink": "/en/docs/Glossar/P-Glossar/Provider"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

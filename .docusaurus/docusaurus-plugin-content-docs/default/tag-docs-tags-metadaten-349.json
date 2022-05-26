@@ -1,13 +1,14 @@
 {
-  "name": "Metadaten",
+  "label": "Metadaten",
   "permalink": "/docs/tags/metadaten",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/P-Glossar/prozesslandkarte",
       "title": "Prozesslandkarte",
       "description": "Die Prozesslandkarte ist eine grafische Darstellung der Prozessgruppen eines Unternehmens oder Organisation. Ziel der  Prozesslandkarte ist es, ein gemeinsames Bild der identifizierten Prozessgruppen zu schaffen und diese inhaltlich den Prozessbereichen (process domains) zuzuordnen.",
       "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

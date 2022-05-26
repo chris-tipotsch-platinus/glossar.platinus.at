@@ -6,16 +6,17 @@
   "source": "@site/docs/10-Glossar/H-Glossar/Host-Discovery.md",
   "sourceDirName": "10-Glossar/H-Glossar",
   "slug": "/Glossar/H-Glossar/Hosting",
-  "permalink": "/docs/Glossar/H-Glossar/Hosting",
+  "permalink": "/en/docs/Glossar/H-Glossar/Hosting",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Host-Discovery.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Hochverfügbarkeit - High Availability",
-    "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+    "permalink": "/en/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
   },
   "next": {
-    "title": "IPS",
-    "permalink": "/docs/Glossar/I-Glossar/IPS"
+    "title": "Humankapital",
+    "permalink": "/en/docs/Glossar/H-Glossar/Humankapital"
   }
 }

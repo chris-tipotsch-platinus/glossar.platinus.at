@@ -6,32 +6,33 @@
   "source": "@site/docs/10-Glossar/H-Glossar/Handbuch.md",
   "sourceDirName": "10-Glossar/H-Glossar",
   "slug": "/Glossar/H-Glossar/Handbuch",
-  "permalink": "/docs/Glossar/H-Glossar/Handbuch",
+  "permalink": "/en/docs/Glossar/H-Glossar/Handbuch",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Handbuch.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/docs/tags/bpm"
+      "permalink": "/en/docs/tags/bpm"
     },
     {
       "label": "Handbuch",
-      "permalink": "/docs/tags/handbuch"
+      "permalink": "/en/docs/tags/handbuch"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/docs/tags/pm"
+      "permalink": "/en/docs/tags/pm"
     },
     {
       "label": "Technische Dokumentation",
-      "permalink": "/docs/tags/technische-dokumentation"
+      "permalink": "/en/docs/tags/technische-dokumentation"
     }
   ],
   "version": "current",
@@ -50,10 +51,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "HTTPS",
-    "permalink": "/docs/Glossar/H-Glossar/HTTPS"
+    "permalink": "/en/docs/Glossar/H-Glossar/HTTPS"
   },
   "next": {
     "title": "Hochverfügbarkeit - High Availability",
-    "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
+    "permalink": "/en/docs/Glossar/H-Glossar/Hochverfuegbarkeit"
   }
 }

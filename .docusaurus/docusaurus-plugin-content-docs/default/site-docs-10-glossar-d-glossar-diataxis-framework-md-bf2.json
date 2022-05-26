@@ -6,16 +6,17 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Diataxis-Framework",
-  "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework",
+  "permalink": "/en/docs/Glossar/D-Glossar/Diataxis-Framework",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/docs/tags/im"
+      "permalink": "/en/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Dashboard",
-    "permalink": "/docs/Glossar/D-Glossar/Dashboard"
+    "permalink": "/en/docs/Glossar/D-Glossar/Dashboard"
   },
   "next": {
     "title": "Dienstgüte - Quality of Service (QoS)",
-    "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
+    "permalink": "/en/docs/Glossar/D-Glossar/Dienstguete"
   }
 }

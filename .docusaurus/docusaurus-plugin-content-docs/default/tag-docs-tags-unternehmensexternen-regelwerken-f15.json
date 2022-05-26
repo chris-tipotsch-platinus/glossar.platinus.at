@@ -1,13 +1,14 @@
 {
-  "name": "Unternehmensexternen Regelwerken",
+  "label": "Unternehmensexternen Regelwerken",
   "permalink": "/docs/tags/unternehmensexternen-regelwerken",
-  "docs": [
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/C-Glossar/Compliance",
       "title": "Compliance",
       "description": "Compliance",
       "permalink": "/docs/Glossar/C-Glossar/Compliance"
     }
-  ],
-  "allTagsPath": "/docs/tags"
+  ]
 }

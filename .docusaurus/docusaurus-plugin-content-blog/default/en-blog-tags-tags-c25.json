@@ -1,14 +1,12 @@
-{
-  "blog": {
-    "allTagsPath": "/en/blog/tags",
-    "name": "blog",
-    "count": 1,
-    "permalink": "/en/blog/tags/blog"
+[
+  {
+    "label": "blog",
+    "permalink": "/en/blog/tags/blog",
+    "count": 1
   },
-  "Welcome": {
-    "allTagsPath": "/en/blog/tags",
-    "name": "Welcome",
-    "count": 1,
-    "permalink": "/en/blog/tags/welcome"
+  {
+    "label": "Welcome",
+    "permalink": "/en/blog/tags/welcome",
+    "count": 1
   }
-}
+]

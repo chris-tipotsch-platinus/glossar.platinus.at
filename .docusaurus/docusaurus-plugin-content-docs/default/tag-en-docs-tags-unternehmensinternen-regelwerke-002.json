@@ -1,13 +1,14 @@
 {
-  "name": "Unternehmensinternen Regelwerke",
+  "label": "Unternehmensinternen Regelwerke",
   "permalink": "/en/docs/tags/unternehmensinternen-regelwerke",
-  "docs": [
+  "allTagsPath": "/en/docs/tags",
+  "count": 1,
+  "items": [
     {
       "id": "Glossar/C-Glossar/Compliance",
       "title": "Compliance",
       "description": "Compliance",
       "permalink": "/en/docs/Glossar/C-Glossar/Compliance"
     }
-  ],
-  "allTagsPath": "/en/docs/tags"
+  ]
 }

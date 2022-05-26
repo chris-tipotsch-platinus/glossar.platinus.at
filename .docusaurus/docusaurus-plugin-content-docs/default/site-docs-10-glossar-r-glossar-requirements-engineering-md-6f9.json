@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/R-Glossar/Requirements-Engineering.md",
   "sourceDirName": "10-Glossar/R-Glossar",
   "slug": "/Glossar/R-Glossar/Requirements-Engineering",
-  "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering",
+  "permalink": "/en/docs/Glossar/R-Glossar/Requirements-Engineering",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Requirements-Engineering.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Recovery",
-    "permalink": "/docs/Glossar/R-Glossar/Recovery"
+    "permalink": "/en/docs/Glossar/R-Glossar/Recovery"
   },
   "next": {
     "title": "Ressourcenkalender",
-    "permalink": "/docs/Glossar/R-Glossar/Ressourcenkalender"
+    "permalink": "/en/docs/Glossar/R-Glossar/Ressourcenkalender"
   }
 }

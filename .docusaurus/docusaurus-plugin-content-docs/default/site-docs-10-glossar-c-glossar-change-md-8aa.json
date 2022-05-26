@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/C-Glossar/Change.md",
   "sourceDirName": "10-Glossar/C-Glossar",
   "slug": "/Glossar/C-Glossar/Change",
-  "permalink": "/docs/Glossar/C-Glossar/Change",
+  "permalink": "/en/docs/Glossar/C-Glossar/Change",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/Change.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/docs/tags/begriffe"
+      "permalink": "/en/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "CaaS - Container-as-a-Service",
-    "permalink": "/docs/Glossar/C-Glossar/CaaS"
+    "permalink": "/en/docs/Glossar/C-Glossar/CaaS"
   },
   "next": {
     "title": "Community of Practice",
-    "permalink": "/docs/Glossar/C-Glossar/CoP"
+    "permalink": "/en/docs/Glossar/C-Glossar/CoP"
   }
 }

@@ -6,12 +6,13 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Anforderungen.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Anforderungen",
-  "permalink": "/docs/Glossar/A-Glossar/Anforderungen",
+  "permalink": "/en/docs/Glossar/A-Glossar/Anforderungen",
+  "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anforderungen.md",
   "tags": [
     {
       "label": "IT-Begriff",
-      "permalink": "/docs/tags/it-begriff"
+      "permalink": "/en/docs/tags/it-begriff"
     }
   ],
   "version": "current",
@@ -25,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "BPM - Business Prozess Management",
-    "permalink": "/docs/Glossar/A-Glossar/BPM"
+    "permalink": "/en/docs/Glossar/A-Glossar/BPM"
   },
   "next": {
     "title": "Anleitung",
-    "permalink": "/docs/Glossar/A-Glossar/Anleitung"
+    "permalink": "/en/docs/Glossar/A-Glossar/Anleitung"
   }
 }
