@@ -14,6 +14,12 @@ tags: [Begriffe, BPM, IM, PM]
 
 Die Dokumentenklassen - auch als **Dokumentenbereiche** oder *document domains* bezeichnet - dienen der Unterscheidung von Dokumenten und der Dokumentation nach organisatorischen Kriterien. Die **Ableitung und Definition von Dokumentenklassen** orientiert sich häufig an der Ablauforganisation und/oder Aufbauorganisation. 
 
+![WM-Dokumentenbereiche](/img/WM-Dokumentenbereiche.png)
+
+Abbildung prozessorientierte [WM-Dokumentenbereiche](/img/WM-Dokumentenbereiche.png) (Quelle = platinus)
+
+
+
 - Dokumentenklassen können wiederum Dokumentenunterklassen - auch **Dokumentengruppen** bezeichnet - enthalten.
   - Dokumentenhauptbereich Leistungsprozesse
     - Dokumentenbereich Vertriebsdokumentation
