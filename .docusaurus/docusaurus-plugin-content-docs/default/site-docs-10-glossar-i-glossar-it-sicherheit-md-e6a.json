@@ -6,17 +6,17 @@
   "source": "@site/docs/10-Glossar/I-Glossar/IT-Sicherheit.md",
   "sourceDirName": "10-Glossar/I-Glossar",
   "slug": "/Glossar/I-Glossar/IT-Sicherheit",
-  "permalink": "/en/docs/Glossar/I-Glossar/IT-Sicherheit",
+  "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IT-Sicherheit.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -31,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IT-Service",
-    "permalink": "/en/docs/Glossar/I-Glossar/IT-Service"
+    "permalink": "/docs/Glossar/I-Glossar/IT-Service"
   },
   "next": {
     "title": "IaaS",
-    "permalink": "/en/docs/Glossar/I-Glossar/IaaS"
+    "permalink": "/docs/Glossar/I-Glossar/IaaS"
   }
 }

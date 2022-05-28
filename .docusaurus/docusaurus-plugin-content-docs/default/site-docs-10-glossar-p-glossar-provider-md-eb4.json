@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/P-Glossar/Provider.md",
   "sourceDirName": "10-Glossar/P-Glossar",
   "slug": "/Glossar/P-Glossar/Provider",
-  "permalink": "/en/docs/Glossar/P-Glossar/Provider",
+  "permalink": "/docs/Glossar/P-Glossar/Provider",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Provider.md",
   "tags": [
     {
       "label": "Glossar",
-      "permalink": "/en/docs/tags/glossar"
+      "permalink": "/docs/tags/glossar"
     }
   ],
   "version": "current",
@@ -28,10 +28,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Preismodell",
-    "permalink": "/en/docs/Glossar/P-Glossar/Preismodell"
+    "permalink": "/docs/Glossar/P-Glossar/Preismodell"
   },
   "next": {
     "title": "Prozessdiagramme",
-    "permalink": "/en/docs/Glossar/P-Glossar/Prozessdiagramme"
+    "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme"
   }
 }

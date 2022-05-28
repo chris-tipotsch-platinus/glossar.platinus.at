@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Aufzeichnungen.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Aufzeichnungen",
-  "permalink": "/en/docs/Glossar/A-Glossar/Aufzeichnungen",
+  "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungen",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufzeichnungen.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Aufbewahrungsfristen",
-    "permalink": "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+    "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
   },
   "next": {
     "title": "Aufzeichnungspflicht",
-    "permalink": "/en/docs/Glossar/A-Glossar/Aufzeichnungspflicht"
+    "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungspflicht"
   }
 }

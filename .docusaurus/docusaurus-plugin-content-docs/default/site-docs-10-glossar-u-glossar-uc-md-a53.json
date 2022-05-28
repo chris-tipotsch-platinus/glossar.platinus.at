@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/U-Glossar/UC.md",
   "sourceDirName": "10-Glossar/U-Glossar",
   "slug": "/Glossar/U-Glossar/UC",
-  "permalink": "/en/docs/Glossar/U-Glossar/UC",
+  "permalink": "/docs/Glossar/U-Glossar/UC",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/U-Glossar/UC.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -28,10 +28,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Systemsoftware",
-    "permalink": "/en/docs/Glossar/S-Glossar/Systemsoftware"
+    "permalink": "/docs/Glossar/S-Glossar/Systemsoftware"
   },
   "next": {
     "title": "USV",
-    "permalink": "/en/docs/Glossar/U-Glossar/USV"
+    "permalink": "/docs/Glossar/U-Glossar/USV"
   }
 }

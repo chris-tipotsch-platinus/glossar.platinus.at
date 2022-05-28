@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Aufzeichnungspflicht.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Aufzeichnungspflicht",
-  "permalink": "/en/docs/Glossar/A-Glossar/Aufzeichnungspflicht",
+  "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungspflicht",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufzeichnungspflicht.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Aufzeichnungen",
-    "permalink": "/en/docs/Glossar/A-Glossar/Aufzeichnungen"
+    "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungen"
   },
   "next": {
     "title": "Ausfallzeit",
-    "permalink": "/en/docs/Glossar/A-Glossar/Ausfallzeit"
+    "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit"
   }
 }

@@ -6,25 +6,25 @@
   "source": "@site/docs/10-Glossar/R-Glossar/Rollensteckbrief.md",
   "sourceDirName": "10-Glossar/R-Glossar",
   "slug": "/Glossar/R-Glossar/Rollensteckbrief",
-  "permalink": "/en/docs/Glossar/R-Glossar/Rollensteckbrief",
+  "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollensteckbrief.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -41,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Rollenmodell",
-    "permalink": "/en/docs/Glossar/R-Glossar/Rollenmodell"
+    "permalink": "/docs/Glossar/R-Glossar/Rollenmodell"
   },
   "next": {
     "title": "Stakeholder",
-    "permalink": "/en/docs/Glossar/S-Glossar/Stakeholder"
+    "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
   }
 }

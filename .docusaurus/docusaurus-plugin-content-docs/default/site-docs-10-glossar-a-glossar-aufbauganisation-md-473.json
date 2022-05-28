@@ -6,21 +6,21 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Aufbauganisation.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Aufbauorganisation",
-  "permalink": "/en/docs/Glossar/A-Glossar/Aufbauorganisation",
+  "permalink": "/docs/Glossar/A-Glossar/Aufbauorganisation",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufbauganisation.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -36,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "IT-Asset",
-    "permalink": "/en/docs/Glossar/A-Glossar/Asset"
+    "permalink": "/docs/Glossar/A-Glossar/Asset"
   },
   "next": {
     "title": "Aufbewahrungsfristen",
-    "permalink": "/en/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
+    "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen"
   }
 }

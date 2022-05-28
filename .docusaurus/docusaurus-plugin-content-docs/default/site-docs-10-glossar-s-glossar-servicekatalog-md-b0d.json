@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/S-Glossar/Servicekatalog.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/Servicekatalog",
-  "permalink": "/en/docs/Glossar/S-Glossar/Servicekatalog",
+  "permalink": "/docs/Glossar/S-Glossar/Servicekatalog",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Servicekatalog.md",
   "tags": [
     {
       "label": "IT-Glossar",
-      "permalink": "/en/docs/tags/it-glossar"
+      "permalink": "/docs/tags/it-glossar"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "SaaS - Software-as-a-Service",
-    "permalink": "/en/docs/Glossar/S-Glossar/SaaS"
+    "permalink": "/docs/Glossar/S-Glossar/SaaS"
   },
   "next": {
     "title": "IT-Serviceportfolio",
-    "permalink": "/en/docs/Glossar/S-Glossar/Serviceportfolio"
+    "permalink": "/docs/Glossar/S-Glossar/Serviceportfolio"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/10-Glossar/P-Glossar/Product-Backlog.md",
   "sourceDirName": "10-Glossar/P-Glossar",
   "slug": "/Glossar/P-Glossar/Product-Backlog",
-  "permalink": "/en/docs/Glossar/P-Glossar/Product-Backlog",
+  "permalink": "/docs/Glossar/P-Glossar/Product-Backlog",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Product-Backlog.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "platinus Prozessreferenzmodell",
-    "permalink": "/en/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
+    "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell"
   },
   "next": {
     "title": "Projektinformationen",
-    "permalink": "/en/docs/Glossar/P-Glossar/Projektinformationeng"
+    "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng"
   }
 }

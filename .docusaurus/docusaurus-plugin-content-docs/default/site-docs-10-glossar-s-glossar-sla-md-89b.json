@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/S-Glossar/SLA.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/SLA",
-  "permalink": "/en/docs/Glossar/S-Glossar/SLA",
+  "permalink": "/docs/Glossar/S-Glossar/SLA",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/SLA.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Stakeholder",
-    "permalink": "/en/docs/Glossar/S-Glossar/Stakeholder"
+    "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
   },
   "next": {
     "title": "SaaS - Software-as-a-Service",
-    "permalink": "/en/docs/Glossar/S-Glossar/SaaS"
+    "permalink": "/docs/Glossar/S-Glossar/SaaS"
   }
 }

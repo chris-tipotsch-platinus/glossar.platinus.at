@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Asset-Repository.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Asset-Repository",
-  "permalink": "/en/docs/Glossar/A-Glossar/Asset-Repository",
+  "permalink": "/docs/Glossar/A-Glossar/Asset-Repository",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Asset-Repository.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Artefakte",
-    "permalink": "/en/docs/Glossar/A-Glossar/Artefakte"
+    "permalink": "/docs/Glossar/A-Glossar/Artefakte"
   },
   "next": {
     "title": "IT-Asset",
-    "permalink": "/en/docs/Glossar/A-Glossar/Asset"
+    "permalink": "/docs/Glossar/A-Glossar/Asset"
   }
 }

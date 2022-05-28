@@ -6,25 +6,25 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dokumente",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dokumente",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumente",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumente.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -41,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Dokumentationsmanagement",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
   },
   "next": {
     "title": "Dokumentenklasse - Dokumentenbereich",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenklasse"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
   }
 }

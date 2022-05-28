@@ -6,17 +6,17 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Anwender.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Anwender",
-  "permalink": "/en/docs/Glossar/A-Glossar/Anwender",
+  "permalink": "/docs/Glossar/A-Glossar/Anwender",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anwender.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -31,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Anweisung - *Work Instruction*",
-    "permalink": "/en/docs/Glossar/A-Glossar/Anweisung"
+    "permalink": "/docs/Glossar/A-Glossar/Anweisung"
   },
   "next": {
     "title": "Artefakte",
-    "permalink": "/en/docs/Glossar/A-Glossar/Artefakte"
+    "permalink": "/docs/Glossar/A-Glossar/Artefakte"
   }
 }

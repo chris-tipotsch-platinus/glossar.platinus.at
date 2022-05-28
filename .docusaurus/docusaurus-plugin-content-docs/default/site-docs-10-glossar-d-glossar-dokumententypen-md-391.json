@@ -6,25 +6,25 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumententypen.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dokumententypen",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dokumententypen",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumententypen",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumententypen.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -41,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Dokumentenmanagement",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
   },
   "next": {
     "title": "Einfluss",
-    "permalink": "/en/docs/Glossar/E-Glossar/Einfluss"
+    "permalink": "/docs/Glossar/E-Glossar/Einfluss"
   }
 }

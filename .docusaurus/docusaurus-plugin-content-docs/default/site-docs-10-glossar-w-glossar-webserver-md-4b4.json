@@ -6,21 +6,21 @@
   "source": "@site/docs/10-Glossar/W-Glossar/Webserver.md",
   "sourceDirName": "10-Glossar/W-Glossar",
   "slug": "/Glossar/W-Glossar/Webserver",
-  "permalink": "/en/docs/Glossar/W-Glossar/Webserver",
+  "permalink": "/docs/Glossar/W-Glossar/Webserver",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Webserver.md",
   "tags": [
     {
       "label": "Availability",
-      "permalink": "/en/docs/tags/availability"
+      "permalink": "/docs/tags/availability"
     },
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     },
     {
       "label": "Verfügbarkeit",
-      "permalink": "/en/docs/tags/verfugbarkeit"
+      "permalink": "/docs/tags/verfugbarkeit"
     }
   ],
   "version": "current",
@@ -36,10 +36,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Webseite",
-    "permalink": "/en/docs/Glossar/W-Glossar/Webseite"
+    "permalink": "/docs/Glossar/W-Glossar/Webseite"
   },
   "next": {
     "title": "Website",
-    "permalink": "/en/docs/Glossar/W-Glossar/Website"
+    "permalink": "/docs/Glossar/W-Glossar/Website"
   }
 }
