@@ -6,25 +6,25 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT.md",
   "sourceDirName": "10-Glossar/D-Glossar/Dokumentenlandkarten",
   "slug": "/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -40,11 +40,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dokumentenklasse - Dokumentenbereich",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenklasse"
+    "title": "Dokumentenklasse",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
   },
   "next": {
     "title": "Dokumentenlebenszyklus",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
   }
 }

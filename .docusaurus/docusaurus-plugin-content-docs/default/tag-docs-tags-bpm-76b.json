@@ -2,7 +2,7 @@
   "label": "BPM",
   "permalink": "/docs/tags/bpm",
   "allTagsPath": "/docs/tags",
-  "count": 42,
+  "count": 47,
   "items": [
     {
       "id": "Glossar/A-Glossar/Anweisung",
@@ -102,7 +102,7 @@
     },
     {
       "id": "Glossar/D-Glossar/Dokumentation",
-      "title": "Dokumentation - Documentation",
+      "title": "Dokumentation",
       "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
     },
@@ -119,6 +119,12 @@
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
     },
     {
+      "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+      "title": "Dokumentationslandkarte IT",
+      "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+    },
+    {
       "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
       "title": "Dokumentationslandkarte IT",
       "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
@@ -131,14 +137,20 @@
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
     },
     {
+      "id": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+      "title": "Dokumentationsrichtlinie",
+      "description": "Richtlinien definieren gemäß hier verwendeter Definition allgemeine Anforderungen an die Dokumentation. Dementsprechend definiert die Dokumentationsrichtlinie verbindliche übergeordnete Regelungen für die Dokumentation. Hierzu zählen mindesten die folgenden Punkte:",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
+    },
+    {
       "id": "Glossar/D-Glossar/Dokumente",
-      "title": "Dokumente - Documents",
+      "title": "Dokumente",
       "description": "Was ist eine Dokument?",
       "permalink": "/docs/Glossar/D-Glossar/Dokumente"
     },
     {
       "id": "Glossar/D-Glossar/Dokumentenklasse",
-      "title": "Dokumentenklasse - Dokumentenbereich",
+      "title": "Dokumentenklasse",
       "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
     },
@@ -185,6 +197,12 @@
       "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
     },
     {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+      "title": "Geschäftsprozessmodell",
+      "description": "Business Process Management (BPM)",
+      "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
+    },
+    {
       "id": "Glossar/H-Glossar/Handbuch",
       "title": "Handbuch",
       "description": "Ein Handbuch („etwas, das man in der Hand hält“) ist eine geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens und kann als Nachschlagewerk dienen.",
@@ -201,6 +219,12 @@
       "title": "Informationsqualität",
       "description": "Informationsqualität ist das Maß für die Erfüllung der „Gesamtheit der Anforderungen an eine Information bzw. ein Informationsprodukt, die sich auf deren Eignung zur Erfüllung gegebener Informationsbedarfe beziehen“.",
       "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
+    },
+    {
+      "id": "Glossar/K-Glossar/Kompetenzmodell",
+      "title": "Kompetenzmodell",
+      "description": "Knowledge + Skills = Competency. Competency + Capacity = Capability.",
+      "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell"
     },
     {
       "id": "Glossar/L-Glossar/Leitlinie",
@@ -255,6 +279,12 @@
       "title": "Wissensbilanz",
       "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
       "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+    },
+    {
+      "id": "Glossar/W-Glossar/Wissensmanagement",
+      "title": "Wissensmanagement",
+      "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
+      "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
     }
   ]
 }

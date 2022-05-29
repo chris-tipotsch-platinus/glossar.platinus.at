@@ -1,6 +1,6 @@
 ---
 id: Dokumentenlenkung
-titel: Dokumentenlenkung
+title: Dokumentenlenkung
 tags: [Begriffe, BPM, IM, PM]
 ---
 

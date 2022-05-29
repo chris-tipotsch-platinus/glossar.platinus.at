@@ -1,36 +1,36 @@
 {
   "unversionedId": "Glossar/D-Glossar/Dokumentenklasse",
   "id": "Glossar/D-Glossar/Dokumentenklasse",
-  "title": "Dokumentenklasse - Dokumentenbereich",
+  "title": "Dokumentenklasse",
   "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dokumentenklasse",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenklasse",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
   "frontMatter": {
     "id": "Dokumentenklasse",
-    "titel": "Dokumentenklasse",
+    "title": "Dokumentenklasse",
     "tags": [
       "Begriffe",
       "BPM",
@@ -40,11 +40,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dokumente - Documents",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumente"
+    "title": "Dokumente",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumente"
   },
   "next": {
     "title": "Dokumentationslandkarte IT",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
   }
 }

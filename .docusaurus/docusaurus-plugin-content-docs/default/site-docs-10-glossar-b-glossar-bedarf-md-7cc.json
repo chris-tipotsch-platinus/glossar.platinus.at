@@ -6,25 +6,25 @@
   "source": "@site/docs/10-Glossar/B-Glossar/Bedarf.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/Bedarf",
-  "permalink": "/en/docs/Glossar/B-Glossar/Bedarf",
+  "permalink": "/docs/Glossar/B-Glossar/Bedarf",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Bedarf.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -41,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "BPMN - Business Process Model and Notation",
-    "permalink": "/en/docs/Glossar/B-Glossar/BPMN"
+    "permalink": "/docs/Glossar/B-Glossar/BPMN"
   },
   "next": {
     "title": "Benchmarking",
-    "permalink": "/en/docs/Glossar/B-Glossar/Benchmarking"
+    "permalink": "/docs/Glossar/B-Glossar/Benchmarking"
   }
 }

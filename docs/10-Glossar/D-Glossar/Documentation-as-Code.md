@@ -1,6 +1,6 @@
 ---
 id: Doc-as-Code 
-titel: Documentation-as-Code
+title: Documentation-as-Code
 tags: [Begriffe, BPM, IM, PM, Dokumentation, Web]
 ---
 
@@ -12,7 +12,7 @@ tags: [Begriffe, BPM, IM, PM, Dokumentation, Web]
 
 ## Was ist Doc-as-Code?
 
-Mit dem Ansatz: **Dokumentation als Code** ([Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)) wird die technische Dokumentation mit ähnlichen Boardmitteln wie auch der Quellcode von Software erstellt und gepflegt: Im selben Texteditor oder einer IDE (integrated  Development Environment), als reiner Text, versioniert im Software-Repository (meist [GIT](https://git-scm.com/) oder GitHub, GitLab). 
+Mit dem Ansatz: **Dokumentation als Code** ([Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)) wird die technische Dokumentation mit ähnlichen Boardmitteln wie auch der Quellcode von Software erstellt und gepflegt: Im selben Texteditor oder einer IDE (Integrated Development Environment), als reiner Text, versioniert im Software-Repository (meist [GIT](https://git-scm.com/) oder GitHub, GitLab). 
 
 Mergen (zusammenfassen) und branchen (verteilen) Sie die Dokumentation genau wie Quellcode. Statt binäre Dokumente per E-Mail zu versenden und  Versionsnummern und Namenskürzel an die Dateinamen zu hängen, checken Sie Ihre Dokumentation per Commit und Push in GIT ein, mit derselben  Branching-Strategie, mit der auch die Software entwickelt wird. Das Dokumentationsteam verfügrt ober geeigneten Werkzeuge und die Motivation zur Erstellung und Pflege von Dokumentation wird durch eine klar definierte Dokumentationsstruktur auch gleich besser. Mit diesem Ansatz kann ein  breites Spektrum technischer Dokumentation abdecken werden. So können beispielsweise Tutorials, Software-Handbücher, Architekturdokumentation, Entwicklerdokumentation bei der Lösungsentwicklung oder auch zahlreiche Betriebsdokumentation abgebildet und verwaltet werden. Für diesen Ansatz hat sich im Netz der Begriff *Docs-as-Code* etabliert – also Dokumentation genauso wie Quellcode behandeln.
 

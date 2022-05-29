@@ -6,25 +6,25 @@
   "source": "@site/docs/10-Glossar/B-Glossar/Benchmarking.md",
   "sourceDirName": "10-Glossar/B-Glossar",
   "slug": "/Glossar/B-Glossar/Benchmarking",
-  "permalink": "/en/docs/Glossar/B-Glossar/Benchmarking",
+  "permalink": "/docs/Glossar/B-Glossar/Benchmarking",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Benchmarking.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
@@ -41,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Bedarf - Demand",
-    "permalink": "/en/docs/Glossar/B-Glossar/Bedarf"
+    "permalink": "/docs/Glossar/B-Glossar/Bedarf"
   },
   "next": {
     "title": "Benutzer - User",
-    "permalink": "/en/docs/Glossar/B-Glossar/Benutzer"
+    "permalink": "/docs/Glossar/B-Glossar/Benutzer"
   }
 }

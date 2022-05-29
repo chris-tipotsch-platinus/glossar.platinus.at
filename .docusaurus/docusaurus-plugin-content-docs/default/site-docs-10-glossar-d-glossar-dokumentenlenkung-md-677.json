@@ -6,31 +6,31 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenlenkung.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dokumentenlenkung",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlenkung",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentenlenkung",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlenkung.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "PM",
-      "permalink": "/en/docs/tags/pm"
+      "permalink": "/docs/tags/pm"
     }
   ],
   "version": "current",
   "frontMatter": {
     "id": "Dokumentenlenkung",
-    "titel": "Dokumentenlenkung",
+    "title": "Dokumentenlenkung",
     "tags": [
       "Begriffe",
       "BPM",
@@ -41,10 +41,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Dokumentenlebenszyklus",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus"
   },
   "next": {
     "title": "Dokumentenmanagement",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
   }
 }

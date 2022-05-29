@@ -1,28 +1,28 @@
 {
   "unversionedId": "Glossar/D-Glossar/Diataxis-Framework",
   "id": "Glossar/D-Glossar/Diataxis-Framework",
-  "title": "Diataxis Framework",
+  "title": "Diataxis Dokumentations-Framework",
   "description": "A systematic framework for technical documentation authoring.",
   "source": "@site/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Diataxis-Framework",
-  "permalink": "/en/docs/Glossar/D-Glossar/Diataxis-Framework",
+  "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
   "frontMatter": {
     "id": "Diataxis-Framework",
-    "titel": "Diataxis Dokumentations-Framework",
+    "title": "Diataxis Dokumentations-Framework",
     "tags": [
       "Begriffe",
       "IM"
@@ -31,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Dashboard",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dashboard"
+    "permalink": "/docs/Glossar/D-Glossar/Dashboard"
   },
   "next": {
-    "title": "Dienstgüte - Quality of Service (QoS)",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dienstguete"
+    "title": "Dienstgüte",
+    "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
   }
 }

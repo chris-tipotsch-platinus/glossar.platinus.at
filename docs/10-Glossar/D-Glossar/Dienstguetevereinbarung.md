@@ -1,6 +1,6 @@
 ---
 id: Dienstguetevereinbarung
-titel: Dienstgütevereinbarung
+title: Dienstgütevereinbarung
 tags: [Begriffe, IM]
 ---
 

@@ -1,0 +1,42 @@
+{
+  "unversionedId": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+  "id": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+  "title": "ISO10006",
+  "description": "------",
+  "source": "@site/docs/10-Glossar/N-Glossar/Normen/ISO10006.md",
+  "sourceDirName": "10-Glossar/N-Glossar/Normen",
+  "slug": "/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+  "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/ISO10006.md",
+  "tags": [
+    {
+      "label": "Normen",
+      "permalink": "/docs/tags/normen"
+    },
+    {
+      "label": "Referenzsteckbrief",
+      "permalink": "/docs/tags/referenzsteckbrief"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "ISO1009-Referenzsteckbrief",
+    "title": "ISO10006",
+    "sidebar_position": 3,
+    "tags": [
+      "Normen",
+      "Referenzsteckbrief"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Netzwerksicherheit",
+    "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+  },
+  "next": {
+    "title": "ISO21500",
+    "permalink": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+  }
+}

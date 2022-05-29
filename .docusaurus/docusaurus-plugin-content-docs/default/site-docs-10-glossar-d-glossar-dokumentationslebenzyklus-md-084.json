@@ -6,27 +6,27 @@
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
   "sourceDirName": "10-Glossar/D-Glossar",
   "slug": "/Glossar/D-Glossar/Dokumentationslebenzyklus",
-  "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     },
     {
       "label": "IT-Dokumentation",
-      "permalink": "/en/docs/tags/it-dokumentation"
+      "permalink": "/docs/tags/it-dokumentation"
     }
   ],
   "version": "current",
   "frontMatter": {
     "id": "Dokumentationslebenzyklus",
-    "titel": "Dokumentationslebenzyklus",
+    "title": "Dokumentationslebenzyklus",
     "tags": [
       "Begriffe",
       "IM",
@@ -35,11 +35,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dokumentationskonzept",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationskonzept"
+    "title": "Dokumentationslandkarte IT",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
   },
   "next": {
     "title": "Dokumentationsmanagement",
-    "permalink": "/en/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
   }
 }

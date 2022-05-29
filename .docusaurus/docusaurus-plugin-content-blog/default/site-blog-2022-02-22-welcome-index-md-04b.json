@@ -1,19 +1,19 @@
 {
-  "permalink": "/en/blog/welcome",
+  "permalink": "/blog/welcome",
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/blog/2022-02-22-welcome/index.md",
   "source": "@site/blog/2022-02-22-welcome/index.md",
   "title": "Willkommen",
   "description": "Willkommen beim platinus-Glossar",
   "date": "2022-02-22T00:00:00.000Z",
-  "formattedDate": "February 22, 2022",
+  "formattedDate": "22. Februar 2022",
   "tags": [
     {
       "label": "blog",
-      "permalink": "/en/blog/tags/blog"
+      "permalink": "/blog/tags/blog"
     },
     {
       "label": "Welcome",
-      "permalink": "/en/blog/tags/welcome"
+      "permalink": "/blog/tags/welcome"
     }
   ],
   "readingTime": 0.345,

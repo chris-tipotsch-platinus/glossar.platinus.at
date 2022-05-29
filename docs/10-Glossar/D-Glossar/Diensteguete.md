@@ -1,6 +1,6 @@
 ---
 id: Dienstguete
-titel: Dienstgüte
+title: Dienstgüte
 tags: [Begriffe, IM]
 ---
 

@@ -6,17 +6,17 @@
   "source": "@site/docs/10-Glossar/F-Glossar/Funktionalitaet.md",
   "sourceDirName": "10-Glossar/F-Glossar",
   "slug": "/Glossar/F-Glossar/Funktionalität",
-  "permalink": "/en/docs/Glossar/F-Glossar/Funktionalität",
+  "permalink": "/docs/Glossar/F-Glossar/Funktionalität",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Funktionalitaet.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -31,10 +31,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Full-Time-Equivalent",
-    "permalink": "/en/docs/Glossar/F-Glossar/FTE"
+    "permalink": "/docs/Glossar/F-Glossar/FTE"
   },
   "next": {
     "title": "Geschaeftsmodell",
-    "permalink": "/en/docs/Glossar/G-Glossar/Geschaeftsmodell"
+    "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell"
   }
 }

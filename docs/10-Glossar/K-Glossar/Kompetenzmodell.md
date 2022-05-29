@@ -1,7 +1,7 @@
 ---
 id: Kompetenzmodell 
 title: Kompetenzmodell 
-sidebar_position: 
+sidebar_position: 1
 tags: [BPM, Karriere, Kompetenz, People-Readiness, PM, Skills]
 ---
 

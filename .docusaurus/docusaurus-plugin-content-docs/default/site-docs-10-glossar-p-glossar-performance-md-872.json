@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/P-Glossar/Performance.md",
   "sourceDirName": "10-Glossar/P-Glossar",
   "slug": "/Glossar/P-Glossar/Performance",
-  "permalink": "/en/docs/Glossar/P-Glossar/Performance",
+  "permalink": "/docs/Glossar/P-Glossar/Performance",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Performance.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Projektinformationen",
-    "permalink": "/en/docs/Glossar/P-Glossar/Projektinformationeng"
+    "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
   },
   "next": {
     "title": "Prozessreifegrad",
-    "permalink": "/en/docs/Glossar/P-Glossar/Prozessreifegrad"
+    "permalink": "/docs/Glossar/P-Glossar/Prozessreifegrad"
   }
 }

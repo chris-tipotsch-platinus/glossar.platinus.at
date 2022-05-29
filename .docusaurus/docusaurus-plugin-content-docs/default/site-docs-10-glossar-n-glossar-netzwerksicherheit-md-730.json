@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/N-Glossar/Netzwerksicherheit.md",
   "sourceDirName": "10-Glossar/N-Glossar",
   "slug": "/Glossar/N-Glossar/Netzwerksicherheit",
-  "permalink": "/en/docs/Glossar/N-Glossar/Netzwerksicherheit",
+  "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Netzwerksicherheit.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Markdown",
-    "permalink": "/en/docs/Glossar/M-Glossar/Markdown"
+    "permalink": "/docs/Glossar/M-Glossar/Markdown"
   },
   "next": {
-    "title": "Open Source Software",
-    "permalink": "/en/docs/Glossar/O-Glossar/Open-Source-Software"
+    "title": "ISO10006",
+    "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
   }
 }

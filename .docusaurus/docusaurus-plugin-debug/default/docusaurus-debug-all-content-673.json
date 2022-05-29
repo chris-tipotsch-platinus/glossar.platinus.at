@@ -4,14 +4,14 @@
       "loadedVersions": [
         {
           "versionName": "current",
-          "versionLabel": "Next",
-          "versionPath": "/docs",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
           "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs",
-          "versionEditUrlLocalized": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/i18n/de/docusaurus-plugin-content-docs/current",
-          "versionBanner": null,
-          "versionBadge": false,
-          "versionClassName": "docs-version-current",
+          "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs",
+          "editUrlLocalized": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/i18n/de/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/chris/GitHub/chris-tipotsch-platinus/glossar.platinus.at/sidebars.js",
@@ -27,6 +27,7 @@
               "sourceDirName": ".",
               "slug": "/Begriffe-Home",
               "permalink": "/docs/Begriffe-Home",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Begriffe.md",
               "tags": [
                 {
@@ -64,6 +65,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/ABPMP",
               "permalink": "/docs/Glossar/A-Glossar/ABPMP",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/ABPMPI.md",
               "tags": [
                 {
@@ -103,6 +105,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Anforderungen",
               "permalink": "/docs/Glossar/A-Glossar/Anforderungen",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anforderungen.md",
               "tags": [
                 {
@@ -137,6 +140,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Anleitung",
               "permalink": "/docs/Glossar/A-Glossar/Anleitung",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anleitung.md",
               "tags": [
                 {
@@ -171,6 +175,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Anweisung",
               "permalink": "/docs/Glossar/A-Glossar/Anweisung",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anweisungen.md",
               "tags": [
                 {
@@ -215,6 +220,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Anwender",
               "permalink": "/docs/Glossar/A-Glossar/Anwender",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anwender.md",
               "tags": [
                 {
@@ -254,6 +260,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Artefakte",
               "permalink": "/docs/Glossar/A-Glossar/Artefakte",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Artefakte.md",
               "tags": [
                 {
@@ -288,6 +295,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Asset",
               "permalink": "/docs/Glossar/A-Glossar/Asset",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Asset.md",
               "tags": [
                 {
@@ -322,6 +330,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Asset-Repository",
               "permalink": "/docs/Glossar/A-Glossar/Asset-Repository",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Asset-Repository.md",
               "tags": [
                 {
@@ -356,6 +365,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Aufbauorganisation",
               "permalink": "/docs/Glossar/A-Glossar/Aufbauorganisation",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufbauganisation.md",
               "tags": [
                 {
@@ -400,6 +410,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Aufbewahrungsfristen",
               "permalink": "/docs/Glossar/A-Glossar/Aufbewahrungsfristen",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufbewahrungsfristen.md",
               "tags": [
                 {
@@ -434,6 +445,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Aufzeichnungen",
               "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungen",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufzeichnungen.md",
               "tags": [
                 {
@@ -468,6 +480,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Aufzeichnungspflicht",
               "permalink": "/docs/Glossar/A-Glossar/Aufzeichnungspflicht",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Aufzeichnungspflicht.md",
               "tags": [
                 {
@@ -502,6 +515,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/Ausfallzeit",
               "permalink": "/docs/Glossar/A-Glossar/Ausfallzeit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Ausfallzeit.md",
               "tags": [
                 {
@@ -536,6 +550,7 @@
               "sourceDirName": "10-Glossar/A-Glossar",
               "slug": "/Glossar/A-Glossar/BPM",
               "permalink": "/docs/Glossar/A-Glossar/BPM",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Ablauforganisation.md",
               "tags": [
                 {
@@ -570,6 +585,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Bedarf",
               "permalink": "/docs/Glossar/B-Glossar/Bedarf",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Bedarf.md",
               "tags": [
                 {
@@ -619,6 +635,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Benchmarking",
               "permalink": "/docs/Glossar/B-Glossar/Benchmarking",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Benchmarking.md",
               "tags": [
                 {
@@ -668,6 +685,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Benutzer",
               "permalink": "/docs/Glossar/B-Glossar/Benutzer",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Benutzer.md",
               "tags": [
                 {
@@ -707,6 +725,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Best-Practice",
               "permalink": "/docs/Glossar/B-Glossar/Best-Practice",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Best-Practice.md",
               "tags": [
                 {
@@ -756,6 +775,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Besucher",
               "permalink": "/docs/Glossar/B-Glossar/Besucher",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Besucher.md",
               "tags": [
                 {
@@ -795,6 +815,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Betriebszeit",
               "permalink": "/docs/Glossar/B-Glossar/Betriebszeit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Betriebszeit.md",
               "tags": [
                 {
@@ -839,6 +860,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Beziehungskapital",
               "permalink": "/docs/Glossar/B-Glossar/Beziehungskapital",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Beziehungskapital.md",
               "tags": [
                 {
@@ -888,6 +910,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/Bottleneck",
               "permalink": "/docs/Glossar/B-Glossar/Bottleneck",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Bottleneck.md",
               "tags": [
                 {
@@ -927,6 +950,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPI",
               "permalink": "/docs/Glossar/B-Glossar/BPI",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPI.md",
               "tags": [
                 {
@@ -966,6 +990,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPI",
               "permalink": "/docs/Glossar/B-Glossar/BPI",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/Business-Analyse.md",
               "tags": [
                 {
@@ -1005,6 +1030,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPM",
               "permalink": "/docs/Glossar/B-Glossar/BPM",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM.md",
               "tags": [
                 {
@@ -1044,6 +1070,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPM-Competency-Model",
               "permalink": "/docs/Glossar/B-Glossar/BPM-Competency-Model",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Competency-Model .md",
               "tags": [
                 {
@@ -1083,6 +1110,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPM-Experte",
               "permalink": "/docs/Glossar/B-Glossar/BPM-Experte",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Experte.md",
               "tags": [
                 {
@@ -1122,6 +1150,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPM-KB",
               "permalink": "/docs/Glossar/B-Glossar/BPM-KB",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-KB.md",
               "tags": [
                 {
@@ -1166,6 +1195,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPM-Rahmenkonzept",
               "permalink": "/docs/Glossar/B-Glossar/BPM-Rahmenkonzept",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPM-Rahmenkonzept.md",
               "tags": [
                 {
@@ -1205,6 +1235,7 @@
               "sourceDirName": "10-Glossar/B-Glossar",
               "slug": "/Glossar/B-Glossar/BPMN",
               "permalink": "/docs/Glossar/B-Glossar/BPMN",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/B-Glossar/BPMN.md",
               "tags": [
                 {
@@ -1244,6 +1275,7 @@
               "sourceDirName": "10-Glossar/C-Glossar",
               "slug": "/Glossar/C-Glossar/CaaS",
               "permalink": "/docs/Glossar/C-Glossar/CaaS",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/CaaS.md",
               "tags": [
                 {
@@ -1283,6 +1315,7 @@
               "sourceDirName": "10-Glossar/C-Glossar",
               "slug": "/Glossar/C-Glossar/Change",
               "permalink": "/docs/Glossar/C-Glossar/Change",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/Change.md",
               "tags": [
                 {
@@ -1317,6 +1350,7 @@
               "sourceDirName": "10-Glossar/C-Glossar",
               "slug": "/Glossar/C-Glossar/Compliance",
               "permalink": "/docs/Glossar/C-Glossar/Compliance",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/Compliance.md",
               "tags": [
                 {
@@ -1371,6 +1405,7 @@
               "sourceDirName": "10-Glossar/C-Glossar",
               "slug": "/Glossar/C-Glossar/CoP",
               "permalink": "/docs/Glossar/C-Glossar/CoP",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/C-Glossar/Community-of-Practice.md",
               "tags": [
                 {
@@ -1405,6 +1440,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dashboard",
               "permalink": "/docs/Glossar/D-Glossar/Dashboard",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dashboard.md",
               "tags": [
                 {
@@ -1427,7 +1463,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dashboard",
-                "titel": "Dashboard",
+                "title": "Dashboard",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1441,19 +1477,20 @@
                 "permalink": "/docs/Glossar/C-Glossar/Compliance"
               },
               "next": {
-                "title": "Diataxis Framework",
+                "title": "Diataxis Dokumentations-Framework",
                 "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Diataxis-Framework",
               "id": "Glossar/D-Glossar/Diataxis-Framework",
-              "title": "Diataxis Framework",
+              "title": "Diataxis Dokumentations-Framework",
               "description": "A systematic framework for technical documentation authoring.",
               "source": "@site/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Diataxis-Framework",
               "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
               "tags": [
                 {
@@ -1468,7 +1505,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Diataxis-Framework",
-                "titel": "Diataxis Dokumentations-Framework",
+                "title": "Diataxis Dokumentations-Framework",
                 "tags": [
                   "Begriffe",
                   "IM"
@@ -1480,19 +1517,20 @@
                 "permalink": "/docs/Glossar/D-Glossar/Dashboard"
               },
               "next": {
-                "title": "Dienstgüte - Quality of Service (QoS)",
+                "title": "Dienstgüte",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dienstguete",
               "id": "Glossar/D-Glossar/Dienstguete",
-              "title": "Dienstgüte - Quality of Service (QoS)",
+              "title": "Dienstgüte",
               "description": "QoS",
               "source": "@site/docs/10-Glossar/D-Glossar/Diensteguete.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dienstguete",
               "permalink": "/docs/Glossar/D-Glossar/Dienstguete",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Diensteguete.md",
               "tags": [
                 {
@@ -1507,7 +1545,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dienstguete",
-                "titel": "Dienstgüte",
+                "title": "Dienstgüte",
                 "tags": [
                   "Begriffe",
                   "IM"
@@ -1515,23 +1553,24 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Diataxis Framework",
+                "title": "Diataxis Dokumentations-Framework",
                 "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
               },
               "next": {
-                "title": "Dienstgütevereinbarung - Service Level Agreement",
+                "title": "Dienstgütevereinbarung",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dienstguetevereinbarung",
               "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
-              "title": "Dienstgütevereinbarung - Service Level Agreement",
+              "title": "Dienstgütevereinbarung",
               "description": "SLA",
               "source": "@site/docs/10-Glossar/D-Glossar/Dienstguetevereinbarung.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dienstguetevereinbarung",
               "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dienstguetevereinbarung.md",
               "tags": [
                 {
@@ -1546,7 +1585,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dienstguetevereinbarung",
-                "titel": "Dienstgütevereinbarung",
+                "title": "Dienstgütevereinbarung",
                 "tags": [
                   "Begriffe",
                   "IM"
@@ -1554,7 +1593,7 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dienstgüte - Quality of Service (QoS)",
+                "title": "Dienstgüte",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
               },
               "next": {
@@ -1571,6 +1610,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Doc-as-Code",
               "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Documentation-as-Code.md",
               "tags": [
                 {
@@ -1601,7 +1641,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Doc-as-Code",
-                "titel": "Documentation-as-Code",
+                "title": "Documentation-as-Code",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1613,23 +1653,24 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dienstgütevereinbarung - Service Level Agreement",
+                "title": "Dienstgütevereinbarung",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
               },
               "next": {
-                "title": "Dokumentation - Documentation",
+                "title": "Dokumentation",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dokumentation",
               "id": "Glossar/D-Glossar/Dokumentation",
-              "title": "Dokumentation - Documentation",
+              "title": "Dokumentation",
               "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumentation.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentation",
               "permalink": "/docs/Glossar/D-Glossar/Dokumentation",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentation.md",
               "tags": [
                 {
@@ -1652,7 +1693,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentation",
-                "titel": "Dokumentation",
+                "title": "Dokumentation",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1679,6 +1720,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentationsarchitektur",
               "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsarchitektur.md",
               "tags": [
                 {
@@ -1701,7 +1743,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentationsarchitektur",
-                "titel": "Dokumentationsarchitektur",
+                "title": "Dokumentationsarchitektur",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1711,7 +1753,7 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentation - Documentation",
+                "title": "Dokumentation",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
               },
               "next": {
@@ -1728,6 +1770,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentationskonzept",
               "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationskonzept.md",
               "tags": [
                 {
@@ -1750,7 +1793,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentationskonzept",
-                "titel": "Dokumentationskonzept",
+                "title": "Dokumentationskonzept",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1777,7 +1820,303 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentationslandkarte-IT",
               "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationslandkarte-IT.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationslandkarte-IT",
+                "title": "Dokumentationslandkarte IT",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationskonzept",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
+              },
+              "next": {
+                "title": "Dokumentationslebenzyklus",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationslebenzyklus",
+              "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
+              "title": "Dokumentationslebenzyklus",
+              "description": "Technische Dokumentation im Produktlebenszyklus",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationslebenzyklus",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "IT-Dokumentation",
+                  "permalink": "/docs/tags/it-dokumentation"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationslebenzyklus",
+                "title": "Dokumentationslebenzyklus",
+                "tags": [
+                  "Begriffe",
+                  "IM",
+                  "IT-Dokumentation"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationslandkarte IT",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+              },
+              "next": {
+                "title": "Dokumentationsmanagement",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationsmanagement",
+              "id": "Glossar/D-Glossar/Dokumentationsmanagement",
+              "title": "Dokumentationsmanagement",
+              "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationsmanagement",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationsmanagement",
+                "title": "Dokumentationsmanagement",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationslebenzyklus",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+              },
+              "next": {
+                "title": "Dokumentationsrichtlinie",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "id": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "title": "Dokumentationsrichtlinie",
+              "description": "Richtlinien definieren gemäß hier verwendeter Definition allgemeine Anforderungen an die Dokumentation. Dementsprechend definiert die Dokumentationsrichtlinie verbindliche übergeordnete Regelungen für die Dokumentation. Hierzu zählen mindesten die folgenden Punkte:",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsrichtlinie.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsrichtlinie.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationsrichtlinie",
+                "title": "Dokumentationsrichtlinie",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationsmanagement",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+              },
+              "next": {
+                "title": "Dokumente",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumente"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumente",
+              "id": "Glossar/D-Glossar/Dokumente",
+              "title": "Dokumente",
+              "description": "Was ist eine Dokument?",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumente",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumente",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumente.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumente",
+                "title": "Dokumente",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationsrichtlinie",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
+              },
+              "next": {
+                "title": "Dokumentenklasse",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentenklasse",
+              "id": "Glossar/D-Glossar/Dokumentenklasse",
+              "title": "Dokumentenklasse",
+              "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentenklasse",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentenklasse",
+                "title": "Dokumentenklasse",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumente",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumente"
+              },
+              "next": {
+                "title": "Dokumentationslandkarte IT",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+              "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+              "title": "Dokumentationslandkarte IT",
+              "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT.md",
+              "sourceDirName": "10-Glossar/D-Glossar/Dokumentenlandkarten",
+              "slug": "/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT.md",
               "tags": [
                 {
                   "label": "Begriffe",
@@ -1809,199 +2148,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentationskonzept",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
-              },
-              "next": {
-                "title": "Dokumentationslebenzyklus",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
-              }
-            },
-            {
-              "unversionedId": "Glossar/D-Glossar/Dokumentationslebenzyklus",
-              "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
-              "title": "Dokumentationslebenzyklus",
-              "description": "Technische Dokumentation im Produktlebenszyklus",
-              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
-              "sourceDirName": "10-Glossar/D-Glossar",
-              "slug": "/Glossar/D-Glossar/Dokumentationslebenzyklus",
-              "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
-              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationslebenzyklus.md",
-              "tags": [
-                {
-                  "label": "Begriffe",
-                  "permalink": "/docs/tags/begriffe"
-                },
-                {
-                  "label": "IM",
-                  "permalink": "/docs/tags/im"
-                },
-                {
-                  "label": "IT-Dokumentation",
-                  "permalink": "/docs/tags/it-dokumentation"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "id": "Dokumentationslebenzyklus",
-                "titel": "Dokumentationslebenzyklus",
-                "tags": [
-                  "Begriffe",
-                  "IM",
-                  "IT-Dokumentation"
-                ]
-              },
-              "sidebar": "Sidebar10",
-              "previous": {
-                "title": "Dokumentationslandkarte IT",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
-              },
-              "next": {
-                "title": "Dokumentationsmanagement",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
-              }
-            },
-            {
-              "unversionedId": "Glossar/D-Glossar/Dokumentationsmanagement",
-              "id": "Glossar/D-Glossar/Dokumentationsmanagement",
-              "title": "Dokumentationsmanagement",
-              "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
-              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
-              "sourceDirName": "10-Glossar/D-Glossar",
-              "slug": "/Glossar/D-Glossar/Dokumentationsmanagement",
-              "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement",
-              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
-              "tags": [
-                {
-                  "label": "Begriffe",
-                  "permalink": "/docs/tags/begriffe"
-                },
-                {
-                  "label": "BPM",
-                  "permalink": "/docs/tags/bpm"
-                },
-                {
-                  "label": "IM",
-                  "permalink": "/docs/tags/im"
-                },
-                {
-                  "label": "PM",
-                  "permalink": "/docs/tags/pm"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "id": "Dokumentationsmanagement",
-                "titel": "Dokumentationsmanagement",
-                "tags": [
-                  "Begriffe",
-                  "BPM",
-                  "IM",
-                  "PM"
-                ]
-              },
-              "sidebar": "Sidebar10",
-              "previous": {
-                "title": "Dokumentationslebenzyklus",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
-              },
-              "next": {
-                "title": "Dokumente - Documents",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumente"
-              }
-            },
-            {
-              "unversionedId": "Glossar/D-Glossar/Dokumente",
-              "id": "Glossar/D-Glossar/Dokumente",
-              "title": "Dokumente - Documents",
-              "description": "Was ist eine Dokument?",
-              "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
-              "sourceDirName": "10-Glossar/D-Glossar",
-              "slug": "/Glossar/D-Glossar/Dokumente",
-              "permalink": "/docs/Glossar/D-Glossar/Dokumente",
-              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumente.md",
-              "tags": [
-                {
-                  "label": "Begriffe",
-                  "permalink": "/docs/tags/begriffe"
-                },
-                {
-                  "label": "BPM",
-                  "permalink": "/docs/tags/bpm"
-                },
-                {
-                  "label": "PM",
-                  "permalink": "/docs/tags/pm"
-                },
-                {
-                  "label": "IM",
-                  "permalink": "/docs/tags/im"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "id": "Dokumente",
-                "titel": "Dokumente",
-                "tags": [
-                  "Begriffe",
-                  "BPM",
-                  "PM",
-                  "IM"
-                ]
-              },
-              "sidebar": "Sidebar10",
-              "previous": {
-                "title": "Dokumentationsmanagement",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
-              },
-              "next": {
-                "title": "Dokumentenklasse - Dokumentenbereich",
+                "title": "Dokumentenklasse",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
-              }
-            },
-            {
-              "unversionedId": "Glossar/D-Glossar/Dokumentenklasse",
-              "id": "Glossar/D-Glossar/Dokumentenklasse",
-              "title": "Dokumentenklasse - Dokumentenbereich",
-              "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
-              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
-              "sourceDirName": "10-Glossar/D-Glossar",
-              "slug": "/Glossar/D-Glossar/Dokumentenklasse",
-              "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse",
-              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
-              "tags": [
-                {
-                  "label": "Begriffe",
-                  "permalink": "/docs/tags/begriffe"
-                },
-                {
-                  "label": "BPM",
-                  "permalink": "/docs/tags/bpm"
-                },
-                {
-                  "label": "IM",
-                  "permalink": "/docs/tags/im"
-                },
-                {
-                  "label": "PM",
-                  "permalink": "/docs/tags/pm"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "id": "Dokumentenklasse",
-                "titel": "Dokumentenklasse",
-                "tags": [
-                  "Begriffe",
-                  "BPM",
-                  "IM",
-                  "PM"
-                ]
-              },
-              "sidebar": "Sidebar10",
-              "previous": {
-                "title": "Dokumente - Documents",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumente"
               },
               "next": {
                 "title": "Dokumentenlebenszyklus",
@@ -2017,6 +2165,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentenlebenszyklus",
               "permalink": "/docs/Glossar/D-Glossar/Dokumentenlebenszyklus",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlebenzyklus.md",
               "tags": [
                 {
@@ -2035,7 +2184,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentenlebenszyklus",
-                "titel": "Dokumentenlebenszyklus",
+                "title": "Dokumentenlebenszyklus",
                 "tags": [
                   "Begriffe",
                   "IM",
@@ -2044,8 +2193,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentenklasse - Dokumentenbereich",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
+                "title": "Dokumentationslandkarte IT",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
               },
               "next": {
                 "title": "Dokumentenlenkung",
@@ -2061,6 +2210,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentenlenkung",
               "permalink": "/docs/Glossar/D-Glossar/Dokumentenlenkung",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenlenkung.md",
               "tags": [
                 {
@@ -2083,7 +2233,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentenlenkung",
-                "titel": "Dokumentenlenkung",
+                "title": "Dokumentenlenkung",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -2110,6 +2260,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentenmanagement",
               "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenmanagement.md",
               "tags": [
                 {
@@ -2132,7 +2283,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentenmanagement",
-                "titel": "Dokumentenmanagement",
+                "title": "Dokumentenmanagement",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -2159,6 +2310,7 @@
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumententypen",
               "permalink": "/docs/Glossar/D-Glossar/Dokumententypen",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumententypen.md",
               "tags": [
                 {
@@ -2181,7 +2333,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumententypen",
-                "titel": "Dokumententypen",
+                "title": "Dokumententypen",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -2208,6 +2360,7 @@
               "sourceDirName": "10-Glossar/E-Glossar",
               "slug": "/Glossar/E-Glossar/Einfluss",
               "permalink": "/docs/Glossar/E-Glossar/Einfluss",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/E-Glossar/Einfluss.md",
               "tags": [
                 {
@@ -2242,6 +2395,7 @@
               "sourceDirName": "10-Glossar/E-Glossar",
               "slug": "/Glossar/E-Glossar/Empowerment",
               "permalink": "/docs/Glossar/E-Glossar/Empowerment",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/E-Glossar/Empowerment.md",
               "tags": [
                 {
@@ -2276,6 +2430,7 @@
               "sourceDirName": "10-Glossar/F-Glossar",
               "slug": "/Glossar/F-Glossar/Faehigkeiten",
               "permalink": "/docs/Glossar/F-Glossar/Faehigkeiten",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Faehigkeiten.md",
               "tags": [],
               "version": "current",
@@ -2299,6 +2454,7 @@
               "sourceDirName": "10-Glossar/F-Glossar",
               "slug": "/Glossar/F-Glossar/Feature",
               "permalink": "/docs/Glossar/F-Glossar/Feature",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Feature.md",
               "tags": [
                 {
@@ -2333,6 +2489,7 @@
               "sourceDirName": "10-Glossar/F-Glossar",
               "slug": "/Glossar/F-Glossar/Fehler",
               "permalink": "/docs/Glossar/F-Glossar/Fehler",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Fehler.md",
               "tags": [
                 {
@@ -2367,6 +2524,7 @@
               "sourceDirName": "10-Glossar/F-Glossar",
               "slug": "/Glossar/F-Glossar/Fehlertoleranz",
               "permalink": "/docs/Glossar/F-Glossar/Fehlertoleranz",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Fehlertoleranz.md",
               "tags": [
                 {
@@ -2401,6 +2559,7 @@
               "sourceDirName": "10-Glossar/F-Glossar",
               "slug": "/Glossar/F-Glossar/FTE",
               "permalink": "/docs/Glossar/F-Glossar/FTE",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Full-Time-Eqivalent.md",
               "tags": [
                 {
@@ -2440,6 +2599,7 @@
               "sourceDirName": "10-Glossar/F-Glossar",
               "slug": "/Glossar/F-Glossar/Funktionalität",
               "permalink": "/docs/Glossar/F-Glossar/Funktionalität",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/F-Glossar/Funktionalitaet.md",
               "tags": [
                 {
@@ -2479,6 +2639,7 @@
               "sourceDirName": "10-Glossar/G-Glossar",
               "slug": "/Glossar/G-Glossar/Geschaeftsmodell",
               "permalink": "/docs/Glossar/G-Glossar/Geschaeftsmodell",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsmodell.md",
               "tags": [
                 {
@@ -2520,6 +2681,7 @@
               "sourceDirName": "10-Glossar/G-Glossar",
               "slug": "/Glossar/G-Glossar/geschaeftsprozess",
               "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozess.md",
               "tags": [
                 {
@@ -2561,6 +2723,7 @@
               "sourceDirName": "10-Glossar/G-Glossar",
               "slug": "/Glossar/G-Glossar/geschaeftsprozessmanagement",
               "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmanagement.md",
               "tags": [
                 {
@@ -2602,6 +2765,7 @@
               "sourceDirName": "10-Glossar/G-Glossar",
               "slug": "/Glossar/G-Glossar/geschaeftsprozessmodell",
               "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmodell.md",
               "tags": [
                 {
@@ -2643,6 +2807,7 @@
               "sourceDirName": "10-Glossar/H-Glossar",
               "slug": "/Glossar/H-Glossar/Handbuch",
               "permalink": "/docs/Glossar/H-Glossar/Handbuch",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Handbuch.md",
               "tags": [
                 {
@@ -2702,6 +2867,7 @@
               "sourceDirName": "10-Glossar/H-Glossar",
               "slug": "/Glossar/H-Glossar/Hochverfuegbarkeit",
               "permalink": "/docs/Glossar/H-Glossar/Hochverfuegbarkeit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Hochverfuegbarkeit.md",
               "tags": [
                 {
@@ -2746,6 +2912,7 @@
               "sourceDirName": "10-Glossar/H-Glossar",
               "slug": "/Glossar/H-Glossar/Hosting",
               "permalink": "/docs/Glossar/H-Glossar/Hosting",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Host-Discovery.md",
               "tags": [
                 {
@@ -2785,6 +2952,7 @@
               "sourceDirName": "10-Glossar/H-Glossar",
               "slug": "/Glossar/H-Glossar/HTTPS",
               "permalink": "/docs/Glossar/H-Glossar/HTTPS",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/HTTPS.md",
               "tags": [
                 {
@@ -2824,6 +2992,7 @@
               "sourceDirName": "10-Glossar/H-Glossar",
               "slug": "/Glossar/H-Glossar/Humankapital",
               "permalink": "/docs/Glossar/H-Glossar/Humankapital",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/Humankapital.md",
               "tags": [
                 {
@@ -2873,6 +3042,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/IaaS",
               "permalink": "/docs/Glossar/I-Glossar/IaaS",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IaaS.md",
               "tags": [
                 {
@@ -2912,6 +3082,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/Informationsicherheit",
               "permalink": "/docs/Glossar/I-Glossar/Informationsicherheit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Informationssicherheit.md",
               "tags": [
                 {
@@ -2946,6 +3117,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/Informationsqualitaet",
               "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Informationsqualitaet.md",
               "tags": [
                 {
@@ -2995,6 +3167,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/Interoperabilitaet",
               "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Interoperabilitaet.md",
               "tags": [
                 {
@@ -3029,6 +3202,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/Intranet",
               "permalink": "/docs/Glossar/I-Glossar/Intranet",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Intranet.md",
               "tags": [
                 {
@@ -3055,8 +3229,8 @@
                 "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet"
               },
               "next": {
-                "title": "Kanban",
-                "permalink": "/docs/Glossar/K-Glossar/Kanban"
+                "title": "Kompetenzmodell",
+                "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell"
               }
             },
             {
@@ -3068,6 +3242,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/IPS",
               "permalink": "/docs/Glossar/I-Glossar/IPS",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IPS.md",
               "tags": [
                 {
@@ -3107,6 +3282,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/IT-Service",
               "permalink": "/docs/Glossar/I-Glossar/IT-Service",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IT-Service.md",
               "tags": [
                 {
@@ -3146,6 +3322,7 @@
               "sourceDirName": "10-Glossar/I-Glossar",
               "slug": "/Glossar/I-Glossar/IT-Sicherheit",
               "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/IT-Sicherheit.md",
               "tags": [
                 {
@@ -3185,18 +3362,81 @@
               "sourceDirName": "10-Glossar/K-Glossar",
               "slug": "/Glossar/K-Glossar/Kanban",
               "permalink": "/docs/Glossar/K-Glossar/Kanban",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Kanban.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Intranet",
-                "permalink": "/docs/Glossar/I-Glossar/Intranet"
+                "title": "Kompetenzmodell",
+                "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell"
               },
               "next": {
                 "title": "Konfliktarten",
                 "permalink": "/docs/Glossar/K-Glossar/konfliktarten"
+              }
+            },
+            {
+              "unversionedId": "Glossar/K-Glossar/Kompetenzmodell",
+              "id": "Glossar/K-Glossar/Kompetenzmodell",
+              "title": "Kompetenzmodell",
+              "description": "Knowledge + Skills = Competency. Competency + Capacity = Capability.",
+              "source": "@site/docs/10-Glossar/K-Glossar/Kompetenzmodell.md",
+              "sourceDirName": "10-Glossar/K-Glossar",
+              "slug": "/Glossar/K-Glossar/Kompetenzmodell",
+              "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Kompetenzmodell.md",
+              "tags": [
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "Karriere",
+                  "permalink": "/docs/tags/karriere"
+                },
+                {
+                  "label": "Kompetenz",
+                  "permalink": "/docs/tags/kompetenz"
+                },
+                {
+                  "label": "People-Readiness",
+                  "permalink": "/docs/tags/people-readiness"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "Skills",
+                  "permalink": "/docs/tags/skills"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "Kompetenzmodell",
+                "title": "Kompetenzmodell",
+                "sidebar_position": 1,
+                "tags": [
+                  "BPM",
+                  "Karriere",
+                  "Kompetenz",
+                  "People-Readiness",
+                  "PM",
+                  "Skills"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Intranet",
+                "permalink": "/docs/Glossar/I-Glossar/Intranet"
+              },
+              "next": {
+                "title": "Kanban",
+                "permalink": "/docs/Glossar/K-Glossar/Kanban"
               }
             },
             {
@@ -3208,6 +3448,7 @@
               "sourceDirName": "10-Glossar/K-Glossar",
               "slug": "/Glossar/K-Glossar/konfliktarten",
               "permalink": "/docs/Glossar/K-Glossar/konfliktarten",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Konfliktarten.md",
               "tags": [
                 {
@@ -3242,6 +3483,7 @@
               "sourceDirName": "10-Glossar/L-Glossar",
               "slug": "/Glossar/L-Glossar/Latenz",
               "permalink": "/docs/Glossar/L-Glossar/Latenz",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Latenz.md",
               "tags": [
                 {
@@ -3281,6 +3523,7 @@
               "sourceDirName": "10-Glossar/L-Glossar",
               "slug": "/Glossar/L-Glossar/Laufzeit",
               "permalink": "/docs/Glossar/L-Glossar/Laufzeit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Laufzeit.md",
               "tags": [
                 {
@@ -3320,6 +3563,7 @@
               "sourceDirName": "10-Glossar/L-Glossar",
               "slug": "/Glossar/L-Glossar/Lean-Management",
               "permalink": "/docs/Glossar/L-Glossar/Lean-Management",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Lean-Management.md",
               "tags": [
                 {
@@ -3354,6 +3598,7 @@
               "sourceDirName": "10-Glossar/L-Glossar",
               "slug": "/Glossar/L-Glossar/Leitlinie",
               "permalink": "/docs/Glossar/L-Glossar/Leitlinie",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Leitlinien.md",
               "tags": [
                 {
@@ -3393,6 +3638,7 @@
               "sourceDirName": "10-Glossar/L-Glossar",
               "slug": "/Glossar/L-Glossar/Linux",
               "permalink": "/docs/Glossar/L-Glossar/Linux",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Linux.md",
               "tags": [
                 {
@@ -3427,6 +3673,7 @@
               "sourceDirName": "10-Glossar/M-Glossar",
               "slug": "/Glossar/M-Glossar/Major-Risk",
               "permalink": "/docs/Glossar/M-Glossar/Major-Risk",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/Major-Risk.md",
               "tags": [],
               "version": "current",
@@ -3450,6 +3697,7 @@
               "sourceDirName": "10-Glossar/M-Glossar",
               "slug": "/Glossar/M-Glossar/Markdown",
               "permalink": "/docs/Glossar/M-Glossar/Markdown",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/Markdown.md",
               "tags": [
                 {
@@ -3489,6 +3737,7 @@
               "sourceDirName": "10-Glossar/M-Glossar",
               "slug": "/Glossar/M-Glossar/MTBF",
               "permalink": "/docs/Glossar/M-Glossar/MTBF",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/MTTR.md",
               "tags": [
                 {
@@ -3523,6 +3772,7 @@
               "sourceDirName": "10-Glossar/M-Glossar",
               "slug": "/Glossar/M-Glossar/MTTR",
               "permalink": "/docs/Glossar/M-Glossar/MTTR",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/M-Glossar/MTBF.md",
               "tags": [
                 {
@@ -3557,6 +3807,7 @@
               "sourceDirName": "10-Glossar/N-Glossar",
               "slug": "/Glossar/N-Glossar/Netzwerksicherheit",
               "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Netzwerksicherheit.md",
               "tags": [
                 {
@@ -3578,8 +3829,260 @@
                 "permalink": "/docs/Glossar/M-Glossar/Markdown"
               },
               "next": {
+                "title": "ISO10006",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/DIN69900",
+              "id": "Glossar/N-Glossar/Normen/DIN69900",
+              "title": "DIN69900",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/DIN69900.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/DIN69900",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69900",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/DIN69900.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "x989id": "DIN69900-Referenzsteckbrief",
+                "title": "DIN69900",
+                "sidebar_position": 6,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "DIN69901",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
+              },
+              "next": {
+                "title": "DIN69909",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "title": "DIN69901",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/DIN69901.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/DIN69901.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "id": "DIN69901-Referenzsteckbrief",
+                "title": "DIN69901",
+                "sidebar_position": 5,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "ISO21500",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+              },
+              "next": {
+                "title": "DIN69900",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69900"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "title": "DIN69909",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/DIN69909.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/DIN69909.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "id": "DIN69909-Referenzsteckbrief",
+                "title": "DIN69909",
+                "sidebar_position": 7,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "DIN69900",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69900"
+              },
+              "next": {
+                "title": "ISO15504",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "title": "ISO10006",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/ISO10006.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/ISO10006.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "ISO1009-Referenzsteckbrief",
+                "title": "ISO10006",
+                "sidebar_position": 3,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Netzwerksicherheit",
+                "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+              },
+              "next": {
+                "title": "ISO21500",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "title": "ISO15504",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/ISO15504.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/ISO15504.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "id": "ISO15504-Referenzsteckbrief",
+                "title": "ISO15504",
+                "sidebar_position": 8,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "DIN69909",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+              },
+              "next": {
                 "title": "Open Source Software",
                 "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "title": "ISO21500",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/ISO21500.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/ISO21500.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "ISO21500-Referenzsteckbrief",
+                "title": "ISO21500",
+                "sidebar_position": 4,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "ISO10006",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
+              },
+              "next": {
+                "title": "DIN69901",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
               }
             },
             {
@@ -3591,6 +4094,7 @@
               "sourceDirName": "10-Glossar/O-Glossar",
               "slug": "/Glossar/O-Glossar/Open-Source-Software",
               "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Open-Source-Software.md",
               "tags": [
                 {
@@ -3618,8 +4122,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Netzwerksicherheit",
-                "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+                "title": "ISO15504",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief"
               },
               "next": {
                 "title": "Organisationsentwicklung",
@@ -3635,6 +4139,7 @@
               "sourceDirName": "10-Glossar/O-Glossar",
               "slug": "/Glossar/O-Glossar/Organisationsentwicklung",
               "permalink": "/docs/Glossar/O-Glossar/Organisationsentwicklung",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Organisationsentwicklung.md",
               "tags": [
                 {
@@ -3679,6 +4184,7 @@
               "sourceDirName": "10-Glossar/O-Glossar",
               "slug": "/Glossar/O-Glossar/Organisationshandbuch",
               "permalink": "/docs/Glossar/O-Glossar/Organisationshandbuch",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Organisationshandbuch.md",
               "tags": [
                 {
@@ -3733,6 +4239,7 @@
               "sourceDirName": "10-Glossar/O-Glossar",
               "slug": "/Glossar/O-Glossar/Outtasking",
               "permalink": "/docs/Glossar/O-Glossar/Outtasking",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/O-Glossar/Outtasking.md",
               "tags": [
                 {
@@ -3772,6 +4279,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/PaaS",
               "permalink": "/docs/Glossar/P-Glossar/PaaS",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/PaaS.md",
               "tags": [
                 {
@@ -3808,6 +4316,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Performance",
               "permalink": "/docs/Glossar/P-Glossar/Performance",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Performance.md",
               "tags": [
                 {
@@ -3826,7 +4335,7 @@
               "sidebar": "Sidebar10",
               "previous": {
                 "title": "Projektinformationen",
-                "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng"
+                "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
               },
               "next": {
                 "title": "Prozessreifegrad",
@@ -3842,6 +4351,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/platinus-prozessreferenzmodell",
               "permalink": "/docs/Glossar/P-Glossar/platinus-prozessreferenzmodell",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/platinus-Prozessreferenzmodell.md",
               "tags": [
                 {
@@ -3878,6 +4388,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/PM-Paradigmen",
               "permalink": "/docs/Glossar/P-Glossar/PM-Paradigmen",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/PM-Paradigma.md",
               "tags": [],
               "version": "current",
@@ -3906,6 +4417,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Portfolio",
               "permalink": "/docs/Glossar/P-Glossar/Portfolio",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Portfolio.md",
               "tags": [
                 {
@@ -3942,6 +4454,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Preismodell",
               "permalink": "/docs/Glossar/P-Glossar/Preismodell",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Preismodell.md",
               "tags": [
                 {
@@ -3978,6 +4491,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Product-Backlog",
               "permalink": "/docs/Glossar/P-Glossar/Product-Backlog",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Product-Backlog.md",
               "tags": [],
               "version": "current",
@@ -3994,24 +4508,25 @@
               },
               "next": {
                 "title": "Projektinformationen",
-                "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng"
+                "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
               }
             },
             {
-              "unversionedId": "Glossar/P-Glossar/Projektinformationeng",
-              "id": "Glossar/P-Glossar/Projektinformationeng",
+              "unversionedId": "Glossar/P-Glossar/Projektinformationen",
+              "id": "Glossar/P-Glossar/Projektinformationen",
               "title": "Projektinformationen",
               "description": "Unter Projektinformation verstehen wir alle „Daten für die Definition, Planung, Überwachung , Durchführung und Abschluss eines Projektes“.",
               "source": "@site/docs/10-Glossar/P-Glossar/Projektinformationen.md",
               "sourceDirName": "10-Glossar/P-Glossar",
-              "slug": "/Glossar/P-Glossar/Projektinformationeng",
-              "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng",
+              "slug": "/Glossar/P-Glossar/Projektinformationen",
+              "permalink": "/docs/Glossar/P-Glossar/Projektinformationen",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Projektinformationen.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
               "frontMatter": {
-                "id": "Projektinformationeng",
+                "id": "Projektinformationen",
                 "title": "Projektinformationen",
                 "sidebar_position": 8
               },
@@ -4034,6 +4549,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Provider",
               "permalink": "/docs/Glossar/P-Glossar/Provider",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Provider.md",
               "tags": [
                 {
@@ -4070,6 +4586,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Prozessdiagramme",
               "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozessdiagramme.md",
               "tags": [
                 {
@@ -4106,6 +4623,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/prozesslandkarte",
               "permalink": "/docs/Glossar/P-Glossar/prozesslandkarte",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozesslandkarte.md",
               "tags": [
                 {
@@ -4147,6 +4665,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Prozessreifegrad",
               "permalink": "/docs/Glossar/P-Glossar/Prozessreifegrad",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozessreifegrad.md",
               "tags": [
                 {
@@ -4181,6 +4700,7 @@
               "sourceDirName": "10-Glossar/P-Glossar",
               "slug": "/Glossar/P-Glossar/Prozessreifegradmodelle",
               "permalink": "/docs/Glossar/P-Glossar/Prozessreifegradmodelle",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozessreifegradmodell.md",
               "tags": [
                 {
@@ -4215,6 +4735,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Projektrisiko",
               "permalink": "/docs/Glossar/R-Glossar/Projektrisiko",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Risiko-Projektrisiko.md",
               "tags": [
                 {
@@ -4254,6 +4775,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Rechenzentrum",
               "permalink": "/docs/Glossar/R-Glossar/Rechenzentrum",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rechenzentrum.md",
               "tags": [
                 {
@@ -4288,6 +4810,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Recovery",
               "permalink": "/docs/Glossar/R-Glossar/Recovery",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Recovery.md",
               "tags": [
                 {
@@ -4322,6 +4845,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Requirements-Engineering",
               "permalink": "/docs/Glossar/R-Glossar/Requirements-Engineering",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Requirements-Engineering.md",
               "tags": [
                 {
@@ -4356,6 +4880,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Ressourcenkalender",
               "permalink": "/docs/Glossar/R-Glossar/Ressourcenkalender",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Ressourcenkalender.md",
               "tags": [],
               "version": "current",
@@ -4379,6 +4904,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Richtlinie",
               "permalink": "/docs/Glossar/R-Glossar/Richtlinie",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Richtlinie.md",
               "tags": [
                 {
@@ -4413,6 +4939,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Rightshifting",
               "permalink": "/docs/Glossar/R-Glossar/Rightshifting",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rightshifting.md",
               "tags": [
                 {
@@ -4447,6 +4974,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Rollen-Canvas",
               "permalink": "/docs/Glossar/R-Glossar/Rollen-Canvas",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollen-Canvas.md",
               "tags": [
                 {
@@ -4491,6 +5019,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Rollenmodell",
               "permalink": "/docs/Glossar/R-Glossar/Rollenmodell",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollenmodell.md",
               "tags": [
                 {
@@ -4540,6 +5069,7 @@
               "sourceDirName": "10-Glossar/R-Glossar",
               "slug": "/Glossar/R-Glossar/Rollensteckbrief",
               "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/R-Glossar/Rollensteckbrief.md",
               "tags": [
                 {
@@ -4589,6 +5119,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/SaaS",
               "permalink": "/docs/Glossar/S-Glossar/SaaS",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/SaaS.md",
               "tags": [
                 {
@@ -4628,6 +5159,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Servicekatalog",
               "permalink": "/docs/Glossar/S-Glossar/Servicekatalog",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Servicekatalog.md",
               "tags": [
                 {
@@ -4662,6 +5194,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Serviceportfolio",
               "permalink": "/docs/Glossar/S-Glossar/Serviceportfolio",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Serviceportfolio.md",
               "tags": [
                 {
@@ -4696,6 +5229,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Sicherheitskette",
               "permalink": "/docs/Glossar/S-Glossar/Sicherheitskette",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Sicherheitskette.md",
               "tags": [
                 {
@@ -4740,6 +5274,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/SLA",
               "permalink": "/docs/Glossar/S-Glossar/SLA",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/SLA.md",
               "tags": [
                 {
@@ -4774,6 +5309,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Software",
               "permalink": "/docs/Glossar/S-Glossar/Software",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Software.md",
               "tags": [
                 {
@@ -4818,6 +5354,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Stakeholder",
               "permalink": "/docs/Glossar/S-Glossar/Stakeholder",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Stakeholder.md",
               "tags": [
                 {
@@ -4867,6 +5404,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Stakeholder",
               "permalink": "/docs/Glossar/S-Glossar/Stakeholder",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Standards.md",
               "tags": [],
               "version": "current",
@@ -4895,6 +5433,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Standardsoftware",
               "permalink": "/docs/Glossar/S-Glossar/Standardsoftware",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Standardsoftware.md",
               "tags": [
                 {
@@ -4939,6 +5478,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Strukturkapital",
               "permalink": "/docs/Glossar/S-Glossar/Strukturkapital",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Strukturkapital.md",
               "tags": [
                 {
@@ -4988,6 +5528,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Systemkapital",
               "permalink": "/docs/Glossar/S-Glossar/Systemkapital",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Systemkapital.md",
               "tags": [
                 {
@@ -5037,6 +5578,7 @@
               "sourceDirName": "10-Glossar/S-Glossar",
               "slug": "/Glossar/S-Glossar/Systemsoftware",
               "permalink": "/docs/Glossar/S-Glossar/Systemsoftware",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Systemsoftware.md",
               "tags": [
                 {
@@ -5081,6 +5623,7 @@
               "sourceDirName": "10-Glossar/U-Glossar",
               "slug": "/Glossar/U-Glossar/UC",
               "permalink": "/docs/Glossar/U-Glossar/UC",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/U-Glossar/UC.md",
               "tags": [
                 {
@@ -5117,6 +5660,7 @@
               "sourceDirName": "10-Glossar/U-Glossar",
               "slug": "/Glossar/U-Glossar/USV",
               "permalink": "/docs/Glossar/U-Glossar/USV",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/U-Glossar/USV.md",
               "tags": [
                 {
@@ -5153,6 +5697,7 @@
               "sourceDirName": "10-Glossar/V-Glossar",
               "slug": "/Glossar/V-Glossar/Verfuegbarkeit",
               "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeit",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Verfuegbarkeit.md",
               "tags": [
                 {
@@ -5192,6 +5737,7 @@
               "sourceDirName": "10-Glossar/V-Glossar",
               "slug": "/Glossar/V-Glossar/Verfuegbarkeitsklassen",
               "permalink": "/docs/Glossar/V-Glossar/Verfuegbarkeitsklassen",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Verfuegbarkeitsklassen.md",
               "tags": [
                 {
@@ -5236,6 +5782,7 @@
               "sourceDirName": "10-Glossar/V-Glossar",
               "slug": "/Glossar/V-Glossar/Virtualisierung",
               "permalink": "/docs/Glossar/V-Glossar/Virtualisierung",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/Virtualisierung.md",
               "tags": [
                 {
@@ -5275,6 +5822,7 @@
               "sourceDirName": "10-Glossar/V-Glossar",
               "slug": "/Glossar/V-Glossar/VM",
               "permalink": "/docs/Glossar/V-Glossar/VM",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/VM.md",
               "tags": [
                 {
@@ -5309,6 +5857,7 @@
               "sourceDirName": "10-Glossar/V-Glossar",
               "slug": "/Glossar/V-Glossar/VPN",
               "permalink": "/docs/Glossar/V-Glossar/VPN",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/V-Glossar/VPN.md",
               "tags": [
                 {
@@ -5348,6 +5897,7 @@
               "sourceDirName": "10-Glossar/W-Glossar",
               "slug": "/Glossar/W-Glossar/Web-Browser",
               "permalink": "/docs/Glossar/W-Glossar/Web-Browser",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Web-Browser.md",
               "tags": [
                 {
@@ -5387,6 +5937,7 @@
               "sourceDirName": "10-Glossar/W-Glossar",
               "slug": "/Glossar/W-Glossar/Web-Client",
               "permalink": "/docs/Glossar/W-Glossar/Web-Client",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Web-Client.md",
               "tags": [
                 {
@@ -5426,6 +5977,7 @@
               "sourceDirName": "10-Glossar/W-Glossar",
               "slug": "/Glossar/W-Glossar/Webseite",
               "permalink": "/docs/Glossar/W-Glossar/Webseite",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Webseite.md",
               "tags": [
                 {
@@ -5465,6 +6017,7 @@
               "sourceDirName": "10-Glossar/W-Glossar",
               "slug": "/Glossar/W-Glossar/Webserver",
               "permalink": "/docs/Glossar/W-Glossar/Webserver",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Webserver.md",
               "tags": [
                 {
@@ -5509,6 +6062,7 @@
               "sourceDirName": "10-Glossar/W-Glossar",
               "slug": "/Glossar/W-Glossar/Website",
               "permalink": "/docs/Glossar/W-Glossar/Website",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Website.md",
               "tags": [
                 {
@@ -5548,6 +6102,7 @@
               "sourceDirName": "10-Glossar/W-Glossar",
               "slug": "/Glossar/W-Glossar/Wissensbilanz",
               "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Wissensbilanz.md",
               "tags": [
                 {
@@ -5584,6 +6139,56 @@
                 "permalink": "/docs/Glossar/W-Glossar/Website"
               },
               "next": {
+                "title": "Wissensmanagement",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
+              }
+            },
+            {
+              "unversionedId": "Glossar/W-Glossar/Wissensmanagement",
+              "id": "Glossar/W-Glossar/Wissensmanagement",
+              "title": "Wissensmanagement",
+              "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
+              "source": "@site/docs/10-Glossar/W-Glossar/Wissensmanagement.md",
+              "sourceDirName": "10-Glossar/W-Glossar",
+              "slug": "/Glossar/W-Glossar/Wissensmanagement",
+              "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Wissensmanagement.md",
+              "tags": [
+                {
+                  "label": "Begriff",
+                  "permalink": "/docs/tags/begriff"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Wissensmanagement",
+                "titel": "Wissensmanagement",
+                "tags": [
+                  "Begriff",
+                  "BPM",
+                  "IM",
+                  "WM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Wissensbilanz",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+              },
+              "next": {
                 "title": "Zugriffszeiten",
                 "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten"
               }
@@ -5597,6 +6202,7 @@
               "sourceDirName": "10-Glossar/Z-Glossar",
               "slug": "/Glossar/Z-Glossar/Zugriffszeiten",
               "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten",
+              "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/Z-Glossar/Zugriffszeiten.md",
               "tags": [
                 {
@@ -5614,11 +6220,12 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Wissensbilanz",
-                "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+                "title": "Wissensmanagement",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
               }
             }
           ],
+          "drafts": [],
           "sidebars": {
             "Sidebar10": [
               {
@@ -5837,11 +6444,27 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentationsrichtlinie"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumente"
                   },
                   {
                     "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumentenklasse"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Dokumentenlandkarten",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT"
+                      }
+                    ]
                   },
                   {
                     "type": "doc",
@@ -6009,6 +6632,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "Glossar/K-Glossar/Kompetenzmodell"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/K-Glossar/Kanban"
                   },
                   {
@@ -6078,6 +6705,38 @@
                   {
                     "type": "doc",
                     "id": "Glossar/N-Glossar/Netzwerksicherheit"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Normen",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/DIN69900"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief"
+                      }
+                    ]
                   }
                 ]
               },
@@ -6149,7 +6808,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "Glossar/P-Glossar/Projektinformationeng"
+                    "id": "Glossar/P-Glossar/Projektinformationen"
                   },
                   {
                     "type": "doc",
@@ -6342,6 +7001,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/W-Glossar/Wissensbilanz"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/W-Glossar/Wissensmanagement"
                   }
                 ]
               },
@@ -6358,9 +7021,7 @@
                 ]
               }
             ]
-          },
-          "mainDocId": "Begriffe-Home",
-          "categoryGeneratedIndices": []
+          }
         }
       ]
     }
@@ -6439,7 +7100,7 @@
       ],
       "blogTags": {
         "/blog/tags/blog": {
-          "name": "blog",
+          "label": "blog",
           "items": [
             "welcome"
           ],
@@ -6462,7 +7123,7 @@
           ]
         },
         "/blog/tags/welcome": {
-          "name": "Welcome",
+          "label": "Welcome",
           "items": [
             "welcome"
           ],
@@ -6514,5 +7175,7 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
-  "@easyops-cn/docusaurus-search-local": {}
+  "@easyops-cn/docusaurus-search-local": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/10-Glossar/S-Glossar/Standards.md",
   "sourceDirName": "10-Glossar/S-Glossar",
   "slug": "/Glossar/S-Glossar/Stakeholder",
-  "permalink": "/en/docs/Glossar/S-Glossar/Stakeholder",
+  "permalink": "/docs/Glossar/S-Glossar/Stakeholder",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/S-Glossar/Standards.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Rollensteckbrief",
-    "permalink": "/en/docs/Glossar/R-Glossar/Rollensteckbrief"
+    "permalink": "/docs/Glossar/R-Glossar/Rollensteckbrief"
   },
   "next": {
     "title": "Stakeholder",
-    "permalink": "/en/docs/Glossar/S-Glossar/Stakeholder"
+    "permalink": "/docs/Glossar/S-Glossar/Stakeholder"
   }
 }

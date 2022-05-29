@@ -6,17 +6,17 @@
   "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozessmanagement.md",
   "sourceDirName": "10-Glossar/G-Glossar",
   "slug": "/Glossar/G-Glossar/geschaeftsprozessmanagement",
-  "permalink": "/en/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
+  "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmanagement.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "BPM",
-      "permalink": "/en/docs/tags/bpm"
+      "permalink": "/docs/tags/bpm"
     }
   ],
   "version": "current",
@@ -33,10 +33,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Geschäftsprozess",
-    "permalink": "/en/docs/Glossar/G-Glossar/geschaeftsprozess"
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
   },
   "next": {
-    "title": "HTTPS",
-    "permalink": "/en/docs/Glossar/H-Glossar/HTTPS"
+    "title": "Geschäftsprozessmodell",
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
   }
 }

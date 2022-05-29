@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/A-Glossar/Anleitung.md",
   "sourceDirName": "10-Glossar/A-Glossar",
   "slug": "/Glossar/A-Glossar/Anleitung",
-  "permalink": "/en/docs/Glossar/A-Glossar/Anleitung",
+  "permalink": "/docs/Glossar/A-Glossar/Anleitung",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/A-Glossar/Anleitung.md",
   "tags": [
     {
       "label": "Begriff",
-      "permalink": "/en/docs/tags/begriff"
+      "permalink": "/docs/tags/begriff"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Anforderungen - Requirements",
-    "permalink": "/en/docs/Glossar/A-Glossar/Anforderungen"
+    "permalink": "/docs/Glossar/A-Glossar/Anforderungen"
   },
   "next": {
     "title": "Anweisung - *Work Instruction*",
-    "permalink": "/en/docs/Glossar/A-Glossar/Anweisung"
+    "permalink": "/docs/Glossar/A-Glossar/Anweisung"
   }
 }

@@ -1,6 +1,6 @@
 ---
 id: Dokumententypen
-titel: Dokumententypen
+title: Dokumententypen
 tags: [Begriffe, BPM, IM, PM]
 ---
 
@@ -64,19 +64,11 @@ siehe [EN 61355-1](https://de.wikipedia.org/wiki/EN_61355) - Link zu WikiPedia.
 - Merkblätter
 - Pläne
 - Präsentationen
-- Produktinformationen (Produktblätter. Produktbroschüren)
+- Produktinformationen (Produktblätter, Produktbroschüren)
 - Protokolle
 - Richtlinien
 - Trainingsunterlagen
 - Vereinbarungen (Verträge)
-
-
-
-
-
-
-
-
 
 Quelle = https://www.slideshare.net/gautamsoman/documentation-types-3647817 
  https://blog.prototypr.io/software-documentation-types-and-best-practices-1726ca595c7f

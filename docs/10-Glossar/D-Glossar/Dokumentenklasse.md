@@ -1,6 +1,6 @@
 ---
 id: Dokumentenklasse
-titel: Dokumentenklasse
+title: Dokumentenklasse
 tags: [Begriffe, BPM, IM, PM]
 ---
 

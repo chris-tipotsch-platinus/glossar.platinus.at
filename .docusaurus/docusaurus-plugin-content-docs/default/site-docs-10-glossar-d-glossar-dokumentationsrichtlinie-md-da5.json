@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+  "id": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+  "title": "Dokumentationsrichtlinie",
+  "description": "Richtlinien definieren gemäß hier verwendeter Definition allgemeine Anforderungen an die Dokumentation. Dementsprechend definiert die Dokumentationsrichtlinie verbindliche übergeordnete Regelungen für die Dokumentation. Hierzu zählen mindesten die folgenden Punkte:",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsrichtlinie.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentationsrichtlinie",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsrichtlinie.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentationsrichtlinie",
+    "title": "Dokumentationsrichtlinie",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentationsmanagement",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+  },
+  "next": {
+    "title": "Dokumente",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumente"
+  }
+}

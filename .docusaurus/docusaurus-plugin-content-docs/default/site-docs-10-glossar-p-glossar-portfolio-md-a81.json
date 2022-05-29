@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/P-Glossar/Portfolio.md",
   "sourceDirName": "10-Glossar/P-Glossar",
   "slug": "/Glossar/P-Glossar/Portfolio",
-  "permalink": "/en/docs/Glossar/P-Glossar/Portfolio",
+  "permalink": "/docs/Glossar/P-Glossar/Portfolio",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Portfolio.md",
   "tags": [
     {
       "label": "Glossar",
-      "permalink": "/en/docs/tags/glossar"
+      "permalink": "/docs/tags/glossar"
     }
   ],
   "version": "current",
@@ -28,10 +28,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "PaaS",
-    "permalink": "/en/docs/Glossar/P-Glossar/PaaS"
+    "permalink": "/docs/Glossar/P-Glossar/PaaS"
   },
   "next": {
     "title": "Preismodell",
-    "permalink": "/en/docs/Glossar/P-Glossar/Preismodell"
+    "permalink": "/docs/Glossar/P-Glossar/Preismodell"
   }
 }

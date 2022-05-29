@@ -1,6 +1,6 @@
 ---
 id: Dokumentenmanagement
-titel: Dokumentenmanagement
+title: Dokumentenmanagement
 tags: [Begriffe, BPM, IM, PM]
 ---
 

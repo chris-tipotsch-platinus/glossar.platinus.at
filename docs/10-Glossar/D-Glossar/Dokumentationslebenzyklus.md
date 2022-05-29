@@ -1,6 +1,6 @@
 ---
 id: Dokumentationslebenzyklus
-titel: Dokumentationslebenzyklus 
+title: Dokumentationslebenzyklus 
 tags: [Begriffe, IM, IT-Dokumentation]
 ---
 

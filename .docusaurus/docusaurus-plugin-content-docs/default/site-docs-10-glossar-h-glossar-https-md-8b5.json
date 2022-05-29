@@ -6,17 +6,17 @@
   "source": "@site/docs/10-Glossar/H-Glossar/HTTPS.md",
   "sourceDirName": "10-Glossar/H-Glossar",
   "slug": "/Glossar/H-Glossar/HTTPS",
-  "permalink": "/en/docs/Glossar/H-Glossar/HTTPS",
+  "permalink": "/docs/Glossar/H-Glossar/HTTPS",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/H-Glossar/HTTPS.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     },
     {
       "label": "IM",
-      "permalink": "/en/docs/tags/im"
+      "permalink": "/docs/tags/im"
     }
   ],
   "version": "current",
@@ -30,11 +30,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Geschäftsprozessmanagement",
-    "permalink": "/en/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+    "title": "Geschäftsprozessmodell",
+    "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
   },
   "next": {
     "title": "Handbuch",
-    "permalink": "/en/docs/Glossar/H-Glossar/Handbuch"
+    "permalink": "/docs/Glossar/H-Glossar/Handbuch"
   }
 }

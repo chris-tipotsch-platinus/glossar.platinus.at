@@ -6,13 +6,13 @@
   "source": "@site/docs/10-Glossar/L-Glossar/Lean-Management.md",
   "sourceDirName": "10-Glossar/L-Glossar",
   "slug": "/Glossar/L-Glossar/Lean-Management",
-  "permalink": "/en/docs/Glossar/L-Glossar/Lean-Management",
+  "permalink": "/docs/Glossar/L-Glossar/Lean-Management",
   "draft": false,
   "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/L-Glossar/Lean-Management.md",
   "tags": [
     {
       "label": "Begriffe",
-      "permalink": "/en/docs/tags/begriffe"
+      "permalink": "/docs/tags/begriffe"
     }
   ],
   "version": "current",
@@ -26,10 +26,10 @@
   "sidebar": "Sidebar10",
   "previous": {
     "title": "Laufzeit",
-    "permalink": "/en/docs/Glossar/L-Glossar/Laufzeit"
+    "permalink": "/docs/Glossar/L-Glossar/Laufzeit"
   },
   "next": {
     "title": "Leitlinie",
-    "permalink": "/en/docs/Glossar/L-Glossar/Leitlinie"
+    "permalink": "/docs/Glossar/L-Glossar/Leitlinie"
   }
 }
