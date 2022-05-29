@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchris=self.webpackChunkchris||[]).push([[6412],{4171:function(e){e.exports=JSON.parse('{"name":"Rechtlichen Regelwerke","permalink":"/docs/tags/rechtlichen-regelwerke","docs":[{"id":"Glossar/C-Glossar/Compliance","title":"Compliance","description":"Compliance","permalink":"/docs/Glossar/C-Glossar/Compliance"}],"allTagsPath":"/docs/tags"}')}}]);
