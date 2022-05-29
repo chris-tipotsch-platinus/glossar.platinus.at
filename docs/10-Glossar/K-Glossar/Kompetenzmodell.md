@@ -70,7 +70,11 @@ Insbesondere stellen sich vier Aufgaben:
 3. **Verteilung**: Verteilung und Verbreitung der Kompetenzen über die verschiedenen Ebenen der Organisation hinweg (Projekt-, Prozess-, Steuerungsebene) mit dem angezielten Ergebnis einer hohen Verfügbarkeit  des Kompetenzbestandes. 
 4. **Entwicklung**: Anpassung des Kompetenzportfolios unter Berücksichtigung des vorhandenen Potenzials und der zukünftigen Anforderungen (Auf- oder Abbau). 
 
-![2003 Integratives-Kompetenzmanagement ](/img/Integratives-Kompetenzmanagement-2.png)
+
+
+[2003 Integratives-Kompetenzmanagement] (/img/Integratives-Kompetenzmanagement-2.png)
+
+
 
 
 
