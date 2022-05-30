@@ -538,6 +538,12 @@
           },
           {
             "type": "link",
+            "label": "Informationsklassifizierung",
+            "href": "/docs/Glossar/I-Glossar/Informationsklassifizierung",
+            "docId": "Glossar/I-Glossar/Informationsklassifizierung"
+          },
+          {
+            "type": "link",
             "label": "Informationsqualität",
             "href": "/docs/Glossar/I-Glossar/Informationsqualitaet",
             "docId": "Glossar/I-Glossar/Informationsqualitaet"
@@ -1537,6 +1543,12 @@
       "id": "Glossar/I-Glossar/Informationsicherheit",
       "title": "Informationsicherheit",
       "description": "Als Informationssicherheit bezeichnet man Eigenschaften von technischen oder nicht-technischen Systemen zur Informationsverarbeitung, -speicherung und -lagerung, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität) sicherstellen. Informationssicherheit dient dem Schutz vor Gefahren bzw. Bedrohungen, der Vermeidung von wirtschaftlichen Schäden und der Minimierung von Risiken.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/I-Glossar/Informationsklassifizierung": {
+      "id": "Glossar/I-Glossar/Informationsklassifizierung",
+      "title": "Informationsklassifizierung",
+      "description": "Informationsklassifizierung nach ISO27000",
       "sidebar": "Sidebar10"
     },
     "Glossar/I-Glossar/Informationsqualitaet": {

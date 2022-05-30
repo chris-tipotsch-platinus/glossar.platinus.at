@@ -229,7 +229,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9b9'),
+    component: ComponentCreator('/docs', '66f'),
     routes: [
       {
         path: '/docs/Begriffe-Home',
@@ -666,6 +666,12 @@ export default [
       {
         path: '/docs/Glossar/I-Glossar/Informationsicherheit',
         component: ComponentCreator('/docs/Glossar/I-Glossar/Informationsicherheit', '99f'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/I-Glossar/Informationsklassifizierung',
+        component: ComponentCreator('/docs/Glossar/I-Glossar/Informationsklassifizierung', 'e0d'),
         exact: true,
         sidebar: "Sidebar10"
       },

@@ -335,7 +335,7 @@
       "plugin": "c8cb72f0"
     }
   },
-  "/docs-9b9": {
+  "/docs-66f": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "925cc2e1"
@@ -633,6 +633,10 @@
   "/docs/Glossar/I-Glossar/Informationsicherheit-99f": {
     "__comp": "17896441",
     "content": "761f02e4"
+  },
+  "/docs/Glossar/I-Glossar/Informationsklassifizierung-e0d": {
+    "__comp": "17896441",
+    "content": "919fd299"
   },
   "/docs/Glossar/I-Glossar/Informationsqualitaet-b13": {
     "__comp": "17896441",

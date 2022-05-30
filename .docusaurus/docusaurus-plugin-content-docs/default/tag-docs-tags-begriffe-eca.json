@@ -2,7 +2,7 @@
   "label": "Begriffe",
   "permalink": "/docs/tags/begriffe",
   "allTagsPath": "/docs/tags",
-  "count": 105,
+  "count": 106,
   "items": [
     {
       "id": "Glossar/A-Glossar/ABPMP",
@@ -363,6 +363,12 @@
       "title": "Informationsicherheit",
       "description": "Als Informationssicherheit bezeichnet man Eigenschaften von technischen oder nicht-technischen Systemen zur Informationsverarbeitung, -speicherung und -lagerung, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität) sicherstellen. Informationssicherheit dient dem Schutz vor Gefahren bzw. Bedrohungen, der Vermeidung von wirtschaftlichen Schäden und der Minimierung von Risiken.",
       "permalink": "/docs/Glossar/I-Glossar/Informationsicherheit"
+    },
+    {
+      "id": "Glossar/I-Glossar/Informationsklassifizierung",
+      "title": "Informationsklassifizierung",
+      "description": "Informationsklassifizierung nach ISO27000",
+      "permalink": "/docs/Glossar/I-Glossar/Informationsklassifizierung"
     },
     {
       "id": "Glossar/I-Glossar/Informationsqualitaet",
