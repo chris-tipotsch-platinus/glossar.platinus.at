@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentenmanagement",
+  "id": "Glossar/D-Glossar/Dokumentenmanagement",
+  "title": "Dokumentenmanagement",
+  "description": "Mission des Dokumentenmanagement",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenmanagement (Kopie).md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentenmanagement",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenmanagement (Kopie).md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentenmanagement",
+    "title": "Dokumentenmanagement",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentenlenkung",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenlenkung"
+  },
+  "next": {
+    "title": "Dokumentenmanagement",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+  }
+}

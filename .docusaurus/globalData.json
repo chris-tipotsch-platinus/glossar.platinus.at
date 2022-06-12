@@ -281,6 +281,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/D-Glossar/Dokumentenverwaltung",
+              "path": "/docs/Glossar/D-Glossar/Dokumentenverwaltung",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/E-Glossar/Einfluss",
               "path": "/docs/Glossar/E-Glossar/Einfluss",
               "sidebar": "Sidebar10"
@@ -588,6 +593,11 @@
             {
               "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
               "path": "/docs/Glossar/P-Glossar/Prozessreifegradmodelle",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/P-Glossar/Prozesssteckbrief",
+              "path": "/docs/Glossar/P-Glossar/Prozesssteckbrief",
               "sidebar": "Sidebar10"
             },
             {

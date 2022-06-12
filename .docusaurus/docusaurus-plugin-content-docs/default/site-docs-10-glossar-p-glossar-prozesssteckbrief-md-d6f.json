@@ -1,0 +1,37 @@
+{
+  "unversionedId": "Glossar/P-Glossar/Prozesssteckbrief",
+  "id": "Glossar/P-Glossar/Prozesssteckbrief",
+  "title": "Geschäftsprozess-Steckbrief",
+  "description": "Business Process Profile",
+  "source": "@site/docs/10-Glossar/P-Glossar/Prozesssteckbrief.md",
+  "sourceDirName": "10-Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/Prozesssteckbrief",
+  "permalink": "/docs/Glossar/P-Glossar/Prozesssteckbrief",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozesssteckbrief.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 74,
+  "frontMatter": {
+    "id": "Prozesssteckbrief",
+    "title": "Geschäftsprozess-Steckbrief",
+    "sidebar_position": 74,
+    "tags": [
+      "Begriffe"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Projektinformationen",
+    "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
+  },
+  "next": {
+    "title": "Performance",
+    "permalink": "/docs/Glossar/P-Glossar/Performance"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "unversionedId": "Glossar/P-Glossar/Prozessdiagramme",
+  "id": "Glossar/P-Glossar/Prozessdiagramme",
+  "title": "Geschäftsprozess-Diagramme",
+  "description": "Business Process Diagrams",
+  "source": "@site/docs/10-Glossar/P-Glossar/76-Geschaeftsprozessdiagramme.md",
+  "sourceDirName": "10-Glossar/P-Glossar",
+  "slug": "/Glossar/P-Glossar/Prozessdiagramme",
+  "permalink": "/docs/Glossar/P-Glossar/Prozessdiagramme",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/76-Geschaeftsprozessdiagramme.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 76,
+  "frontMatter": {
+    "id": "Prozessdiagramme",
+    "title": "Geschäftsprozess-Diagramme",
+    "sidebar_position": 76,
+    "tags": [
+      "Begriffe",
+      "BPM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Outtasking",
+    "permalink": "/docs/Glossar/O-Glossar/Outtasking"
+  },
+  "next": {
+    "title": "PM-Paradigmen",
+    "permalink": "/docs/Glossar/P-Glossar/PM-Paradigmen"
+  }
+}

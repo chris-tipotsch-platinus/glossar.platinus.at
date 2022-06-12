@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentenverwaltung",
+  "id": "Glossar/D-Glossar/Dokumentenverwaltung",
+  "title": "Dokumentenverwaltung",
+  "description": "Mission der Dokumentenverwaltung",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenverwaltung.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentenverwaltung",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentenverwaltung",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenverwaltung.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentenverwaltung",
+    "title": "Dokumentenverwaltung",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "IM",
+      "PM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumententypen",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
+  },
+  "next": {
+    "title": "Einfluss",
+    "permalink": "/docs/Glossar/E-Glossar/Einfluss"
+  }
+}

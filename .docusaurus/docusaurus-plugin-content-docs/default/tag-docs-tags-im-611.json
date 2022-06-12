@@ -2,7 +2,7 @@
   "label": "IM",
   "permalink": "/docs/tags/im",
   "allTagsPath": "/docs/tags",
-  "count": 56,
+  "count": 57,
   "items": [
     {
       "id": "Glossar/A-Glossar/Anwender",
@@ -121,7 +121,7 @@
     {
       "id": "Glossar/D-Glossar/Dokumentationsmanagement",
       "title": "Dokumentationsmanagement",
-      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+      "description": "Zweck des Dokumentationsmanagement",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
     },
     {
@@ -157,7 +157,7 @@
     {
       "id": "Glossar/D-Glossar/Dokumentenmanagement",
       "title": "Dokumentenmanagement",
-      "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um elektronische Dokumente handeln. Im Fokus stehen die operativen Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
+      "description": "Mission des Dokumentenmanagement",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
     },
     {
@@ -165,6 +165,12 @@
       "title": "Dokumententypen",
       "description": "Ein Dokumententyp beschreibt eine Gruppe von Dokumenten mit gleichartigen Eigenschaften.",
       "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentenverwaltung",
+      "title": "Dokumentenverwaltung",
+      "description": "Mission der Dokumentenverwaltung",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentenverwaltung"
     },
     {
       "id": "Glossar/F-Glossar/Funktionalität",

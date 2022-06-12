@@ -6,13 +6,35 @@ tags: [Begriffe, BPM, IM, PM]
 
 # Dokumentationsmanagement
 
-Das **Dokumentationsmanagement** umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.
+### Zweck des Dokumentationsmanagement
 
-Das Dokumentationsmanagement ist damit vom Dokumentenmanagement zu unterscheiden, das sich von der Erstellung und Qualitätssicherung über die Bereitstellung, Nutzung und Aktualisierung bis zur Archivierung und Löschung von zu lenkenden Dokumenten erstreckt.
+Zweck des **Dokumentationsmanagement** ist es, den Rahmen für die Dokumentation in ausgewählten [Dokumentenbereichen](/docs/Glossar/D-Glossar/Dokumentenklasse/) (ZB: BPM-Dokumentation, IT-Dokumentation, Bau-Dokumentation, ...) zu definieren, umzusetzen, zu betreiben und laufend zu verbessern.  
+
+Das Dokumentationsmanagement umfasst dabei drei Ebenen. 
+
+![Dokumentationsmanagement-Zweck](/img/Dokumentationsmanagement-Zweck.png)
+
+Abbildung [Dokumentationsmanagement-Zweck](/img/Dokumentationsmanagement-Zweck.png) (Quelle = platinus)
+
+1. **normative Ebene des Informationsmanagement** umfasst dabei die Klärung von Fragestellungen zur Informationsbewirtschaftung, Anwendungslösungen und IKT-Infrastruktur. Die Ergebnise sind Führungsvorgaben und legen den grundsätzlichen Dokumentationsrahmen fest.
+2. **strategische Ebene des Dokumentenmanagement** umfasst dabei die Definition und Umsetzung von [Dokumentationskonzepten](/docs/Glossar/D-Glossar/Dokumentationskonzept/) in einem definierten [Dokumentenbereichen](/docs/Glossar/D-Glossar/Dokumentenklasse/) (zB: Baudokumentation, IT-Dokumentation, Projektdokumentation, HR-Dokumentation, ... ) inkl. der Aufbereitung von Qualitätskriterien ALLER Dokumente in Form von Vorlagen und Mustern.
+3. **operative Ebene der Dokumentenverwaltung** umfasst dabei die konkrete Lieferung und Verwaltung - Erstellung und Qualitätssicherung/Review  über die Bereitstellung/Produktion/Publizierung, Verteilung sowie der Nutzung und Aktualisierung bis zur Archivierung gelenkter Informationen  - über den gesamten [Dokumentenlebenszyklus](/docs/Glossar/D-Glossar/Dokumentenlebenszyklus/) ALLER festgelegten Dokumente gemäß der Vorgaben zur [Dokumentenlenkung](/docs/Glossar/D-Glossar/Dokumentenlenkung/). 
+
+Ziel des Dokumentationsmanagement ist die Bereitstellung anforderungsgerechter, gelenkter Dokumente, um dadurch einen Wertbeitrag zur Governance zu erbringen. Informationsmanagement, Dokumentenmanagement und Dokumentenverwaltung sind Bestandteile des Dokumentationsmanagement. 
+
+### Aktivitäten im Dokumentationsmanagement
+
+Dokumentationsmanagement umfasste eine breites Aufgabenspektrum. 
+
+![Dokumentationsmanagement-Aktivitaeten](/img/Dokumentationsmanagement-Aktivitaeten.png)
+
+Abbildung [Dokumentationsmanagement-Aktivitaeten](/img/Dokumentationsmanagement-Aktivitaeten.png) (Quzelle = platinus)
 
 
 
-## Information Governance und Data Governance
+## Hintergrund
+
+### Information Governance und Data Governance
 
 Zwar gehören Information Governance und Data Governance zu den meist gebrauchten Begriffen im Akten- und Informationsmanagement- (*Records and Information Management, RIM*), jedoch herrscht weithin Verwirrung: Wie werden sie definiert und worin liegt der Unterschied zwischen Information Governance und Data Governance? Zu oft werden die Begriffe wie Synonyme behandelt oder miteinander verwechselt werden. Sie  beschreiben jedoch unterschiedliche Dinge und ergänzen einander.
 
@@ -23,5 +45,5 @@ Den Unterschied zwischen Information Governance und Data Governance  verdeutlich
 
 
 
-> *Gartner defines **information governance** as the  specification of decision rights and an accountability framework to ensure appropriate behavior in the valuation, creation, storage, use,  archiving and deletion of information. It includes the processes, roles  and policies, standards and metrics that ensure the effective and  efficient use of information in enabling an organization to achieve its  goals.*
+> *Gartner defines **information governance** as the  specification of decision rights and an accountability framework to ensure appropriate behavior in the valuation, creation, storage, use, archiving and deletion of information. It includes the processes, roles  and policies, standards and metrics that ensure the effective and  efficient use of information in enabling an organization to achieve its  goals.*
 

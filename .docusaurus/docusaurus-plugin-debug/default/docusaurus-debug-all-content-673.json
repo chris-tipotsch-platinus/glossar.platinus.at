@@ -1910,7 +1910,7 @@
               "unversionedId": "Glossar/D-Glossar/Dokumentationsmanagement",
               "id": "Glossar/D-Glossar/Dokumentationsmanagement",
               "title": "Dokumentationsmanagement",
-              "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+              "description": "Zweck des Dokumentationsmanagement",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsmanagement.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentationsmanagement",
@@ -2255,7 +2255,7 @@
               "unversionedId": "Glossar/D-Glossar/Dokumentenmanagement",
               "id": "Glossar/D-Glossar/Dokumentenmanagement",
               "title": "Dokumentenmanagement",
-              "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um elektronische Dokumente handeln. Im Fokus stehen die operativen Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
+              "description": "Mission des Dokumentenmanagement",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenmanagement.md",
               "sourceDirName": "10-Glossar/D-Glossar",
               "slug": "/Glossar/D-Glossar/Dokumentenmanagement",
@@ -2347,6 +2347,56 @@
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
               },
               "next": {
+                "title": "Dokumentenverwaltung",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenverwaltung"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentenverwaltung",
+              "id": "Glossar/D-Glossar/Dokumentenverwaltung",
+              "title": "Dokumentenverwaltung",
+              "description": "Mission der Dokumentenverwaltung",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenverwaltung.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentenverwaltung",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentenverwaltung",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentenverwaltung.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentenverwaltung",
+                "title": "Dokumentenverwaltung",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "IM",
+                  "PM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumententypen",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
+              },
+              "next": {
                 "title": "Einfluss",
                 "permalink": "/docs/Glossar/E-Glossar/Einfluss"
               }
@@ -2378,8 +2428,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumententypen",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
+                "title": "Dokumentenverwaltung",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentenverwaltung"
               },
               "next": {
                 "title": "Empowerment - Ermächtigung",
@@ -4369,8 +4419,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Projektinformationen",
-                "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
+                "title": "Geschäftsprozess-Steckbrief",
+                "permalink": "/docs/Glossar/P-Glossar/Prozesssteckbrief"
               },
               "next": {
                 "title": "Prozessreifegrad",
@@ -4571,8 +4621,8 @@
                 "permalink": "/docs/Glossar/P-Glossar/Product-Backlog"
               },
               "next": {
-                "title": "Performance",
-                "permalink": "/docs/Glossar/P-Glossar/Performance"
+                "title": "Geschäftsprozess-Steckbrief",
+                "permalink": "/docs/Glossar/P-Glossar/Prozesssteckbrief"
               }
             },
             {
@@ -4759,6 +4809,43 @@
               "next": {
                 "title": "Rechenzentrum",
                 "permalink": "/docs/Glossar/R-Glossar/Rechenzentrum"
+              }
+            },
+            {
+              "unversionedId": "Glossar/P-Glossar/Prozesssteckbrief",
+              "id": "Glossar/P-Glossar/Prozesssteckbrief",
+              "title": "Geschäftsprozess-Steckbrief",
+              "description": "Business Process Profile",
+              "source": "@site/docs/10-Glossar/P-Glossar/Prozesssteckbrief.md",
+              "sourceDirName": "10-Glossar/P-Glossar",
+              "slug": "/Glossar/P-Glossar/Prozesssteckbrief",
+              "permalink": "/docs/Glossar/P-Glossar/Prozesssteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Prozesssteckbrief.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 74,
+              "frontMatter": {
+                "id": "Prozesssteckbrief",
+                "title": "Geschäftsprozess-Steckbrief",
+                "sidebar_position": 74,
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Projektinformationen",
+                "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
+              },
+              "next": {
+                "title": "Performance",
+                "permalink": "/docs/Glossar/P-Glossar/Performance"
               }
             },
             {
@@ -6516,6 +6603,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumententypen"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentenverwaltung"
                   }
                 ]
               },
@@ -6848,6 +6939,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/P-Glossar/Projektinformationen"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/P-Glossar/Prozesssteckbrief"
                   },
                   {
                     "type": "doc",

@@ -40,9 +40,9 @@ Allgemein durchläuft ein Dokument anhängig von den geforderten Dokumentenlenku
    1. Dokument lesen. Abhängig von der Dokumentenlenkungsstufen kann es erforderlich sein, dass der Dokumentenempfänger die Übermittlung des Dokumentes bestätigen muss. Moderne Dokumentenmanagementsysteme stellen idR. Funktionen zur Nachweisbestätigung "Dokument gelesen und zur Kenntnis genommen."  zur Verfügung. 
    2. Dokument schulen. Abhängig von der Dokumentenlenkungsstufen kann es erforderlich sein, dass der Dokumentenempfänger eine Unterweisung bzw. Schulung des Dokumentes bestätigen muss. Moderne Dokumentenmanagementsysteme stellen idR. Funktionen zur Nachweisbestätigung "Dokument gelesen, Unterweisung erfolgt und zur Kenntnis genommen."  zur Verfügung. 
 
-![Dokumentenmanagement-Prozess](/img/platinus-BPMN-Kollaborationsdiagramme_Dokumentenmanagement.png) 
+![Prozess der operative Einzel-Dokumentenverwaltung](/img/platinus-BPMN-Kollaborationsdiagramme_Dokumentenmanagement.png) 
 
-Abbildung [Dokumentenmanagement-Prozess](/img/platinus-BPMN-Kollaborationsdiagramme_Dokumentenmanagement.png) (Quelle = platinus)
+Abbildung [Prozess der operative Einzel-Dokumentenverwaltung](/img/platinus-BPMN-Kollaborationsdiagramme_Dokumentenmanagement.png) (Quelle = platinus)
 
 
 

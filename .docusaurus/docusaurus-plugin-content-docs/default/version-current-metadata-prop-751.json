@@ -369,6 +369,12 @@
             "label": "Dokumententypen",
             "href": "/docs/Glossar/D-Glossar/Dokumententypen",
             "docId": "Glossar/D-Glossar/Dokumententypen"
+          },
+          {
+            "type": "link",
+            "label": "Dokumentenverwaltung",
+            "href": "/docs/Glossar/D-Glossar/Dokumentenverwaltung",
+            "docId": "Glossar/D-Glossar/Dokumentenverwaltung"
           }
         ]
       },
@@ -819,6 +825,12 @@
             "label": "Projektinformationen",
             "href": "/docs/Glossar/P-Glossar/Projektinformationen",
             "docId": "Glossar/P-Glossar/Projektinformationen"
+          },
+          {
+            "type": "link",
+            "label": "Geschäftsprozess-Steckbrief",
+            "href": "/docs/Glossar/P-Glossar/Prozesssteckbrief",
+            "docId": "Glossar/P-Glossar/Prozesssteckbrief"
           },
           {
             "type": "link",
@@ -1380,7 +1392,7 @@
     "Glossar/D-Glossar/Dokumentationsmanagement": {
       "id": "Glossar/D-Glossar/Dokumentationsmanagement",
       "title": "Dokumentationsmanagement",
-      "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
+      "description": "Zweck des Dokumentationsmanagement",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dokumentationsrichtlinie": {
@@ -1422,13 +1434,19 @@
     "Glossar/D-Glossar/Dokumentenmanagement": {
       "id": "Glossar/D-Glossar/Dokumentenmanagement",
       "title": "Dokumentenmanagement",
-      "description": "Das Dokumentenmanagement - auch Dokumentenverwaltung genannt - beschreibt als Teilbereich von Dokumentationsmanagement die Verwaltung von Dokumenten auf der operativen Ebene. Hierbei kann es sich sowohl um papiergebundene als auch um elektronische Dokumente handeln. Im Fokus stehen die operativen Aktivitäten (Dokumentationsverfahren) im Rahmen des  Dokumentenlebenszyklus.",
+      "description": "Mission des Dokumentenmanagement",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dokumententypen": {
       "id": "Glossar/D-Glossar/Dokumententypen",
       "title": "Dokumententypen",
       "description": "Ein Dokumententyp beschreibt eine Gruppe von Dokumenten mit gleichartigen Eigenschaften.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/D-Glossar/Dokumentenverwaltung": {
+      "id": "Glossar/D-Glossar/Dokumentenverwaltung",
+      "title": "Dokumentenverwaltung",
+      "description": "Mission der Dokumentenverwaltung",
       "sidebar": "Sidebar10"
     },
     "Glossar/E-Glossar/Einfluss": {
@@ -1801,6 +1819,12 @@
       "id": "Glossar/P-Glossar/Prozessreifegradmodelle",
       "title": "Prozessreifegradmodelle",
       "description": "Prozessreifegradmodell nach ISO 15504",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/P-Glossar/Prozesssteckbrief": {
+      "id": "Glossar/P-Glossar/Prozesssteckbrief",
+      "title": "Geschäftsprozess-Steckbrief",
+      "description": "Business Process Profile",
       "sidebar": "Sidebar10"
     },
     "Glossar/R-Glossar/Projektrisiko": {

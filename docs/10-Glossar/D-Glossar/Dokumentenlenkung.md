@@ -156,11 +156,11 @@ Die Kenntnisnahme (oder je nach Bedarf der Schulungsnachweis) ist wichtig, damit
 
 Der operative Dokumentenlenkungsprozess bezieht sich auf die Betrachung ALLER Dokumente in einem Auftrag und/oder Prozess. 
 
-Auslöser ist i.d.R der Aufrag die Dokumentation zu planen und unzusetzten. Bei der Lebenszyklusbetrachtung kommen auch die Analyse der Dokumente in der Nutzungsphase als auch KVP-Maßnahmen als Beitrag zur laufenden Verbesserung dazu. 
+Auslöser ist i.d.R der Aufrag die Dokumentation zu planen und umzusetzten. Bei der Lebenszyklusbetrachtung ALLER Dokumente kommen auch die Analyse der Dokumente in der Nutzungsphase als auch KVP-Maßnahmen als Beitrag zur laufenden Verbesserung dazu. 
 
 ![BPMN-Kollaborations-Diagramm_Dokumentenlenkung](/img/BPMN-Kollaborations-Diagramm_Dokumentenlenkung.png)
 
-Abbildung: [BPMN-Kollaborations-Diagramm zur Dokumentenlenkung](/img/BPMN-Kollaborations-Diagramm_Dokumentenlenkung.png)
+Abbildung: [BPMN-Kollaborations-Diagramm zur Dokumentenlenkung](/img/BPMN-Kollaborations-Diagramm_Dokumentenlenkung.png) (Quelle = platinus)
 
 
 
