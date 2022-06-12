@@ -3069,8 +3069,8 @@
                 "permalink": "/docs/Glossar/I-Glossar/IT-Sicherheit"
               },
               "next": {
-                "title": "Informationsqualität",
-                "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
+                "title": "Informationsklassifizierung",
+                "permalink": "/docs/Glossar/I-Glossar/Informationsklassifizierung"
               }
             },
             {
@@ -3106,6 +3106,41 @@
               "next": {
                 "title": "Interoperabilität",
                 "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet"
+              }
+            },
+            {
+              "unversionedId": "Glossar/I-Glossar/Informationsklassifizierung",
+              "id": "Glossar/I-Glossar/Informationsklassifizierung",
+              "title": "Informationsklassifizierung",
+              "description": "Informationsklassifizierung nach ISO27000",
+              "source": "@site/docs/10-Glossar/I-Glossar/Informationsklassifizierung.md",
+              "sourceDirName": "10-Glossar/I-Glossar",
+              "slug": "/Glossar/I-Glossar/Informationsklassifizierung",
+              "permalink": "/docs/Glossar/I-Glossar/Informationsklassifizierung",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/I-Glossar/Informationsklassifizierung.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Informationsklassifizierung",
+                "titel": "Informationsklassifizierung",
+                "tags": [
+                  "Begriffe"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "IaaS",
+                "permalink": "/docs/Glossar/I-Glossar/IaaS"
+              },
+              "next": {
+                "title": "Informationsqualität",
+                "permalink": "/docs/Glossar/I-Glossar/Informationsqualitaet"
               }
             },
             {
@@ -3150,8 +3185,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "IaaS",
-                "permalink": "/docs/Glossar/I-Glossar/IaaS"
+                "title": "Informationsklassifizierung",
+                "permalink": "/docs/Glossar/I-Glossar/Informationsklassifizierung"
               },
               "next": {
                 "title": "Informationsicherheit",
@@ -6605,6 +6640,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/I-Glossar/IaaS"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/I-Glossar/Informationsklassifizierung"
                   },
                   {
                     "type": "doc",
