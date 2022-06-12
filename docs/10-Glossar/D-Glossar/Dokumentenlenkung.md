@@ -16,7 +16,7 @@ Einfacher gesagt geht es um den **Lebenszyklus eines Dokuments**, von der Erstel
 
 :::
 
-Alle Informationen, die in einem Qualitätsmanagementsystem dokumentiert werden müssen, werden in Bezug auf die ISO 9001:2015 als **dokumentierte Information** bezeichnet. Es handelt sich um einen Sammelbegriff, unter den Dokumente, Daten, externe Dokumente, Formulare, Checklisten, Aufzeichnungen, Prozessbeschreibungen und Arbeitsanweisungen etc. fallen. Die dokumentierte Information kann sowohl in Papierform existieren, als auch elektronisch gespeichert und gelenkt werden
+Alle Informationen, die in einem Qualitätsmanagementsystem dokumentiert werden müssen, werden in Bezug auf die ISO 9001:2015 als **dokumentierte Information** bezeichnet. Es handelt sich um einen Sammelbegriff, unter den Dokumente, Daten, externe Dokumente, Formulare, Checklisten, Aufzeichnungen, Prozessbeschreibungen und Arbeitsanweisungen etc. fallen. Die dokumentierte Information kann sowohl in Papierform existieren, als auch elektronisch gespeichert und gelenkt werden.
 
 
 
@@ -100,7 +100,7 @@ Der Begriff „Dokumentenlenkung“ taucht klassischer Weise in Zusammenhang mit
 
 
 
-## Was sind die klassischen Doumentenlenkungsstufen? 
+## Was sind die klassischen Dokumentenlenkungsstufen? 
 
 Dass ein Dokument gelenkt wird, bedeutet, dass es für seine Überarbeitung verschiedene Prüf- und Freigabeschritte durchlaufen muss, bis eine neue Version gültig ist. Diese klassischen Lenkungsstufen sind
 

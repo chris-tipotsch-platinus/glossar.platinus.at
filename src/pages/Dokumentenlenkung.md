@@ -12,9 +12,9 @@ tags: [Dokumentation, Dokumentenlenkung]
 
 ## Warum ein Dokumentenlenkung?
 
-Dokumentenlenkung ist ein wichtiges Element von Managementsystemen. Es beschreibt üblicherweise alle im Lebenszyklus eines Dokumentes auftretenden Punkte, wie z. B. das Erstellen, Prüfen, Freigeben, Verteilen, Publizieren, Zurückziehen, Archivieren, Vernichten.
+[Dokumentenlenkung](/docs/Glossar/D-Glossar/Dokumentenlenkung/) ist ein wichtiges Element von Managementsystemen. Es beschreibt üblicherweise alle im Lebenszyklus eines Dokumentes auftretenden Punkte, wie z. B. das Erstellen, Prüfen, Freigeben, Publizieren, Verteilen, Schulen, Zurückziehen, Archivieren, Vernichten.
 
-Diese Dokumentenlenkung orientiert sich an den Anforderungen der ISO 9000. 
+Diese Dokumentenlenkung orientiert sich an den Anforderungen der ISO 9000. Alle Informationen, die in einem Qualitätsmanagementsystem dokumentiert  werden müssen, werden in Bezug auf die ISO 9001:2015 als **dokumentierte Information** bezeichnet. Es handelt sich um einen Sammelbegriff, unter den Dokumente, Daten, externe Dokumente, Formulare, Checklisten,  Aufzeichnungen, Prozessbeschreibungen und Arbeitsanweisungen etc. fallen. Die dokumentierte Information kann sowohl in Papierform existieren, als auch elektronisch gespeichert und gelenkt werden.
 
 
 
@@ -35,6 +35,7 @@ Dieses Glossar dient als **Nachschlagewerk**, als **Grundlage für Verweise** in
 :::
 
 Vielleicht finden Sie hier die Definition, die Sie schon immer gesucht haben oder eine neue Perspektive auf ein bereits bekanntes Thema.
+
 Viel Spaß beim Stöbern! Über Anregungen und Ergänzungen zum GLOSSAR freuen wir uns. 
 
 
