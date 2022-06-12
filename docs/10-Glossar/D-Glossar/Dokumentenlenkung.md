@@ -100,7 +100,7 @@ Der Begriff „Dokumentenlenkung“ taucht klassischer Weise in Zusammenhang mit
 
 
 
-## Was sind die klassischen Doumentenlenkungsstufen? 
+## Was sind die klassischen Dokumentenlenkungsstufen? 
 
 Dass ein Dokument gelenkt wird, bedeutet, dass es für seine Überarbeitung verschiedene Prüf- und Freigabeschritte durchlaufen muss, bis eine neue Version gültig ist. Diese klassischen Lenkungsstufen sind
 
@@ -149,6 +149,18 @@ Mit der Freigabe der neuen Revision wird die bisherige Version archiviert und en
 #### 05 Workflow-Stufe 5 - Bestätigung der Kenntnisnahme bzw. Schulung
 
 Die Kenntnisnahme (oder je nach Bedarf der Schulungsnachweis) ist wichtig, damit der Proezssauditor dem Auditor vorlegen kann, dass die Mitarbeiter die neue Version der Prozessbeschreibung tatsächlich gelesen haben (bzw. zu den Inhalten geschult wurden). So eine Lesebestätigung kann per Unterschriftenliste oder per Log-Aufzeichungen von den einzelnen Mitarbeitern eingeholt werden. Die elegantere Variante ist die elektronische Lesebestätigung der Dokumentenlenkung.
+
+
+
+## Wie sieht der operative Dokumentenlenkungsprozess aus? 
+
+Der operative Dokumentenlenkungsprozess bezieht sich auf die Betrachung ALLER Dokumente in einem Auftrag und/oder Prozess. 
+
+Auslöser ist i.d.R der Aufrag die Dokumentation zu planen und unzusetzten. Bei der Lebenszyklusbetrachtung kommen auch die Analyse der Dokumente in der Nutzungsphase als auch KVP-Maßnahmen als Beitrag zur laufenden Verbesserung dazu. 
+
+![BPMN-Kollaborations-Diagramm_Dokumentenlenkung](/img/BPMN-Kollaborations-Diagramm_Dokumentenlenkung.png)
+
+Abbildung: [BPMN-Kollaborations-Diagramm zur Dokumentenlenkung](/img/BPMN-Kollaborations-Diagramm_Dokumentenlenkung.png)
 
 
 
