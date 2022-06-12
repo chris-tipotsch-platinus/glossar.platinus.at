@@ -15,4 +15,5 @@ Eine **Wissensbilanz** (engl.: *intellectual capital statement*) ist ein Werkzeu
 - Humankapital
 - Strukturkapital
 - Systemkapital
+- https://www.wissensmanagement.gv.at/
 

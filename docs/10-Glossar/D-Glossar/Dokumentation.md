@@ -1,6 +1,6 @@
 ---
 id: Dokumentation
-titel: Dokumentation
+title: Dokumentation
 tags: [Begriffe, BPM, PM, IM]
 ---
 

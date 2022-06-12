@@ -2,7 +2,7 @@
   "label": "Begriff",
   "permalink": "/docs/tags/begriff",
   "allTagsPath": "/docs/tags",
-  "count": 25,
+  "count": 26,
   "items": [
     {
       "id": "Glossar/A-Glossar/Anleitung",
@@ -147,6 +147,12 @@
       "title": "Website",
       "description": "Die Website ist die Standort-Präsenz innerhalb des World Wide Web ( WWW). Auf einer Website können Unternehmen, Behörden, Organisationen und Verwaltungen, Universitäten oder Forschungseinrichtungen, Standardisierungsgremien, Vereine und Privatpersonen Informationen, Produkte, Dienste, Werbung und vieles andere in verschiedensten Dateiformaten darstellen und anbieten, auf ihnen können soziale Kontakte, der Meinungsaustausch mit Andersdenkenden zu speziellen Themenbereichen oder Online-Tagebücher, die Weblogs, geführt werden.",
       "permalink": "/docs/Glossar/W-Glossar/Website"
+    },
+    {
+      "id": "Glossar/W-Glossar/Wissensmanagement",
+      "title": "Wissensmanagement",
+      "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
+      "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
     },
     {
       "id": "Glossar/Z-Glossar/Zugriffszeiten",

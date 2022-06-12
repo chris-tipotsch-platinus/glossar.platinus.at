@@ -30,7 +30,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dashboard",
-    "titel": "Dashboard",
+    "title": "Dashboard",
     "tags": [
       "Begriffe",
       "BPM",
@@ -44,7 +44,7 @@
     "permalink": "/docs/Glossar/C-Glossar/Compliance"
   },
   "next": {
-    "title": "Diataxis Framework",
+    "title": "Diataxis Dokumentations-Framework",
     "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
   }
 }

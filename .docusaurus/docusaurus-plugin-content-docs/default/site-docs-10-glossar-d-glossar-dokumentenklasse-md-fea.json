@@ -1,7 +1,7 @@
 {
   "unversionedId": "Glossar/D-Glossar/Dokumentenklasse",
   "id": "Glossar/D-Glossar/Dokumentenklasse",
-  "title": "Dokumentenklasse - Dokumentenbereich",
+  "title": "Dokumentenklasse",
   "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
   "sourceDirName": "10-Glossar/D-Glossar",
@@ -30,7 +30,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dokumentenklasse",
-    "titel": "Dokumentenklasse",
+    "title": "Dokumentenklasse",
     "tags": [
       "Begriffe",
       "BPM",
@@ -40,7 +40,7 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dokumente - Documents",
+    "title": "Dokumente",
     "permalink": "/docs/Glossar/D-Glossar/Dokumente"
   },
   "next": {

@@ -1,5 +1,5 @@
 ---
-id: Projektinformationeng
+id: Projektinformationen
 title: Projektinformationen
 sidebar_position: 8
 ---

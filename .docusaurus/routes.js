@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '56b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'd6a'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '819'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'ced'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '3af'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '260'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '552'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '452'),
     exact: true
@@ -138,8 +103,18 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/karriere',
+    component: ComponentCreator('/docs/tags/karriere', '7d5'),
+    exact: true
+  },
+  {
     path: '/docs/tags/kb',
     component: ComponentCreator('/docs/tags/kb', 'b83'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/kompetenz',
+    component: ComponentCreator('/docs/tags/kompetenz', 'af4'),
     exact: true
   },
   {
@@ -148,8 +123,18 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/normen',
+    component: ComponentCreator('/docs/tags/normen', '13b'),
+    exact: true
+  },
+  {
     path: '/docs/tags/open-source',
     component: ComponentCreator('/docs/tags/open-source', 'fb8'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/people-readiness',
+    component: ComponentCreator('/docs/tags/people-readiness', '00e'),
     exact: true
   },
   {
@@ -165,6 +150,16 @@ export default [
   {
     path: '/docs/tags/rechtlichen-regelwerke',
     component: ComponentCreator('/docs/tags/rechtlichen-regelwerke', '466'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/referenzsteckbrief',
+    component: ComponentCreator('/docs/tags/referenzsteckbrief', 'e41'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/skills',
+    component: ComponentCreator('/docs/tags/skills', '331'),
     exact: true
   },
   {
@@ -234,7 +229,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '028'),
+    component: ComponentCreator('/docs', '66f'),
     routes: [
       {
         path: '/docs/Begriffe-Home',
@@ -495,6 +490,12 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT',
+        component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT', '4e0'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/D-Glossar/Dokumentationslebenzyklus',
         component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentationslebenzyklus', '922'),
         exact: true,
@@ -503,6 +504,12 @@ export default [
       {
         path: '/docs/Glossar/D-Glossar/Dokumentationsmanagement',
         component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentationsmanagement', '1bf'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/D-Glossar/Dokumentationsrichtlinie',
+        component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentationsrichtlinie', 'abf'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -615,6 +622,12 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/G-Glossar/geschaeftsprozessmodell',
+        component: ComponentCreator('/docs/Glossar/G-Glossar/geschaeftsprozessmodell', '396'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/H-Glossar/Handbuch',
         component: ComponentCreator('/docs/Glossar/H-Glossar/Handbuch', 'eec'),
         exact: true,
@@ -657,6 +670,12 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/I-Glossar/Informationsklassifizierung',
+        component: ComponentCreator('/docs/Glossar/I-Glossar/Informationsklassifizierung', 'e0d'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/I-Glossar/Informationsqualitaet',
         component: ComponentCreator('/docs/Glossar/I-Glossar/Informationsqualitaet', 'b13'),
         exact: true,
@@ -695,6 +714,12 @@ export default [
       {
         path: '/docs/Glossar/K-Glossar/Kanban',
         component: ComponentCreator('/docs/Glossar/K-Glossar/Kanban', 'c25'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/K-Glossar/Kompetenzmodell',
+        component: ComponentCreator('/docs/Glossar/K-Glossar/Kompetenzmodell', '337'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -765,6 +790,42 @@ export default [
         sidebar: "Sidebar10"
       },
       {
+        path: '/docs/Glossar/N-Glossar/Normen/DIN69900',
+        component: ComponentCreator('/docs/Glossar/N-Glossar/Normen/DIN69900', '967'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief',
+        component: ComponentCreator('/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief', '210'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief',
+        component: ComponentCreator('/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief', 'a35'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief',
+        component: ComponentCreator('/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief', '792'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief',
+        component: ComponentCreator('/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief', '8c2'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief',
+        component: ComponentCreator('/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief', 'd39'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
         path: '/docs/Glossar/O-Glossar/Open-Source-Software',
         component: ComponentCreator('/docs/Glossar/O-Glossar/Open-Source-Software', 'dd7'),
         exact: true,
@@ -831,8 +892,8 @@ export default [
         sidebar: "Sidebar10"
       },
       {
-        path: '/docs/Glossar/P-Glossar/Projektinformationeng',
-        component: ComponentCreator('/docs/Glossar/P-Glossar/Projektinformationeng', '41a'),
+        path: '/docs/Glossar/P-Glossar/Projektinformationen',
+        component: ComponentCreator('/docs/Glossar/P-Glossar/Projektinformationen', 'cd4'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -1073,6 +1134,12 @@ export default [
       {
         path: '/docs/Glossar/W-Glossar/Wissensbilanz',
         component: ComponentCreator('/docs/Glossar/W-Glossar/Wissensbilanz', '1f4'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/W-Glossar/Wissensmanagement',
+        component: ComponentCreator('/docs/Glossar/W-Glossar/Wissensmanagement', '693'),
         exact: true,
         sidebar: "Sidebar10"
       },

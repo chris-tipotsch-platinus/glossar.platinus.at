@@ -1,7 +1,7 @@
 {
   "unversionedId": "Glossar/D-Glossar/Dokumentation",
   "id": "Glossar/D-Glossar/Dokumentation",
-  "title": "Dokumentation - Documentation",
+  "title": "Dokumentation",
   "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumentation.md",
   "sourceDirName": "10-Glossar/D-Glossar",
@@ -30,7 +30,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dokumentation",
-    "titel": "Dokumentation",
+    "title": "Dokumentation",
     "tags": [
       "Begriffe",
       "BPM",

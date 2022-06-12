@@ -1463,7 +1463,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dashboard",
-                "titel": "Dashboard",
+                "title": "Dashboard",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1477,14 +1477,14 @@
                 "permalink": "/docs/Glossar/C-Glossar/Compliance"
               },
               "next": {
-                "title": "Diataxis Framework",
+                "title": "Diataxis Dokumentations-Framework",
                 "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Diataxis-Framework",
               "id": "Glossar/D-Glossar/Diataxis-Framework",
-              "title": "Diataxis Framework",
+              "title": "Diataxis Dokumentations-Framework",
               "description": "A systematic framework for technical documentation authoring.",
               "source": "@site/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
               "sourceDirName": "10-Glossar/D-Glossar",
@@ -1505,7 +1505,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Diataxis-Framework",
-                "titel": "Diataxis Dokumentations-Framework",
+                "title": "Diataxis Dokumentations-Framework",
                 "tags": [
                   "Begriffe",
                   "IM"
@@ -1517,14 +1517,14 @@
                 "permalink": "/docs/Glossar/D-Glossar/Dashboard"
               },
               "next": {
-                "title": "Dienstgüte - Quality of Service (QoS)",
+                "title": "Dienstgüte",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dienstguete",
               "id": "Glossar/D-Glossar/Dienstguete",
-              "title": "Dienstgüte - Quality of Service (QoS)",
+              "title": "Dienstgüte",
               "description": "QoS",
               "source": "@site/docs/10-Glossar/D-Glossar/Diensteguete.md",
               "sourceDirName": "10-Glossar/D-Glossar",
@@ -1545,7 +1545,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dienstguete",
-                "titel": "Dienstgüte",
+                "title": "Dienstgüte",
                 "tags": [
                   "Begriffe",
                   "IM"
@@ -1553,18 +1553,18 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Diataxis Framework",
+                "title": "Diataxis Dokumentations-Framework",
                 "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
               },
               "next": {
-                "title": "Dienstgütevereinbarung - Service Level Agreement",
+                "title": "Dienstgütevereinbarung",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dienstguetevereinbarung",
               "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
-              "title": "Dienstgütevereinbarung - Service Level Agreement",
+              "title": "Dienstgütevereinbarung",
               "description": "SLA",
               "source": "@site/docs/10-Glossar/D-Glossar/Dienstguetevereinbarung.md",
               "sourceDirName": "10-Glossar/D-Glossar",
@@ -1585,7 +1585,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dienstguetevereinbarung",
-                "titel": "Dienstgütevereinbarung",
+                "title": "Dienstgütevereinbarung",
                 "tags": [
                   "Begriffe",
                   "IM"
@@ -1593,7 +1593,7 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dienstgüte - Quality of Service (QoS)",
+                "title": "Dienstgüte",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
               },
               "next": {
@@ -1641,7 +1641,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Doc-as-Code",
-                "titel": "Documentation-as-Code",
+                "title": "Documentation-as-Code",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1653,18 +1653,18 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dienstgütevereinbarung - Service Level Agreement",
+                "title": "Dienstgütevereinbarung",
                 "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
               },
               "next": {
-                "title": "Dokumentation - Documentation",
+                "title": "Dokumentation",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dokumentation",
               "id": "Glossar/D-Glossar/Dokumentation",
-              "title": "Dokumentation - Documentation",
+              "title": "Dokumentation",
               "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumentation.md",
               "sourceDirName": "10-Glossar/D-Glossar",
@@ -1693,7 +1693,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentation",
-                "titel": "Dokumentation",
+                "title": "Dokumentation",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1743,7 +1743,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentationsarchitektur",
-                "titel": "Dokumentationsarchitektur",
+                "title": "Dokumentationsarchitektur",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1753,7 +1753,7 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentation - Documentation",
+                "title": "Dokumentation",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
               },
               "next": {
@@ -1793,7 +1793,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentationskonzept",
-                "titel": "Dokumentationskonzept",
+                "title": "Dokumentationskonzept",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1805,6 +1805,56 @@
               "previous": {
                 "title": "Dokumentationsarchitektur",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur"
+              },
+              "next": {
+                "title": "Dokumentationslandkarte IT",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "title": "Dokumentationslandkarte IT",
+              "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationslandkarte-IT.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationslandkarte-IT.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationslandkarte-IT",
+                "title": "Dokumentationslandkarte IT",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationskonzept",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
               },
               "next": {
                 "title": "Dokumentationslebenzyklus",
@@ -1839,7 +1889,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentationslebenzyklus",
-                "titel": "Dokumentationslebenzyklus",
+                "title": "Dokumentationslebenzyklus",
                 "tags": [
                   "Begriffe",
                   "IM",
@@ -1848,8 +1898,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentationskonzept",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
+                "title": "Dokumentationslandkarte IT",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
               },
               "next": {
                 "title": "Dokumentationsmanagement",
@@ -1888,7 +1938,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentationsmanagement",
-                "titel": "Dokumentationsmanagement",
+                "title": "Dokumentationsmanagement",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1902,14 +1952,64 @@
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
               },
               "next": {
-                "title": "Dokumente - Documents",
+                "title": "Dokumentationsrichtlinie",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
+              }
+            },
+            {
+              "unversionedId": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "id": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "title": "Dokumentationsrichtlinie",
+              "description": "Richtlinien definieren gemäß hier verwendeter Definition allgemeine Anforderungen an die Dokumentation. Dementsprechend definiert die Dokumentationsrichtlinie verbindliche übergeordnete Regelungen für die Dokumentation. Hierzu zählen mindesten die folgenden Punkte:",
+              "source": "@site/docs/10-Glossar/D-Glossar/Dokumentationsrichtlinie.md",
+              "sourceDirName": "10-Glossar/D-Glossar",
+              "slug": "/Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentationsrichtlinie.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Dokumentationsrichtlinie",
+                "title": "Dokumentationsrichtlinie",
+                "tags": [
+                  "Begriffe",
+                  "BPM",
+                  "PM",
+                  "IM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Dokumentationsmanagement",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+              },
+              "next": {
+                "title": "Dokumente",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumente"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dokumente",
               "id": "Glossar/D-Glossar/Dokumente",
-              "title": "Dokumente - Documents",
+              "title": "Dokumente",
               "description": "Was ist eine Dokument?",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
               "sourceDirName": "10-Glossar/D-Glossar",
@@ -1938,7 +2038,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumente",
-                "titel": "Dokumente",
+                "title": "Dokumente",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1948,18 +2048,18 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentationsmanagement",
-                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+                "title": "Dokumentationsrichtlinie",
+                "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
               },
               "next": {
-                "title": "Dokumentenklasse - Dokumentenbereich",
+                "title": "Dokumentenklasse",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
               }
             },
             {
               "unversionedId": "Glossar/D-Glossar/Dokumentenklasse",
               "id": "Glossar/D-Glossar/Dokumentenklasse",
-              "title": "Dokumentenklasse - Dokumentenbereich",
+              "title": "Dokumentenklasse",
               "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
               "source": "@site/docs/10-Glossar/D-Glossar/Dokumentenklasse.md",
               "sourceDirName": "10-Glossar/D-Glossar",
@@ -1988,7 +2088,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentenklasse",
-                "titel": "Dokumentenklasse",
+                "title": "Dokumentenklasse",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -1998,7 +2098,7 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumente - Documents",
+                "title": "Dokumente",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumente"
               },
               "next": {
@@ -2048,7 +2148,7 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Dokumentenklasse - Dokumentenbereich",
+                "title": "Dokumentenklasse",
                 "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
               },
               "next": {
@@ -2084,7 +2184,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentenlebenszyklus",
-                "titel": "Dokumentenlebenszyklus",
+                "title": "Dokumentenlebenszyklus",
                 "tags": [
                   "Begriffe",
                   "IM",
@@ -2133,7 +2233,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentenlenkung",
-                "titel": "Dokumentenlenkung",
+                "title": "Dokumentenlenkung",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -2183,7 +2283,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumentenmanagement",
-                "titel": "Dokumentenmanagement",
+                "title": "Dokumentenmanagement",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -2233,7 +2333,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "Dokumententypen",
-                "titel": "Dokumententypen",
+                "title": "Dokumententypen",
                 "tags": [
                   "Begriffe",
                   "BPM",
@@ -2652,6 +2752,48 @@
                 "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozess"
               },
               "next": {
+                "title": "Geschäftsprozessmodell",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
+              }
+            },
+            {
+              "unversionedId": "Glossar/G-Glossar/geschaeftsprozessmodell",
+              "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+              "title": "Geschäftsprozessmodell",
+              "description": "Business Process Management (BPM)",
+              "source": "@site/docs/10-Glossar/G-Glossar/Geschaeftsprozessmodell.md",
+              "sourceDirName": "10-Glossar/G-Glossar",
+              "slug": "/Glossar/G-Glossar/geschaeftsprozessmodell",
+              "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/G-Glossar/Geschaeftsprozessmodell.md",
+              "tags": [
+                {
+                  "label": "Begriffe",
+                  "permalink": "/docs/tags/begriffe"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "geschaeftsprozessmodell",
+                "title": "Geschäftsprozessmodell",
+                "sidebar_position": 1,
+                "tags": [
+                  "Begriffe",
+                  "BPM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Geschäftsprozessmanagement",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+              },
+              "next": {
                 "title": "HTTPS",
                 "permalink": "/docs/Glossar/H-Glossar/HTTPS"
               }
@@ -2833,8 +2975,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Geschäftsprozessmanagement",
-                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement"
+                "title": "Geschäftsprozessmodell",
+                "permalink": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell"
               },
               "next": {
                 "title": "Handbuch",
@@ -3087,8 +3229,8 @@
                 "permalink": "/docs/Glossar/I-Glossar/Interoperabilitaet"
               },
               "next": {
-                "title": "Kanban",
-                "permalink": "/docs/Glossar/K-Glossar/Kanban"
+                "title": "Kompetenzmodell",
+                "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell"
               }
             },
             {
@@ -3227,12 +3369,74 @@
               "frontMatter": {},
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Intranet",
-                "permalink": "/docs/Glossar/I-Glossar/Intranet"
+                "title": "Kompetenzmodell",
+                "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell"
               },
               "next": {
                 "title": "Konfliktarten",
                 "permalink": "/docs/Glossar/K-Glossar/konfliktarten"
+              }
+            },
+            {
+              "unversionedId": "Glossar/K-Glossar/Kompetenzmodell",
+              "id": "Glossar/K-Glossar/Kompetenzmodell",
+              "title": "Kompetenzmodell",
+              "description": "Knowledge + Skills = Competency. Competency + Capacity = Capability.",
+              "source": "@site/docs/10-Glossar/K-Glossar/Kompetenzmodell.md",
+              "sourceDirName": "10-Glossar/K-Glossar",
+              "slug": "/Glossar/K-Glossar/Kompetenzmodell",
+              "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Kompetenzmodell.md",
+              "tags": [
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "Karriere",
+                  "permalink": "/docs/tags/karriere"
+                },
+                {
+                  "label": "Kompetenz",
+                  "permalink": "/docs/tags/kompetenz"
+                },
+                {
+                  "label": "People-Readiness",
+                  "permalink": "/docs/tags/people-readiness"
+                },
+                {
+                  "label": "PM",
+                  "permalink": "/docs/tags/pm"
+                },
+                {
+                  "label": "Skills",
+                  "permalink": "/docs/tags/skills"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "Kompetenzmodell",
+                "title": "Kompetenzmodell",
+                "sidebar_position": 1,
+                "tags": [
+                  "BPM",
+                  "Karriere",
+                  "Kompetenz",
+                  "People-Readiness",
+                  "PM",
+                  "Skills"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Intranet",
+                "permalink": "/docs/Glossar/I-Glossar/Intranet"
+              },
+              "next": {
+                "title": "Kanban",
+                "permalink": "/docs/Glossar/K-Glossar/Kanban"
               }
             },
             {
@@ -3625,8 +3829,260 @@
                 "permalink": "/docs/Glossar/M-Glossar/Markdown"
               },
               "next": {
+                "title": "ISO10006",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/DIN69900",
+              "id": "Glossar/N-Glossar/Normen/DIN69900",
+              "title": "DIN69900",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/DIN69900.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/DIN69900",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69900",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/DIN69900.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "x989id": "DIN69900-Referenzsteckbrief",
+                "title": "DIN69900",
+                "sidebar_position": 6,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "DIN69901",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
+              },
+              "next": {
+                "title": "DIN69909",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "title": "DIN69901",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/DIN69901.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/DIN69901.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "id": "DIN69901-Referenzsteckbrief",
+                "title": "DIN69901",
+                "sidebar_position": 5,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "ISO21500",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+              },
+              "next": {
+                "title": "DIN69900",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69900"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "title": "DIN69909",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/DIN69909.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/DIN69909.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "id": "DIN69909-Referenzsteckbrief",
+                "title": "DIN69909",
+                "sidebar_position": 7,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "DIN69900",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69900"
+              },
+              "next": {
+                "title": "ISO15504",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "title": "ISO10006",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/ISO10006.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/ISO10006.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "ISO1009-Referenzsteckbrief",
+                "title": "ISO10006",
+                "sidebar_position": 3,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Netzwerksicherheit",
+                "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+              },
+              "next": {
+                "title": "ISO21500",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "title": "ISO15504",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/ISO15504.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/ISO15504.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "id": "ISO15504-Referenzsteckbrief",
+                "title": "ISO15504",
+                "sidebar_position": 8,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "DIN69909",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+              },
+              "next": {
                 "title": "Open Source Software",
                 "permalink": "/docs/Glossar/O-Glossar/Open-Source-Software"
+              }
+            },
+            {
+              "unversionedId": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "id": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "title": "ISO21500",
+              "description": "------",
+              "source": "@site/docs/10-Glossar/N-Glossar/Normen/ISO21500.md",
+              "sourceDirName": "10-Glossar/N-Glossar/Normen",
+              "slug": "/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "permalink": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/ISO21500.md",
+              "tags": [
+                {
+                  "label": "Normen",
+                  "permalink": "/docs/tags/normen"
+                },
+                {
+                  "label": "Referenzsteckbrief",
+                  "permalink": "/docs/tags/referenzsteckbrief"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "ISO21500-Referenzsteckbrief",
+                "title": "ISO21500",
+                "sidebar_position": 4,
+                "tags": [
+                  "Normen",
+                  "Referenzsteckbrief"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "ISO10006",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
+              },
+              "next": {
+                "title": "DIN69901",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
               }
             },
             {
@@ -3666,8 +4122,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Netzwerksicherheit",
-                "permalink": "/docs/Glossar/N-Glossar/Netzwerksicherheit"
+                "title": "ISO15504",
+                "permalink": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief"
               },
               "next": {
                 "title": "Organisationsentwicklung",
@@ -3879,7 +4335,7 @@
               "sidebar": "Sidebar10",
               "previous": {
                 "title": "Projektinformationen",
-                "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng"
+                "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
               },
               "next": {
                 "title": "Prozessreifegrad",
@@ -4052,25 +4508,25 @@
               },
               "next": {
                 "title": "Projektinformationen",
-                "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng"
+                "permalink": "/docs/Glossar/P-Glossar/Projektinformationen"
               }
             },
             {
-              "unversionedId": "Glossar/P-Glossar/Projektinformationeng",
-              "id": "Glossar/P-Glossar/Projektinformationeng",
+              "unversionedId": "Glossar/P-Glossar/Projektinformationen",
+              "id": "Glossar/P-Glossar/Projektinformationen",
               "title": "Projektinformationen",
               "description": "Unter Projektinformation verstehen wir alle „Daten für die Definition, Planung, Überwachung , Durchführung und Abschluss eines Projektes“.",
               "source": "@site/docs/10-Glossar/P-Glossar/Projektinformationen.md",
               "sourceDirName": "10-Glossar/P-Glossar",
-              "slug": "/Glossar/P-Glossar/Projektinformationeng",
-              "permalink": "/docs/Glossar/P-Glossar/Projektinformationeng",
+              "slug": "/Glossar/P-Glossar/Projektinformationen",
+              "permalink": "/docs/Glossar/P-Glossar/Projektinformationen",
               "draft": false,
               "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/P-Glossar/Projektinformationen.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
               "frontMatter": {
-                "id": "Projektinformationeng",
+                "id": "Projektinformationen",
                 "title": "Projektinformationen",
                 "sidebar_position": 8
               },
@@ -5683,6 +6139,56 @@
                 "permalink": "/docs/Glossar/W-Glossar/Website"
               },
               "next": {
+                "title": "Wissensmanagement",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
+              }
+            },
+            {
+              "unversionedId": "Glossar/W-Glossar/Wissensmanagement",
+              "id": "Glossar/W-Glossar/Wissensmanagement",
+              "title": "Wissensmanagement",
+              "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
+              "source": "@site/docs/10-Glossar/W-Glossar/Wissensmanagement.md",
+              "sourceDirName": "10-Glossar/W-Glossar",
+              "slug": "/Glossar/W-Glossar/Wissensmanagement",
+              "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement",
+              "draft": false,
+              "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Wissensmanagement.md",
+              "tags": [
+                {
+                  "label": "Begriff",
+                  "permalink": "/docs/tags/begriff"
+                },
+                {
+                  "label": "BPM",
+                  "permalink": "/docs/tags/bpm"
+                },
+                {
+                  "label": "IM",
+                  "permalink": "/docs/tags/im"
+                },
+                {
+                  "label": "WM",
+                  "permalink": "/docs/tags/wm"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "id": "Wissensmanagement",
+                "titel": "Wissensmanagement",
+                "tags": [
+                  "Begriff",
+                  "BPM",
+                  "IM",
+                  "WM"
+                ]
+              },
+              "sidebar": "Sidebar10",
+              "previous": {
+                "title": "Wissensbilanz",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+              },
+              "next": {
                 "title": "Zugriffszeiten",
                 "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten"
               }
@@ -5714,8 +6220,8 @@
               },
               "sidebar": "Sidebar10",
               "previous": {
-                "title": "Wissensbilanz",
-                "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+                "title": "Wissensmanagement",
+                "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
               }
             }
           ],
@@ -5926,11 +6432,19 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumentationslebenzyklus"
                   },
                   {
                     "type": "doc",
                     "id": "Glossar/D-Glossar/Dokumentationsmanagement"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/D-Glossar/Dokumentationsrichtlinie"
                   },
                   {
                     "type": "doc",
@@ -6035,6 +6549,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/G-Glossar/geschaeftsprozessmanagement"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/G-Glossar/geschaeftsprozessmodell"
                   }
                 ]
               },
@@ -6114,6 +6632,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "Glossar/K-Glossar/Kompetenzmodell"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Glossar/K-Glossar/Kanban"
                   },
                   {
@@ -6183,6 +6705,38 @@
                   {
                     "type": "doc",
                     "id": "Glossar/N-Glossar/Netzwerksicherheit"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Normen",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/DIN69900"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief"
+                      }
+                    ]
                   }
                 ]
               },
@@ -6254,7 +6808,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "Glossar/P-Glossar/Projektinformationeng"
+                    "id": "Glossar/P-Glossar/Projektinformationen"
                   },
                   {
                     "type": "doc",
@@ -6447,6 +7001,10 @@
                   {
                     "type": "doc",
                     "id": "Glossar/W-Glossar/Wissensbilanz"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Glossar/W-Glossar/Wissensmanagement"
                   }
                 ]
               },

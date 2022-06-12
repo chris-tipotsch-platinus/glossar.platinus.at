@@ -256,19 +256,19 @@
           },
           {
             "type": "link",
-            "label": "Diataxis Framework",
+            "label": "Diataxis Dokumentations-Framework",
             "href": "/docs/Glossar/D-Glossar/Diataxis-Framework",
             "docId": "Glossar/D-Glossar/Diataxis-Framework"
           },
           {
             "type": "link",
-            "label": "Dienstgüte - Quality of Service (QoS)",
+            "label": "Dienstgüte",
             "href": "/docs/Glossar/D-Glossar/Dienstguete",
             "docId": "Glossar/D-Glossar/Dienstguete"
           },
           {
             "type": "link",
-            "label": "Dienstgütevereinbarung - Service Level Agreement",
+            "label": "Dienstgütevereinbarung",
             "href": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung",
             "docId": "Glossar/D-Glossar/Dienstguetevereinbarung"
           },
@@ -280,7 +280,7 @@
           },
           {
             "type": "link",
-            "label": "Dokumentation - Documentation",
+            "label": "Dokumentation",
             "href": "/docs/Glossar/D-Glossar/Dokumentation",
             "docId": "Glossar/D-Glossar/Dokumentation"
           },
@@ -298,6 +298,12 @@
           },
           {
             "type": "link",
+            "label": "Dokumentationslandkarte IT",
+            "href": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+            "docId": "Glossar/D-Glossar/Dokumentationslandkarte-IT"
+          },
+          {
+            "type": "link",
             "label": "Dokumentationslebenzyklus",
             "href": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
             "docId": "Glossar/D-Glossar/Dokumentationslebenzyklus"
@@ -310,13 +316,19 @@
           },
           {
             "type": "link",
-            "label": "Dokumente - Documents",
+            "label": "Dokumentationsrichtlinie",
+            "href": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie",
+            "docId": "Glossar/D-Glossar/Dokumentationsrichtlinie"
+          },
+          {
+            "type": "link",
+            "label": "Dokumente",
             "href": "/docs/Glossar/D-Glossar/Dokumente",
             "docId": "Glossar/D-Glossar/Dokumente"
           },
           {
             "type": "link",
-            "label": "Dokumentenklasse - Dokumentenbereich",
+            "label": "Dokumentenklasse",
             "href": "/docs/Glossar/D-Glossar/Dokumentenklasse",
             "docId": "Glossar/D-Glossar/Dokumentenklasse"
           },
@@ -447,6 +459,12 @@
             "label": "Geschäftsprozessmanagement",
             "href": "/docs/Glossar/G-Glossar/geschaeftsprozessmanagement",
             "docId": "Glossar/G-Glossar/geschaeftsprozessmanagement"
+          },
+          {
+            "type": "link",
+            "label": "Geschäftsprozessmodell",
+            "href": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+            "docId": "Glossar/G-Glossar/geschaeftsprozessmodell"
           }
         ]
       },
@@ -520,6 +538,12 @@
           },
           {
             "type": "link",
+            "label": "Informationsklassifizierung",
+            "href": "/docs/Glossar/I-Glossar/Informationsklassifizierung",
+            "docId": "Glossar/I-Glossar/Informationsklassifizierung"
+          },
+          {
+            "type": "link",
             "label": "Informationsqualität",
             "href": "/docs/Glossar/I-Glossar/Informationsqualitaet",
             "docId": "Glossar/I-Glossar/Informationsqualitaet"
@@ -550,6 +574,12 @@
         "collapsible": true,
         "collapsed": true,
         "items": [
+          {
+            "type": "link",
+            "label": "Kompetenzmodell",
+            "href": "/docs/Glossar/K-Glossar/Kompetenzmodell",
+            "docId": "Glossar/K-Glossar/Kompetenzmodell"
+          },
           {
             "type": "link",
             "label": "Kanban",
@@ -645,6 +675,50 @@
             "label": "Netzwerksicherheit",
             "href": "/docs/Glossar/N-Glossar/Netzwerksicherheit",
             "docId": "Glossar/N-Glossar/Netzwerksicherheit"
+          },
+          {
+            "type": "category",
+            "label": "Normen",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "ISO10006",
+                "href": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+                "docId": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief"
+              },
+              {
+                "type": "link",
+                "label": "ISO21500",
+                "href": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+                "docId": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief"
+              },
+              {
+                "type": "link",
+                "label": "DIN69901",
+                "href": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+                "docId": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
+              },
+              {
+                "type": "link",
+                "label": "DIN69900",
+                "href": "/docs/Glossar/N-Glossar/Normen/DIN69900",
+                "docId": "Glossar/N-Glossar/Normen/DIN69900"
+              },
+              {
+                "type": "link",
+                "label": "DIN69909",
+                "href": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+                "docId": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+              },
+              {
+                "type": "link",
+                "label": "ISO15504",
+                "href": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+                "docId": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief"
+              }
+            ]
           }
         ]
       },
@@ -743,8 +817,8 @@
           {
             "type": "link",
             "label": "Projektinformationen",
-            "href": "/docs/Glossar/P-Glossar/Projektinformationeng",
-            "docId": "Glossar/P-Glossar/Projektinformationeng"
+            "href": "/docs/Glossar/P-Glossar/Projektinformationen",
+            "docId": "Glossar/P-Glossar/Projektinformationen"
           },
           {
             "type": "link",
@@ -1013,6 +1087,12 @@
             "label": "Wissensbilanz",
             "href": "/docs/Glossar/W-Glossar/Wissensbilanz",
             "docId": "Glossar/W-Glossar/Wissensbilanz"
+          },
+          {
+            "type": "link",
+            "label": "Wissensmanagement",
+            "href": "/docs/Glossar/W-Glossar/Wissensmanagement",
+            "docId": "Glossar/W-Glossar/Wissensmanagement"
           }
         ]
       },
@@ -1245,19 +1325,19 @@
     },
     "Glossar/D-Glossar/Diataxis-Framework": {
       "id": "Glossar/D-Glossar/Diataxis-Framework",
-      "title": "Diataxis Framework",
+      "title": "Diataxis Dokumentations-Framework",
       "description": "A systematic framework for technical documentation authoring.",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dienstguete": {
       "id": "Glossar/D-Glossar/Dienstguete",
-      "title": "Dienstgüte - Quality of Service (QoS)",
+      "title": "Dienstgüte",
       "description": "QoS",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dienstguetevereinbarung": {
       "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
-      "title": "Dienstgütevereinbarung - Service Level Agreement",
+      "title": "Dienstgütevereinbarung",
       "description": "SLA",
       "sidebar": "Sidebar10"
     },
@@ -1269,7 +1349,7 @@
     },
     "Glossar/D-Glossar/Dokumentation": {
       "id": "Glossar/D-Glossar/Dokumentation",
-      "title": "Dokumentation - Documentation",
+      "title": "Dokumentation",
       "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
       "sidebar": "Sidebar10"
     },
@@ -1285,6 +1365,12 @@
       "description": "Das Dokumentationskonzept dient der Umsetzung der Dokumentationsrichtlinie und definiert Vorgaben für die strukturelle und inhaltliche Ausgestaltung der Fach-Dokumentation (ZB. Gebäude-Dokumentation,  IT-Dokumentation, Prozess-Dokumentation) sowie für die operative  Verwaltung von Dokumenten, d. h. für das Dokumentenmanagement.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/D-Glossar/Dokumentationslandkarte-IT": {
+      "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+      "title": "Dokumentationslandkarte IT",
+      "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/D-Glossar/Dokumentationslebenzyklus": {
       "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
       "title": "Dokumentationslebenzyklus",
@@ -1297,15 +1383,21 @@
       "description": "Das Dokumentationsmanagement umfasst alle Abläufe, Aktivitäten und Funktionen zur Planung, Steuerung und kontinuierlichen  Verbesserung von Dokumentation mit dem Ziel der Bereitstellung anforderungsgerechter, gelenkter Dokumente des Dokumentenmanagements, um dadurch einen Wertbeitrag zur Governance zu erbringen.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/D-Glossar/Dokumentationsrichtlinie": {
+      "id": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+      "title": "Dokumentationsrichtlinie",
+      "description": "Richtlinien definieren gemäß hier verwendeter Definition allgemeine Anforderungen an die Dokumentation. Dementsprechend definiert die Dokumentationsrichtlinie verbindliche übergeordnete Regelungen für die Dokumentation. Hierzu zählen mindesten die folgenden Punkte:",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/D-Glossar/Dokumente": {
       "id": "Glossar/D-Glossar/Dokumente",
-      "title": "Dokumente - Documents",
+      "title": "Dokumente",
       "description": "Was ist eine Dokument?",
       "sidebar": "Sidebar10"
     },
     "Glossar/D-Glossar/Dokumentenklasse": {
       "id": "Glossar/D-Glossar/Dokumentenklasse",
-      "title": "Dokumentenklasse - Dokumentenbereich",
+      "title": "Dokumentenklasse",
       "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
       "sidebar": "Sidebar10"
     },
@@ -1405,6 +1497,12 @@
       "description": "Business Process Management (BPM)",
       "sidebar": "Sidebar10"
     },
+    "Glossar/G-Glossar/geschaeftsprozessmodell": {
+      "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+      "title": "Geschäftsprozessmodell",
+      "description": "Business Process Management (BPM)",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/H-Glossar/Handbuch": {
       "id": "Glossar/H-Glossar/Handbuch",
       "title": "Handbuch",
@@ -1447,6 +1545,12 @@
       "description": "Als Informationssicherheit bezeichnet man Eigenschaften von technischen oder nicht-technischen Systemen zur Informationsverarbeitung, -speicherung und -lagerung, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität) sicherstellen. Informationssicherheit dient dem Schutz vor Gefahren bzw. Bedrohungen, der Vermeidung von wirtschaftlichen Schäden und der Minimierung von Risiken.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/I-Glossar/Informationsklassifizierung": {
+      "id": "Glossar/I-Glossar/Informationsklassifizierung",
+      "title": "Informationsklassifizierung",
+      "description": "Informationsklassifizierung nach ISO27000",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/I-Glossar/Informationsqualitaet": {
       "id": "Glossar/I-Glossar/Informationsqualitaet",
       "title": "Informationsqualität",
@@ -1487,6 +1591,12 @@
       "id": "Glossar/K-Glossar/Kanban",
       "title": "Kanban",
       "description": "",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/K-Glossar/Kompetenzmodell": {
+      "id": "Glossar/K-Glossar/Kompetenzmodell",
+      "title": "Kompetenzmodell",
+      "description": "Knowledge + Skills = Competency. Competency + Capacity = Capability.",
       "sidebar": "Sidebar10"
     },
     "Glossar/K-Glossar/konfliktarten": {
@@ -1555,6 +1665,42 @@
       "description": "Netzwerksicherheit ist kein einzelner feststehender Begriff, sondern umfasst alle Maßnahmen zur Planung, Ausführung und Überwachung der Sicherheit in Rechnernetzen.",
       "sidebar": "Sidebar10"
     },
+    "Glossar/N-Glossar/Normen/DIN69900": {
+      "id": "Glossar/N-Glossar/Normen/DIN69900",
+      "title": "DIN69900",
+      "description": "------",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief": {
+      "id": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+      "title": "DIN69901",
+      "description": "------",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief": {
+      "id": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+      "title": "DIN69909",
+      "description": "------",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief": {
+      "id": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+      "title": "ISO10006",
+      "description": "------",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief": {
+      "id": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+      "title": "ISO15504",
+      "description": "------",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief": {
+      "id": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+      "title": "ISO21500",
+      "description": "------",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/O-Glossar/Open-Source-Software": {
       "id": "Glossar/O-Glossar/Open-Source-Software",
       "title": "Open Source Software",
@@ -1621,8 +1767,8 @@
       "description": "Product Backlog ist bei Scrum die Liste aller Anforderungen für ein zu erstellendes Produkt.",
       "sidebar": "Sidebar10"
     },
-    "Glossar/P-Glossar/Projektinformationeng": {
-      "id": "Glossar/P-Glossar/Projektinformationeng",
+    "Glossar/P-Glossar/Projektinformationen": {
+      "id": "Glossar/P-Glossar/Projektinformationen",
       "title": "Projektinformationen",
       "description": "Unter Projektinformation verstehen wir alle „Daten für die Definition, Planung, Überwachung , Durchführung und Abschluss eines Projektes“.",
       "sidebar": "Sidebar10"
@@ -1859,6 +2005,12 @@
       "id": "Glossar/W-Glossar/Wissensbilanz",
       "title": "Wissensbilanz",
       "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
+      "sidebar": "Sidebar10"
+    },
+    "Glossar/W-Glossar/Wissensmanagement": {
+      "id": "Glossar/W-Glossar/Wissensmanagement",
+      "title": "Wissensmanagement",
+      "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
       "sidebar": "Sidebar10"
     },
     "Glossar/Z-Glossar/Zugriffszeiten": {

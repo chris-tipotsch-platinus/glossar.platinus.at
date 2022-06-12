@@ -1,0 +1,42 @@
+{
+  "unversionedId": "Glossar/N-Glossar/Normen/DIN69900",
+  "id": "Glossar/N-Glossar/Normen/DIN69900",
+  "title": "DIN69900",
+  "description": "------",
+  "source": "@site/docs/10-Glossar/N-Glossar/Normen/DIN69900.md",
+  "sourceDirName": "10-Glossar/N-Glossar/Normen",
+  "slug": "/Glossar/N-Glossar/Normen/DIN69900",
+  "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69900",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/N-Glossar/Normen/DIN69900.md",
+  "tags": [
+    {
+      "label": "Normen",
+      "permalink": "/docs/tags/normen"
+    },
+    {
+      "label": "Referenzsteckbrief",
+      "permalink": "/docs/tags/referenzsteckbrief"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "x989id": "DIN69900-Referenzsteckbrief",
+    "title": "DIN69900",
+    "sidebar_position": 6,
+    "tags": [
+      "Normen",
+      "Referenzsteckbrief"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "DIN69901",
+    "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief"
+  },
+  "next": {
+    "title": "DIN69909",
+    "permalink": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief"
+  }
+}

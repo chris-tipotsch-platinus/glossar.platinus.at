@@ -1,0 +1,50 @@
+{
+  "unversionedId": "Glossar/W-Glossar/Wissensmanagement",
+  "id": "Glossar/W-Glossar/Wissensmanagement",
+  "title": "Wissensmanagement",
+  "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
+  "source": "@site/docs/10-Glossar/W-Glossar/Wissensmanagement.md",
+  "sourceDirName": "10-Glossar/W-Glossar",
+  "slug": "/Glossar/W-Glossar/Wissensmanagement",
+  "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/W-Glossar/Wissensmanagement.md",
+  "tags": [
+    {
+      "label": "Begriff",
+      "permalink": "/docs/tags/begriff"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    },
+    {
+      "label": "WM",
+      "permalink": "/docs/tags/wm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Wissensmanagement",
+    "titel": "Wissensmanagement",
+    "tags": [
+      "Begriff",
+      "BPM",
+      "IM",
+      "WM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Wissensbilanz",
+    "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+  },
+  "next": {
+    "title": "Zugriffszeiten",
+    "permalink": "/docs/Glossar/Z-Glossar/Zugriffszeiten"
+  }
+}

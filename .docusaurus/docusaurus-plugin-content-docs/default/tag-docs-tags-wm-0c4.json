@@ -2,7 +2,7 @@
   "label": "WM",
   "permalink": "/docs/tags/wm",
   "allTagsPath": "/docs/tags",
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "id": "Glossar/A-Glossar/Anweisung",
@@ -39,6 +39,12 @@
       "title": "Wissensbilanz",
       "description": "Eine Wissensbilanz (engl.: intellectual capital statement) ist ein Werkzeug zur gezielten Darstellung und Entwicklung des intellektuellen Kapital einer Organisation.",
       "permalink": "/docs/Glossar/W-Glossar/Wissensbilanz"
+    },
+    {
+      "id": "Glossar/W-Glossar/Wissensmanagement",
+      "title": "Wissensmanagement",
+      "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
+      "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
     }
   ]
 }

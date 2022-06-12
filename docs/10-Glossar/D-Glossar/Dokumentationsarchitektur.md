@@ -1,6 +1,6 @@
 ---
 id: Dokumentationsarchitektur
-titel: Dokumentationsarchitektur
+title: Dokumentationsarchitektur
 tags: [Begriffe, BPM, PM, IM]
 ---
 

@@ -2,7 +2,7 @@
   "label": "IM",
   "permalink": "/docs/tags/im",
   "allTagsPath": "/docs/tags",
-  "count": 53,
+  "count": 56,
   "items": [
     {
       "id": "Glossar/A-Glossar/Anwender",
@@ -60,19 +60,19 @@
     },
     {
       "id": "Glossar/D-Glossar/Diataxis-Framework",
-      "title": "Diataxis Framework",
+      "title": "Diataxis Dokumentations-Framework",
       "description": "A systematic framework for technical documentation authoring.",
       "permalink": "/docs/Glossar/D-Glossar/Diataxis-Framework"
     },
     {
       "id": "Glossar/D-Glossar/Dienstguete",
-      "title": "Dienstgüte - Quality of Service (QoS)",
+      "title": "Dienstgüte",
       "description": "QoS",
       "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
     },
     {
       "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
-      "title": "Dienstgütevereinbarung - Service Level Agreement",
+      "title": "Dienstgütevereinbarung",
       "description": "SLA",
       "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
     },
@@ -84,7 +84,7 @@
     },
     {
       "id": "Glossar/D-Glossar/Dokumentation",
-      "title": "Dokumentation - Documentation",
+      "title": "Dokumentation",
       "description": "Bei einer Dokumentation handelt es sich um eine Zusammenstellung von Dokumenten zu einem definierten Sachverhalt in beliebiger Art und auf jeglichem Medium als Ergebnis von Dokumentationstätigkeiten.",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
     },
@@ -99,6 +99,12 @@
       "title": "Dokumentationskonzept",
       "description": "Das Dokumentationskonzept dient der Umsetzung der Dokumentationsrichtlinie und definiert Vorgaben für die strukturelle und inhaltliche Ausgestaltung der Fach-Dokumentation (ZB. Gebäude-Dokumentation,  IT-Dokumentation, Prozess-Dokumentation) sowie für die operative  Verwaltung von Dokumenten, d. h. für das Dokumentenmanagement.",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+      "title": "Dokumentationslandkarte IT",
+      "description": "Eine Dokumentations-Landkarte ist eine grafische Form zur Darstellung der Dokumentation in einem Dokumentationsbereich. Dokumentationslandkarte dienen zur vereinfachten und übersichtlichen Darstellung der Dokumentation in einem Dokumentationskonzept auf einer Ebene und als Orientierungs- und Navigationshilfe.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
     },
     {
       "id": "Glossar/D-Glossar/Dokumentenlandkarten/Dokumentationslandkarte-IT",
@@ -119,14 +125,20 @@
       "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
     },
     {
+      "id": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+      "title": "Dokumentationsrichtlinie",
+      "description": "Richtlinien definieren gemäß hier verwendeter Definition allgemeine Anforderungen an die Dokumentation. Dementsprechend definiert die Dokumentationsrichtlinie verbindliche übergeordnete Regelungen für die Dokumentation. Hierzu zählen mindesten die folgenden Punkte:",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
+    },
+    {
       "id": "Glossar/D-Glossar/Dokumente",
-      "title": "Dokumente - Documents",
+      "title": "Dokumente",
       "description": "Was ist eine Dokument?",
       "permalink": "/docs/Glossar/D-Glossar/Dokumente"
     },
     {
       "id": "Glossar/D-Glossar/Dokumentenklasse",
-      "title": "Dokumentenklasse - Dokumentenbereich",
+      "title": "Dokumentenklasse",
       "description": "Die Dokumentenklassen dienen der Unterscheidung von Dokumenten nach organisatorischen Kriterien.",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
     },
@@ -321,6 +333,12 @@
       "title": "VPN - Virtual Private Network",
       "description": "VPN steht für „Virtual Private Network“, auf Deutsch das virtuelle private Netzwerk. Das konventionelle VPN ist ein eigenständiges Netz, das eingekapselt in einem anderen Netz liegt. ISDN ist ein Beispiel für einen derart gestalteten Aufbau. Das ISDN-Netzwerk liegt innerhalb des allgemeinen Wählnetzes. Das aktuelle VPN ist das IP-Netz, das zumeist innerhalb des öffentlichen Internets ein in sich geschlossenes Teilnetz  bildet. Dieses bettet sich ein und nutzt die dortigen Adressierungsmethoden. Es werden jedoch eigene Netzwerkpakete  transportiert, die die Client Software in Protokolle packt, welche  unabhängig vom Inhalt separat adressierbar sind. Das Gateway entpackt  die Pakete wieder. Zusätzlich bietet das VPN die Option der  Verschlüsselung. Eine geschützte Verbindung entsteht in einem unsicheren Netz.",
       "permalink": "/docs/Glossar/V-Glossar/VPN"
+    },
+    {
+      "id": "Glossar/W-Glossar/Wissensmanagement",
+      "title": "Wissensmanagement",
+      "description": "Wissensmanagement beschäftigt sich mit dem Erwerb, der Entwicklung, dem Transfer, der Speicherung sowie der Nutzung von Wissen (Katenkamp, 2001). Es ist die Gesamtheit organisationaler Strategien zur Schaffung einer »intelligenten« Organisation.",
+      "permalink": "/docs/Glossar/W-Glossar/Wissensmanagement"
     }
   ]
 }

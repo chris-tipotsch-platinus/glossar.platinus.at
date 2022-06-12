@@ -38,7 +38,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Doc-as-Code",
-    "titel": "Documentation-as-Code",
+    "title": "Documentation-as-Code",
     "tags": [
       "Begriffe",
       "BPM",
@@ -50,11 +50,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dienstgütevereinbarung - Service Level Agreement",
+    "title": "Dienstgütevereinbarung",
     "permalink": "/docs/Glossar/D-Glossar/Dienstguetevereinbarung"
   },
   "next": {
-    "title": "Dokumentation - Documentation",
+    "title": "Dokumentation",
     "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
   }
 }

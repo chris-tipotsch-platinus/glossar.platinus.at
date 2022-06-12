@@ -30,7 +30,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dokumentationskonzept",
-    "titel": "Dokumentationskonzept",
+    "title": "Dokumentationskonzept",
     "tags": [
       "Begriffe",
       "BPM",
@@ -44,7 +44,7 @@
     "permalink": "/docs/Glossar/D-Glossar/Dokumentationsarchitektur"
   },
   "next": {
-    "title": "Dokumentationslebenzyklus",
-    "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
+    "title": "Dokumentationslandkarte IT",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
   }
 }

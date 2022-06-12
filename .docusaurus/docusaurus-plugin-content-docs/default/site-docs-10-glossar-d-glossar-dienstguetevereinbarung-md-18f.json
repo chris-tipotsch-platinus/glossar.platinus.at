@@ -1,7 +1,7 @@
 {
   "unversionedId": "Glossar/D-Glossar/Dienstguetevereinbarung",
   "id": "Glossar/D-Glossar/Dienstguetevereinbarung",
-  "title": "Dienstgütevereinbarung - Service Level Agreement",
+  "title": "Dienstgütevereinbarung",
   "description": "SLA",
   "source": "@site/docs/10-Glossar/D-Glossar/Dienstguetevereinbarung.md",
   "sourceDirName": "10-Glossar/D-Glossar",
@@ -22,7 +22,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dienstguetevereinbarung",
-    "titel": "Dienstgütevereinbarung",
+    "title": "Dienstgütevereinbarung",
     "tags": [
       "Begriffe",
       "IM"
@@ -30,7 +30,7 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dienstgüte - Quality of Service (QoS)",
+    "title": "Dienstgüte",
     "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
   },
   "next": {

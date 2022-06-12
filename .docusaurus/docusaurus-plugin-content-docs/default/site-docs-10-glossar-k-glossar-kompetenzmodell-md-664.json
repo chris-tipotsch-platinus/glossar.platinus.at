@@ -1,0 +1,62 @@
+{
+  "unversionedId": "Glossar/K-Glossar/Kompetenzmodell",
+  "id": "Glossar/K-Glossar/Kompetenzmodell",
+  "title": "Kompetenzmodell",
+  "description": "Knowledge + Skills = Competency. Competency + Capacity = Capability.",
+  "source": "@site/docs/10-Glossar/K-Glossar/Kompetenzmodell.md",
+  "sourceDirName": "10-Glossar/K-Glossar",
+  "slug": "/Glossar/K-Glossar/Kompetenzmodell",
+  "permalink": "/docs/Glossar/K-Glossar/Kompetenzmodell",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/K-Glossar/Kompetenzmodell.md",
+  "tags": [
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "Karriere",
+      "permalink": "/docs/tags/karriere"
+    },
+    {
+      "label": "Kompetenz",
+      "permalink": "/docs/tags/kompetenz"
+    },
+    {
+      "label": "People-Readiness",
+      "permalink": "/docs/tags/people-readiness"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "Skills",
+      "permalink": "/docs/tags/skills"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Kompetenzmodell",
+    "title": "Kompetenzmodell",
+    "sidebar_position": 1,
+    "tags": [
+      "BPM",
+      "Karriere",
+      "Kompetenz",
+      "People-Readiness",
+      "PM",
+      "Skills"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Intranet",
+    "permalink": "/docs/Glossar/I-Glossar/Intranet"
+  },
+  "next": {
+    "title": "Kanban",
+    "permalink": "/docs/Glossar/K-Glossar/Kanban"
+  }
+}

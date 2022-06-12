@@ -30,7 +30,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dokumentationsarchitektur",
-    "titel": "Dokumentationsarchitektur",
+    "title": "Dokumentationsarchitektur",
     "tags": [
       "Begriffe",
       "BPM",
@@ -40,7 +40,7 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dokumentation - Documentation",
+    "title": "Dokumentation",
     "permalink": "/docs/Glossar/D-Glossar/Dokumentation"
   },
   "next": {

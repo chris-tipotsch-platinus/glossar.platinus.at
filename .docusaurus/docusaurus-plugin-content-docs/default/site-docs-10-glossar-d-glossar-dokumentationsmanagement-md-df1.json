@@ -30,7 +30,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dokumentationsmanagement",
-    "titel": "Dokumentationsmanagement",
+    "title": "Dokumentationsmanagement",
     "tags": [
       "Begriffe",
       "BPM",
@@ -44,7 +44,7 @@
     "permalink": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus"
   },
   "next": {
-    "title": "Dokumente - Documents",
-    "permalink": "/docs/Glossar/D-Glossar/Dokumente"
+    "title": "Dokumentationsrichtlinie",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
   }
 }

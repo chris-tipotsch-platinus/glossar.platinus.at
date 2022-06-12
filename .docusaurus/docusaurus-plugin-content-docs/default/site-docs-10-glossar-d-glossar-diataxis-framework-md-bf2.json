@@ -1,7 +1,7 @@
 {
   "unversionedId": "Glossar/D-Glossar/Diataxis-Framework",
   "id": "Glossar/D-Glossar/Diataxis-Framework",
-  "title": "Diataxis Framework",
+  "title": "Diataxis Dokumentations-Framework",
   "description": "A systematic framework for technical documentation authoring.",
   "source": "@site/docs/10-Glossar/D-Glossar/Diataxis-framework.md",
   "sourceDirName": "10-Glossar/D-Glossar",
@@ -22,7 +22,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Diataxis-Framework",
-    "titel": "Diataxis Dokumentations-Framework",
+    "title": "Diataxis Dokumentations-Framework",
     "tags": [
       "Begriffe",
       "IM"
@@ -34,7 +34,7 @@
     "permalink": "/docs/Glossar/D-Glossar/Dashboard"
   },
   "next": {
-    "title": "Dienstgüte - Quality of Service (QoS)",
+    "title": "Dienstgüte",
     "permalink": "/docs/Glossar/D-Glossar/Dienstguete"
   }
 }

@@ -1,6 +1,6 @@
 ---
 id: Dokumentenlenkung
-titel: Dokumentenlenkung
+title: Dokumentenlenkung
 tags: [Begriffe, BPM, IM, PM]
 ---
 
@@ -16,7 +16,7 @@ Einfacher gesagt geht es um den **Lebenszyklus eines Dokuments**, von der Erstel
 
 :::
 
-Alle Informationen, die in einem Qualitätsmanagementsystem dokumentiert werden müssen, werden in Bezug auf die ISO 9001:2015 als **dokumentierte Information** bezeichnet. Es handelt sich um einen Sammelbegriff, unter den Dokumente, Daten, externe Dokumente, Formulare, Checklisten, Aufzeichnungen, Prozessbeschreibungen und Arbeitsanweisungen etc. fallen. Die dokumentierte Information kann sowohl in Papierform existieren, als auch elektronisch gespeichert und gelenkt werden.
+Alle Informationen, die in einem Qualitätsmanagementsystem dokumentiert werden müssen, werden in Bezug auf die ISO 9001:2015 als **dokumentierte Information** bezeichnet. Es handelt sich um einen Sammelbegriff, unter den Dokumente, Daten, externe Dokumente, Formulare, Checklisten, Aufzeichnungen, Prozessbeschreibungen und Arbeitsanweisungen etc. fallen. Die dokumentierte Information kann sowohl in Papierform existieren, als auch elektronisch gespeichert und gelenkt werden
 
 
 
@@ -149,6 +149,18 @@ Mit der Freigabe der neuen Revision wird die bisherige Version archiviert und en
 #### 05 Workflow-Stufe 5 - Bestätigung der Kenntnisnahme bzw. Schulung
 
 Die Kenntnisnahme (oder je nach Bedarf der Schulungsnachweis) ist wichtig, damit der Proezssauditor dem Auditor vorlegen kann, dass die Mitarbeiter die neue Version der Prozessbeschreibung tatsächlich gelesen haben (bzw. zu den Inhalten geschult wurden). So eine Lesebestätigung kann per Unterschriftenliste oder per Log-Aufzeichungen von den einzelnen Mitarbeitern eingeholt werden. Die elegantere Variante ist die elektronische Lesebestätigung der Dokumentenlenkung.
+
+
+
+## Wie sieht der operative Dokumentenlenkungsprozess aus? 
+
+Der operative Dokumentenlenkungsprozess bezieht sich auf die Betrachung ALLER Dokumente in einem Auftrag und/oder Prozess. 
+
+Auslöser ist i.d.R der Aufrag die Dokumentation zu planen und unzusetzten. Bei der Lebenszyklusbetrachtung kommen auch die Analyse der Dokumente in der Nutzungsphase als auch KVP-Maßnahmen als Beitrag zur laufenden Verbesserung dazu. 
+
+![BPMN-Kollaborations-Diagramm_Dokumentenlenkung](/img/BPMN-Kollaborations-Diagramm_Dokumentenlenkung.png)
+
+Abbildung: [BPMN-Kollaborations-Diagramm zur Dokumentenlenkung](/img/BPMN-Kollaborations-Diagramm_Dokumentenlenkung.png)
 
 
 

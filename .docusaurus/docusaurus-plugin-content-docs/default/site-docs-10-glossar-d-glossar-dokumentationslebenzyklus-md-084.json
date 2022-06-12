@@ -26,7 +26,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dokumentationslebenzyklus",
-    "titel": "Dokumentationslebenzyklus",
+    "title": "Dokumentationslebenzyklus",
     "tags": [
       "Begriffe",
       "IM",
@@ -35,8 +35,8 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dokumentationskonzept",
-    "permalink": "/docs/Glossar/D-Glossar/Dokumentationskonzept"
+    "title": "Dokumentationslandkarte IT",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT"
   },
   "next": {
     "title": "Dokumentationsmanagement",

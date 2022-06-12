@@ -226,6 +226,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "path": "/docs/Glossar/D-Glossar/Dokumentationslandkarte-IT",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/D-Glossar/Dokumentationslebenzyklus",
               "path": "/docs/Glossar/D-Glossar/Dokumentationslebenzyklus",
               "sidebar": "Sidebar10"
@@ -233,6 +238,11 @@
             {
               "id": "Glossar/D-Glossar/Dokumentationsmanagement",
               "path": "/docs/Glossar/D-Glossar/Dokumentationsmanagement",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/D-Glossar/Dokumentationsrichtlinie",
+              "path": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie",
               "sidebar": "Sidebar10"
             },
             {
@@ -326,6 +336,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/G-Glossar/geschaeftsprozessmodell",
+              "path": "/docs/Glossar/G-Glossar/geschaeftsprozessmodell",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/H-Glossar/Handbuch",
               "path": "/docs/Glossar/H-Glossar/Handbuch",
               "sidebar": "Sidebar10"
@@ -361,6 +376,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/I-Glossar/Informationsklassifizierung",
+              "path": "/docs/Glossar/I-Glossar/Informationsklassifizierung",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/I-Glossar/Informationsqualitaet",
               "path": "/docs/Glossar/I-Glossar/Informationsqualitaet",
               "sidebar": "Sidebar10"
@@ -393,6 +413,11 @@
             {
               "id": "Glossar/K-Glossar/Kanban",
               "path": "/docs/Glossar/K-Glossar/Kanban",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/K-Glossar/Kompetenzmodell",
+              "path": "/docs/Glossar/K-Glossar/Kompetenzmodell",
               "sidebar": "Sidebar10"
             },
             {
@@ -451,6 +476,36 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/N-Glossar/Normen/DIN69900",
+              "path": "/docs/Glossar/N-Glossar/Normen/DIN69900",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "path": "/docs/Glossar/N-Glossar/Normen/DIN69901-Referenzsteckbrief",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "path": "/docs/Glossar/N-Glossar/Normen/DIN69909-Referenzsteckbrief",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "path": "/docs/Glossar/N-Glossar/Normen/ISO1009-Referenzsteckbrief",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "path": "/docs/Glossar/N-Glossar/Normen/ISO15504-Referenzsteckbrief",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "path": "/docs/Glossar/N-Glossar/Normen/ISO21500-Referenzsteckbrief",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/O-Glossar/Open-Source-Software",
               "path": "/docs/Glossar/O-Glossar/Open-Source-Software",
               "sidebar": "Sidebar10"
@@ -506,8 +561,8 @@
               "sidebar": "Sidebar10"
             },
             {
-              "id": "Glossar/P-Glossar/Projektinformationeng",
-              "path": "/docs/Glossar/P-Glossar/Projektinformationeng",
+              "id": "Glossar/P-Glossar/Projektinformationen",
+              "path": "/docs/Glossar/P-Glossar/Projektinformationen",
               "sidebar": "Sidebar10"
             },
             {
@@ -708,6 +763,11 @@
             {
               "id": "Glossar/W-Glossar/Wissensbilanz",
               "path": "/docs/Glossar/W-Glossar/Wissensbilanz",
+              "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Glossar/W-Glossar/Wissensmanagement",
+              "path": "/docs/Glossar/W-Glossar/Wissensmanagement",
               "sidebar": "Sidebar10"
             },
             {

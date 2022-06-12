@@ -1,7 +1,7 @@
 {
   "unversionedId": "Glossar/D-Glossar/Dokumente",
   "id": "Glossar/D-Glossar/Dokumente",
-  "title": "Dokumente - Documents",
+  "title": "Dokumente",
   "description": "Was ist eine Dokument?",
   "source": "@site/docs/10-Glossar/D-Glossar/Dokumente.md",
   "sourceDirName": "10-Glossar/D-Glossar",
@@ -30,7 +30,7 @@
   "version": "current",
   "frontMatter": {
     "id": "Dokumente",
-    "titel": "Dokumente",
+    "title": "Dokumente",
     "tags": [
       "Begriffe",
       "BPM",
@@ -40,11 +40,11 @@
   },
   "sidebar": "Sidebar10",
   "previous": {
-    "title": "Dokumentationsmanagement",
-    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsmanagement"
+    "title": "Dokumentationsrichtlinie",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentationsrichtlinie"
   },
   "next": {
-    "title": "Dokumentenklasse - Dokumentenbereich",
+    "title": "Dokumentenklasse",
     "permalink": "/docs/Glossar/D-Glossar/Dokumentenklasse"
   }
 }

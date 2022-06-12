@@ -1,6 +1,6 @@
 ---
 id: Dokumente
-titel: Dokumente
+title: Dokumente
 tags: [Begriffe, BPM, PM, IM]
 ---
 
