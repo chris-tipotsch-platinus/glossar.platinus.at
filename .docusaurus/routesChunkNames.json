@@ -238,6 +238,13 @@
     },
     "tag": "f3e16075"
   },
+  "/docs/tags/shop-c0f": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "925cc2e1"
+    },
+    "tag": "eeb47d6b"
+  },
   "/docs/tags/skills-331": {
     "__comp": "df203c0f",
     "__context": {
@@ -335,7 +342,7 @@
       "plugin": "c8cb72f0"
     }
   },
-  "/docs-f4e": {
+  "/docs-af6": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "925cc2e1"
@@ -553,6 +560,10 @@
   "/docs/Glossar/D-Glossar/Dokumentenmanagement-3a8": {
     "__comp": "17896441",
     "content": "fc0863ed"
+  },
+  "/docs/Glossar/D-Glossar/Dokumentensteckbrief-7e6": {
+    "__comp": "17896441",
+    "content": "6f46889d"
   },
   "/docs/Glossar/D-Glossar/Dokumententypen-50c": {
     "__comp": "17896441",
@@ -961,6 +972,10 @@
   "/docs/Glossar/Z-Glossar/Zugriffszeiten-71a": {
     "__comp": "17896441",
     "content": "ad26ef88"
+  },
+  "/docs/Shop/Abo-Home-194": {
+    "__comp": "17896441",
+    "content": "59bd7937"
   },
   "/-5c4": {
     "__comp": "c4f5d8e4",

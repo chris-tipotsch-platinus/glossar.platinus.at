@@ -2,7 +2,7 @@
   "label": "BPM",
   "permalink": "/docs/tags/bpm",
   "allTagsPath": "/docs/tags",
-  "count": 48,
+  "count": 49,
   "items": [
     {
       "id": "Glossar/A-Glossar/Anweisung",
@@ -165,6 +165,12 @@
       "title": "Dokumentenmanagement",
       "description": "Mission des Dokumentenmanagement",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentensteckbrief",
+      "title": "Dokumentensteckbrief",
+      "description": "Ein Dokumentensteckbrief beschreibt in kompakter Form die wesentliche Informationen über ein Dokument.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentensteckbrief"
     },
     {
       "id": "Glossar/D-Glossar/Dokumententypen",

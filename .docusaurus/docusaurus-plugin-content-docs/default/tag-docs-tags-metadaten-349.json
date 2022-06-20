@@ -2,8 +2,14 @@
   "label": "Metadaten",
   "permalink": "/docs/tags/metadaten",
   "allTagsPath": "/docs/tags",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "Glossar/D-Glossar/Dokumentensteckbrief",
+      "title": "Dokumentensteckbrief",
+      "description": "Ein Dokumentensteckbrief beschreibt in kompakter Form die wesentliche Informationen über ein Dokument.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentensteckbrief"
+    },
     {
       "id": "Glossar/P-Glossar/prozesslandkarte",
       "title": "Prozesslandkarte",

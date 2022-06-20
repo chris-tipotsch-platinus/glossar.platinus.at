@@ -1,0 +1,60 @@
+{
+  "unversionedId": "Glossar/D-Glossar/Dokumentensteckbrief",
+  "id": "Glossar/D-Glossar/Dokumentensteckbrief",
+  "title": "Dokumentensteckbrief",
+  "description": "Ein Dokumentensteckbrief beschreibt in kompakter Form die wesentliche Informationen über ein Dokument.",
+  "source": "@site/docs/10-Glossar/D-Glossar/Dokumentensteckbrief.md",
+  "sourceDirName": "10-Glossar/D-Glossar",
+  "slug": "/Glossar/D-Glossar/Dokumentensteckbrief",
+  "permalink": "/docs/Glossar/D-Glossar/Dokumentensteckbrief",
+  "draft": false,
+  "editUrl": "https://github.com/chris-tipotsch-platinus/glossar.platinus.at/docs/10-Glossar/D-Glossar/Dokumentensteckbrief.md",
+  "tags": [
+    {
+      "label": "Begriffe",
+      "permalink": "/docs/tags/begriffe"
+    },
+    {
+      "label": "BPM",
+      "permalink": "/docs/tags/bpm"
+    },
+    {
+      "label": "Dokumentation",
+      "permalink": "/docs/tags/dokumentation"
+    },
+    {
+      "label": "Metadaten",
+      "permalink": "/docs/tags/metadaten"
+    },
+    {
+      "label": "PM",
+      "permalink": "/docs/tags/pm"
+    },
+    {
+      "label": "IM",
+      "permalink": "/docs/tags/im"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Dokumentensteckbrief",
+    "title": "Dokumentensteckbrief",
+    "tags": [
+      "Begriffe",
+      "BPM",
+      "Dokumentation",
+      "Metadaten",
+      "PM",
+      "IM"
+    ]
+  },
+  "sidebar": "Sidebar10",
+  "previous": {
+    "title": "Dokumentenmanagement",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+  },
+  "next": {
+    "title": "Dokumententypen",
+    "permalink": "/docs/Glossar/D-Glossar/Dokumententypen"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchris=self.webpackChunkchris||[]).push([[833],{7561:function(s){s.exports=JSON.parse('{"label":"Shop","permalink":"/docs/tags/shop","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Shop/Abo-Home","title":"Abo-Home","description":"Digital-Abos zu Wissensressourcen von platinus","permalink":"/docs/Shop/Abo-Home"}]}')}}]);

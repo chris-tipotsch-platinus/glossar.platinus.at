@@ -2,7 +2,7 @@
   "label": "PM",
   "permalink": "/docs/tags/pm",
   "allTagsPath": "/docs/tags",
-  "count": 35,
+  "count": 36,
   "items": [
     {
       "id": "Glossar/A-Glossar/Aufbauorganisation",
@@ -111,6 +111,12 @@
       "title": "Dokumentenmanagement",
       "description": "Mission des Dokumentenmanagement",
       "permalink": "/docs/Glossar/D-Glossar/Dokumentenmanagement"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentensteckbrief",
+      "title": "Dokumentensteckbrief",
+      "description": "Ein Dokumentensteckbrief beschreibt in kompakter Form die wesentliche Informationen über ein Dokument.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentensteckbrief"
     },
     {
       "id": "Glossar/D-Glossar/Dokumententypen",

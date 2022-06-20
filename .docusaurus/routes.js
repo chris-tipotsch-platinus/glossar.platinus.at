@@ -158,6 +158,11 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/shop',
+    component: ComponentCreator('/docs/tags/shop', 'c0f'),
+    exact: true
+  },
+  {
     path: '/docs/tags/skills',
     component: ComponentCreator('/docs/tags/skills', '331'),
     exact: true
@@ -229,7 +234,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f4e'),
+    component: ComponentCreator('/docs', 'af6'),
     routes: [
       {
         path: '/docs/Begriffe-Home',
@@ -546,6 +551,12 @@ export default [
       {
         path: '/docs/Glossar/D-Glossar/Dokumentenmanagement',
         component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentenmanagement', '3a8'),
+        exact: true,
+        sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Glossar/D-Glossar/Dokumentensteckbrief',
+        component: ComponentCreator('/docs/Glossar/D-Glossar/Dokumentensteckbrief', '7e6'),
         exact: true,
         sidebar: "Sidebar10"
       },
@@ -1160,6 +1171,11 @@ export default [
         component: ComponentCreator('/docs/Glossar/Z-Glossar/Zugriffszeiten', '71a'),
         exact: true,
         sidebar: "Sidebar10"
+      },
+      {
+        path: '/docs/Shop/Abo-Home',
+        component: ComponentCreator('/docs/Shop/Abo-Home', '194'),
+        exact: true
       }
     ]
   },

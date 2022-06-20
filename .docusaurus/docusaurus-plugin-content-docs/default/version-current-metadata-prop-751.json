@@ -366,6 +366,12 @@
           },
           {
             "type": "link",
+            "label": "Dokumentensteckbrief",
+            "href": "/docs/Glossar/D-Glossar/Dokumentensteckbrief",
+            "docId": "Glossar/D-Glossar/Dokumentensteckbrief"
+          },
+          {
+            "type": "link",
             "label": "Dokumententypen",
             "href": "/docs/Glossar/D-Glossar/Dokumententypen",
             "docId": "Glossar/D-Glossar/Dokumententypen"
@@ -1437,6 +1443,12 @@
       "description": "Mission des Dokumentenmanagement",
       "sidebar": "Sidebar10"
     },
+    "Glossar/D-Glossar/Dokumentensteckbrief": {
+      "id": "Glossar/D-Glossar/Dokumentensteckbrief",
+      "title": "Dokumentensteckbrief",
+      "description": "Ein Dokumentensteckbrief beschreibt in kompakter Form die wesentliche Informationen über ein Dokument.",
+      "sidebar": "Sidebar10"
+    },
     "Glossar/D-Glossar/Dokumententypen": {
       "id": "Glossar/D-Glossar/Dokumententypen",
       "title": "Dokumententypen",
@@ -2042,6 +2054,11 @@
       "title": "Zugriffszeiten",
       "description": "Die Zugriffszeit ist die Zeitspanne, die zur Auslösung, Durchführung und Bestätigung eines Befehls für einen Zugriff auf ein Speichermedium vergeht. Sie gilt gleichermaßen für Magnetspeicher, optische Speichermedien, Halbleiterspeicher und Flash-Speicher und ist je nach Art des angesprochenen Speichermediums äußerst unterschiedlich.",
       "sidebar": "Sidebar10"
+    },
+    "Shop/Abo-Home": {
+      "id": "Shop/Abo-Home",
+      "title": "Abo-Home",
+      "description": "Digital-Abos zu Wissensressourcen von platinus"
     }
   }
 }

@@ -2,13 +2,19 @@
   "label": "Dokumentation",
   "permalink": "/docs/tags/dokumentation",
   "allTagsPath": "/docs/tags",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "Glossar/D-Glossar/Doc-as-Code",
       "title": "Documentation-as-Code",
       "description": "Webbasierter Dokumentations-Methode für verteilte Teams für technische Informationen.",
       "permalink": "/docs/Glossar/D-Glossar/Doc-as-Code"
+    },
+    {
+      "id": "Glossar/D-Glossar/Dokumentensteckbrief",
+      "title": "Dokumentensteckbrief",
+      "description": "Ein Dokumentensteckbrief beschreibt in kompakter Form die wesentliche Informationen über ein Dokument.",
+      "permalink": "/docs/Glossar/D-Glossar/Dokumentensteckbrief"
     }
   ]
 }

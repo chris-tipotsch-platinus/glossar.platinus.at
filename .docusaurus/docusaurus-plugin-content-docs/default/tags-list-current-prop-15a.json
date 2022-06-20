@@ -2,7 +2,7 @@
   {
     "label": "Begriffe",
     "permalink": "/docs/tags/begriffe",
-    "count": 108
+    "count": 109
   },
   {
     "label": "Glossar",
@@ -27,7 +27,7 @@
   {
     "label": "BPM",
     "permalink": "/docs/tags/bpm",
-    "count": 48
+    "count": 49
   },
   {
     "label": "WM",
@@ -37,12 +37,12 @@
   {
     "label": "IM",
     "permalink": "/docs/tags/im",
-    "count": 57
+    "count": 58
   },
   {
     "label": "PM",
     "permalink": "/docs/tags/pm",
-    "count": 35
+    "count": 36
   },
   {
     "label": "Verfügbarkeit",
@@ -77,7 +77,7 @@
   {
     "label": "Dokumentation",
     "permalink": "/docs/tags/dokumentation",
-    "count": 1
+    "count": 2
   },
   {
     "label": "Web",
@@ -87,6 +87,11 @@
   {
     "label": "IT-Dokumentation",
     "permalink": "/docs/tags/it-dokumentation",
+    "count": 2
+  },
+  {
+    "label": "Metadaten",
+    "permalink": "/docs/tags/metadaten",
     "count": 2
   },
   {
@@ -135,11 +140,6 @@
     "count": 1
   },
   {
-    "label": "Metadaten",
-    "permalink": "/docs/tags/metadaten",
-    "count": 1
-  },
-  {
     "label": "IT-Glossar",
     "permalink": "/docs/tags/it-glossar",
     "count": 1
@@ -177,6 +177,11 @@
   {
     "label": "Website",
     "permalink": "/docs/tags/website",
+    "count": 1
+  },
+  {
+    "label": "Shop",
+    "permalink": "/docs/tags/shop",
     "count": 1
   }
 ]

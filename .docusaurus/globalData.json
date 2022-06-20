@@ -276,6 +276,11 @@
               "sidebar": "Sidebar10"
             },
             {
+              "id": "Glossar/D-Glossar/Dokumentensteckbrief",
+              "path": "/docs/Glossar/D-Glossar/Dokumentensteckbrief",
+              "sidebar": "Sidebar10"
+            },
+            {
               "id": "Glossar/D-Glossar/Dokumententypen",
               "path": "/docs/Glossar/D-Glossar/Dokumententypen",
               "sidebar": "Sidebar10"
@@ -784,6 +789,10 @@
               "id": "Glossar/Z-Glossar/Zugriffszeiten",
               "path": "/docs/Glossar/Z-Glossar/Zugriffszeiten",
               "sidebar": "Sidebar10"
+            },
+            {
+              "id": "Shop/Abo-Home",
+              "path": "/docs/Shop/Abo-Home"
             }
           ],
           "draftIds": [],
