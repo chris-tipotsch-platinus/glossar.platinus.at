@@ -31,8 +31,8 @@ Folgende inhaltliche Datenattribute sind für einen Dokumenten-Steckbrief zweckm
 | Dokumenten-ID        | Dokumentenklasse-DOC-xxx: <br />Die Dokumenten-Nummer unterstütz bei der Suche und Verwaltung von Dokumenten |
 | Dokumentenzweck      | Mit der Satzschablone: "Als Dokumentenempfänger ist der Zweck des Dokumentes/Information, ..." wir der Zweck des Dokumenten beschrieben. Es muss daraus das Warum und Nutzen erkennbar sein. |
 |                      | a. **Dokumentation dient der Information und Nachvollziehbarkeit** der geleisteten Arbeit. Aufzeichnung des Prozessablaufs stellt die Grundlage für die entsprechende Auskunftserteilung dar. Dokumentation dienen der Kommunikation.<br />b. **Dokumentation dient der Qualitätssicherung**. Die Dokumentation stellt eine Gedächtnisstütze dar und ist so auch Hilfsmittel für die Analysen/Reflexion, die Kontrollen und Grundlage die allfälliger Nacharbeiten/Mängelbehebungen. Dokumentation dienen der Beweissicherung<br />c. **Dokumentation dient der Evaluation** der eigenen Tätigkeit und darüber hinaus der grundlegenden Wirksamkeitsforschung (Evaluation). Diese Rechenschaft kann durch den Empfänger eingefordert werden. Dokumentation  dienen der Rechenschaftslegung. |
-| Dokumenteninhalt     | Ein Prozessmanagementhandbuch beschreibt das Geschäftsprozess-Managementsystem eines Unternehmens und ist eine zentrales Ergebnisdokument bzw. Rahmendokument des BPM-Governance Boards. Der Aufbau orientiert sich an der Struktur von gängigen Organisationshandbüchern.<br />1. Einleitung und Definitionen<br />2. Kontext und Wissensressourcen<br />3. Ziele und KPIs<br />4. Produkte und Dienstleistungen<br />5. Prozesse und Aufgaben<br />6. Organisation, Gremine und Rollen<br />7. Dokumente und Geschäftsobjekte<br />8. Informationssysteme und Tools<br />9. Anhang und Beillagen |
-| Einsatzmöglichkeiten | BPM-Governance-Instrument <br />Einführung in das Prozessmanagement für alle Prozessmitglieder.<br />Nachschlagewerk zur Fachdiszipin BPM <br />Trainingsressource für Prozessmitglieder |
+| Dokumenteninhalt     | Beschreibt den Inhalte des Dokumentes                        |
+| Einsatzmöglichkeiten | Beschreibt die Einsatzfelder                                 |
 | Referenzen           | Online Ausprägung von [platinus-BPMHB](https://bpmhb.platinus.at/) |
 | Verweise             |                                                              |
 
@@ -91,5 +91,15 @@ Folgende Aspekte leiten sich aus [Doc-as-Code-Ansatz](/docs/Glossar/D-Glossar/Do
 | Ablage des Stylsheets  | Nach dem Doc-as-Code-Ansatz können digitalen Textquellen grundsäztlich von verschiedenen Formatierung aufbereitet werden. Dier erfolgt mittels Stylesheets. Informatione und Vorlagen zu den Stylesheets werden gesondert verwaltet. |
 | Versionskontrolle      | Aus der Anforderung der ISO9000 und der ISO27000 zur Dokumentenlenkung sind Daten zu Dokumentenänderungen zu erfassen, zu dokumentieren und nachzweisen. |
 
+Tabelle Verwaltungs-Aspekte im Dokumenten-Steckbrief
 
 
+
+#### Feedback & Analytics
+
+| Attribut  | Ausprägung |
+| :-------- | :--------- |
+| Feedback  | Chat       |
+| Analytics | ja         |
+
+Tabelle Rückmelde-Aspekte im Dokumenten-Steckbrief
